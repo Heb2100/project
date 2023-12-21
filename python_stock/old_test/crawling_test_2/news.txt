@@ -1,0 +1,4 @@
+[<div class="tab_style_1">
+<div class="tab_smeun choice"><div class="choice_lt"></div>코스피</div>
+<div class="tab_smeun"><a href="?sosok=1">코스닥</a></div>
+</div>]

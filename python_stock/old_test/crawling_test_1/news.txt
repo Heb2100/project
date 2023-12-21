@@ -1,0 +1,12 @@
+[<div class="section_strategy">
+<h2 class="h_strategy"><span>주요뉴스</span></h2>
+<ul>
+<li> <span><a href="/news/news_read.naver?mode=mainnews&amp;office_id=018&amp;article_id=0005634747" onclick="clickcr(this, 'tdn.list', '018_0005634747', '0', event);">남양주 별내 '스타필드 빌리지' 개발 PF대출, 내년 6월 만기</a></span> </li>
+<li> <span><a href="/news/news_read.naver?mode=mainnews&amp;office_id=009&amp;article_id=0005227491" onclick="clickcr(this, 'tdn.list', '009_0005227491', '1', event);">“형은 좀 쉬고 있어, 내가 뛸게”…비트코인 잠잠하니 ‘이 코인’ 펄쩍</a></span> </li>
+<li> <span><a href="/news/news_read.naver?mode=mainnews&amp;office_id=057&amp;article_id=0001785870" onclick="clickcr(this, 'tdn.list', '057_0001785870', '2', event);"> 금징어에서 '노징어'…오징어배 줄줄이 경매[경제기자M]</a></span> </li>
+<li> <span><a href="/news/news_read.naver?mode=mainnews&amp;office_id=018&amp;article_id=0005634744" onclick="clickcr(this, 'tdn.list', '018_0005634744', '3', event);">갈길 먼 이커머스 상장…투자한 PE ‘전전긍긍’[마켓인]</a></span> </li>
+<li> <span><a href="/news/news_read.naver?mode=mainnews&amp;office_id=023&amp;article_id=0003803822" onclick="clickcr(this, 'tdn.list', '023_0003803822', '4', event);">日 ‘마이너스금리’ 포기하나... 엔화 강세에 원·달러 환율 18원 급락</a></span> </li>
+<li> <span><a href="/news/news_read.naver?mode=mainnews&amp;office_id=018&amp;article_id=0005634740" onclick="clickcr(this, 'tdn.list', '018_0005634740', '5', event);">이재용, 익살 표정 '인기'에 삼전도 관심…'8만전자' 언제쯤</a></span> </li>
+</ul>
+<a class="btn_more" href="/news/mainnews.naver" onclick="clickcr(this, 'tdn.more', '', '', event);"><em class="btn_more4"><span class="blind">주요뉴스 더보기</span></em></a>
+</div>]
