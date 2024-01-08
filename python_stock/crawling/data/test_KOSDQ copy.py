@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 
 
-def KOSPI():
+def KOSDQ():
     ans = []
     # URL of the page containing the HTML table
     url = "https://finance.naver.com/sise/sise_upper.naver"
@@ -18,11 +18,11 @@ def KOSPI():
 
     # Extract table rows
     tables = soup.find_all('table', {'class': 'type_5'})
-
+    print(tables)
     # Check if the second table exists
     if len(tables) > 1:
         # Get the second table
-        second_table = tables[0]
+        second_table = tables[1]
 
         # Find all rows directly within the second table
         rows = second_table.find_all('tr')
@@ -41,6 +41,6 @@ def KOSPI():
             # print()
     else:
         print("There is no second table with class 'type_5'.")
-    print(ans)
+    # print(ans)
     return(ans)
-# KOSPI()
+KOSDQ()
