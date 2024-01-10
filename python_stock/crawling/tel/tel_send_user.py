@@ -16,11 +16,5 @@ def send_message(message):
         print("Error:", response.text)
 def main(str):
     send_message(str)
-        # parser = argparse.ArgumentParser("Send messages to my phone")
-        # parser.add_argument("messages", nargs="+")
-        # args = parser.parse_args()
-        # for message in args.messages:
-        #     print('message', message)
-        #     send_message(message)
 if __name__ == "__main__":
     main('hi')

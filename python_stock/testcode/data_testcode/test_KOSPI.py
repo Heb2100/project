@@ -41,5 +41,6 @@ def KOSPI():
             # print()
     else:
         print("There is no second table with class 'type_5'.")
+    print(ans)
     return(ans)
 # KOSPI()
