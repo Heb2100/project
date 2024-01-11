@@ -9,7 +9,7 @@ current_datetime = datetime.now()
 today_date = current_datetime.strftime("%Y%m%d")
 def parsing_data(tmp):
     l = []; stock_datas = []; stocks = []; parsed_data = []; gpt_datas = []
-    for i in range(10):
+    for i in range(len(tmp)):
         try:
             tmp_row = ("{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}".format(tmp[i][3], tmp[i][4], tmp[i][5], tmp[i][6], tmp[i][7], tmp[i][8], tmp[i][9], tmp[i][10], tmp[i][11]))
             stock_datas.append(tmp_row)

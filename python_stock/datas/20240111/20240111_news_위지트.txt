@@ -36,8 +36,8 @@
     "title": "test_2401_2"
   },
   "searchInformation": {
-    "searchTime": 0.148302,
-    "formattedSearchTime": "0.15",
+    "searchTime": 0.383113,
+    "formattedSearchTime": "0.38",
     "totalResults": "17900",
     "formattedTotalResults": "17,900"
   },

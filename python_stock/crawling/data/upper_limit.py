@@ -3,7 +3,7 @@ import requests
 
 
 def main():
-    print('test_KOSPI.py is running...\n')
+    print('upper_limit.py is running...\n')
     ans = []; result_tables = []
     # URL of the page containing the HTML table
     url = "https://finance.naver.com/sise/sise_upper.naver"

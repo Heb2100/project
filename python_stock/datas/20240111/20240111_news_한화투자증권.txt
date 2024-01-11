@@ -8,7 +8,7 @@
     "request": [
       {
         "title": "Google Custom Search - 한화투자증권 상한가",
-        "totalResults": "267000",
+        "totalResults": "295000",
         "searchTerms": "한화투자증권 상한가",
         "count": 10,
         "startIndex": 1,
@@ -21,7 +21,7 @@
     "nextPage": [
       {
         "title": "Google Custom Search - 한화투자증권 상한가",
-        "totalResults": "267000",
+        "totalResults": "295000",
         "searchTerms": "한화투자증권 상한가",
         "count": 10,
         "startIndex": 11,
@@ -36,12 +36,81 @@
     "title": "test_2401_2"
   },
   "searchInformation": {
-    "searchTime": 0.184307,
-    "formattedSearchTime": "0.18",
-    "totalResults": "267000",
-    "formattedTotalResults": "267,000"
+    "searchTime": 0.142851,
+    "formattedSearchTime": "0.14",
+    "totalResults": "295000",
+    "formattedTotalResults": "295,000"
   },
   "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "<유>한화투자증권, 상한가 진입.. +29.99%",
+      "htmlTitle": "&lt;유&gt;<b>한화투자증권</b>, <b>상한가</b> 진입.. +29.99%",
+      "link": "https://www.sedaily.com/NewsView/2D41K8IW53",
+      "displayLink": "www.sedaily.com",
+      "snippet": "6 hours ago ... 증권 > News봇 뉴스: 오전 10시 12분 현재 한화투자증권(003530)이 +29.99% 오른 4400원(△1015)으로 장중 상한가에 진입했다. 거래대금은 1852억5...",
+      "htmlSnippet": "6 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 10시 12분 현재 <b>한화투자증권</b>(003530)이 +29.99% 오른 4400원(△1015)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 1852억5...",
+      "cacheId": "GYOj1GT-xqsJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D41K8IW53",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D41K8IW53",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRih5p09YFgcNU_nvxN4GyKvXtm4RrNP3L2fP6qs-PuehLLynWf7cUpyb4",
+            "width": "137",
+            "height": "63"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/11/2D41K8IW53_1.png",
+            "article:published_time": "2024-01-11T10:12:30+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-11T10:12:30+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<유>한화투자증권, 상한가 진입.. +29.99% ↑ | 서울경제",
+            "dd:published_time": "2024-01-11T10:12:30+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 10시 12분 현재 한화투자증권(003530)이 +29.99% 오른 4,400원(▲1,015)으로 장중 상한가에 진입했다. 거래대금은 1,852억5...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/11/2D41K8IW53_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-11T10:12:30+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D41K8IW53/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<유>한화투자증권, 상한가 진입.. +29.99% ↑",
+            "dable:item_id": "2D41K8IW53",
+            "og:title": "<유>한화투자증권, 상한가 진입.. +29.99% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<유>한화투자증권, 상한가 진입.. +29.99% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D41K8IW53",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 10시 12분 현재 한화투자증권(003530)이 +29.99% 오른 4,400원(▲1,015)으로 장중 상한가에 진입했다. 거래대금은 1,852억5...",
+            "ngh:id": "2D41K8IW53",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/11/2D41K8IW53_1_m.png",
+            "ngh:title": "​<유>한화투자증권, 상한가 진입.. +29.99% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D41K8IW53/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/11/2D41K8IW53_1.png"
+          }
+        ]
+      }
+    },
     {
       "kind": "customsearch#result",
       "title": "이월드 상한가, 한국전자인증·한화투자증권 등 토스 관련주 강세",
@@ -224,75 +293,6 @@
         "cse_image": [
           {
             "src": "http://www.seoulfn.com/news/thumbnail/202312/503357_261338_203_v150.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "<유>한화투자증권우, 상한가 진입.. +29.92%",
-      "htmlTitle": "&lt;유&gt;<b>한화투자</b>증권우, <b>상한가</b> 진입.. +29.92%",
-      "link": "https://www.sedaily.com/NewsView/2D41JKT8P5",
-      "displayLink": "www.sedaily.com",
-      "snippet": "6 hours ago ... 증권 > News봇 뉴스: 오전 9시 30분 현재 한화투자증권우(003535)가 +29.92% 오른 13330원(△3070)으로 장중 상한가에 진입했다. 거래대금은 22억8,.",
-      "htmlSnippet": "6 hours ago <b>...</b> <b>증권</b> &gt; News봇 뉴스: 오전 9시 30분 현재 <b>한화투자</b>증권우(003535)가 +29.92% 오른 13330원(△3070)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 22억8,.",
-      "cacheId": "rHbQFgtysFkJ",
-      "formattedUrl": "https://www.sedaily.com/NewsView/2D41JKT8P5",
-      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D41JKT8P5",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRELhVKh_sXToyvLghZqV_5GpUycjyzH5XzPm2CsavlD7UGFY7WcMYyoMo",
-            "width": "137",
-            "height": "63"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://newsimg.sedaily.com/2024/01/11/2D41JKT8P5_1.png",
-            "article:published_time": "2024-01-11T09:30:30+09:00",
-            "twitter:card": "summary_large_image",
-            "dd:author": "서경뉴스봇",
-            "dd:availability": "true",
-            "og:site_name": "서울경제",
-            "dd:modified_time": "2024-01-11T09:30:30+09:00",
-            "og:image:type": "image/jpeg",
-            "title": "<유>한화투자증권우, 상한가 진입.. +29.92% ↑ | 서울경제",
-            "dd:published_time": "2024-01-11T09:30:30+09:00",
-            "og:description": "증권 > News봇 뉴스: 오전 9시 30분 현재 한화투자증권우(003535)가 +29.92% 오른 13,330원(▲3,070)으로 장중 상한가에 진입했다. 거래대금은 22억8,...",
-            "article:publisher": "https://www.facebook.com/sedailythumb/",
-            "twitter:image": "https://newsimg.sedaily.com/2024/01/11/2D41JKT8P5_1.png",
-            "article:section2": "News봇",
-            "article:modified_time": "2024-01-11T09:30:30+09:00",
-            "og:site": "https://m.sedaily.com/NewsView/2D41JKT8P5/GA1302",
-            "dd:publisher": "서울경제신문",
-            "og:type": "article",
-            "article:section": "증권",
-            "twitter:title": "<유>한화투자증권우, 상한가 진입.. +29.92% ↑",
-            "dable:item_id": "2D41JKT8P5",
-            "og:title": "<유>한화투자증권우, 상한가 진입.. +29.92% ↑",
-            "ngh:section": "News봇",
-            "article:author": "https://www.facebook.com/sedailythumb/",
-            "dd:title": "​<유>한화투자증권우, 상한가 진입.. +29.92% ↑​",
-            "dd:category": "News봇",
-            "fb:app_id": "1537222596593765",
-            "dable:author": "서경뉴스봇",
-            "dd:content_id": "2D41JKT8P5",
-            "ngh:email": "newsbot@sedaily.com",
-            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
-            "twitter:description": "증권 > News봇 뉴스: 오전 9시 30분 현재 한화투자증권우(003535)가 +29.92% 오른 13,330원(▲3,070)으로 장중 상한가에 진입했다. 거래대금은 22억8,...",
-            "ngh:id": "2D41JKT8P5",
-            "dable:image": "https://newsimg.sedaily.com/2024/01/11/2D41JKT8P5_1_m.png",
-            "ngh:title": "​<유>한화투자증권우, 상한가 진입.. +29.92% ↑​",
-            "og:url": "https://m.sedaily.com/NewsView/2D41JKT8P5/GA1302",
-            "ngh:author": "서경뉴스봇",
-            "ngh:jpart": "전략기획실",
-            "format-detection": "telephone=no"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://newsimg.sedaily.com/2024/01/11/2D41JKT8P5_1.png"
           }
         ]
       }
