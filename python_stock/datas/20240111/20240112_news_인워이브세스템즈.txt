@@ -1,0 +1,176 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 인워이브세스템즈 상한가",
+        "totalResults": "4",
+        "searchTerms": "인워이브세스템즈 상한가",
+        "count": 4,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.09878,
+    "formattedSearchTime": "0.10",
+    "totalResults": "4",
+    "formattedTotalResults": "4"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "北海에서 地中海까지 (유럽 기행) : 네이버 블로그",
+      "htmlTitle": "北海에서 地中海까지 (유럽 기행) : 네이버 블로그",
+      "link": "https://blog.naver.com/jkhan012/150078612259",
+      "displayLink": "blog.naver.com",
+      "snippet": "Jan 16, 2010 ... ... 세스 칸스(Zaanse Schans)로 출발하면서 관광은 시작되었다. 암스테르담 ... 템즈강에서 불어오는 바람이 쌀쌀하고 때때로 내리는 이슬비가 관광 ...",
+      "htmlSnippet": "Jan 16, 2010 <b>...</b> ... <b>세스</b> 칸스(Zaanse Schans)로 출발하면서 관광은 시작되었다. 암스테르담 ... <b>템즈</b>강에서 불어오는 바람이 쌀쌀하고 때때로 내리는 이슬비가 관광&nbsp;...",
+      "cacheId": "3hBoMep0HgcJ",
+      "formattedUrl": "https://blog.naver.com/jkhan012/150078612259",
+      "htmlFormattedUrl": "https://blog.naver.com/jkhan012/150078612259",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://blogimgs.pstatic.net/nblog/mylog/post/og_default_image_160610.png",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 천상천하님의 블로그",
+            "og:title": "北海에서 地中海까지 (유럽 기행)",
+            "naverblog:profile_image": "https://ssl.pstatic.net/static/blog/m/img_default.gif",
+            "napp-site-analysis": "gdid=90000003_0000000000000022F161E323,service=blog,collection=blog",
+            "og:description": "◆ Prologue &nbsp; 우리 동기생들의 모임인 60 師友會(60년도 사범대학입학) 회장인 金在潤 선생 夫婦와 ...",
+            "referrer": "always",
+            "naverblog:nickname": "천상천하",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/jkhan012/150078612259",
+            "og:article:author": "천상천하님.. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogimgs.pstatic.net/nblog/mylog/post/og_default_image_160610.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "kor.wordlist - tesseract-ocr/langdata · GitHub",
+      "htmlTitle": "kor.wordlist - tesseract-ocr/langdata · GitHub",
+      "link": "https://github.com/tesseract-ocr/langdata/blob/main/kor/kor.wordlist",
+      "displayLink": "github.com",
+      "snippet": "... 상한가 애니콜 지오 그릴 쓰러 생물학 철자 신흥 레오 진상 경영자 전수 오신걸 ... 이브 청주시 밀가루 필립스 위헌 재발 함정 연주회 받 임플란트 스카프 풍자 김제 ...",
+      "htmlSnippet": "... <b>상한가</b> 애니콜 지오 그릴 쓰러 생물학 철자 신흥 레오 진상 경영자 전수 오신걸 ... <b>이브</b> 청주시 밀가루 필립스 위헌 재발 함정 연주회 받 임플란트 스카프 풍자 김제&nbsp;...",
+      "formattedUrl": "https://github.com/tesseract-ocr/langdata/blob/main/kor/kor.wordlist",
+      "htmlFormattedUrl": "https://github.com/tesseract-ocr/langdata/blob/main/kor/kor.wordlist",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJc6vYKeWve_uEzMf6-0d-8uYYvNbUI3z7fW4ScSOzsreLkN9b_sejXWnF",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "softwaresourcecode": [
+          {
+            "author": "tesseract-ocr",
+            "name": "langdata"
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/tesseract-ocr/langdata/blob/main/kor/kor.wordlist",
+            "og:image": "https://opengraph.githubassets.com/7a743bd741d3f3c92289def059fd5b99f24c09bb404ec609c7f7935fd13253fa/tesseract-ocr/langdata",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:33837318",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "7735ed2575a0be1226a9f913ba5ae5fd0d50a6a2f31584e13f013a90a793fc42",
+            "expected-hostname": "github.com",
+            "og:description": "Source training data for Tesseract for lots of languages - tesseract-ocr/langdata",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "tesseract-ocr",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4QjI0OjI5QjE6MjVBRTAzRDozNkFDMkUyOjY1OUVBNTQ5IiwidmlzaXRvcl9pZCI6IjE3MzAwMDg2MDY1ODA4NDM4NTAiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+            "github-keyboard-shortcuts": "repository,source-code,file-tree",
+            "octolytics-dimension-repository_id": "33837318",
+            "octolytics-dimension-repository_network_root_nwo": "tesseract-ocr/langdata",
+            "twitter:title": "langdata/kor/kor.wordlist at main · tesseract-ocr/langdata",
+            "og:image:alt": "Source training data for Tesseract for lots of languages - tesseract-ocr/langdata",
+            "og:type": "object",
+            "og:title": "langdata/kor/kor.wordlist at main · tesseract-ocr/langdata",
+            "visitor-hmac": "9d11beb871ce5bd3e38d3acc27ce519078ca2dbe7f71bf6a0911221eda8cbe5b",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "request-id": "8B24:29B1:25AE03D:36AC2E2:659EA549",
+            "analytics-location": "/<user-name>/<repo-name>/blob/show",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/tesseract-ocr/langdata git https://github.com/tesseract-ocr/langdata.git",
+            "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+            "twitter:image:src": "https://opengraph.githubassets.com/7a743bd741d3f3c92289def059fd5b99f24c09bb404ec609c7f7935fd13253fa/tesseract-ocr/langdata",
+            "octolytics-dimension-user_id": "8401422",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "33837318",
+            "octolytics-dimension-repository_nwo": "tesseract-ocr/langdata",
+            "viewport": "width=device-width",
+            "twitter:description": "Source training data for Tesseract for lots of languages - tesseract-ocr/langdata",
+            "current-catalog-service-hash": "82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7",
+            "og:url": "https://github.com/tesseract-ocr/langdata/blob/main/kor/kor.wordlist"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/7a743bd741d3f3c92289def059fd5b99f24c09bb404ec609c7f7935fd13253fa/tesseract-ocr/langdata"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "https://huggingface.co/Doohae/roberta/commit/e2688...",
+      "htmlTitle": "https://huggingface.co/Doohae/roberta/commit/e2688...",
+      "link": "https://huggingface.co/Doohae/roberta/commit/e26886cd2387431af258953d88f63c249c45cb53.diff",
+      "displayLink": "huggingface.co",
+      "snippet": "... 이브 +합류 +지지율 +한숨 +##본다 +##사고 +고백 +디스플레이 +기재 +기아차 + ... 세스 +상한가 +티브이 +예문 +크레이 +단아 +한샘 +##34 +수탈 +요로 +무뚝뚝 +VS + ...",
+      "htmlSnippet": "... <b>이브</b> +합류 +지지율 +한숨 +##본다 +##사고 +고백 +디스플레이 +기재 +기아차 + ... <b>세스</b> +<b>상한가</b> +티브이 +예문 +크레이 +단아 +한샘 +##34 +수탈 +요로 +무뚝뚝 +VS +&nbsp;...",
+      "formattedUrl": "https://huggingface.co/.../e26886cd2387431af258953d88f63c249c45cb53....",
+      "htmlFormattedUrl": "https://huggingface.co/.../e26886cd2387431af258953d88f63c249c45cb53....",
+      "mime": "text/plain",
+      "fileFormat": "text/plain"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "https://svn.apache.org/repos/bigdata/opennlp/trunk...",
+      "htmlTitle": "https://svn.apache.org/repos/bigdata/opennlp/trunk...",
+      "link": "https://svn.apache.org/repos/bigdata/opennlp/trunk/leipzig/data/kor_news_2007_1M-sentences.txt",
+      "displayLink": "svn.apache.org",
+      "snippet": "... 상한가 6개 종목을 포함해 34개 종목이 올랐으며, 하한가 164개 종목을 포함해975 ... 세스 에서튼(32)이 결국 퇴출됐다. 2360 대부분의 임직원들은 삼성문화의 특징 ...",
+      "htmlSnippet": "... <b>상한가</b> 6개 종목을 포함해 34개 종목이 올랐으며, 하한가 164개 종목을 포함해975 ... <b>세스</b> 에서튼(32)이 결국 퇴출됐다. 2360 대부분의 임직원들은 삼성문화의 특징&nbsp;...",
+      "formattedUrl": "https://svn.apache.org/repos/bigdata/.../kor_news_2007_1M-sentences.txt",
+      "htmlFormattedUrl": "https://svn.apache.org/repos/bigdata/.../kor_news_2007_1M-sentences.txt",
+      "mime": "text/plain",
+      "fileFormat": "text/plain"
+    }
+  ]
+}

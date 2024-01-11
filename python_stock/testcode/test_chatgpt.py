@@ -15,7 +15,7 @@ GPT_CMD = """
 
 client = OpenAI(
     # This is the default and can be omitted
-    api_key='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'
+    api_key='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'
 )
 # input_data = ""
 # with open(f"{RESULT_DIR}/{today_date}_gpt_input.txt", "r") as file:

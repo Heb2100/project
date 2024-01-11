@@ -8,7 +8,7 @@
     "request": [
       {
         "title": "Google Custom Search - 한화투자증권우 상한가",
-        "totalResults": "7670",
+        "totalResults": "10300",
         "searchTerms": "한화투자증권우 상한가",
         "count": 10,
         "startIndex": 1,
@@ -21,7 +21,7 @@
     "nextPage": [
       {
         "title": "Google Custom Search - 한화투자증권우 상한가",
-        "totalResults": "7670",
+        "totalResults": "10300",
         "searchTerms": "한화투자증권우 상한가",
         "count": 10,
         "startIndex": 11,
@@ -36,10 +36,10 @@
     "title": "test_2401_2"
   },
   "searchInformation": {
-    "searchTime": 0.126311,
-    "formattedSearchTime": "0.13",
-    "totalResults": "7670",
-    "formattedTotalResults": "7,670"
+    "searchTime": 0.164337,
+    "formattedSearchTime": "0.16",
+    "totalResults": "10300",
+    "formattedTotalResults": "10,300"
   },
   "items": [
     {
@@ -171,17 +171,17 @@
       "htmlTitle": "&lt;유&gt;<b>한화투자증권우</b>, <b>상한가</b> 진입.. +29.92%",
       "link": "https://www.sedaily.com/NewsView/2D41JKT8P5",
       "displayLink": "www.sedaily.com",
-      "snippet": "7 hours ago ... 증권 > News봇 뉴스: 오전 9시 30분 현재 한화투자증권우(003535)가 +29.92% 오른 13330원(△3070)으로 장중 상한가에 진입했다. 거래대금은 22억8,.",
-      "htmlSnippet": "7 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 30분 현재 <b>한화투자증권우</b>(003535)가 +29.92% 오른 13330원(△3070)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 22억8,.",
+      "snippet": "23 hours ago ... 증권 > News봇 뉴스: 오전 9시 30분 현재 한화투자증권우(003535)가 +29.92% 오른 13330원(△3070)으로 장중 상한가에 진입했다. 거래대금은 22억8,.",
+      "htmlSnippet": "23 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 30분 현재 <b>한화투자증권우</b>(003535)가 +29.92% 오른 13330원(△3070)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 22억8,.",
       "cacheId": "rHbQFgtysFkJ",
       "formattedUrl": "https://www.sedaily.com/NewsView/2D41JKT8P5",
       "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D41JKT8P5",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRELhVKh_sXToyvLghZqV_5GpUycjyzH5XzPm2CsavlD7UGFY7WcMYyoMo",
-            "width": "137",
-            "height": "63"
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb6adprIGKqpARZYyFHkZIxwXxgD5pJ6arrcjj7uIG07G0jreb6ZIAk37Y",
+            "width": "331",
+            "height": "152"
           }
         ],
         "metatags": [

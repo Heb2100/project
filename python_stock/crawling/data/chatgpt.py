@@ -4,27 +4,29 @@ from datetime import datetime
 
 
 current_datetime = datetime.now()
-today_date = current_datetime.strftime("%Y%m%d")
-# stocks = ['한글과컴퓨터', '파워로직스', '이스트소프트', '한빛레이저', '바이브컴퍼니', '유니트론텍', '아이원', '제넨바이오', '티와이홀딩스']
-stock = '한글과컴퓨터'
+today_date = int(current_datetime.strftime("%Y%m%d"))
+stocks = ['한화투자증권', '한화투자증권우']
+# stock = '한글과컴퓨터'
 
 RESULT_DIR = f"datas/{today_date}"
 GPT_CMD = """
-이 주식이 오늘 상한가를 기록한 이유를 한문장으로 요약해줄 수 있어?
+이 주식이 오늘 상한가를 기록한 이유를 키워드 중심으로 한문장으로 요약해줄 수 있어?
 """
 
 def main(stocks):
     print('chatgpt.py is running...\n')
     client = OpenAI(
-        # This is the default and can be omitted
-        api_key='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'
+        # key for ahope computer
+        # api_key='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'
+        # key for home computer
+        api_key='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'
     )
     input_data = ""
-    with open(f"{RESULT_DIR}/{today_date}_gpt_input.txt", "r") as file:
+    with open(f"{RESULT_DIR}/{today_date}_gpt_input.txt", "r", encoding="utf-8") as file:
         input_data = file.read()
 
     return_data = []
-    with open(f"{RESULT_DIR}/{today_date}_gpt_output.txt", "w") as output_file:
+    with open(f"{RESULT_DIR}/{today_date}_gpt_output.txt", "w", encoding="utf-8") as output_file:
         for stock_idx, stock in enumerate(stocks):
             # input data slicing
             start_pattern = "<<"; end_pattern = "<<"; start_index = 0; input_sliced_datas = []

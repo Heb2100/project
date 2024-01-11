@@ -9,14 +9,17 @@ FILE_TYPE = "json"  # 결과 형식을 JSON으로 설정
 LOG_PATH = "datas"
 
 #temparary 매개변수
-# stocks = ['한글과컴퓨터', '파워로직스', '이스트소프트', '한빛레이저', '바이브컴퍼니', '유니트론텍', '아이원', '제넨바이오', '티와이홀딩스']
+stocks = ['한글과컴퓨터', '파워로직스']
 
 def main(stocks):
-    print('google_search.py is running...\n')
+    print('google_search.py is running...\n', stocks)
     current_datetime = datetime.now()
+    print('google_search.py is running...\n')
     today_date = current_datetime.strftime("%Y%m%d")
+    print('google_search.py is running...\n')
 
     for stock in stocks:
+        print('google_search.py stock', stock)
         url = f"https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx={ENGINE_ID}&q={stock}{HIGH}"
         response = requests.get(url)
 

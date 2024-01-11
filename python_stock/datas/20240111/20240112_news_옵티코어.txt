@@ -1,0 +1,647 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 옵티코어 상한가",
+        "totalResults": "12200",
+        "searchTerms": "옵티코어 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 옵티코어 상한가",
+        "totalResults": "12200",
+        "searchTerms": "옵티코어 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.149556,
+    "formattedSearchTime": "0.15",
+    "totalResults": "12200",
+    "formattedTotalResults": "12,200"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "<코>옵티코어, 상한가 진입.. +29.98%",
+      "htmlTitle": "&lt;코&gt;<b>옵티코어</b>, <b>상한가</b> 진입.. +29.98%",
+      "link": "https://www.sedaily.com/NewsView/29UQSNUG72",
+      "displayLink": "www.sedaily.com",
+      "snippet": "Sep 19, 2023 ... 증권 > News봇 뉴스: 오전 9시 4분 현재 옵티코어(380540)가 +29.98% 오른 2220원(△512)으로 장중 상한가에 진입했다. 거래대금은 57억3424만, 거...",
+      "htmlSnippet": "Sep 19, 2023 <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 4분 현재 <b>옵티코어</b>(380540)가 +29.98% 오른 2220원(△512)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 57억3424만, 거...",
+      "cacheId": "15PqyRB8xrQJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/29UQSNUG72",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/29UQSNUG72",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmLRIejrV6psRmteEPOI20586CQneH46coT1vx-ZZmDTixvWGb86aAfMQ",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2023/09/19/29UQSNUG72_1.png",
+            "article:published_time": "2023-09-19T09:04:29+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2023-09-19T09:04:29+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>옵티코어, 상한가 진입.. +29.98% ↑ | 서울경제",
+            "dd:published_time": "2023-09-19T09:04:29+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 4분 현재 옵티코어(380540)가 +29.98% 오른 2,220원(▲512)으로 장중 상한가에 진입했다. 거래대금은 57억3,424만, 거...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2023/09/19/29UQSNUG72_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2023-09-19T09:04:29+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/29UQSNUG72/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>옵티코어, 상한가 진입.. +29.98% ↑",
+            "dable:item_id": "29UQSNUG72",
+            "og:title": "<코>옵티코어, 상한가 진입.. +29.98% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>옵티코어, 상한가 진입.. +29.98% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "29UQSNUG72",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 4분 현재 옵티코어(380540)가 +29.98% 오른 2,220원(▲512)으로 장중 상한가에 진입했다. 거래대금은 57억3,424만, 거...",
+            "ngh:id": "29UQSNUG72",
+            "dable:image": "https://newsimg.sedaily.com/2023/09/19/29UQSNUG72_1_m.png",
+            "ngh:title": "​<코>옵티코어, 상한가 진입.. +29.98% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/29UQSNUG72/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/09/19/29UQSNUG72_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>옵티코어, 상한가 진입.. +29.97%",
+      "htmlTitle": "&lt;코&gt;<b>옵티코어</b>, <b>상한가</b> 진입.. +29.97%",
+      "link": "https://sedaily.com/NewsView/2D41K3GJY0",
+      "displayLink": "sedaily.com",
+      "snippet": "23 hours ago ... 증권 > News봇 뉴스: 오전 9시 12분 현재 옵티코어(380540)가 +29.97% 오른 1765원(△407)으로 장중 상한가에 진입했다. 거래대금은 44억5542만, 거.",
+      "htmlSnippet": "23 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 12분 현재 <b>옵티코어</b>(380540)가 +29.97% 오른 1765원(△407)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 44억5542만, 거.",
+      "cacheId": "h5ABp9498C0J",
+      "formattedUrl": "https://sedaily.com/NewsView/2D41K3GJY0",
+      "htmlFormattedUrl": "https://sedaily.com/NewsView/2D41K3GJY0",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFwQ_dHaLpH-MXX30-vUeijHnFdO82bdl7TiMIqEhZBXGZwXr6HthadJ-m",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/11/2D41K3GJY0_1.png",
+            "article:published_time": "2024-01-11T09:12:32+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-11T09:12:32+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>옵티코어, 상한가 진입.. +29.97% ↑ | 서울경제",
+            "dd:published_time": "2024-01-11T09:12:32+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 12분 현재 옵티코어(380540)가 +29.97% 오른 1,765원(▲407)으로 장중 상한가에 진입했다. 거래대금은 44억5,542만, 거...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/11/2D41K3GJY0_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-11T09:12:32+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D41K3GJY0/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>옵티코어, 상한가 진입.. +29.97% ↑",
+            "dable:item_id": "2D41K3GJY0",
+            "og:title": "<코>옵티코어, 상한가 진입.. +29.97% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>옵티코어, 상한가 진입.. +29.97% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D41K3GJY0",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 12분 현재 옵티코어(380540)가 +29.97% 오른 1,765원(▲407)으로 장중 상한가에 진입했다. 거래대금은 44억5,542만, 거...",
+            "ngh:id": "2D41K3GJY0",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/11/2D41K3GJY0_1_m.png",
+            "ngh:title": "​<코>옵티코어, 상한가 진입.. +29.97% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D41K3GJY0/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/05/09/29PIF7U7IX_7.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "옵티코어 주가 급반등...거래량 늘며 '상한가' | bnt뉴스",
+      "htmlTitle": "<b>옵티코어</b> 주가 급반등...거래량 늘며 &#39;<b>상한가</b>&#39; | bnt뉴스",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202301170071",
+      "displayLink": "www.bntnews.co.kr",
+      "snippet": "Jan 17, 2023 ... 옵티코어 주가가 상한가를 기록했다.17일 한국거래소에 따르면 옵티코어 주가는 전 거래일 대비 795원 (29.83%)오른 3460원에 장을 마감했다.",
+      "htmlSnippet": "Jan 17, 2023 <b>...</b> <b>옵티코어</b> 주가가 <b>상한가</b>를 기록했다.17일 한국거래소에 따르면 <b>옵티코어</b> 주가는 전 거래일 대비 795원 (29.83%)오른 3460원에 장을 마감했다.",
+      "cacheId": "eFjA11MWU-QJ",
+      "formattedUrl": "https://www.bntnews.co.kr/article/view/bnt202301170071",
+      "htmlFormattedUrl": "https://www.bntnews.co.kr/article/view/bnt202301170071",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSObhJOyrZ9st0M9yo_HULiyGZFd6rIYHqXbQUFMCaGFceQfrPST6BSbvg",
+            "width": "272",
+            "height": "185"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://www.bntnews.co.kr/data/bnt/image/2023/01/17/bnt202301170236.jpg",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "옵티코어 주가 급반등...거래량 늘며 &lsquo;상한가&rsquo;&nbsp;",
+            "og:site_name": "bntnews",
+            "author": "bntnews",
+            "msapplication-tileimage": "https://img.bntnews.co.kr/ms-icon-144x144.png",
+            "og:description": "옵티코어 주가가 상한가를 기록했다.17일 한국거래소에 따르면 옵티코어 주가는 전 거래일 대비 795원 (29.83%)오른 3460원에 장을 마감했다. 이날 거래량",
+            "twitter:image": "https://www.bntnews.co.kr/data/bnt/image/2023/01/17/bnt202301170236.144x144.0.jpg",
+            "twitter:site": "@bntnews",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1",
+            "twitter:description": "옵티코어 주가가 상한가를 기록했다.17일 한국거래소에 따르면 옵티코어 주가는 전 거래일 대비 795원 (29.83%)오른 3460원에 장을 마감했다. 이날 거래량",
+            "og:locale": "ko_KR",
+            "location": "Korea",
+            "og:url": "https://www.bntnews.co.kr/article/view/bnt202301170071"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.bntnews.co.kr/data/bnt/image/2023/01/17/bnt202301170236.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "옵티코어 상한가, 에이스테크·센서뷰·케이엠더블유 등 통신장비주 훨훨",
+      "htmlTitle": "<b>옵티코어 상한가</b>, 에이스테크·센서뷰·케이엠더블유 등 통신장비주 훨훨",
+      "link": "https://www.yeongnam.com/web/view.php?key=20240111001002196",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "22 hours ago ... 옵티코어, 에이스테크 등 통신장비주가 강세다.11일 한국거래소에 따르면 오전 9시55분 옵티코어는 전날 대비 29.97% 오른 1765원으로 하루가격제한폭 ...",
+      "htmlSnippet": "22 hours ago <b>...</b> <b>옵티코어</b>, 에이스테크 등 통신장비주가 강세다.11일 한국거래소에 따르면 오전 9시55분 <b>옵티코어</b>는 전날 대비 29.97% 오른 1765원으로 하루가격제한폭&nbsp;...",
+      "cacheId": "tje5s2FPklgJ",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20240111001002196",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20240111001002196",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVEZvJfazER6EOITTfOn78yfQItP9fnH0QUOotQotO7pNKVnA8-ESaVlzE",
+            "width": "305",
+            "height": "165"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202401/20240111001002196_1.jpg",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-11T10:04:43+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "옵티코어 상한가, 에이스테크·센서뷰·케이엠더블유 등 통신장비주 훨훨",
+            "distribution": "영남일보",
+            "og:description": "옵티코어, 에이스테크 등 통신장비주가 강세다.11일 한국거래소에 따르면 오전 9시55분 옵티코어는 전날 대비 29.97% 오른 1765원으로 하루가격제한폭까지 올랐다. 에이스테크와..",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202401/20240111001002196_1.jpg",
+            "article:section2": "증시·금융",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "다산네트웍스, 코위버, 피피아이, 오이솔루션, 쏠리드",
+            "og:site": "https://m.yeongnam.com/view.php?key=20240111001002196",
+            "author-date(date)": "2024-01-11",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202401/20240111001002196_1.jpg",
+            "og:type": "article",
+            "twitter:title": "옵티코어 상한가, 에이스테크·센서뷰·케이엠더블유 등 통신장비주 훨훨",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20240111001002196",
+            "og:title": "옵티코어 상한가, 에이스테크·센서뷰·케이엠더블유 등 통신장비주 훨훨",
+            "url": "https://m.yeongnam.com/view.php?key=20240111001002196",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "옵티코어, 에이스테크 등 통신장비주가 강세다.11일 한국거래소에 따르면 오전 9시55분 옵티코어는 전날 대비 29.97% 오른 1765원으로 하루가격제한폭까지 올랐다. 에이스테크와..",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20240111001002196"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202401/20240111001002196_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[주식마감기사] 이재용 회장 영향력에 옵티코어 상한가... 한화투자증권 ...",
+      "htmlTitle": "[주식마감기사] 이재용 회장 영향력에 <b>옵티코어 상한가</b>... 한화투자증권 ...",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1010350",
+      "displayLink": "www.ggilbo.com",
+      "snippet": "13 hours ago ... 11일 한화투자증권, 한화투자증권우, 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어가 상한가에 이름을 올리고 장을 ...",
+      "htmlSnippet": "13 hours ago <b>...</b> 11일 한화투자증권, 한화투자증권우, 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아, <b>옵티코어</b>가 <b>상한가</b>에 이름을 올리고 장을&nbsp;...",
+      "cacheId": "giuOT7Jy1OsJ",
+      "formattedUrl": "https://www.ggilbo.com/news/articleView.html?idxno=1010350",
+      "htmlFormattedUrl": "https://www.ggilbo.com/news/articleView.html?idxno=1010350",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNPKV3u9vSvHl5SUL3_CO7_6NcQwhdz1e9QtVS0HoV_dNwAa5jeCd8qzU",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.ggilbo.com/news/photo/202401/1010350_849265_188.jpg",
+            "theme-color": "#1c5b9b",
+            "copyright": "금강일보",
+            "twitter:card": "summary",
+            "article:published_time": "2024-01-11T19:25:00+09:00",
+            "og:site_name": "금강일보",
+            "title": "[주식마감기사] 이재용 회장 영향력에 옵티코어 상한가... 한화투자증권, 한화투자증권우, 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아 등 급등",
+            "og:description": "11일 한화투자증권, 한화투자증권우, 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어가 상한가에 이름을 올리고 장을 마감한 가운데 투자자들의 관심이 뜨겁다.코스피 시장에선 한화투자증권, 한화투자증권우가 상한가에 이름을 올렸다.한화투자증권은 전 거래일 대비 29.99%(1015원) 오른 4400원, 한화투자증권우는 전 거래일 대비 29.92%(3070원) 오른 1만 3330원에 장을 마감했다.한화증권 급등세는 미국 증권거래위원회(SEC)가 10일(현지시간) 비트코인 현물 ETF의 거래소 상장과 거래를 승인",
+            "twitter:creator": "이우성 기자",
+            "twitter:image": "https://cdn.ggilbo.com/news/photo/202401/1010350_849265_188.jpg",
+            "article:section1": "경제일반",
+            "twitter:site": "https://www.ggilbo.com/news/articleView.html?idxno=1010350",
+            "naver-site-verification": "095dd182d4d892b3c674e50be3e421c698ef7ecb",
+            "og:article:author": "이우성 기자",
+            "og:type": "article",
+            "twitter:title": "[주식마감기사] 이재용 회장 영향력에 옵티코어 상한가... 한화투자증권, 한화투자증권우, 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아 등 급등",
+            "article:section": "경제",
+            "dable:item_id": "1010350",
+            "og:title": "[주식마감기사] 이재용 회장 영향력에 옵티코어 상한가... 한화투자증권, 한화투자증권우, 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아 등 급등",
+            "classification": "경제 > 경제일반",
+            "movideo:news_key": "1010350",
+            "dable:author": "이우성 기자",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "11일 한화투자증권, 한화투자증권우, 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어가 상한가에 이름을 올리고 장을 마감한 가운데 투자자들의 관심이 뜨겁다.코스피 시장에선 한화투자증권, 한화투자증권우가 상한가에 이름을 올렸다.한화투자증권은 전 거래일 대비 29.99%(1015원) 오른 4400원, 한화투자증권우는 전 거래일 대비 29.92%(3070원) 오른 1만 3330원에 장을 마감했다.한화증권 급등세는 미국 증권거래위원회(SEC)가 10일(현지시간) 비트코인 현물 ETF의 거래소 상장과 거래를 승인",
+            "og:url": "https://www.ggilbo.com/news/articleView.html?idxno=1010350"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.ggilbo.com/news/photo/202401/1010350_849265_188.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "KTcs·동신건설·엔텔스 등 5종목 상한가, 노을·옵티코어·경인전자 ...",
+      "htmlTitle": "KTcs·동신건설·엔텔스 등 5종목 <b>상한가</b>, 노을·<b>옵티코어</b>·경인전자 ...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20230918001548479",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "Sep 18, 2023 ... 코스닥은 동신건설, 모아데이타, 엔텔스 3종목이 상한가, 1067개 종목은 하락, 57개 종목 봏합, 479개 종목은 상승 마감했다. 개인이 1779억원을 순매수 ...",
+      "htmlSnippet": "Sep 18, 2023 <b>...</b> 코스닥은 동신건설, 모아데이타, 엔텔스 3종목이 <b>상한가</b>, 1067개 종목은 하락, 57개 종목 봏합, 479개 종목은 상승 마감했다. 개인이 1779억원을 순매수&nbsp;...",
+      "cacheId": "pd2O5VkTFuoJ",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20230918001548479",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20230918001548479",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBVKFTK7YYtU053bjzIx9-AnPfrHsTcK0Jo4WBAEnwjIFt1isrqQG-eoA",
+            "width": "250",
+            "height": "202"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202309/20230918001548479_1.jpg",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-09-18T15:54:31+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "KTcs·동신건설·엔텔스 등 5종목 상한가, 노을·옵티코어·경인전자·모니터랩 등 큰 폭 상승 마감",
+            "distribution": "영남일보",
+            "og:description": "미국 뉴욕증시가 하락 마감한 가운데, 코스피·코스닥 지수도 일제히 하락했다.18일 한국거래소에서 코스피 지수는 26.56p(1.02%) 하락 2574.72를, 코스닥 지수는 7.7..",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202309/20230918001548479_1.jpg",
+            "article:section2": "증시·금융",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "큐리옥스바이오시스템즈, 아우딘퓨쳐스, 에코프로, 에소크넥, 포스코스틸리온",
+            "og:site": "https://m.yeongnam.com/view.php?key=20230918001548479",
+            "author-date(date)": "2023-09-18",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202309/20230918001548479_1.jpg",
+            "og:type": "article",
+            "twitter:title": "KTcs·동신건설·엔텔스 등 5종목 상한가, 노을·옵티코어·경인전자·모니터랩 등 큰 폭 상승 마감",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20230918001548479",
+            "og:title": "KTcs·동신건설·엔텔스 등 5종목 상한가, 노을·옵티코어·경인전자·모니터랩 등 큰 폭 상승 마감",
+            "url": "https://m.yeongnam.com/view.php?key=20230918001548479",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "미국 뉴욕증시가 하락 마감한 가운데, 코스피·코스닥 지수도 일제히 하락했다.18일 한국거래소에서 코스피 지수는 26.56p(1.02%) 하락 2574.72를, 코스닥 지수는 7.7..",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20230918001548479"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202309/20230918001548479_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "오늘의 주도주(01/17) : 옵티코어",
+      "htmlTitle": "오늘의 주도주(01/17) : <b>옵티코어</b>",
+      "link": "https://contents.premium.naver.com/chartschool/mytradingview/contents/230117154455007at",
+      "displayLink": "contents.premium.naver.com",
+      "snippet": "Jan 17, 2023 ... [개별이슈] 실적호전 기대감에 상한가 지난 6일, 정부 5G(5세대 이동통신) 28㎓ 주파수 대역에 대해 신규사업자 진입을 허용키로 했다고 보도 옵티 ...",
+      "htmlSnippet": "Jan 17, 2023 <b>...</b> [개별이슈] 실적호전 기대감에 <b>상한가</b> 지난 6일, 정부 5G(5세대 이동통신) 28㎓ 주파수 대역에 대해 신규사업자 진입을 허용키로 했다고 보도 <b>옵티</b>&nbsp;...",
+      "cacheId": "Bu_9ZF5SJjMJ",
+      "formattedUrl": "https://contents.premium.naver.com/chartschool/.../230117154455007at",
+      "htmlFormattedUrl": "https://contents.premium.naver.com/chartschool/.../230117154455007at",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0ose_0EnXaBIn4TZtsVLJDI_pj0MFSFWgp7BA6qOJ6st1U7ZJWRAGO1dL",
+            "width": "278",
+            "height": "181"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://scs-phinf.pstatic.net/MjAyMzAxMTdfMzMg/MDAxNjczOTM3MDM0MjM5.WcPJCZodMEr5U8njOQZ-5wvFcl7X9_PwG2fjqx5vZZgg.K4_XiHuVZSJm0ibaI-DwgNqKmJs6mMRaiH0m0qtZbn4g.JPEG/%EC%98%B5%ED%8B%B0.jpg?type=w800",
+            "twitter:card": "summary",
+            "twitter:title": "오늘의 주도주(01/17) : 옵티코어",
+            "is-blocked": "false",
+            "og:title": "오늘의 주도주(01/17) : 옵티코어",
+            "is-deleted": "false",
+            "og:description": "[개별이슈] 실적호전 기대감에 상한가 지난 6일, 정부 5G(5세대 이동통신) 28㎓ 주파수 대역에 대해 신규사업자 진입을 허용키로 했다고 보도 옵티코어는 5G 네트워크 인프라 구축에 필수적인 통신용 광트랜시버와 광다중화장치를 개발, 생산 및 판매 프렌드투자파트너스,",
+            "twitter:image": "https://scs-phinf.pstatic.net/MjAyMzAxMTdfMzMg/MDAxNjczOTM3MDM0MjM5.WcPJCZodMEr5U8njOQZ-5wvFcl7X9_PwG2fjqx5vZZgg.K4_XiHuVZSJm0ibaI-DwgNqKmJs6mMRaiH0m0qtZbn4g.JPEG/%EC%98%B5%ED%8B%B0.jpg?type=w800",
+            "product-option-for-subscription": "true",
+            "twitter:site": "프리미엄콘텐츠",
+            "channel-name": "[매일뷰] 매일1%의 트레이딩 뷰",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "twitter:description": "[개별이슈] 실적호전 기대감에 상한가 지난 6일, 정부 5G(5세대 이동통신) 28㎓ 주파수 대역에 대해 신규사업자 진입을 허용키로 했다고 보도 옵티코어는 5G 네트워크 인프라 구축에 필수적인 통신용 광트랜시버와 광다중화장치를 개발, 생산 및 판매 프렌드투자파트너스,",
+            "og:url": "https://contents.premium.naver.com/chartschool/mytradingview/contents/230117154455007at",
+            "format-detection": "telephone=no",
+            "publish-datetime": "2023-01-17T15:44:55.007",
+            "product-option-for-sale": "false"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scs-phinf.pstatic.net/MjAyMzAxMTdfMzMg/MDAxNjczOTM3MDM0MjM5.WcPJCZodMEr5U8njOQZ-5wvFcl7X9_PwG2fjqx5vZZgg.K4_XiHuVZSJm0ibaI-DwgNqKmJs6mMRaiH0m0qtZbn4g.JPEG/%EC%98%B5%ED%8B%B0.jpg?type=w800"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] 스타링크, 한국 시장 진출 소식에 옵티코어 ...",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] 스타링크, 한국 시장 진출 소식에 <b>옵티코어</b> ...",
+      "link": "https://news.mt.co.kr/mtview.php?no=2023091913227062447",
+      "displayLink": "news.mt.co.kr",
+      "snippet": "Sep 19, 2023 ... 미국 스페이스X의 자회사인 스타링크가 한국 시장에 진출할 것이라 전망에 옵티코어가 상승세다.업계에 따르면 테슬라 창업주 일론 머스크가 이끄는 ...",
+      "htmlSnippet": "Sep 19, 2023 <b>...</b> 미국 스페이스X의 자회사인 스타링크가 한국 시장에 진출할 것이라 전망에 <b>옵티코어</b>가 상승세다.업계에 따르면 테슬라 창업주 일론 머스크가 이끄는&nbsp;...",
+      "cacheId": "1VsdGAZrzVEJ",
+      "formattedUrl": "https://news.mt.co.kr/mtview.php?no=2023091913227062447",
+      "htmlFormattedUrl": "https://news.mt.co.kr/mtview.php?no=2023091913227062447",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB1pnevuriiH9Mph6ORs68aecFz4h6JdG8XiWMDtTy5rsmXretmcE4RuFd",
+            "width": "374",
+            "height": "135"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://thumb.mt.co.kr/06/2023/09/2023091913227062447_1.jpg",
+            "copyright": "MoneyToday Inc.",
+            "og:image:width": "1200",
+            "article:published_time": "2023-09-19T14:02:50+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "머니투데이",
+            "twitter:app:url:ipad": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "dd:published_time": "2023-09-19T14:02:50+09:00",
+            "og:description": "미국 스페이스X의 자회사인 스타링크가 한국 시장에 진출할 것이라 전망에 옵티코어가 상승세다.업계에 따르면 테슬라 창업주 일론 머스크가 이끄는 미국 항공우주 기업 스페이스X의 위성통신 사업체 스타링크(Starlink)는 최근 SK텔레콤과 그 자회사 SK텔링크를 통한 ‘국내 저궤도 위성통신 서비스 제공’ 목적의 전략적 제휴 계약을 공식 체결했다.저궤도 위성통신...",
+            "twitter:creator": "@moneytodaynews",
+            "article:publisher": "https://www.mt.co.kr",
+            "twitter:image:alt": "[MTN머니로 상한가 포착] 스타링크, 한국 시장 진출 소식에 옵티코어 주가 강세",
+            "dable:url": "https://m.mt.co.kr/renew/view.html?no=2023091913227062447",
+            "og:image:alt": "[MTN머니로 상한가 포착] 스타링크, 한국 시장 진출 소식에 옵티코어 주가 강세",
+            "twitter:domain": "https://www.mt.co.kr",
+            "author": "머니투데이",
+            "dable:item_id": "2023091913227062447",
+            "twitter:app:id:ipad": "id349423458",
+            "article:author": "https://www.mt.co.kr",
+            "dd:title": "머니투데이: [MTN머니로 상한가 포착] 스타링크, 한국 시장 진출 소식에 옵티코어 주가 강세",
+            "dd:category": "증권",
+            "twitter:app:name:ipad": "머니투데이",
+            "og:locale": "ko_KR",
+            "twitter:app:name:iphone": "머니투데이",
+            "twitter:app:url:iphone": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "twitter:app:id:googleplay": "com.mt.MoneyTodayNews.apis",
+            "dd:author": "MTN",
+            "dd:modified_time": "2023-09-19T14:02:50+09:00",
+            "twitter:app:name:googleplay": "머니투데이",
+            "title": "[MTN머니로 상한가 포착] 스타링크, 한국 시장 진출 소식에 옵티코어 주가 강세 - 머니투데이",
+            "twitter:app:id:iphone": "id349423458",
+            "twitter:image": "https://thumb.mt.co.kr/06/2023/09/2023091913227062447_1.jpg/dims/resize/1200/crop/1200x630!/optimize/",
+            "twitter:site": "@moneytodaynews",
+            "news_keywords": "한국,MTN,미국,링크,스타,스페이스,시장,진출,코어,테슬라",
+            "post:sharer_text": "머니투데이",
+            "dable:custom1": "not",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "[MTN머니로 상한가 포착] 스타링크, 한국 시장 진출 소식에 옵티코어 주가 강세 - 머니투데이",
+            "og:title": "[MTN머니로 상한가 포착] 스타링크, 한국 시장 진출 소식에 옵티코어 주가 강세 - 머니투데이",
+            "og:image:height": "630",
+            "referrer": "strict-origin-when-cross-origin",
+            "fb:app_id": "173026022742732",
+            "dable:author": "MTN",
+            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.mt.MoneyTodayNews.apis",
+            "dd:content_id": "2023091913227062447",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:description": "미국 스페이스X의 자회사인 스타링크가 한국 시장에 진출할 것이라 전망에 옵티코어가 상승세다.업계에 따르면 테슬라 창업주 일론 머스크가 이끄는 미국 항공우주 기업 스페이스X의 위성통신 사업체 스타링크(Starlink)는 최근 SK텔레콤과 그 자회사 SK텔링크를 통한 ‘국내 저궤도 위성통신 서비스 제공’ 목적의 전략적 제휴 계약을 공식 체결했다.저궤도 위성통신...",
+            "og:url": "https://m.mt.co.kr/renew/view.html?no=2023091913227062447",
+            "category": "F0101"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thumb.mt.co.kr/06/2023/09/2023091913227062447_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'빗썸 이정훈 1심 무죄' 비덴트, 옵티코어·핑거스토리·CJ씨푸드1우 ...",
+      "htmlTitle": "&#39;빗썸 이정훈 1심 무죄&#39; 비덴트, <b>옵티코어</b>·핑거스토리·CJ씨푸드1우 ...",
+      "link": "https://www.newswell.co.kr/news/articleView.html?idxno=7695",
+      "displayLink": "www.newswell.co.kr",
+      "snippet": "Jan 3, 2023 ... KB제20호스팩과 합병으로 데뷔한 통신 인프라 장비업체 옵티코어가 상장 3거래일 만에 상한가를 기록했다. 3일 코스닥시장에서 옵티코어(380540)는 ...",
+      "htmlSnippet": "Jan 3, 2023 <b>...</b> KB제20호스팩과 합병으로 데뷔한 통신 인프라 장비업체 <b>옵티코어</b>가 상장 3거래일 만에 <b>상한가</b>를 기록했다. 3일 코스닥시장에서 <b>옵티코어</b>(380540)는&nbsp;...",
+      "cacheId": "vD7npISdtyYJ",
+      "formattedUrl": "https://www.newswell.co.kr/news/articleView.html?idxno=7695",
+      "htmlFormattedUrl": "https://www.newswell.co.kr/news/articleView.html?idxno=7695",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5irKT0cUt03Hdn9Gm1xWw3QbmcAZ7Dl39gBE4QgzDdTsgL6sbEhBvKtw",
+            "width": "274",
+            "height": "184"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.newswell.co.kr/news/thumbnail/202301/7695_13897_63_v150.jpg",
+            "theme-color": "#fff",
+            "copyright": "뉴스웰",
+            "twitter:card": "summary",
+            "article:published_time": "2023-01-03T16:08:47+09:00",
+            "og:site_name": "뉴스웰",
+            "title": "‘빗썸 이정훈 1심 무죄’ 비덴트, 옵티코어·핑거스토리·CJ씨푸드1우 상한가 [뉴스톡 웰스톡]",
+            "og:description": "KB제20호스팩과 합병으로 데뷔한 통신 인프라 장비업체 옵티코어가 상장 3거래일 만에 상한가를 기록했다. 3일 코스닥시장에서 옵티코어(380540)는 가격제한폭까지 오르며 2730원에 거래를 마쳤다. 다만 주가에 영향을 끼칠 만한 호재는 없어 투자에 유의가 필요하다.2016년 세워진 옵티코어는 광트랜시버와 광다중화 장치 등 마그네틱 및 광학 매체 제조업을 주력 사업으로 영위하고 있다. 2021년 매출액 333억5300만원, 영업이익 55억6500만원, 순이익 25억6300만원을 기록했다.이날 핑거스토리(417180)와 CJ씨푸드1우",
+            "twitter:creator": "이경호 기자",
+            "twitter:image": "http://www.newswell.co.kr/news/thumbnail/202301/7695_13897_63_v150.jpg",
+            "article:section2": "market",
+            "twitter:site": "http://www.newswell.co.kr/news/articleView.html?idxno=7695",
+            "naver-site-verification": "477b654fb9c470bb6dc7319474c91795f694e284",
+            "news_keywords": "빗썸_최대주주,빗썸_이정훈,비덴트_주가,옵티코어_주가,핑거스토리_주가,CJ씨푸드1우_주가,오늘코스피지수,오늘코스닥지수,오늘환율시세,오늘상한가종목",
+            "og:article:author": "이경호 기자",
+            "og:type": "article",
+            "twitter:title": "‘빗썸 이정훈 1심 무죄’ 비덴트, 옵티코어·핑거스토리·CJ씨푸드1우 상한가 [뉴스톡 웰스톡]",
+            "article:section": "issue웰",
+            "dable:item_id": "7695",
+            "og:title": "‘빗썸 이정훈 1심 무죄’ 비덴트, 옵티코어·핑거스토리·CJ씨푸드1우 상한가 [뉴스톡 웰스톡]",
+            "classification": "issue웰 > market",
+            "dable:author": "이경호 기자",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "KB제20호스팩과 합병으로 데뷔한 통신 인프라 장비업체 옵티코어가 상장 3거래일 만에 상한가를 기록했다. 3일 코스닥시장에서 옵티코어(380540)는 가격제한폭까지 오르며 2730원에 거래를 마쳤다. 다만 주가에 영향을 끼칠 만한 호재는 없어 투자에 유의가 필요하다.2016년 세워진 옵티코어는 광트랜시버와 광다중화 장치 등 마그네틱 및 광학 매체 제조업을 주력 사업으로 영위하고 있다. 2021년 매출액 333억5300만원, 영업이익 55억6500만원, 순이익 25억6300만원을 기록했다.이날 핑거스토리(417180)와 CJ씨푸드1우",
+            "og:url": "http://www.newswell.co.kr/news/articleView.html?idxno=7695"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.newswell.co.kr/news/thumbnail/202301/7695_13897_63_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[상한가 종목] 우리기술투자-위지트 이어 한화투자증권-옵티코어 등 ...",
+      "htmlTitle": "[<b>상한가</b> 종목] 우리기술투자-위지트 이어 한화투자증권-<b>옵티코어</b> 등 ...",
+      "link": "https://www.econonews.co.kr/news/articleView.html?idxno=321725",
+      "displayLink": "www.econonews.co.kr",
+      "snippet": "[이코노뉴스=어 만 기자] 11일 상한가 종목은 한화투자증권, 한화투자증권우, 우리기술투자, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어가 차지했다.",
+      "htmlSnippet": "[이코노뉴스=어 만 기자] 11일 <b>상한가</b> 종목은 한화투자증권, 한화투자증권우, 우리기술투자, 위지트, 인스웨이브시스템즈, 린드먼아시아, <b>옵티코어</b>가 차지했다.",
+      "cacheId": "5pYv_9LVd6QJ",
+      "formattedUrl": "https://www.econonews.co.kr/news/articleView.html?idxno=321725",
+      "htmlFormattedUrl": "https://www.econonews.co.kr/news/articleView.html?idxno=321725",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFqy6uMWiJ334GnOFpNSAJlnEEtYUPFr-ubkNWFaQQvpH6ZLax77nmbx8U",
+            "width": "300",
+            "height": "154"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.econonews.co.kr/news/thumbnail/202401/321725_295582_302_v150.jpg",
+            "theme-color": "#0a4aa0",
+            "copyright": "이코노뉴스",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[상한가 종목] 우리기술투자-위지트 이어 한화투자증권-옵티코어 등 상한가 마감",
+            "article:section": "경제",
+            "article:published_time": "2024-01-11T21:30:00+09:00",
+            "og:site_name": "이코노뉴스",
+            "dable:item_id": "321725",
+            "og:title": "[상한가 종목] 우리기술투자-위지트 이어 한화투자증권-옵티코어 등 상한가 마감",
+            "title": "[상한가 종목] 우리기술투자-위지트 이어 한화투자증권-옵티코어 등 상한가 마감",
+            "classification": "경제 > 증시",
+            "og:description": "[이코노뉴스=어 만 기자] 11일 상한가 종목은 한화투자증권, 한화투자증권우, 우리기술투자, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어가 차지했다. 11일 코스피 시장에서 한화투자증권은 29.99%(1015원) 오른 4400원에 장을 마감했다. 이외에 코스피 시장에서 한화투자증권우가 상한가를 기록했다. 코스닥 시장에서는 우리기술투자, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어가 상한가로 마쳤다. 우리기술투자는 29.98%(1850원) 오른 8020원에 장을 마감했다. 위지트는 29.89%(243원) 높은 1056원",
+            "twitter:creator": "어 만 기자",
+            "twitter:image": "https://cdn.econonews.co.kr/news/thumbnail/202401/321725_295582_302_v150.jpg",
+            "article:section1": "증시",
+            "dable:author": "어 만 기자",
+            "twitter:site": "http://www.econonews.co.kr/news/articleView.html?idxno=321725",
+            "naver-site-verification": "a6837cf815d053908c4bb6031768c7bd57a68e76",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "[이코노뉴스=어 만 기자] 11일 상한가 종목은 한화투자증권, 한화투자증권우, 우리기술투자, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어가 차지했다. 11일 코스피 시장에서 한화투자증권은 29.99%(1015원) 오른 4400원에 장을 마감했다. 이외에 코스피 시장에서 한화투자증권우가 상한가를 기록했다. 코스닥 시장에서는 우리기술투자, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어가 상한가로 마쳤다. 우리기술투자는 29.98%(1850원) 오른 8020원에 장을 마감했다. 위지트는 29.89%(243원) 높은 1056원",
+            "og:url": "http://www.econonews.co.kr/news/articleView.html?idxno=321725",
+            "og:article:author": "어 만 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.econonews.co.kr/news/thumbnail/202401/321725_295582_302_v150.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

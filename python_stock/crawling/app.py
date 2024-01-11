@@ -16,8 +16,9 @@ def parsing_data(tmp):
             if i != 0 and tmp[i][3]: stocks.append(tmp[i][3])
         except Exception as e:
             l.append('\n')
+    # stocks = ['한화투자증권', '한화투자증권우', '우리기술투자', '대성창투', '위지트', '인워이브세스템즈', '린드먼아시아', '옵티코어']
     if not os.path.exists(f"datas/{today_date}/{today_date}_news_{stocks[0]}.txt"):
-        google_search.main(stocks)
+        google_search.main(stocks);exit(1)
     if not os.path.exists(f"datas/{today_date}/{today_date}_gpt_input.txt"):
         google_search_result.main(stocks)
     if not os.path.exists(f"datas/{today_date}/{today_date}_gpt_output.txt"):

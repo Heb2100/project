@@ -8,7 +8,7 @@
     "request": [
       {
         "title": "Google Custom Search - 위지트 상한가",
-        "totalResults": "17900",
+        "totalResults": "26500",
         "searchTerms": "위지트 상한가",
         "count": 10,
         "startIndex": 1,
@@ -21,7 +21,7 @@
     "nextPage": [
       {
         "title": "Google Custom Search - 위지트 상한가",
-        "totalResults": "17900",
+        "totalResults": "26500",
         "searchTerms": "위지트 상한가",
         "count": 10,
         "startIndex": 11,
@@ -36,12 +36,138 @@
     "title": "test_2401_2"
   },
   "searchInformation": {
-    "searchTime": 0.383113,
-    "formattedSearchTime": "0.38",
-    "totalResults": "17900",
-    "formattedTotalResults": "17,900"
+    "searchTime": 0.147015,
+    "formattedSearchTime": "0.15",
+    "totalResults": "26500",
+    "formattedTotalResults": "26,500"
   },
   "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "<코>위지트, 상한가 진입.. +29.89%",
+      "htmlTitle": "&lt;코&gt;<b>위지트</b>, <b>상한가</b> 진입.. +29.89%",
+      "link": "https://www.sedaily.com/NewsView/2D41JSOFS4",
+      "displayLink": "www.sedaily.com",
+      "snippet": "18 hours ago ... 증권 > News봇 뉴스: 오후 2시 49분 현재 위지트(036090)가 +29.89% 오른 1056원(△243)으로 장중 상한가에 진입했다. 거래대금은 754억8703만, 거...",
+      "htmlSnippet": "18 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오후 2시 49분 현재 <b>위지트</b>(036090)가 +29.89% 오른 1056원(△243)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 754억8703만, 거...",
+      "cacheId": "RjrxG6T75DwJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D41JSOFS4",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D41JSOFS4",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQRprEJJObwmfPJe4_rxyqDurhZgsQHlRo8ap9teP7rAd6ZpGGdxeuvw",
+            "width": "137",
+            "height": "63"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/11/2D41JSOFS4_1.png",
+            "article:published_time": "2024-01-11T14:49:30+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-11T14:49:30+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>위지트, 상한가 진입.. +29.89% ↑ | 서울경제",
+            "dd:published_time": "2024-01-11T14:49:30+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 2시 49분 현재 위지트(036090)가 +29.89% 오른 1,056원(▲243)으로 장중 상한가에 진입했다. 거래대금은 754억8,703만, 거...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/11/2D41JSOFS4_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-11T14:49:30+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D41JSOFS4/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>위지트, 상한가 진입.. +29.89% ↑",
+            "dable:item_id": "2D41JSOFS4",
+            "og:title": "<코>위지트, 상한가 진입.. +29.89% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>위지트, 상한가 진입.. +29.89% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D41JSOFS4",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 2시 49분 현재 위지트(036090)가 +29.89% 오른 1,056원(▲243)으로 장중 상한가에 진입했다. 거래대금은 754억8,703만, 거...",
+            "ngh:id": "2D41JSOFS4",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/11/2D41JSOFS4_1_m.png",
+            "ngh:title": "​<코>위지트, 상한가 진입.. +29.89% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D41JSOFS4/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/11/2D41JSOFS4_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "암호화폐 들썩이자…위지트 상한가 | 한국경제",
+      "htmlTitle": "암호화폐 들썩이자…<b>위지트 상한가</b> | 한국경제",
+      "link": "https://www.hankyung.com/article/2023102430231",
+      "displayLink": "www.hankyung.com",
+      "snippet": "Oct 24, 2023 ... 암호화폐 들썩이자…위지트 상한가 ... 비트코인이 4700만원 선을 돌파해 연고점을 경신하자 국내 암호화폐 관련주가 들썩이고 있다. 우리기술투자는 24일 ...",
+      "htmlSnippet": "Oct 24, 2023 <b>...</b> 암호화폐 들썩이자…<b>위지트 상한가</b> ... 비트코인이 4700만원 선을 돌파해 연고점을 경신하자 국내 암호화폐 관련주가 들썩이고 있다. 우리기술투자는 24일&nbsp;...",
+      "cacheId": "WJsu96VxJoMJ",
+      "formattedUrl": "https://www.hankyung.com/article/2023102430231",
+      "htmlFormattedUrl": "https://www.hankyung.com/article/2023102430231",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcYJoHN601Rcb6La9fYKf2y4TPolsYuUgC7sB4BUCdOqPk5Zq7I2D6rj-",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=406614875, app-argument=https://www.hankyung.com/article/2023102430231",
+            "og:image": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-10-24T18:06:19+09:00",
+            "og:site_name": "한국경제",
+            "title": "암호화폐 들썩이자…위지트 상한가",
+            "og:description": "암호화폐 들썩이자…위지트 상한가, 이지효 기자, 증권",
+            "”robots”": "”max-image-preview:large”",
+            "article:section2": "신문(강판)",
+            "article:section3": "0100",
+            "twitter:site": "@hankyungmedia",
+            "article:published": "2023-10-24",
+            "og:type": "article",
+            "twitter:title": "암호화폐 들썩이자…위지트 상한가",
+            "article:section": "증권 일반",
+            "dable:item_id": "2023102430231",
+            "og:title": "암호화폐 들썩이자…위지트 상한가",
+            "og:image:height": "630",
+            "classification": "finance",
+            "twitter:image:src": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+            "fb:app_id": "872625546175034",
+            "dable:author": "이지효",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+            "twitter:description": "암호화폐 들썩이자…위지트 상한가, 이지효 기자, 증권",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.hankyung.com/article/2023102430231"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
+          }
+        ]
+      }
+    },
     {
       "kind": "customsearch#result",
       "title": "<코>위지트, 상한가 진입.. +29.91%",
@@ -113,126 +239,33 @@
     },
     {
       "kind": "customsearch#result",
-      "title": "암호화폐 들썩이자…위지트 상한가 | 한국경제",
-      "htmlTitle": "암호화폐 들썩이자…<b>위지트 상한가</b> | 한국경제",
-      "link": "https://www.hankyung.com/article/2023102430231",
-      "displayLink": "www.hankyung.com",
-      "snippet": "Oct 24, 2023 ... 암호화폐 들썩이자…위지트 상한가 ... 비트코인이 4700만원 선을 돌파해 연고점을 경신하자 국내 암호화폐 관련주가 들썩이고 있다. 우리기술투자는 24일 ...",
-      "htmlSnippet": "Oct 24, 2023 <b>...</b> 암호화폐 들썩이자…<b>위지트 상한가</b> ... 비트코인이 4700만원 선을 돌파해 연고점을 경신하자 국내 암호화폐 관련주가 들썩이고 있다. 우리기술투자는 24일&nbsp;...",
-      "cacheId": "WJsu96VxJoMJ",
-      "formattedUrl": "https://www.hankyung.com/article/2023102430231",
-      "htmlFormattedUrl": "https://www.hankyung.com/article/2023102430231",
+      "title": "위지트 | 한국경제",
+      "htmlTitle": "<b>위지트</b> | 한국경제",
+      "link": "https://markets.hankyung.com/stock/036090",
+      "displayLink": "markets.hankyung.com",
+      "snippet": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가. 2024.01.11 06:27 ; 美 비트코인 ETF 승인에 관련주 '환호'…우리기술투자 '上' [종합]. 2024.01.11 03:49.",
+      "htmlSnippet": "암호화폐 관련주 일제히 급등…한화투자증권·<b>위지트</b> 등 <b>상한가</b>. 2024.01.11 06:27 ; 美 비트코인 ETF 승인에 관련주 &#39;환호&#39;…우리기술투자 &#39;上&#39; [종합]. 2024.01.11 03:49.",
+      "cacheId": "gYOWw-4tO_QJ",
+      "formattedUrl": "https://markets.hankyung.com/stock/036090",
+      "htmlFormattedUrl": "https://markets.hankyung.com/stock/036090",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcYJoHN601Rcb6La9fYKf2y4TPolsYuUgC7sB4BUCdOqPk5Zq7I2D6rj-",
-            "width": "310",
-            "height": "163"
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDK-4JzqBCTNZJhseYVIKk2lEJdlTpKdnedtedkecnLnaPAXQSDY0Rmg",
+            "width": "124",
+            "height": "78"
           }
         ],
         "metatags": [
           {
-            "apple-itunes-app": "app-id=406614875, app-argument=https://www.hankyung.com/article/2023102430231",
-            "og:image": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
-            "og:image:width": "1200",
-            "twitter:card": "summary_large_image",
-            "article:published_time": "2023-10-24T18:06:19+09:00",
-            "og:site_name": "한국경제",
-            "title": "암호화폐 들썩이자…위지트 상한가",
-            "og:description": "암호화폐 들썩이자…위지트 상한가, 이지효 기자, 증권",
-            "”robots”": "”max-image-preview:large”",
-            "article:section2": "신문(강판)",
-            "article:section3": "0100",
-            "twitter:site": "@hankyungmedia",
-            "article:published": "2023-10-24",
-            "og:type": "article",
-            "twitter:title": "암호화폐 들썩이자…위지트 상한가",
-            "article:section": "증권 일반",
-            "dable:item_id": "2023102430231",
-            "og:title": "암호화폐 들썩이자…위지트 상한가",
-            "og:image:height": "630",
-            "classification": "finance",
-            "twitter:image:src": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
-            "fb:app_id": "872625546175034",
-            "dable:author": "이지효",
-            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
-            "twitter:description": "암호화폐 들썩이자…위지트 상한가, 이지효 기자, 증권",
-            "og:locale": "ko_KR",
-            "og:url": "https://www.hankyung.com/article/2023102430231"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "<코>위지트, 상한가 진입.. +29.99%",
-      "htmlTitle": "&lt;코&gt;<b>위지트</b>, <b>상한가</b> 진입.. +29.99%",
-      "link": "https://www.sedaily.com/NewsView/29W321GREB",
-      "displayLink": "www.sedaily.com",
-      "snippet": "Oct 24, 2023 ... 증권 > News봇 뉴스: 오후 2시 27분 현재 위지트(036090)가 +29.99% 오른 867원(△200)으로 장중 상한가에 진입했다. 거래대금은 487억4558만, 거래.",
-      "htmlSnippet": "Oct 24, 2023 <b>...</b> 증권 &gt; News봇 뉴스: 오후 2시 27분 현재 <b>위지트</b>(036090)가 +29.99% 오른 867원(△200)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 487억4558만, 거래.",
-      "cacheId": "cnKMvnY47mAJ",
-      "formattedUrl": "https://www.sedaily.com/NewsView/29W321GREB",
-      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/29W321GREB",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQPMhMeM36D_IIhXCvXYOK4F3IQXzNGGpvdxhXlwH1woaDN6OtNO9dyi7",
-            "width": "331",
-            "height": "152"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://newsimg.sedaily.com/2023/10/24/29W321GREB_1.png",
-            "article:published_time": "2023-10-24T14:27:02+09:00",
-            "twitter:card": "summary_large_image",
-            "dd:author": "서경뉴스봇",
-            "dd:availability": "true",
-            "og:site_name": "서울경제",
-            "dd:modified_time": "2023-10-24T14:27:02+09:00",
-            "og:image:type": "image/jpeg",
-            "title": "<코>위지트, 상한가 진입.. +29.99% ↑ | 서울경제",
-            "dd:published_time": "2023-10-24T14:27:02+09:00",
-            "og:description": "증권 > News봇 뉴스: 오후 2시 27분 현재 위지트(036090)가 +29.99% 오른 867원(▲200)으로 장중 상한가에 진입했다. 거래대금은 487억4,558만, 거래...",
-            "article:publisher": "https://www.facebook.com/sedailythumb/",
-            "twitter:image": "https://newsimg.sedaily.com/2023/10/24/29W321GREB_1.png",
-            "article:section2": "News봇",
-            "article:modified_time": "2023-10-24T14:27:02+09:00",
-            "og:site": "https://m.sedaily.com/NewsView/29W321GREB/GA1302",
-            "dd:publisher": "서울경제신문",
-            "og:type": "article",
-            "article:section": "증권",
-            "twitter:title": "<코>위지트, 상한가 진입.. +29.99% ↑",
-            "dable:item_id": "29W321GREB",
-            "og:title": "<코>위지트, 상한가 진입.. +29.99% ↑",
-            "ngh:section": "News봇",
-            "article:author": "https://www.facebook.com/sedailythumb/",
-            "dd:title": "​<코>위지트, 상한가 진입.. +29.99% ↑​",
-            "dd:category": "News봇",
-            "fb:app_id": "1537222596593765",
-            "dable:author": "서경뉴스봇",
-            "dd:content_id": "29W321GREB",
-            "ngh:email": "newsbot@sedaily.com",
-            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
-            "twitter:description": "증권 > News봇 뉴스: 오후 2시 27분 현재 위지트(036090)가 +29.99% 오른 867원(▲200)으로 장중 상한가에 진입했다. 거래대금은 487억4,558만, 거래...",
-            "ngh:id": "29W321GREB",
-            "dable:image": "https://newsimg.sedaily.com/2023/10/24/29W321GREB_1_m.png",
-            "ngh:title": "​<코>위지트, 상한가 진입.. +29.99% ↑​",
-            "og:url": "https://m.sedaily.com/NewsView/29W321GREB/GA1302",
-            "ngh:author": "서경뉴스봇",
-            "ngh:jpart": "전략기획실",
+            "naver-site-verification": "d15c9d23f7cab90cc75356e5f40a99714fd514b6",
+            "viewport": "width=device-width, initial-scale=1",
             "format-detection": "telephone=no"
           }
         ],
         "cse_image": [
           {
-            "src": "https://newsimg.sedaily.com/2023/10/24/29W321GREB_1.png"
+            "src": "https://img.hankyung.com/photo/202401/AA.35543454.3.jpg"
           }
         ]
       }
@@ -241,32 +274,32 @@
       "kind": "customsearch#result",
       "title": "위지트 (036090)",
       "htmlTitle": "<b>위지트</b> (036090)",
-      "link": "https://securities.miraeasset.com/bbs/download/2117401.pdf?attachmentId=2117401",
+      "link": "https://securities.miraeasset.com/bbs/download/2118447.pdf?attachmentId=2118447",
       "displayLink": "securities.miraeasset.com",
-      "snippet": "Nov 17, 2023 ... 위지트 상한가 · 비트코인이 4700만원 선을 돌파해 연고점을 경신하자 국내 ... 위지트는 상한가로 장을 마쳤다. 우리기술투자와 위지트는 각각 … 한국 ...",
-      "htmlSnippet": "Nov 17, 2023 <b>...</b> <b>위지트 상한가</b> &middot; 비트코인이 4700만원 선을 돌파해 연고점을 경신하자 국내 ... <b>위지트</b>는 <b>상한가</b>로 장을 마쳤다. 우리기술투자와 <b>위지트</b>는 각각 … 한국&nbsp;...",
-      "cacheId": "5sCcxWzOANsJ",
-      "formattedUrl": "https://securities.miraeasset.com/bbs/download/2117401.pdf?attachmentId...",
-      "htmlFormattedUrl": "https://securities.miraeasset.com/bbs/download/2117401.pdf?attachmentId...",
+      "snippet": "Dec 6, 2023 ... 위지트 상한가 · 비트코인이 4700만원 선을 돌파해 연고점을 경신하자 국내 ... 위지트는 상한가로 장을 마쳤다. 우리기술투자와 위지트는 각각 … 한국 ...",
+      "htmlSnippet": "Dec 6, 2023 <b>...</b> <b>위지트 상한가</b> &middot; 비트코인이 4700만원 선을 돌파해 연고점을 경신하자 국내 ... <b>위지트</b>는 <b>상한가</b>로 장을 마쳤다. 우리기술투자와 <b>위지트</b>는 각각 … 한국&nbsp;...",
+      "cacheId": "SEGABcwfk30J",
+      "formattedUrl": "https://securities.miraeasset.com/bbs/download/2118447.pdf?attachmentId...",
+      "htmlFormattedUrl": "https://securities.miraeasset.com/bbs/download/2118447.pdf?attachmentId...",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnJ7IqJ7VKER0A60qfODziWqrhpgCAzRmgQ7o9dzL3dApAaMjjensNi_8",
-            "width": "268",
-            "height": "188"
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnnxIYxaWqGM_t4tEBrLyWTMtCm6OaQgFRvTuMw0dzIatvGpvV-XGblZJJ",
+            "width": "225",
+            "height": "224"
           }
         ],
         "metatags": [
           {
-            "moddate": "D:20231116232154+00'00'",
+            "moddate": "D:20231205231908+00'00'",
             "creator": "Chromium",
-            "creationdate": "D:20231116232154+00'00'",
+            "creationdate": "D:20231205231908+00'00'",
             "producer": "Skia/PDF m100"
           }
         ],
         "cse_image": [
           {
-            "src": "x-raw-image:///d57efb4b621d9ee1e539c5d8cee35130d6ba420efc6b623e85def8036d9baec8"
+            "src": "x-raw-image:///20916bbbebf6590ff703039df808eded980c4d9773dce0a136f730cc02887a3d"
           }
         ]
       },
@@ -372,33 +405,57 @@
     },
     {
       "kind": "customsearch#result",
-      "title": "위지트 | 한국경제",
-      "htmlTitle": "<b>위지트</b> | 한국경제",
-      "link": "https://markets.hankyung.com/stock/036090",
-      "displayLink": "markets.hankyung.com",
-      "snippet": "위지트, 한경코리아마켓 국내증권, 시장의 전반적인 지표를 제공. ... 위지트 상한가. 2023.10.24 06:06. 비트코인 3.3만달러 돌파…가상화폐 관련주 동반 ...",
-      "htmlSnippet": "<b>위지트</b>, 한경코리아마켓 국내증권, 시장의 전반적인 지표를 제공. ... <b>위지트 상한가</b>. 2023.10.24 06:06. 비트코인 3.3만달러 돌파…가상화폐 관련주 동반&nbsp;...",
-      "cacheId": "gYOWw-4tO_QJ",
-      "formattedUrl": "https://markets.hankyung.com/stock/036090",
-      "htmlFormattedUrl": "https://markets.hankyung.com/stock/036090",
+      "title": "비트코인 관련株, 미국발 훈풍에 일제히 상한가 - 매일경제",
+      "htmlTitle": "비트코인 관련株, 미국발 훈풍에 일제히 <b>상한가</b> - 매일경제",
+      "link": "https://www.mk.co.kr/news/stock/10918831",
+      "displayLink": "www.mk.co.kr",
+      "snippet": "17 hours ago ... 위지트는 빗썸 운영사인 비티씨코리아닷컴의 지분을 보유한 옴니텔의 지분을 갖고 있어 관련주로 분류된다. 가상화폐 거래소 '코인원'에 312억원을 투자 ...",
+      "htmlSnippet": "17 hours ago <b>...</b> <b>위지트</b>는 빗썸 운영사인 비티씨코리아닷컴의 지분을 보유한 옴니텔의 지분을 갖고 있어 관련주로 분류된다. 가상화폐 거래소 &#39;코인원&#39;에 312억원을 투자&nbsp;...",
+      "cacheId": "DkQ6Sr9Noo4J",
+      "formattedUrl": "https://www.mk.co.kr/news/stock/10918831",
+      "htmlFormattedUrl": "https://www.mk.co.kr/news/stock/10918831",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe1SJ7zygnwgiLLdoPYYCuC-FgBNv2N_orgS5Yj982tl3tR3j00CSMPC0t",
-            "width": "284",
-            "height": "177"
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRug_BvvRbz09BSO_QZ9LkPnlHE61jcyTpcgR_miO38nvz2xTh7etpe3YjH",
+            "width": "200",
+            "height": "145"
+          }
+        ],
+        "thumbnail": [
+          {
+            "src": "https://wimg.mk.co.kr/news/cms/202401/11/rcv.YNA.20240111.PYH2024011110420001300_T1.jpg"
           }
         ],
         "metatags": [
           {
-            "naver-site-verification": "d15c9d23f7cab90cc75356e5f40a99714fd514b6",
-            "viewport": "width=device-width, initial-scale=1",
-            "format-detection": "telephone=no"
+            "ssc:cmsid": "AKR1202401111524263927",
+            "image": "https://wimg.mk.co.kr/news/cms/202401/11/rcv.YNA.20240111.PYH2024011110420001300.jpg",
+            "og:image": "https://wimg.mk.co.kr/news/cms/202401/11/rcv.YNA.20240111.PYH2024011110420001300.jpg",
+            "thumbnail": "https://wimg.mk.co.kr/news/cms/202401/11/rcv.YNA.20240111.PYH2024011110420001300_T1.jpg",
+            "og:type": "article",
+            "twitter:title": "비트코인 관련株, 미국발 훈풍에 일제히 상한가 - 매일경제",
+            "twitter:card": "summary_large_image",
+            "article:section": "stock",
+            "article:published_time": "2024-01-11T15:44:35+09:00",
+            "og:site_name": "매일경제",
+            "twitter:url": "https://www.mk.co.kr/news/stock/10918831",
+            "og:title": "비트코인 관련株, 미국발 훈풍에 일제히 상한가 - 매일경제",
+            "articleid": "10918831",
+            "org_class": "MK100502",
+            "og:description": "미국 증권거래위원회(SEC)가 비트코인 현물 상장지수펀드(ETF)를 마침내 승인하면서 국내 증시에도 관련 종목이 일제히 상한가를 나타냈다. 11일 코스닥 시장에서 우리기술투자는 전일 종가 대비 29.98% 오른 8020원에 거래를 마쳤다. 이 회사는 국내 최대 가상화폐 거래소 운영사인 두나무의 지분 7.23%를 보유해 관련주로 분류된다. 마찬가지로 두나무",
+            "twitter:image": "https://wimg.mk.co.kr/news/cms/202401/11/rcv.YNA.20240111.PYH2024011110420001300.jpg",
+            "taboola:title": "비트코인 관련株, 미국발 훈풍에 일제히 상한가",
+            "byl": "By 김대은",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "미국 증권거래위원회(SEC)가 비트코인 현물 상장지수펀드(ETF)를 마침내 승인하면서 국내 증시에도 관련 종목이 일제히 상한가를 나타냈다. 11일 코스닥 시장에서 우리기술투자는 전일 종가 대비 29.98% 오른 8020원에 거래를 마쳤다. 이 회사는 국내 최대 가상화폐 거래소 운영사인 두나무의 지분 7.23%를 보유해 관련주로 분류된다. 마찬가지로 두나무",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.mk.co.kr/news/stock/10918831"
           }
         ],
         "cse_image": [
           {
-            "src": "https://img.hankyung.com/photo/202311/01.35085034.3.jpg"
+            "src": "https://wimg.mk.co.kr/news/cms/202401/11/rcv.YNA.20240111.PYH2024011110420001300_T1.jpg"
           }
         ]
       }
@@ -442,110 +499,41 @@
     },
     {
       "kind": "customsearch#result",
-      "title": "[특징주] 위지트, 비트코인 가격 상승 +29.99% '상한가' 마감 - 전국매일 ...",
-      "htmlTitle": "[특징주] <b>위지트</b>, 비트코인 가격 상승 +29.99% &#39;<b>상한가</b>&#39; 마감 - 전국매일 ...",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=989039",
-      "displayLink": "www.jeonmae.co.kr",
-      "snippet": "Oct 24, 2023 ... 위지트 주가가 24일 상한가를 기록하고 있다. 이날 기준 전 거래일 대비 +29.99% 오른 867원에 거래를 마쳤다. 거래량은 6172만 1581건이다.",
-      "htmlSnippet": "Oct 24, 2023 <b>...</b> <b>위지트</b> 주가가 24일 <b>상한가</b>를 기록하고 있다. 이날 기준 전 거래일 대비 +29.99% 오른 867원에 거래를 마쳤다. 거래량은 6172만 1581건이다.",
-      "cacheId": "DjiYBrdDWrwJ",
-      "formattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=989039",
-      "htmlFormattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=989039",
+      "title": "<코>위지트, 상한가 진입.. +29.89% ↑",
+      "htmlTitle": "&lt;코&gt;<b>위지트</b>, <b>상한가</b> 진입.. +29.89% ↑",
+      "link": "https://m.sedaily.com/PhotoViewer/2D41JSOFS4/1",
+      "displayLink": "m.sedaily.com",
+      "snippet": "코>위지트, 상한가 진입.. +29.89% ↑",
+      "htmlSnippet": "코&gt;<b>위지트</b>, <b>상한가</b> 진입.. +29.89% ↑",
+      "cacheId": "xuG6NHDIZcMJ",
+      "formattedUrl": "https://m.sedaily.com/PhotoViewer/2D41JSOFS4/1",
+      "htmlFormattedUrl": "https://m.sedaily.com/PhotoViewer/2D41JSOFS4/1",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqmpKfB3sIXE5cIK5OmxmOYYTqkkRaE2jjiffSRsP8wYvz5E1upsGnXrew",
-            "width": "295",
-            "height": "171"
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxMBkcXm5sbWVBrYdPjeGDhxthYA9Bn74ZIa4tn3UrUMgr_DO6YwlRT5Y",
+            "width": "311",
+            "height": "162"
           }
         ],
         "metatags": [
           {
-            "og:image": "https://www.jeonmae.co.kr/news/thumbnail/202310/989039_681353_3447_v150.jpg",
-            "theme-color": "#3763af",
-            "copyright": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
-            "og:type": "article",
-            "twitter:card": "summary",
-            "twitter:title": "[특징주] 위지트, 비트코인 가격 상승 +29.99% '상한가' 마감",
-            "article:section": "경제",
-            "article:published_time": "2023-10-24T16:35:43+09:00",
-            "og:site_name": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
-            "dable:item_id": "989039",
-            "og:title": "[특징주] 위지트, 비트코인 가격 상승 +29.99% '상한가' 마감",
-            "title": "[특징주] 위지트, 비트코인 가격 상승 +29.99% '상한가' 마감",
-            "classification": "경제 > 금융·유통",
-            "og:description": "위지트 주가가 24일 상한가를 기록하고 있다. 이날 기준 전 거래일 대비 +29.99% 오른 867원에 거래를 마쳤다. 거래량은 6,172만 1,581건이다. 이는 비트코인 가격 상승에 주식시장의 관련 종목들의 주가가 영향으로 받은 것으로 보인다. 비트코인 가격은 최근 한 달 새 20%가량 올랐다. 이는 미국 자산운용사들이 신청한 비트코인 현물 상장지수펀드(ETF) 신청에 대한 미 증권거래위원회(SEC)의 승인이 임박했다는 기대감이 작용한 것으로 분석된다. 현물 ETF 승인 시 비트코인이 급등할 것이라는 전망도 나온다.위지트는 국내",
-            "twitter:creator": "제갈은기자",
-            "twitter:image": "https://www.jeonmae.co.kr/news/thumbnail/202310/989039_681353_3447_v150.jpg",
-            "article:section1": "금융·유통",
-            "dable:author": "제갈은기자",
-            "twitter:site": "https://www.jeonmae.co.kr/news/articleView.html?idxno=989039",
-            "viewport": "width=device-width, initial-scale=1.0",
-            "news_keywords": "위지트,상한가,특징주,비트코인,비트코인가격상승,주식시장,가상화폐거래소,빗썸,ETF,SEC",
-            "twitter:description": "위지트 주가가 24일 상한가를 기록하고 있다. 이날 기준 전 거래일 대비 +29.99% 오른 867원에 거래를 마쳤다. 거래량은 6,172만 1,581건이다. 이는 비트코인 가격 상승에 주식시장의 관련 종목들의 주가가 영향으로 받은 것으로 보인다. 비트코인 가격은 최근 한 달 새 20%가량 올랐다. 이는 미국 자산운용사들이 신청한 비트코인 현물 상장지수펀드(ETF) 신청에 대한 미 증권거래위원회(SEC)의 승인이 임박했다는 기대감이 작용한 것으로 분석된다. 현물 ETF 승인 시 비트코인이 급등할 것이라는 전망도 나온다.위지트는 국내",
-            "og:url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=989039",
-            "og:article:author": "제갈은기자"
+            "og:image": "https://img.sedaily.com/web/common/sedailyV2.jpg",
+            "og:type": "website",
+            "og:site_name": "서울경제",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "og:title": "<코>위지트, 상한가 진입.. +29.89% ↑",
+            "og:locale": "ko_KR",
+            "title": "<코>위지트, 상한가 진입.. +29.89% ↑",
+            "og:url": "https://m.sedaily.com/PhotoViewer/2D41JSOFS4/1",
+            "article:author": "https://m.sedaily.com",
+            "article:publisher": "https://m.sedaily.com",
+            "format-detection": "telephone=no"
           }
         ],
         "cse_image": [
           {
-            "src": "https://www.jeonmae.co.kr/news/thumbnail/202310/989039_681353_3447_v150.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "위지트 상한가·우리기술투자 주가 질주..비트코인 관련주 '테슬라의 ...",
-      "htmlTitle": "<b>위지트 상한가</b>·우리기술투자 주가 질주..비트코인 관련주 &#39;테슬라의 ...",
-      "link": "http://kpenews.com/View.aspx?No=1463604",
-      "displayLink": "kpenews.com",
-      "snippet": "Feb 9, 2021 ... 먼저 위지트는 이날 오전 일찍이 상한가를 기록했다. 전 거래일 대비 29.9%(435원) 오른 1890원에 거래되고 있다. 우리기술투자는 오후 1시 51분 장중 전 ...",
-      "htmlSnippet": "Feb 9, 2021 <b>...</b> 먼저 <b>위지트</b>는 이날 오전 일찍이 <b>상한가</b>를 기록했다. 전 거래일 대비 29.9%(435원) 오른 1890원에 거래되고 있다. 우리기술투자는 오후 1시 51분 장중 전&nbsp;...",
-      "cacheId": "tETrSpuHr8oJ",
-      "formattedUrl": "http://kpenews.com/View.aspx?No=1463604",
-      "htmlFormattedUrl": "http://kpenews.com/View.aspx?No=1463604",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-5rs7iBzjv49TDwfUJon2WWZnWswss6HkgyCib6-DyS5A4QNK6l2ZIHw",
-            "width": "282",
-            "height": "179"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "http://kpenews.com/Files/4/News/202102/114_20210209141534582.JPG",
-            "copyright": "한국정경신문",
-            "og:image:width": "600",
-            "article:published_time": "Tue, 09 Feb 2021 14:15:40 GMT",
-            "twitter:card": "summary",
-            "og:site_name": "한국정경신문",
-            "apple-mobile-web-app-title": "한국정경신문",
-            "title": "위지트 상한가·우리기술투자 주가 질주..비트코인 관련주 '테슬라의 선택'",
-            "og:description": "[한국정경신문=김지연 기자] 위지트·우리기술투자 주가에 이목이 쏠린다.9일 한국거래소에 따르면 위지트·우리기술투자 주가가 상승세를 이어자고 있다. 먼저 위지트는 이날 오전 일찍이 상한가를 기록했다. 전 거래일 대비 29.9%(435원) 오른 1890원에 거래되고 있다. 우리기술투자는 오후 1시 51분 장중 전 거래일 대비 16.81%(770원) 오른 5350원에 거래되고 있다. 두 종목은 비트코인 관련주다. 테슬라가 비트코인에 15억달러(약 1조7000억원)을 투자했다는 소식이 전해지면서 주가 수혜가 이어지고 있는 것으로 해석되고",
-            "twitter:image": "http://kpenews.com/Files/4/News/202102/114_20210209141534582.JPG",
-            "article:section2": "증권",
-            "naver-site-verification": "d89bd7722228b78ea2ea6b176d5e1f3766d50626",
-            "og:site": "http://kpenews.com/ViewM.aspx?No=1463604",
-            "og:type": "article",
-            "article:section": "시장과경제",
-            "twitter:title": "위지트 상한가·우리기술투자 주가 질주..비트코인 관련주 '테슬라의 선택'",
-            "author": "김지연 기자 koreacuturein@gmail.com",
-            "dable:item_id": "1463604",
-            "og:title": "위지트 상한가·우리기술투자 주가 질주..비트코인 관련주 '테슬라의 선택' - 한국정경신문",
-            "og:image:height": "300",
-            "movideo:news_key": "1364796",
-            "referrer": "no-referrer-when-downgrade",
-            "fb:app_id": "117004189016787",
-            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no",
-            "twitter:description": "[한국정경신문=김지연 기자] 위지트·우리기술투자 주가에 이목이 쏠린다.9일 한국거래소에 따르면 위지트·우리기술투자 주가가 상승세를 이어자고 있다. 먼저 위지트는 이날 오전 일찍이 상한가를 기록했다. 전 거래일 대비 29.9%(435원) 오른 1890원에 거래되고 있다. 우리기술투자는 오후 1시 51분 장중 전 거래일 대비 16.81%(770원) 오른 5350원에 거래되고 있다. 두 종목은 비트코인 관련주다. 테슬라가 비트코인에 15억달러(약 1조7000억원)을 투자했다는 소식이 전해지면서 주가 수혜가 이어지고 있는 것으로 해석되고",
-            "og:url": "http://kpenews.com/ViewM.aspx?No=1463604"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "http://kpenews.com/Files/4/News/202102/114_20210209141534582.JPG"
+            "src": "https://img.sedaily.com/web/common/sedailyV2.jpg"
           }
         ]
       }

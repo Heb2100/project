@@ -36,8 +36,8 @@
     "title": "test_2401_2"
   },
   "searchInformation": {
-    "searchTime": 0.166912,
-    "formattedSearchTime": "0.17",
+    "searchTime": 0.161957,
+    "formattedSearchTime": "0.16",
     "totalResults": "12000",
     "formattedTotalResults": "12,000"
   },
@@ -208,6 +208,54 @@
     },
     {
       "kind": "customsearch#result",
+      "title": "대성창투, +29.93% 상한가 - 조선비즈",
+      "htmlTitle": "<b>대성창투</b>, +29.93% <b>상한가</b> - 조선비즈",
+      "link": "https://biz.chosun.com/stock/c-biz_bot/2024/01/11/XDDIEZSNWCJRIKPX4DTKHZXUXM/",
+      "displayLink": "biz.chosun.com",
+      "snippet": "17 hours ago ... 대성창투(027830)가 상한가를 기록했다. 전일 대비 29.93% 상승한 2,370원에 거래되고 있다. 대성창투 연관 테마 큐캐피탈(016600), SBI인베스트먼트 ...",
+      "htmlSnippet": "17 hours ago <b>...</b> <b>대성창투</b>(027830)가 <b>상한가</b>를 기록했다. 전일 대비 29.93% 상승한 2,370원에 거래되고 있다. <b>대성창투</b> 연관 테마 큐캐피탈(016600), SBI인베스트먼트&nbsp;...",
+      "cacheId": "LwQxDbjprbEJ",
+      "formattedUrl": "https://biz.chosun.com/stock/c.../XDDIEZSNWCJRIKPX4DTKHZXUXM/",
+      "htmlFormattedUrl": "https://biz.chosun.com/stock/c.../XDDIEZSNWCJRIKPX4DTKHZXUXM/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU_HBqdJbGL_8odsLfspfPenrfh5z3M6w4hT9csAIqyXqG2YUMRexbBWbf",
+            "width": "310",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://biz.chosun.com/resizer/zIe50TegXi9HhQXyz-f2-X-MmK0=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/SHPEWA5WLJBXMX6GU27OHHWHLQ.png",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "대성창투, +29.93% 상한가",
+            "article:published_time": "2024-01-11T06:31:14.161Z",
+            "article:section": "C-Biz봇",
+            "og:site_name": "조선비즈",
+            "dable:item_id": "XDDIEZSNWCJRIKPX4DTKHZXUXM",
+            "og:title": "대성창투, +29.93% 상한가",
+            "og:description": "대성창투, +29.93% 상한가",
+            "twitter:creator": "@Chosun",
+            "article:author": "조선비즈",
+            "twitter:image:src": "https://biz.chosun.com/resizer/zIe50TegXi9HhQXyz-f2-X-MmK0=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/SHPEWA5WLJBXMX6GU27OHHWHLQ.png",
+            "referrer": "no-referrer-when-downgrade",
+            "twitter:site": "@Chosun",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "대성창투, +29.93% 상한가",
+            "og:url": "https://biz.chosun.com/stock/c-biz_bot/2024/01/11/XDDIEZSNWCJRIKPX4DTKHZXUXM/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://biz.chosun.com/resizer/zIe50TegXi9HhQXyz-f2-X-MmK0=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/SHPEWA5WLJBXMX6GU27OHHWHLQ.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
       "title": "[종목 포커스] 대성창투, `명량` 흥행에 상한가 - 매일경제",
       "htmlTitle": "[종목 포커스] <b>대성창투</b>, `명량` 흥행에 <b>상한가</b> - 매일경제",
       "link": "https://www.mk.co.kr/news/stock/6229353",
@@ -264,6 +312,65 @@
     },
     {
       "kind": "customsearch#result",
+      "title": "[상한가 보드] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 ...",
+      "htmlTitle": "[<b>상한가</b> 보드] <b>대성창투</b> 린드먼아시아 위지트 인스웨이브시스템즈 ...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=456732",
+      "displayLink": "www.cbci.co.kr",
+      "snippet": "17 hours ago ... [김현진 기자] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어가 11일 상한가 마감하는 기염 ...",
+      "htmlSnippet": "17 hours ago <b>...</b> [김현진 기자] <b>대성창투</b> 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어가 11일 <b>상한가</b> 마감하는 기염&nbsp;...",
+      "cacheId": "pyz2-TtmJoAJ",
+      "formattedUrl": "https://www.cbci.co.kr/news/articleView.html?idxno=456732",
+      "htmlFormattedUrl": "https://www.cbci.co.kr/news/articleView.html?idxno=456732",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLczeCB3yYf0mIjlZ3KIIVQoW2sJ4D4v-kIgrVAAT4EHvyTrb9j9tp_A8",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.cbci.co.kr/news/thumbnail/202401/456732_264219_4623_v150.jpg",
+            "theme-color": "#14ac55",
+            "copyright": "CBC뉴스 | CBCNEWS",
+            "twitter:card": "summary",
+            "dd:author": "김현진 기자",
+            "dd:availability": "true",
+            "article:published_time": "2024-01-11T15:46:33+09:00",
+            "og:site_name": "CBC뉴스 | CBCNEWS",
+            "dd:modified_time": "2024-01-11T15:46:33+09:00",
+            "title": "[상한가 보드] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어 주가 上도약...이월드 에이스테크 한일진공 코닉오토메이션은 상한가에서 이탈",
+            "dd:published_time": "2024-01-11T15:46:33+09:00",
+            "og:description": "[김현진 기자] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어가 11일 상한가 마감하는 기염을 토했다.이날 이월드 에이스테크 한일진공 코닉오토메이션은 상한가를 도달한 후 이탈하기도 했다.상한가 종목 중에서 한화투자증권, 한화투자증권우, 옵티코어는 3거래일 상승세를 유지하고 있다. 이탈 종목 중에서 이월드도 3일 연속 상승세를 드러냈다.이월드는 앞서 10일 상한가로 마감하는 기염을 토하기도 했다.[모든 투자는 각자의 판단으로 선택해서 하는 것으로 최종적 책임은 투자자에게 있다는 점을",
+            "twitter:creator": "김현진 기자",
+            "twitter:image": "https://www.cbci.co.kr/news/thumbnail/202401/456732_264219_4623_v150.jpg",
+            "twitter:site": "https://www.cbci.co.kr/news/articleView.html?idxno=456732",
+            "og:article:author": "김현진 기자",
+            "dd:publisher": "CBC뉴스 | CBCNEWS",
+            "og:type": "article",
+            "twitter:title": "[상한가 보드] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어 주가 上도약...이월드 에이스테크 한일진공 코닉오토메이션은 상한가에서 이탈",
+            "article:section": "경제",
+            "dable:item_id": "456732",
+            "og:title": "[상한가 보드] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어 주가 上도약...이월드 에이스테크 한일진공 코닉오토메이션은 상한가에서 이탈",
+            "classification": "경제",
+            "dd:category": "경제",
+            "dable:author": "김현진 기자",
+            "dd:content_id": "456732",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "[김현진 기자] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어가 11일 상한가 마감하는 기염을 토했다.이날 이월드 에이스테크 한일진공 코닉오토메이션은 상한가를 도달한 후 이탈하기도 했다.상한가 종목 중에서 한화투자증권, 한화투자증권우, 옵티코어는 3거래일 상승세를 유지하고 있다. 이탈 종목 중에서 이월드도 3일 연속 상승세를 드러냈다.이월드는 앞서 10일 상한가로 마감하는 기염을 토하기도 했다.[모든 투자는 각자의 판단으로 선택해서 하는 것으로 최종적 책임은 투자자에게 있다는 점을",
+            "og:url": "https://www.cbci.co.kr/news/articleView.html?idxno=456732"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cbci.co.kr/news/thumbnail/202401/456732_264219_4623_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
       "title": "대성창투(027830) | 종목토론 - 팍스넷 증권포털",
       "htmlTitle": "<b>대성창투</b>(027830) | 종목토론 - 팍스넷 증권포털",
       "link": "https://www.paxnet.co.kr/tbbs/list?tbbsType=L&id=027830",
@@ -290,6 +397,69 @@
         "cse_image": [
           {
             "src": "https://image.paxnet.co.kr/rpan/common/images/img_guide.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "대성창투·린드먼아시아·옵티코어 등 8종목 상한가, 태영건설·동운아나 ...",
+      "htmlTitle": "<b>대성창투</b>·린드먼아시아·옵티코어 등 8종목 <b>상한가</b>, 태영건설·동운아나 ...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20240111001555548",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "16 hours ago ... 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어 6 종목 상한가, 926 종목 상승, 101 종목 보합, 608개 종목은 하락했다.",
+      "htmlSnippet": "16 hours ago <b>...</b> 우리기술투자, <b>대성창투</b>, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어 6 종목 <b>상한가</b>, 926 종목 상승, 101 종목 보합, 608개 종목은 하락했다.",
+      "cacheId": "rkfAttu2uGgJ",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20240111001555548",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20240111001555548",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqLJvOGIh2BFIKER4EUxFZJLVx5TZCkSRjVnBTB0XI8CKAvMoyisaQThg",
+            "width": "109",
+            "height": "129"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202401/20240111001555548_1.jpg",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-11T16:02:09+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "대성창투·린드먼아시아·옵티코어 등 8종목 상한가, 태영건설·동운아나텍 급등 마감",
+            "distribution": "영남일보",
+            "og:description": "11일 한국거래소에 따르면 코스피지수는 전일 대비 1.71p(-0.7%) 하락 마감했다.외국인과 기관은 각 3768억원, 3328억원을 순매도 했다. 개인은 6962억원을 순매수했..",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202401/20240111001555548_1.jpg",
+            "article:section2": "증시·금융",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "에코프로비엠, 이월드, 삼성전자, 카카오, 비트코인",
+            "og:site": "https://m.yeongnam.com/view.php?key=20240111001555548",
+            "author-date(date)": "2024-01-11",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202401/20240111001555548_1.jpg",
+            "og:type": "article",
+            "twitter:title": "대성창투·린드먼아시아·옵티코어 등 8종목 상한가, 태영건설·동운아나텍 급등 마감",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20240111001555548",
+            "og:title": "대성창투·린드먼아시아·옵티코어 등 8종목 상한가, 태영건설·동운아나텍 급등 마감",
+            "url": "https://m.yeongnam.com/view.php?key=20240111001555548",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "11일 한국거래소에 따르면 코스피지수는 전일 대비 1.71p(-0.7%) 하락 마감했다.외국인과 기관은 각 3768억원, 3328억원을 순매도 했다. 개인은 6962억원을 순매수했..",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20240111001555548"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202401/20240111001555548_1.jpg"
           }
         ]
       }
@@ -415,159 +585,6 @@
         "cse_image": [
           {
             "src": "https://img.etoday.co.kr/pto_db/2021/03/20210315181715_1594009_484_321.JPG"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "7월 21일 매매일지 : 일동제약 휴림로봇 대성창투 희림 : 네이버 블로그",
-      "htmlTitle": "7월 21일 매매일지 : 일동제약 휴림로봇 <b>대성창투</b> 희림 : 네이버 블로그",
-      "link": "https://blog.naver.com/PostView.naver?blogId=primelab382&logNo=222822798551&parentCategoryNo=&categoryNo=35&viewDate=&isShowPopularPosts=true&from=search",
-      "displayLink": "blog.naver.com",
-      "snippet": "Jul 21, 2022 ... 상한가 이후 시초가가 갭하락하여 매수. 전일 상한가의 종가 부근까지의 상승을 기대. 최대한 버텨 전일 종가 위에서 익절 / 3.06%. 일동제약.",
-      "htmlSnippet": "Jul 21, 2022 <b>...</b> <b>상한가</b> 이후 시초가가 갭하락하여 매수. 전일 <b>상한가</b>의 종가 부근까지의 상승을 기대. 최대한 버텨 전일 종가 위에서 익절 / 3.06%. 일동제약.",
-      "cacheId": "FWz2f5QevHkJ",
-      "formattedUrl": "https://blog.naver.com/PostView.naver?blogId...logNo...",
-      "htmlFormattedUrl": "https://blog.naver.com/PostView.naver?blogId...logNo...",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuNvSDb1B2mP7SdmHsmE5T6r-VDGBWRNjW8J9R_lUtoo4d7y6ZNEWc8GuK",
-            "width": "358",
-            "height": "141"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://blogthumb.pstatic.net/MjAyMjA3MjFfMjEz/MDAxNjU4Mzg5MTA0NDE5.owAHnH3Ge9IIHBmvxfQPggZ28Gy_8pM_uqyXmnDHQBgg.6mRO-zLUXab3kqC0wgosYl1JG4hM-fC-L9y3e3uPIKcg.PNG.mindmap_edu/0721.png?type=w2",
-            "og:type": "article",
-            "og:site_name": "네이버 블로그 | 프라임 연구소",
-            "og:title": "7월 21일 매매일지 : 일동제약 휴림로봇 대성창투 희림",
-            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAxNzAxMTlfNjcg/MDAxNDg0NzYxMjY1MjQ5.mEY6X55pjielr5mE2IdifW1LluKp_IqmU-2LnrmVfegg.QJj1xr0G7XMBo8n2ejRRhX-QOjkHXf6O8d2YLaa8Vk8g.JPEG.mindmap_edu/%25C7%25C1%25B7%25CE%25C7%25CA.jpg?type=s1",
-            "napp-site-analysis": "gdid=90000003_0000000000000033E14614D7,service=blog,collection=blog",
-            "og:description": "대성창투 전일 영화 #한산 흥행 기대감 속 관련주로 부각되며 #상한가 상한가 이후 시초가가 갭하락하여 매...",
-            "referrer": "always",
-            "naverblog:nickname": "프라임연구소",
-            "me:feed:serviceid": "blog",
-            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
-            "og:url": "https://blog.naver.com/primelab382/222822798551",
-            "og:article:author": "프라임 연.. | 블로그",
-            "format-detection": "telephone=no"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://blogthumb.pstatic.net/MjAyMjA3MjFfMjEz/MDAxNjU4Mzg5MTA0NDE5.owAHnH3Ge9IIHBmvxfQPggZ28Gy_8pM_uqyXmnDHQBgg.6mRO-zLUXab3kqC0wgosYl1JG4hM-fC-L9y3e3uPIKcg.PNG.mindmap_edu/0721.png?type=w2"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "상한가 특급배송 - YouTube",
-      "htmlTitle": "<b>상한가</b> 특급배송 - YouTube",
-      "link": "https://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh",
-      "displayLink": "www.youtube.com",
-      "snippet": "... 대성창투, 스마트레이더시스템, 엑스페릭스_상한가 특급배송 (20231207). 이데일리TV · 49:16 · 엔비티, 태양금속, 에스피지, 지어소프트, 글로벌텍스프리, HD현대건설기계 ...",
-      "htmlSnippet": "... <b>대성창투</b>, 스마트레이더시스템, 엑스페릭스_<b>상한가</b> 특급배송 (20231207). 이데일리TV &middot; 49:16 &middot; 엔비티, 태양금속, 에스피지, 지어소프트, 글로벌텍스프리, HD현대건설기계&nbsp;...",
-      "cacheId": "ILlIXBQsBZ8J",
-      "formattedUrl": "https://www.youtube.com/playlist?list...",
-      "htmlFormattedUrl": "https://www.youtube.com/playlist?list...",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuuAnSAoxT41tf1o3S9mWeGiYMHurjGdFNZyfy8opxU6_TfoYVE23E",
-            "width": "120",
-            "height": "90"
-          }
-        ],
-        "metatags": [
-          {
-            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
-            "og:image": "https://i.ytimg.com/vi/LvyOt_hV80I/default.jpg?days_since_epoch=19711",
-            "twitter:app:url:iphone": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=twitter-deep-link",
-            "twitter:app:id:googleplay": "com.google.android.youtube",
-            "theme-color": "rgba(0, 0, 0, 0)",
-            "og:image:width": "120",
-            "twitter:card": "summary",
-            "og:site_name": "YouTube",
-            "twitter:url": "https://www.youtube.com/playlist",
-            "twitter:app:url:ipad": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=twitter-deep-link",
-            "al:android:package": "com.google.android.youtube",
-            "twitter:app:name:googleplay": "YouTube",
-            "al:ios:url": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=applinks",
-            "twitter:app:id:iphone": "544007664",
-            "title": "상한가 특급배송 - YouTube",
-            "al:ios:app_store_id": "544007664",
-            "twitter:image": "https://i.ytimg.com/vi/LvyOt_hV80I/default.jpg?days_since_epoch=19711",
-            "twitter:site": "@YouTube",
-            "og:type": "website",
-            "twitter:title": "상한가 특급배송 - YouTube",
-            "al:ios:app_name": "YouTube",
-            "og:title": "상한가 특급배송 - YouTube",
-            "og:image:height": "90",
-            "twitter:app:id:ipad": "544007664",
-            "al:web:url": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=applinks",
-            "al:android:url": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=applinks",
-            "fb:app_id": "87741124305",
-            "twitter:app:url:googleplay": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=twitter-deep-link",
-            "twitter:app:name:ipad": "YouTube",
-            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
-            "og:restrictions:age": "18+",
-            "al:web:should_fallback": "true",
-            "og:url": "https://www.youtube.com/playlist",
-            "al:android:app_name": "YouTube",
-            "twitter:app:name:iphone": "YouTube"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://i.ytimg.com/vi/LvyOt_hV80I/default.jpg?days_since_epoch=19711"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "2021년 2월 8일 오늘의 상한가 상승종목 하락종목 이유 분석 (이트론 ...",
-      "htmlTitle": "2021년 2월 8일 오늘의 <b>상한가</b> 상승종목 하락종목 이유 분석 (이트론 ...",
-      "link": "https://blog.naver.com/PostView.nhn?blogId=fullmoon2050&logNo=222236734901&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView",
-      "displayLink": "blog.naver.com",
-      "snippet": "Feb 8, 2021 ... ... 대성창투 상한가 이유. - 넷플릭스 영화 \"승리호\" 관련주. 대성창투는 넷플릭스 영화 승리호에 투자한 투자사로 알려지면서 장중 상한가 마감. 원래 ...",
-      "htmlSnippet": "Feb 8, 2021 <b>...</b> ... <b>대성창투 상한가</b> 이유. - 넷플릭스 영화 &quot;승리호&quot; 관련주. <b>대성창투</b>는 넷플릭스 영화 승리호에 투자한 투자사로 알려지면서 장중 <b>상한가</b> 마감. 원래&nbsp;...",
-      "cacheId": "0FuUOonaCg4J",
-      "formattedUrl": "https://blog.naver.com/PostView.nhn?blogId...logNo...",
-      "htmlFormattedUrl": "https://blog.naver.com/PostView.nhn?blogId...logNo...",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE9BVGN_ot0G3C2OvTdkCem-6kc8zthjLYUyU8Fzr3WUSaJudhGTyu4fY6",
-            "width": "290",
-            "height": "174"
-          }
-        ],
-        "metatags": [
-          {
-            "og:image": "https://blogthumb.pstatic.net/MjAyMTAyMDhfMjc0/MDAxNjEyNzczMTY1MTU4.3fR0Ul-68URl6B2IfAvb17HEt1yFHhUj_4ZJ1eNUL_4g.BTlpDD8xI2Mg90OsGUv3iPprEKUfKlrA746rYpZLhSgg.PNG.fullmoon2050/2021%B3%E2_2%BF%F9_8%C0%CF_%BB%F3%C7%D1%B0%A1_%BB%F3%BD%C2%C1%BE%B8%F1_%C0%CC%C0%AF_%BA%D0%BC%AE.png?type=w2",
-            "og:type": "article",
-            "og:site_name": "네이버 블로그 | 주식 불사조의 시장 이야기",
-            "og:title": "2021년 2월 8일 오늘의 상한가 상승종목 하락종목 이유 분석 (이트론 피비피마 이아이디 KR모터스 대성창투 이즈미디어)",
-            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMjA1MzBfOTQg/MDAxNjUzODcyNDc5OTA3.KOwpAzHUVPWcNVwbsBzor61y9uBtqfnvqYRMLLJj7p4g.282ucBGt44h8zEj5BNCz3IStKqTZrJ4CEoQb1WuJAVYg.JPEG.fullmoon2050/%ED%94%84%EB%A1%9C%ED%95%84%EC%82%AC%EC%A7%84.jpeg/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%25EC%2582%25AC%25EC%25A7%2584.jpeg?type=s1",
-            "napp-site-analysis": "gdid=90000003_0000000000000033BE5775B5,service=blog,collection=blog",
-            "og:description": "상한가 상승종목 이유 분석 * 상승종목은 당일 상승순위 15위 까지를 대상으로 합니다. 1. 이트론 상한가 ...",
-            "referrer": "always",
-            "naverblog:nickname": "주식불사조",
-            "me:feed:serviceid": "blog",
-            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
-            "og:url": "https://blog.naver.com/fullmoon2050/222236734901",
-            "og:article:author": "주식 불사.. | 블로그",
-            "format-detection": "telephone=no"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://blogthumb.pstatic.net/MjAyMTAyMDhfMjc0/MDAxNjEyNzczMTY1MTU4.3fR0Ul-68URl6B2IfAvb17HEt1yFHhUj_4ZJ1eNUL_4g.BTlpDD8xI2Mg90OsGUv3iPprEKUfKlrA746rYpZLhSgg.PNG.fullmoon2050/2021%B3%E2_2%BF%F9_8%C0%CF_%BB%F3%C7%D1%B0%A1_%BB%F3%BD%C2%C1%BE%B8%F1_%C0%CC%C0%AF_%BA%D0%BC%AE.png?type=w2"
           }
         ]
       }

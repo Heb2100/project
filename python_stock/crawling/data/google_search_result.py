@@ -4,18 +4,17 @@ from datetime import datetime
 
 current_datetime = datetime.now()
 today_date = current_datetime.strftime("%Y%m%d")
-# stocks = ['한글과컴퓨터', '파워로직스', '이스트소프트', '한빛레이저', '바이브컴퍼니', '유니트론텍', '아이원', '제넨바이오', '티와이홀딩스']
+stocks = ['한글과컴퓨터', '파워로직스']
 LOG_PATH = "datas"
 IO_DIR = f"{LOG_PATH}/{today_date}/"
 
 
 def main(stocks):
     print('google_search_result.py is running...\n')
-    with open(f"{IO_DIR}/{today_date}_gpt_input.txt", "w") as output_file:
+    with open(f"{IO_DIR}/{today_date}_gpt_input.txt", "w", encoding="utf-8") as output_file:
         for stock in stocks:
-
             stored_data = ""
-            with open(f"{IO_DIR}/{today_date}_news_{stock}.txt", "r") as file:
+            with open(f"{IO_DIR}/{today_date}_news_{stock}.txt", "r", encoding="utf-8") as file:
                 stored_data = file.read()
             data = json.loads(stored_data)
             titles = [item.get('title', '') for item in data.get('items', [])]
