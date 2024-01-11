@@ -1,0 +1,618 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 파워로직스 상한가",
+        "totalResults": "112000",
+        "searchTerms": "파워로직스 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 파워로직스 상한가",
+        "totalResults": "112000",
+        "searchTerms": "파워로직스 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.159997,
+    "formattedSearchTime": "0.16",
+    "totalResults": "112000",
+    "formattedTotalResults": "112,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "<코>파워로직스, 상한가 진입.. +29.99%",
+      "htmlTitle": "&lt;코&gt;<b>파워로직스</b>, <b>상한가</b> 진입.. +29.99%",
+      "link": "https://www.sedaily.com/NewsView/29TELBNXGQ",
+      "displayLink": "www.sedaily.com",
+      "snippet": "Aug 14, 2023 ... 증권 > News봇 뉴스: 오후 3시 9분 현재 파워로직스(047310)가 +29.99% 오른 16730원(△3860)으로 장중 상한가에 진입했다. 거래대금은 2744억3,08...",
+      "htmlSnippet": "Aug 14, 2023 <b>...</b> 증권 &gt; News봇 뉴스: 오후 3시 9분 현재 <b>파워로직스</b>(047310)가 +29.99% 오른 16730원(△3860)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 2744억3,08...",
+      "cacheId": "unHvTU2XPxIJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/29TELBNXGQ",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/29TELBNXGQ",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaz2lRuZqUo-dAVlJzvmqfNO67JHQHJ1mtkqF8psoQ3PA2dfnfR6o4__V",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2023/08/14/29TELBNXGQ_1.png",
+            "article:published_time": "2023-08-14T15:09:18+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2023-08-14T15:09:18+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>파워로직스, 상한가 진입.. +29.99% ↑ | 서울경제",
+            "dd:published_time": "2023-08-14T15:09:18+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 3시 9분 현재 파워로직스(047310)가 +29.99% 오른 16,730원(▲3,860)으로 장중 상한가에 진입했다. 거래대금은 2,744억3,08...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2023/08/14/29TELBNXGQ_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2023-08-14T15:09:18+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/29TELBNXGQ/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>파워로직스, 상한가 진입.. +29.99% ↑",
+            "dable:item_id": "29TELBNXGQ",
+            "og:title": "<코>파워로직스, 상한가 진입.. +29.99% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>파워로직스, 상한가 진입.. +29.99% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "29TELBNXGQ",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 3시 9분 현재 파워로직스(047310)가 +29.99% 오른 16,730원(▲3,860)으로 장중 상한가에 진입했다. 거래대금은 2,744억3,08...",
+            "ngh:id": "29TELBNXGQ",
+            "dable:image": "https://newsimg.sedaily.com/2023/08/14/29TELBNXGQ_1_m.png",
+            "ngh:title": "​<코>파워로직스, 상한가 진입.. +29.99% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/29TELBNXGQ/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/08/14/29TELBNXGQ_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "초전도체 이슈… 오창 파워로직스 '상한가'",
+      "htmlTitle": "초전도체 이슈… 오창 <b>파워로직스</b> &#39;<b>상한가</b>&#39;",
+      "link": "http://www.jbnews.com/news/articleView.html?idxno=1403027",
+      "displayLink": "www.jbnews.com",
+      "snippet": "Aug 2, 2023 ... 파워로직스는 엘앤에스벤처캐피탈 지분 11.51%를 보유하고 있다. 초전도체는 과학계의 오랜 꿈 중 하나다. 초전도 현상은 금속 등에서 전기저항이 어느 ...",
+      "htmlSnippet": "Aug 2, 2023 <b>...</b> <b>파워로직스</b>는 엘앤에스벤처캐피탈 지분 11.51%를 보유하고 있다. 초전도체는 과학계의 오랜 꿈 중 하나다. 초전도 현상은 금속 등에서 전기저항이 어느&nbsp;...",
+      "cacheId": "OcRoxC_C7PYJ",
+      "formattedUrl": "http://www.jbnews.com/news/articleView.html?idxno=1403027",
+      "htmlFormattedUrl": "http://www.jbnews.com/news/articleView.html?idxno=1403027",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWBTT4P0iD3IdiGU23NMrVwqe2-pKBWQGtq8QJvRRHJn-E8ctrpS7s6zJf",
+            "width": "242",
+            "height": "208"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.jbnews.com/news/thumbnail/202308/1403027_1216180_5853_v150.jpg",
+            "theme-color": "#f78c11",
+            "copyright": "중부매일 - 충청권 대표 뉴스 플랫폼",
+            "twitter:card": "summary",
+            "article:published_time": "2023-08-02T15:58:00+09:00",
+            "og:site_name": "중부매일 - 충청권 대표 뉴스 플랫폼",
+            "title": "초전도체 이슈… 오창 파워로직스 '상한가'",
+            "og:description": "［중부매일 박상철 기자］ 초전도체 관련주 불리는 충북 오창 소재 파워로직스 주가가 이틀 연속 상한가를 기록했다.2일 파워로직스 주가는 전 거래일 보다 2천...",
+            "twitter:creator": "박상철 기자",
+            "twitter:image": "https://cdn.jbnews.com/news/thumbnail/202308/1403027_1216180_5853_v150.jpg",
+            "article:section1": "기업·벤처",
+            "twitter:site": "http://www.jbnews.com/news/articleView.html?idxno=1403027",
+            "naver-site-verification": "538163bc3f3f7edad13f302a1cd5f41b82f25c34",
+            "news_keywords": "충북상장사,파워로직스",
+            "og:article:author": "박상철 기자",
+            "og:type": "article",
+            "twitter:title": "초전도체 이슈… 오창 파워로직스 '상한가'",
+            "article:section": "경제",
+            "dable:item_id": "1403027",
+            "og:title": "초전도체 이슈… 오창 파워로직스 '상한가'",
+            "classification": "경제 > 기업·벤처",
+            "dable:author": "박상철 기자",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "［중부매일 박상철 기자］ 초전도체 관련주 불리는 충북 오창 소재 파워로직스 주가가 이틀 연속 상한가를 기록했다.2일 파워로직스 주가는 전 거래일 보다 2천...",
+            "og:url": "http://www.jbnews.com/news/articleView.html?idxno=1403027"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.jbnews.com/news/thumbnail/202308/1403027_1216180_5853_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>파워로직스, 상한가 진입.. +29.87%",
+      "htmlTitle": "&lt;코&gt;<b>파워로직스</b>, <b>상한가</b> 진입.. +29.87%",
+      "link": "https://www.sedaily.com/NewsView/29T8LAO6DT",
+      "displayLink": "www.sedaily.com",
+      "snippet": "Aug 1, 2023 ... 증권 > News봇 뉴스: 오후 3시 3분 현재 파워로직스(047310)가 +29.87% 오른 7740원(△1780)으로 장중 상한가에 진입했다. 거래대금은 658억5144만...",
+      "htmlSnippet": "Aug 1, 2023 <b>...</b> 증권 &gt; News봇 뉴스: 오후 3시 3분 현재 <b>파워로직스</b>(047310)가 +29.87% 오른 7740원(△1780)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 658억5144만...",
+      "cacheId": "DdtnD54hIF0J",
+      "formattedUrl": "https://www.sedaily.com/NewsView/29T8LAO6DT",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/29T8LAO6DT",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbgxMeG4zohLsTjxbGX7nTFpVsKtLRNN-0e1xaRzAZdeoSigcGOCefxR0",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2023/08/01/29T8LAO6DT_1.png",
+            "article:published_time": "2023-08-01T15:03:38+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2023-08-01T15:03:38+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>파워로직스, 상한가 진입.. +29.87% ↑ | 서울경제",
+            "dd:published_time": "2023-08-01T15:03:38+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 3시 3분 현재 파워로직스(047310)가 +29.87% 오른 7,740원(▲1,780)으로 장중 상한가에 진입했다. 거래대금은 658억5,144만...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2023/08/01/29T8LAO6DT_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2023-08-01T15:03:38+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/29T8LAO6DT/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>파워로직스, 상한가 진입.. +29.87% ↑",
+            "dable:item_id": "29T8LAO6DT",
+            "og:title": "<코>파워로직스, 상한가 진입.. +29.87% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>파워로직스, 상한가 진입.. +29.87% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "29T8LAO6DT",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 3시 3분 현재 파워로직스(047310)가 +29.87% 오른 7,740원(▲1,780)으로 장중 상한가에 진입했다. 거래대금은 658억5,144만...",
+            "ngh:id": "29T8LAO6DT",
+            "dable:image": "https://newsimg.sedaily.com/2023/08/01/29T8LAO6DT_1_m.png",
+            "ngh:title": "​<코>파워로직스, 상한가 진입.. +29.87% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/29T8LAO6DT/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/08/01/29T8LAO6DT_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "파워로직스 상한가 찍고 '급락'",
+      "htmlTitle": "<b>파워로직스 상한가</b> 찍고 &#39;급락&#39;",
+      "link": "http://www.jbnews.com/news/articleView.html?idxno=1403681",
+      "displayLink": "www.jbnews.com",
+      "snippet": "Aug 8, 2023 ... 하지만 오후 2시쯤 미국 메릴랜드대 응집물질이론센터(CMTC)가 상온·상압 초전도체로 추측되던 물질 'LK-99'에 대해 초전도체가 아니라고 결론내리면서 ...",
+      "htmlSnippet": "Aug 8, 2023 <b>...</b> 하지만 오후 2시쯤 미국 메릴랜드대 응집물질이론센터(CMTC)가 상온·상압 초전도체로 추측되던 물질 &#39;LK-99&#39;에 대해 초전도체가 아니라고 결론내리면서&nbsp;...",
+      "cacheId": "VM_srCErN4gJ",
+      "formattedUrl": "http://www.jbnews.com/news/articleView.html?idxno=1403681",
+      "htmlFormattedUrl": "http://www.jbnews.com/news/articleView.html?idxno=1403681",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv09_oLCyJgWm-s3KcX8L-3jE52XZFDBHJ_u0S99494lPEQyOOZCQKqD7G",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.jbnews.com/image/logo/snslogo_20220701095855.png",
+            "theme-color": "#f78c11",
+            "copyright": "중부매일 - 충청권 대표 뉴스 플랫폼",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "파워로직스 상한가 찍고 '급락'",
+            "article:section": "경제",
+            "article:published_time": "2023-08-08T16:30:00+09:00",
+            "og:site_name": "중부매일 - 충청권 대표 뉴스 플랫폼",
+            "dable:item_id": "1403681",
+            "og:title": "파워로직스 상한가 찍고 '급락'",
+            "title": "파워로직스 상한가 찍고 '급락'",
+            "classification": "경제 > 금융·증권",
+            "og:description": "［중부매일 박상철 기자］ 충북 청주시 오창 소재 파워로직스 주가가 요동쳤다. 하루 주가 변동 폭만 50%를 넘었다.8일 파워로직스 주가는 전 거래일보다 1...",
+            "twitter:creator": "박상철 기자",
+            "twitter:image": "http://www.jbnews.com/image/logo/snslogo_20220701095855.png",
+            "article:section1": "금융·증권",
+            "dable:author": "박상철 기자",
+            "twitter:site": "http://www.jbnews.com/news/articleView.html?idxno=1403681",
+            "naver-site-verification": "538163bc3f3f7edad13f302a1cd5f41b82f25c34",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "［중부매일 박상철 기자］ 충북 청주시 오창 소재 파워로직스 주가가 요동쳤다. 하루 주가 변동 폭만 50%를 넘었다.8일 파워로직스 주가는 전 거래일보다 1...",
+            "og:url": "http://www.jbnews.com/news/articleView.html?idxno=1403681",
+            "og:article:author": "박상철 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.jbnews.com/image/logo/snslogo_20220701095855.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>파워로직스, 상한가 진입.. +30.00%",
+      "htmlTitle": "&lt;코&gt;<b>파워로직스</b>, <b>상한가</b> 진입.. +30.00%",
+      "link": "https://sedaily.com/NewsView/2D406B4JL4",
+      "displayLink": "sedaily.com",
+      "snippet": "3 days ago ... 증권 > News봇 뉴스: 오후 1시 37분 현재 파워로직스(047310)가 +30.00% 오른 9620원(△2220)으로 장중 상한가에 진입했다. 거래대금은 1122억6,96...",
+      "htmlSnippet": "3 days ago <b>...</b> 증권 &gt; News봇 뉴스: 오후 1시 37분 현재 <b>파워로직스</b>(047310)가 +30.00% 오른 9620원(△2220)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 1122억6,96...",
+      "cacheId": "JWNf68YQQ-cJ",
+      "formattedUrl": "https://sedaily.com/NewsView/2D406B4JL4",
+      "htmlFormattedUrl": "https://sedaily.com/NewsView/2D406B4JL4",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEPhNXwB3WbLrhNg6FTEJUa7OXsqXOr2L-j7IdMsOFxwd34z3d8hRKPY",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/08/2D406B4JL4_1.png",
+            "article:published_time": "2024-01-08T13:37:09+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-08T13:37:09+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>파워로직스, 상한가 진입.. +30.00% ↑ | 서울경제",
+            "dd:published_time": "2024-01-08T13:37:09+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 1시 37분 현재 파워로직스(047310)가 +30.00% 오른 9,620원(▲2,220)으로 장중 상한가에 진입했다. 거래대금은 1,122억6,96...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/08/2D406B4JL4_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-08T13:37:09+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D406B4JL4/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>파워로직스, 상한가 진입.. +30.00% ↑",
+            "dable:item_id": "2D406B4JL4",
+            "og:title": "<코>파워로직스, 상한가 진입.. +30.00% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>파워로직스, 상한가 진입.. +30.00% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D406B4JL4",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 1시 37분 현재 파워로직스(047310)가 +30.00% 오른 9,620원(▲2,220)으로 장중 상한가에 진입했다. 거래대금은 1,122억6,96...",
+            "ngh:id": "2D406B4JL4",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/08/2D406B4JL4_1_m.png",
+            "ngh:title": "​<코>파워로직스, 상한가 진입.. +30.00% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D406B4JL4/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/08/2D406B4JL4_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "서남·덕성·신성델타테크·파워로직스 2연상, 모비스 상한가… 초전도체 ...",
+      "htmlTitle": "서남·덕성·신성델타테크·<b>파워로직스</b> 2연상, 모비스 <b>상한가</b>… 초전도체 ...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20230802001116484",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "Aug 2, 2023 ... 한국 연구진이 상온 상압 초전도체를 개발했다는 소식에 덕성, 서남, 신성델타테크, 모비스, 파워로직스 등의 종목은 초전도체 관련주로 분류돼 상승세를 ...",
+      "htmlSnippet": "Aug 2, 2023 <b>...</b> 한국 연구진이 상온 상압 초전도체를 개발했다는 소식에 덕성, 서남, 신성델타테크, 모비스, <b>파워로직스</b> 등의 종목은 초전도체 관련주로 분류돼 상승세를&nbsp;...",
+      "cacheId": "X9OLkL8gm1QJ",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20230802001116484",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20230802001116484",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3TN2KMpCTcFtmkbGcSUOqUmkriXLAvsKApjQD2Nqf3S_VRRgM92j6H02o",
+            "width": "305",
+            "height": "165"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202308/20230802001116484_1.jpg",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-08-02T11:20:41+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "서남·덕성·신성델타테크·파워로직스 2연상, 모비스 상한가… 초전도체 관련주 급등",
+            "distribution": "영남일보",
+            "og:description": "서남, 덕성, 신성델타테크, 모비스, 파워로직스 등 초전도체 관련주가 강세다.이중 서남, 덕성, 신성델타테크 3종목은 전날도 상한가로 장을 마감했다.이날 오전 11시 10분 현재..",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202308/20230802001116484_1.jpg",
+            "article:section2": "증시·금융",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "모비스, 파워로직스, 서남, 덕성, 신성델타테크",
+            "og:site": "https://m.yeongnam.com/view.php?key=20230802001116484",
+            "author-date(date)": "2023-08-02",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202308/20230802001116484_1.jpg",
+            "og:type": "article",
+            "twitter:title": "서남·덕성·신성델타테크·파워로직스 2연상, 모비스 상한가… 초전도체 관련주 급등",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20230802001116484",
+            "og:title": "서남·덕성·신성델타테크·파워로직스 2연상, 모비스 상한가… 초전도체 관련주 급등",
+            "url": "https://m.yeongnam.com/view.php?key=20230802001116484",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "서남, 덕성, 신성델타테크, 모비스, 파워로직스 등 초전도체 관련주가 강세다.이중 서남, 덕성, 신성델타테크 3종목은 전날도 상한가로 장을 마감했다.이날 오전 11시 10분 현재..",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20230802001116484"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202308/20230802001116484_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "상한가(8월11일), 한국화장품/원익피앤이/파워로직스/큐리옥스바이오 ...",
+      "htmlTitle": "<b>상한가</b>(8월11일), 한국화장품/원익피앤이/<b>파워로직스</b>/큐리옥스바이오 ...",
+      "link": "https://m.blog.naver.com/goldmap7/223181125111?isInf=true",
+      "displayLink": "m.blog.naver.com",
+      "snippet": "Aug 11, 2023 ... 레비티는 미국 뉴욕 증권거래소(NYSE)에 상장된 글로벌 생명과학 장비 기업으로, 시가총액이 155억 달러(한화 약 20조원, 2023년 8월 8일 기준)에 이르는 ...",
+      "htmlSnippet": "Aug 11, 2023 <b>...</b> 레비티는 미국 뉴욕 증권거래소(NYSE)에 상장된 글로벌 생명과학 장비 기업으로, 시가총액이 155억 달러(한화 약 20조원, 2023년 8월 8일 기준)에 이르는&nbsp;...",
+      "cacheId": "63Yza5h0-BkJ",
+      "formattedUrl": "https://m.blog.naver.com/goldmap7/223181125111?isInf=true",
+      "htmlFormattedUrl": "https://m.blog.naver.com/goldmap7/223181125111?isInf=true",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ75z6vTRj7REZvKcrBGM91spOs9Howy2WpntuGIilGF88Cj1TjBA87vs",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyMzA4MTFfMjIx/MDAxNjkxNzM0ODgzODkw.5e_eKJ8NnS9FUWxBGtbPtjg_z4dodwfGTmVLB0GbOuwg.sA_T0NNJBtF3iYKJrR6jg03p6FcCNMWG2EuHHQo-m8gg.GIF.goldmap7/20230811_31.gif?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 라온제나 주식독법",
+            "og:title": "상한가(8월11일), 한국화장품/원익피앤이/파워로직스/큐리옥스바이오시스템즈/진영/TPC/스킨앤스킨/헝셩그룹",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAxODEyMjZfOSAg/MDAxNTQ1NzgyMTc2MDA5.WGk6tkRCR_K-qxYUvOZxxMmxS4ArWyhWqoM-_lHvtuMg.eB2uJ5IbfpRSkkm7jhVqOpCycEmpdPQuFm4EaLZAY-Ag.GIF.goldmap7/dlalwl.gif?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033F6A1B5F7,service=blog,collection=blog",
+            "og:description": "2023년 8월11일 상한가 2023년 8월 11일(금) 코스피 한국화장품, 코스닥 원익피앤이/파워로직스/큐리옥스바...",
+            "referrer": "always",
+            "naverblog:nickname": "유민아빠",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/goldmap7/223181125111",
+            "og:article:author": "라온제나 .. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogthumb.pstatic.net/MjAyMzA4MTFfMjIx/MDAxNjkxNzM0ODgzODkw.5e_eKJ8NnS9FUWxBGtbPtjg_z4dodwfGTmVLB0GbOuwg.sA_T0NNJBtF3iYKJrR6jg03p6FcCNMWG2EuHHQo-m8gg.GIF.goldmap7/20230811_31.gif?type=w2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>파워로직스, 상한가 진입.. +30.00% ↑ : 서울경제",
+      "htmlTitle": "&lt;코&gt;<b>파워로직스</b>, <b>상한가</b> 진입.. +30.00% ↑ : 서울경제",
+      "link": "https://m.sedaily.com/NewsViewAmp/2D406B4JL4",
+      "displayLink": "m.sedaily.com",
+      "snippet": "3 days ago ... 오후 1시 37분 현재 파워로직스(047310)가 +30.00% 오른 9620원(△2220)으로 장중 상한가에 진입했다. 거래대금은 1122억6969만, 거래량은 1297만8299 ...",
+      "htmlSnippet": "3 days ago <b>...</b> 오후 1시 37분 현재 <b>파워로직스</b>(047310)가 +30.00% 오른 9620원(△2220)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 1122억6969만, 거래량은 1297만8299&nbsp;...",
+      "cacheId": "dAafxOQHqW4J",
+      "formattedUrl": "https://m.sedaily.com/NewsViewAmp/2D406B4JL4",
+      "htmlFormattedUrl": "https://m.sedaily.com/NewsViewAmp/2D406B4JL4",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEPhNXwB3WbLrhNg6FTEJUa7OXsqXOr2L-j7IdMsOFxwd34z3d8hRKPY",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/08/2D406B4JL4_1.png",
+            "article:published_time": "2024-01-08T13:37:09+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "서울경제",
+            "og:image:type": "image/jpeg",
+            "title": "<코>파워로직스, 상한가 진입.. +30.00% ↑",
+            "og:description": "오후 1시 37분 현재 파워로직스(047310)가 +30.00% 오른 9,620원(▲2,220)으로 장중 상한가에 진입했다. 거래대금은 1,122억6,969만, 거래량은 1,297만8,299주를 기록하고 있으며, 수급측면으로는 46(매도):54(매수)..",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/08/2D406B4JL4_1.png",
+            "article:section2": "News봇",
+            "og:site": "https://m.sedaily.com/NewsView/2D406B4JL4/GA1302",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>파워로직스, 상한가 진입.. +30.00% ↑",
+            "author": "<코>파워로직스, 상한가 진입.. +30.00% ↑ : 서울경제",
+            "dable:item_id": "2D406B4JL4",
+            "og:title": "<코>파워로직스, 상한가 진입.. +30.00% ↑",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "오후 1시 37분 현재 파워로직스(047310)가 +30.00% 오른 9,620원(▲2,220)으로 장중 상한가에 진입했다. 거래대금은 1,122억6,969만, 거래량은 1,297만8,299주를 기록하고 있으며, 수급측면으로는 46(매도):54(매수)..",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/08/2D406B4JL4_1_m.png",
+            "og:url": "https://m.sedaily.com/NewsView/2D406B4JL4/GA1302",
+            "aicon:item_id": "2D406B4JL4"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/08/2D406B4JL4_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[마감] 서남-덕성-신성델타테크-파워로직스 등 초전도체 테마주 무더기 ...",
+      "htmlTitle": "[마감] 서남-덕성-신성델타테크-<b>파워로직스</b> 등 초전도체 테마주 무더기 ...",
+      "link": "https://www.asiatime.co.kr/article/20230801500270",
+      "displayLink": "www.asiatime.co.kr",
+      "snippet": "Aug 1, 2023 ... 한국 연구진이 상온 상압 초전도체를 개발했다는 소식에 서남과 덕성, 신성델타테크, 파워로직스가 상한가로 치솟았고 모비스(20.64%), 원익피앤이(10.37 ...",
+      "htmlSnippet": "Aug 1, 2023 <b>...</b> 한국 연구진이 상온 상압 초전도체를 개발했다는 소식에 서남과 덕성, 신성델타테크, <b>파워로직스</b>가 <b>상한가</b>로 치솟았고 모비스(20.64%), 원익피앤이(10.37&nbsp;...",
+      "cacheId": "h5Za-O6W4TgJ",
+      "formattedUrl": "https://www.asiatime.co.kr/article/20230801500270",
+      "htmlFormattedUrl": "https://www.asiatime.co.kr/article/20230801500270",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_8mPNmsQn5Nevn1T3lnTMf81O_P2DMgpeaYCMpnYI1alAhhWPHy11RTVc",
+            "width": "310",
+            "height": "162"
+          }
+        ],
+        "organization": [
+          {
+            "url": "https://www.asiatime.co.kr/",
+            "sameas": "https://m.post.naver.com/my.nhn?memberNo=29442882"
+          }
+        ],
+        "metatags": [
+          {
+            "image": "https://wplyuoicjiwl13857209.cdn.ntruss.com/data2/content/image/2023/08/01/.cache/512/20230801500269.jpg",
+            "og:image": "https://wplyuoicjiwl13857209.cdn.ntruss.com/data2/content/image/2023/08/01/.cache/512/20230801500269.jpg",
+            "copyright": "아시아타임즈",
+            "og:type": "article",
+            "twitter:title": "[마감] 서남-덕성-신성델타테크-파워로직스 등 초전도체 테마주 무더기 '상한가'",
+            "twitter:card": "summary",
+            "og:site_name": "아시아타임즈",
+            "msvalidate.01": "DCF8AE369C38DFBC15D991DAA10BAC73",
+            "author": "아시아타임즈",
+            "og:title": "[마감] 서남-덕성-신성델타테크-파워로직스 등 초전도체 테마주 무더기 '상한가'",
+            "classification": "시장경제를 건강하게 지키는 종합경제일간지",
+            "og:description": "[아시아타임즈=김지호 기자] 코스피지수가 외국인과 기관의 동반 매수세에 1%대로 상승했다. 1일 코스피는 전장보다 34.49포인트(1.31%) 오른 2667.07에 마감했다. 지수는 전장보다 11.76포인트(0.45%) 오른 2644.34에 출발해 상승 폭을 키웠다.",
+            "twitter:image": "https://wplyuoicjiwl13857209.cdn.ntruss.com/data2/content/image/2023/08/01/.cache/512/20230801500269.jpg",
+            "naver-site-verification": "5d886d8d42dd23cc315dc1bb556a6a35d3223bde",
+            "twitter:site": "아시아타임즈",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+            "twitter:description": "[아시아타임즈=김지호 기자] 코스피지수가 외국인과 기관의 동반 매수세에 1%대로 상승했다. 1일 코스피는 전장보다 34.49포인트(1.31%) 오른 2667.07에 마감했다. 지수는 전장보다 11.76포인트(0.45%) 오른 2644.34에 출발해 상승 폭을 키웠다.",
+            "publisher": "아시아타임즈",
+            "location": "www.asiatime.co.kr",
+            "og:url": "https://www.asiatime.co.kr/article/20230801500270"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://wplyuoicjiwl13857209.cdn.ntruss.com/data2/content/image/2023/08/01/.cache/512/20230801500269.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[종목 포커스] 파워로직스, 정책 기대로 연이틀 상한가 - 매일경제",
+      "htmlTitle": "[종목 포커스] <b>파워로직스</b>, 정책 기대로 연이틀 <b>상한가</b> - 매일경제",
+      "link": "https://www.mk.co.kr/news/stock/4535602",
+      "displayLink": "www.mk.co.kr",
+      "snippet": "Jan 20, 2009 ... 파워로직스가 버락 오바마 미국 대통령 수혜주로 부각되며 급등했다. 파워로직스는 20일 전일에 이어 또다시 상한가를 기록했다. 연이틀 급등으로 ...",
+      "htmlSnippet": "Jan 20, 2009 <b>...</b> <b>파워로직스</b>가 버락 오바마 미국 대통령 수혜주로 부각되며 급등했다. <b>파워로직스</b>는 20일 전일에 이어 또다시 <b>상한가</b>를 기록했다. 연이틀 급등으로&nbsp;...",
+      "cacheId": "1TaHq254_DEJ",
+      "formattedUrl": "https://www.mk.co.kr/news/stock/4535602",
+      "htmlFormattedUrl": "https://www.mk.co.kr/news/stock/4535602",
+      "pagemap": {
+        "metatags": [
+          {
+            "image": "https://static.mk.co.kr/facebook_mknews.jpg",
+            "og:image": "https://static.mk.co.kr/facebook_mknews.jpg",
+            "thumbnail": "https://wimg.mk.co.kr",
+            "og:type": "article",
+            "twitter:title": "[종목 포커스] 파워로직스, 정책 기대로 연이틀 상한가 - 매일경제",
+            "twitter:card": "summary_large_image",
+            "article:section": "stock",
+            "article:published_time": "2009-01-20T17:54:07+09:00",
+            "og:site_name": "매일경제",
+            "twitter:url": "https://www.mk.co.kr/news/stock/4535602",
+            "og:title": "[종목 포커스] 파워로직스, 정책 기대로 연이틀 상한가 - 매일경제",
+            "articleid": "4535602",
+            "org_class": "MK100503",
+            "og:description": "파워로직스가 버락 오바마 미국 대통령 수혜주로 부각되며 급등했다.\n파워로직스는 20일 전일에 이어 또다시 상한가를 기록했다. 연이틀 급등으로 주가는 어느덧 3000원대에 육박하고 있다. 주가가 이 수준에 근접한 것은 지난해 10월께 이",
+            "twitter:image": "https://static.mk.co.kr/facebook_mknews.jpg",
+            "taboola:title": "[종목 포커스] 파워로직스, 정책 기대로 연이틀 상한가",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "파워로직스가 버락 오바마 미국 대통령 수혜주로 부각되며 급등했다.\n파워로직스는 20일 전일에 이어 또다시 상한가를 기록했다. 연이틀 급등으로 주가는 어느덧 3000원대에 육박하고 있다. 주가가 이 수준에 근접한 것은 지난해 10월께 이",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.mk.co.kr/news/stock/4535602"
+          }
+        ]
+      }
+    }
+  ]
+}

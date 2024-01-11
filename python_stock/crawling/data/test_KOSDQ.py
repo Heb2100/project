@@ -3,6 +3,7 @@ import requests
 
 
 def KOSDQ():
+    print('test_KOSDQ.py is running...\n')
     ans = []
     # URL of the page containing the HTML table
     url = "https://finance.naver.com/sise/sise_upper.naver"

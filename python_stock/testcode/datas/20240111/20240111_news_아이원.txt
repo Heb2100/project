@@ -1,0 +1,355 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 아이원 상한가",
+        "totalResults": "4600",
+        "searchTerms": "아이원 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 아이원 상한가",
+        "totalResults": "4600",
+        "searchTerms": "아이원 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.184508,
+    "formattedSearchTime": "0.18",
+    "totalResults": "4600",
+    "formattedTotalResults": "4,600"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] 아이원... 아모레퍼시픽과 LED 마스크 독점 ...",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] <b>아이원</b>... 아모레퍼시픽과 LED 마스크 독점 ...",
+      "link": "https://news.mtn.co.kr/news-detail/2024010811544249966",
+      "displayLink": "news.mtn.co.kr",
+      "snippet": "3 days ago ... 8일 오전 아이원이 상한가까지 상승했다. 아이윈, 아이윈플러스의 자회사 프로닉스가 아모레퍼시픽과 면발광 마이크로 LED 마스크 독점공급 계약을 ...",
+      "htmlSnippet": "3 days ago <b>...</b> 8일 오전 <b>아이원</b>이 <b>상한가</b>까지 상승했다. 아이윈, 아이윈플러스의 자회사 프로닉스가 아모레퍼시픽과 면발광 마이크로 LED 마스크 독점공급 계약을&nbsp;...",
+      "cacheId": "VwoGiHlswB0J",
+      "formattedUrl": "https://news.mtn.co.kr/news-detail/2024010811544249966",
+      "htmlFormattedUrl": "https://news.mtn.co.kr/news-detail/2024010811544249966",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5q8El9WXUU0lgHeTWBSvB4tjf_WGn4CZDC_PZenPtIMouAGh85yN2ww",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://menu.mtn.co.kr/upload/article/2024/01/08/2024010811544249966_00_508.jpg",
+            "next-head-count": "15",
+            "og:image:width": "800",
+            "og:type": "website",
+            "og:image:alt": "이미지",
+            "viewport": "width=device-width",
+            "og:title": "[MTN머니로 상한가 포착] 아이원... 아모레퍼시픽과 LED 마스크 독점계약체결",
+            "og:image:height": "400",
+            "og:locale": "ko_KR",
+            "og:description": "MTN NEWS"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://menu.mtn.co.kr/upload/article/2024/01/08/2024010811544249966_00_508.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "우리로·텔레필드·코위버·케이씨에스 상한가, 양자암호 관련테마 주 급등",
+      "htmlTitle": "우리로·텔레필드·코위버·케이씨에스 <b>상한가</b>, 양자암호 관련테마 주 급등",
+      "link": "https://www.yeongnam.com/web/view.php?key=20230823001052212",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "Aug 23, 2023 ... ... 아이원플러스 9.47%(162원) 오른 1872원 등이 큰 폭의 상승세를 보이고 있다. 양자암호.jpg. 출처:네이버 증권정보. 이밖에 KT 0.46%(150원) 오른 3만 ...",
+      "htmlSnippet": "Aug 23, 2023 <b>...</b> ... <b>아이원</b>플러스 9.47%(162원) 오른 1872원 등이 큰 폭의 상승세를 보이고 있다. 양자암호.jpg. 출처:네이버 증권정보. 이밖에 KT 0.46%(150원) 오른 3만&nbsp;...",
+      "cacheId": "FNGZFSLgqI4J",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20230823001052212",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20230823001052212",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHTWQT05gkH7JK8IX0Ru0kTmSQvE5Jxe92Ondre2MXTGL_EMSrxkNc2dI",
+            "width": "305",
+            "height": "165"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://m.yeongnam.com/images/yeongnam_logo.png",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-08-23T10:55:52+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "우리로·텔레필드·코위버·케이씨에스  상한가, 양자암호 관련테마 주 급등",
+            "distribution": "영남일보",
+            "og:description": "우리로, 텔레필드, 코위버, 케이씨에스 등이 상한가에 오르는 등 양자암호 관련 테마주가 환호성을 지르고 있다.23일 한국거래소에 따르면 이날 오전 10시 44분 현재 양자암호 관련..",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://m.yeongnam.com/images/yn_logo.png",
+            "article:section2": "증시·금융",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "드림시큐리티, 우리넷, 바이오로그디바이스, 아이원플러스, KT SK텔레콤 LG유플러스",
+            "og:site": "https://m.yeongnam.com/view.php?key=20230823001052212",
+            "author-date(date)": "2023-08-23",
+            "og:article:author": "서용덕 기자",
+            "image": "https://m.yeongnam.com/images/yeongnam_logo.png",
+            "og:type": "article",
+            "twitter:title": "우리로·텔레필드·코위버·케이씨에스  상한가, 양자암호 관련테마 주 급등",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20230823001052212",
+            "og:title": "우리로·텔레필드·코위버·케이씨에스  상한가, 양자암호 관련테마 주 급등",
+            "url": "https://m.yeongnam.com/view.php?key=20230823001052212",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "우리로, 텔레필드, 코위버, 케이씨에스 등이 상한가에 오르는 등 양자암호 관련 테마주가 환호성을 지르고 있다.23일 한국거래소에 따르면 이날 오전 10시 44분 현재 양자암호 관련..",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20230823001052212"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://m.yeongnam.com/images/yeongnam_logo.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "아이원바이오 - SEN 서울경제TV",
+      "htmlTitle": "<b>아이원</b>바이오 - SEN 서울경제TV",
+      "link": "https://www.sentv.co.kr/search/news?skeyword=%EC%95%84%EC%9D%B4%EC%9B%90%EB%B0%94%EC%9D%B4%EC%98%A4",
+      "displayLink": "www.sentv.co.kr",
+      "snippet": "(재) 상한가 로켓배송 오전 02:00 - 오전 03:00; (본) 조영구의 트랜드 핫이슈 ... 아이원바이오, 흑삼칸과 공동사업화 업무협약 체결. 2023-08-31 · 기사이미지. 아이원 ...",
+      "htmlSnippet": "(재) <b>상한가</b> 로켓배송 오전 02:00 - 오전 03:00; (본) 조영구의 트랜드 핫이슈 ... <b>아이원</b>바이오, 흑삼칸과 공동사업화 업무협약 체결. 2023-08-31 &middot; 기사이미지. <b>아이원</b>&nbsp;...",
+      "cacheId": "uuInQ3LTT0AJ",
+      "formattedUrl": "https://www.sentv.co.kr/search/news?skeyword=아이원바이오",
+      "htmlFormattedUrl": "https://www.sentv.co.kr/search/news?skeyword=<b>아이원</b>바이오",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-nIFqGti7mRPwI2Qx7HgUR-ia7nlcJ1m62P7p3gkybjMqI4pvBFP-KwYJ",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://photo.sentv.co.kr/assets/sentv/images/common/meta_thumb_image.jpg",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "og:site_name": "서울경제TV SEN",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:image": "http://photo.sentv.co.kr/assets/sentv/images/common/meta_thumb_image.jpg",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://photo.sentv.co.kr/assets/sentv/images/common/meta_thumb_image.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "경기도 성남시 서현동 풍림아이원플러스 면적별 시세 | 부동산뱅크 시세",
+      "htmlTitle": "경기도 성남시 서현동 풍림<b>아이원</b>플러스 면적별 시세 | 부동산뱅크 시세",
+      "link": "https://www.neonet.co.kr/novo-rebank/view/market_price/MarketPriceDetail.neo?offerings_gbn=OP&lcode=02&mcode=492&sname=%BC%AD%C7%F6%B5%BF&complex_cd=OF001788&pyung_cd=18",
+      "displayLink": "www.neonet.co.kr",
+      "snippet": "상한가, 하한가, 상한가, 보증금, 월세. 59,500, 65,500, 40,000, 44,000, 1,000, 118~128. 면적정보, 면적별 가구수, 21가구, 전용면적, ㎡, 방/욕실개수, 2/1. 시세 ...",
+      "htmlSnippet": "<b>상한가</b>, 하한가, <b>상한가</b>, 보증금, 월세. 59,500, 65,500, 40,000, 44,000, 1,000, 118~128. 면적정보, 면적별 가구수, 21가구, 전용면적, ㎡, 방/욕실개수, 2/1. 시세&nbsp;...",
+      "cacheId": "zsazJ67RDyYJ",
+      "formattedUrl": "https://www.neonet.co.kr/.../MarketPriceDetail.neo?...",
+      "htmlFormattedUrl": "https://www.neonet.co.kr/.../MarketPriceDetail.neo?...",
+      "pagemap": {
+        "metatags": [
+          {
+            "autocomplete": "off",
+            "author": "부동산뱅크",
+            "subject": "부동산종합포탈 부동산뱅크!",
+            "classification": "text"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "서울특별시 용산구 서계동 서울역풍림아이원플러스 면적별 시세 ...",
+      "htmlTitle": "서울특별시 용산구 서계동 서울역풍림<b>아이원</b>플러스 면적별 시세 ...",
+      "link": "https://neonet.co.kr/novo-rebank/view/market_price/MarketPriceDetail.neo?offerings_gbn=OP&lcode=01&mcode=140&sname=%BC%AD%B0%E8%B5%BF&complex_cd=OF001597&pyung_cd=2",
+      "displayLink": "neonet.co.kr",
+      "snippet": "상한가, 하한가, 상한가, 보증금, 월세. 26,500, 27,500, 19,000, 21,000, 1,000, 90~100. 면적정보, 면적별 가구수, 56가구, 전용면적, ㎡, 방/욕실개수, 1/1. 시세제공사 ...",
+      "htmlSnippet": "<b>상한가</b>, 하한가, <b>상한가</b>, 보증금, 월세. 26,500, 27,500, 19,000, 21,000, 1,000, 90~100. 면적정보, 면적별 가구수, 56가구, 전용면적, ㎡, 방/욕실개수, 1/1. 시세제공사&nbsp;...",
+      "cacheId": "WrsXPVfFMkcJ",
+      "formattedUrl": "https://neonet.co.kr/novo.../MarketPriceDetail.neo?...2",
+      "htmlFormattedUrl": "https://neonet.co.kr/novo.../MarketPriceDetail.neo?...2",
+      "pagemap": {
+        "metatags": [
+          {
+            "autocomplete": "off",
+            "author": "부동산뱅크",
+            "subject": "부동산종합포탈 부동산뱅크!",
+            "classification": "text"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "경기도 고양시 토당동 능곡풍림아이원2단지 | 부동산뱅크 단지뱅크",
+      "htmlTitle": "경기도 고양시 토당동 능곡풍림<b>아이원</b>2단지 | 부동산뱅크 단지뱅크",
+      "link": "https://www.neonet.co.kr/novo-rebank/view//danjibank/DanjiBankHome.neo?apt_cd=A1000358&pyung_cd=1&menu_gbn=sise",
+      "displayLink": "www.neonet.co.kr",
+      "snippet": "아파트명, 공급면적, 매매가, 전세가, 월세가. 하한가, 상한가, 하한가, 상한가, 보증금, 월세. 능곡풍림아이원, 114A, 55,000, 70,000, 30,000, 35,000, 5,000, 100.",
+      "htmlSnippet": "아파트명, 공급면적, 매매가, 전세가, 월세가. 하한가, <b>상한가</b>, 하한가, <b>상한가</b>, 보증금, 월세. 능곡풍림<b>아이원</b>, 114A, 55,000, 70,000, 30,000, 35,000, 5,000, 100.",
+      "cacheId": "8AOqZjEB5rEJ",
+      "formattedUrl": "https://www.neonet.co.kr/novo-rebank/.../DanjiBankHome.neo?...",
+      "htmlFormattedUrl": "https://www.neonet.co.kr/novo-rebank/.../DanjiBankHome.neo?...",
+      "pagemap": {
+        "metatags": [
+          {
+            "autocomplete": "off",
+            "author": "부동산뱅크",
+            "subject": "부동산종합포탈 부동산뱅크!",
+            "classification": "text"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "서울특별시 성북구 정릉동 정릉풍림아이원 | 부동산뱅크 단지뱅크",
+      "htmlTitle": "서울특별시 성북구 정릉동 정릉풍림<b>아이원</b> | 부동산뱅크 단지뱅크",
+      "link": "https://neonet.co.kr/novo-rebank/view//danjibank/DanjiBankHome.neo?apt_cd=A0011744&pyung_cd=3&menu_gbn=sise",
+      "displayLink": "neonet.co.kr",
+      "snippet": "아파트명, 공급면적, 매매가, 전세가, 월세가. 하한가, 상한가, 하한가, 상한가, 보증금, 월세. 길음뉴타운경남아너스빌, 81, 54,000, 60,750, 29,500, 35,000, 5,000 ...",
+      "htmlSnippet": "아파트명, 공급면적, 매매가, 전세가, 월세가. 하한가, <b>상한가</b>, 하한가, <b>상한가</b>, 보증금, 월세. 길음뉴타운경남아너스빌, 81, 54,000, 60,750, 29,500, 35,000, 5,000&nbsp;...",
+      "cacheId": "0AunBSLOhwUJ",
+      "formattedUrl": "https://neonet.co.kr/novo-rebank/view//.../DanjiBankHome.neo?...",
+      "htmlFormattedUrl": "https://neonet.co.kr/novo-rebank/view//.../DanjiBankHome.neo?...",
+      "pagemap": {
+        "metatags": [
+          {
+            "autocomplete": "off",
+            "author": "부동산뱅크",
+            "subject": "부동산종합포탈 부동산뱅크!",
+            "classification": "text"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "경기도 파주시 금촌동 금촌풍림아이원 | 부동산뱅크 단지뱅크",
+      "htmlTitle": "경기도 파주시 금촌동 금촌풍림<b>아이원</b> | 부동산뱅크 단지뱅크",
+      "link": "https://www.neonet.co.kr/novo-rebank//view/danjibank/DanjiBankHome.neo?apt_cd=A0028171&pyung_cd=1&menu_gbn=sise",
+      "displayLink": "www.neonet.co.kr",
+      "snippet": "아파트명, 공급면적, 매매가, 전세가, 월세가. 하한가, 상한가, 하한가, 상한가, 보증금, 월세. 금촌풍림아이원, 125A, 37,750, 42,000, 28,000, 31,500, 3,000, 80.",
+      "htmlSnippet": "아파트명, 공급면적, 매매가, 전세가, 월세가. 하한가, <b>상한가</b>, 하한가, <b>상한가</b>, 보증금, 월세. 금촌풍림<b>아이원</b>, 125A, 37,750, 42,000, 28,000, 31,500, 3,000, 80.",
+      "cacheId": "dcFgedCFVswJ",
+      "formattedUrl": "https://www.neonet.co.kr/novo-rebank//.../DanjiBankHome.neo?...",
+      "htmlFormattedUrl": "https://www.neonet.co.kr/novo-rebank//.../DanjiBankHome.neo?...",
+      "pagemap": {
+        "metatags": [
+          {
+            "autocomplete": "off",
+            "author": "부동산뱅크",
+            "subject": "부동산종합포탈 부동산뱅크!",
+            "classification": "text"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "인천시 간석동 아파트 간석마을풍림아이원 매매 37,000 3개월이내 ...",
+      "htmlTitle": "인천시 간석동 아파트 간석마을풍림<b>아이원</b> 매매 37,000 3개월이내 ...",
+      "link": "https://blog.naver.com/PostView.naver?blogId=jsook7260&logNo=221066077305&from=search&redirect=Log&widgetTypeCall=true&directAccess=false",
+      "displayLink": "blog.naver.com",
+      "snippet": "Aug 3, 2017 ... 상한가, 전주 대비 변동액, 하한가, 상한가, 전주 대비 변동액. 74/59.86, 25,000, 27,000, 21,000, 22,000. 109/84.95, 28,500, 32,500, 26,000, 27,500.",
+      "htmlSnippet": "Aug 3, 2017 <b>...</b> <b>상한가</b>, 전주 대비 변동액, 하한가, <b>상한가</b>, 전주 대비 변동액. 74/59.86, 25,000, 27,000, 21,000, 22,000. 109/84.95, 28,500, 32,500, 26,000, 27,500.",
+      "cacheId": "DIwrX8928kkJ",
+      "formattedUrl": "https://blog.naver.com/PostView.naver?blogId=jsook7260...",
+      "htmlFormattedUrl": "https://blog.naver.com/PostView.naver?blogId=jsook7260...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAxNzA4MDNfMjU0/MDAxNTAxNzQzNTc5NDk3.wIk96ZXnfWSwTBJx15QFgYij8HuzIOCua9VflXg0K60g.3hAXdlSYzJZmda1PZA7ZLr3KzRz3A6i0oA7u5lmMqm4g.JPEG.jsook7260/image.jpg?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 미추홀공인중개사",
+            "og:title": "인천시 간석동 아파트 간석마을풍림아이원 매매 37,000 3개월이내입주가능 미추홀공인중개소",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAxNzA2MTBfMjg2/MDAxNDk3MDYwOTQ0MDg5.YXdFvPyoLipqkfsTDy7d66AdSIuUW4twbG3x_Hm05xsg.HfeX8cajPnCaNz1HDG2inDv3EXropj2wv2DaT4raBiQg.JPEG.jsook7260/%25C4%25B8%25C3%25B3.JPG?type=s1",
+            "napp-site-analysis": "gdid=90000003_00000000000000337890A479,service=blog,collection=blog",
+            "og:description": "내가 원하는 조건과 딱 들어맞는 매물, 그간 찾느라 힘드시죠? 3개월이내 입주가능한 간석마을풍림아이원 ...",
+            "referrer": "always",
+            "naverblog:nickname": "미추홀공인중개사",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/jsook7260/221066077305",
+            "og:article:author": "미추홀공인.. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogthumb.pstatic.net/MjAxNzA4MDNfMjU0/MDAxNTAxNzQzNTc5NDk3.wIk96ZXnfWSwTBJx15QFgYij8HuzIOCua9VflXg0K60g.3hAXdlSYzJZmda1PZA7ZLr3KzRz3A6i0oA7u5lmMqm4g.JPEG.jsook7260/image.jpg?type=w2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "서울특별시 노원구 공릉동 공릉풍림아이원 | 부동산뱅크 단지뱅크",
+      "htmlTitle": "서울특별시 노원구 공릉동 공릉풍림<b>아이원</b> | 부동산뱅크 단지뱅크",
+      "link": "https://www.neonet.co.kr/novo-rebank//view/danjibank/DanjiBankHome.neo?apt_cd=A0011803&pyung_cd=1&menu_gbn=sise",
+      "displayLink": "www.neonet.co.kr",
+      "snippet": "아파트명, 공급면적, 매매가, 전세가, 월세가. 하한가, 상한가, 하한가, 상한가, 보증금, 월세. 공릉2단지라이프, 46, 33,000, 35,500, 16,000, 18,000, 2,000, 53.",
+      "htmlSnippet": "아파트명, 공급면적, 매매가, 전세가, 월세가. 하한가, <b>상한가</b>, 하한가, <b>상한가</b>, 보증금, 월세. 공릉2단지라이프, 46, 33,000, 35,500, 16,000, 18,000, 2,000, 53.",
+      "cacheId": "c__uSg06MHYJ",
+      "formattedUrl": "https://www.neonet.co.kr/novo-rebank//.../DanjiBankHome.neo?...",
+      "htmlFormattedUrl": "https://www.neonet.co.kr/novo-rebank//.../DanjiBankHome.neo?...",
+      "pagemap": {
+        "metatags": [
+          {
+            "autocomplete": "off",
+            "author": "부동산뱅크",
+            "subject": "부동산종합포탈 부동산뱅크!",
+            "classification": "text"
+          }
+        ]
+      }
+    }
+  ]
+}

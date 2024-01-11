@@ -17,37 +17,42 @@ client = OpenAI(
     # This is the default and can be omitted
     api_key='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'
 )
-input_data = ""
-with open(f"{RESULT_DIR}/{today_date}_gpt_input.txt", "r") as file:
-    input_data = file.read()
+# input_data = ""
+# with open(f"{RESULT_DIR}/{today_date}_gpt_input.txt", "r") as file:
+#     input_data = file.read()
 
 
-# input data slicing
-start_pattern = "<<"; end_pattern = "<<"; start_index = 0; input_sliced_datas = []
-while start_index != -1:
-    start_index = input_data.find(start_pattern, start_index)
-    if start_index != -1:
-        end_index = input_data.find(end_pattern, start_index + 1) - 3
-        if end_index != -1:
-            sliced_text = input_data[start_index:end_index + len(end_pattern)]
-            print(sliced_text)
-            input_sliced_datas.append(sliced_text)
-            start_index = end_index + len(end_pattern)
-        else:
-            print("끝 패턴이 발견되지 않았습니다.")
-            break
-    else:
-        print("시작 패턴이 발견되지 않았습니다.")
+# # input data slicing
+# start_pattern = "<<"; end_pattern = "<<"; start_index = 0; input_sliced_datas = []
+# while start_index != -1:
+#     start_index = input_data.find(start_pattern, start_index)
+#     if start_index != -1:
+#         end_index = input_data.find(end_pattern, start_index + 1) - 3
+#         if end_index != -1:
+#             sliced_text = input_data[start_index:end_index + len(end_pattern)]
+#             print(sliced_text)
+#             input_sliced_datas.append(sliced_text)
+#             start_index = end_index + len(end_pattern)
+#         else:
+#             print("끝 패턴이 발견되지 않았습니다.")
+#             break
+#     else:
+#         print("시작 패턴이 발견되지 않았습니다.")
 
 chat_completion = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": f"{input_sliced_datas[0]}\n\n{GPT_CMD}",
+            # "content": f"{input_sliced_datas[0]}\n\n{GPT_CMD}",
+            "content": "자기소개 해줘",
         }
     ],
     model="gpt-3.5-turbo",
     stream=True,
 )
+tmp = ""
 for chunk in chat_completion:
-    print(chunk.choices[0].delta.content or "", end="")
+    tmp += chunk.choices[0].delta.content or ""
+
+# 나중에 tmp를 필요한 곳에서 사용
+print(tmp)

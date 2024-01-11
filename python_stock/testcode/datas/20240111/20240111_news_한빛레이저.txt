@@ -1,0 +1,696 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 한빛레이저 상한가",
+        "totalResults": "71300",
+        "searchTerms": "한빛레이저 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 한빛레이저 상한가",
+        "totalResults": "71300",
+        "searchTerms": "한빛레이저 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.360626,
+    "formattedSearchTime": "0.36",
+    "totalResults": "71300",
+    "formattedTotalResults": "71,300"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "<코>한빛레이저, 상한가 진입.. +29.97%",
+      "htmlTitle": "&lt;코&gt;<b>한빛레이저</b>, <b>상한가</b> 진입.. +29.97%",
+      "link": "https://www.sedaily.com/NewsView/2D412592CI",
+      "displayLink": "www.sedaily.com",
+      "snippet": "1 day ago ... 증권 > News봇 뉴스: 오전 9시 20분 현재 한빛레이저(452190)가 +29.97% 오른 16220원(△3740)으로 장중 상한가에 진입했다. 거래대금은 1299억3,4...",
+      "htmlSnippet": "1 day ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 20분 현재 <b>한빛레이저</b>(452190)가 +29.97% 오른 16220원(△3740)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 1299억3,4...",
+      "cacheId": "JyI-4gQYVkoJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D412592CI",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D412592CI",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRWAElbGLNu5S3U4EfjnWqt8gmoDUPx-9O26J6pXduSyQldlZVFuSCdMSM",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/10/2D412592CI_1.png",
+            "article:published_time": "2024-01-10T09:20:33+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-10T09:20:33+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>한빛레이저, 상한가 진입.. +29.97% ↑ | 서울경제",
+            "dd:published_time": "2024-01-10T09:20:33+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 20분 현재 한빛레이저(452190)가 +29.97% 오른 16,220원(▲3,740)으로 장중 상한가에 진입했다. 거래대금은 1,299억3,4...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/10/2D412592CI_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-10T09:20:33+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D412592CI/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>한빛레이저, 상한가 진입.. +29.97% ↑",
+            "dable:item_id": "2D412592CI",
+            "og:title": "<코>한빛레이저, 상한가 진입.. +29.97% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>한빛레이저, 상한가 진입.. +29.97% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D412592CI",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 20분 현재 한빛레이저(452190)가 +29.97% 오른 16,220원(▲3,740)으로 장중 상한가에 진입했다. 거래대금은 1,299억3,4...",
+            "ngh:id": "2D412592CI",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/10/2D412592CI_1_m.png",
+            "ngh:title": "​<코>한빛레이저, 상한가 진입.. +29.97% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D412592CI/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/10/2D412592CI_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'2차전지·자동차 레이저 장비' 한빛레이저 스펙 합병 상장 첫날 장중 ...",
+      "htmlTitle": "&#39;2차전지·자동차 레이저 장비&#39; <b>한빛레이저</b> 스펙 합병 상장 첫날 장중 ...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=338228",
+      "displayLink": "www.businesspost.co.kr",
+      "snippet": "'2차전지·자동차 레이저 장비' 한빛레이저 스펙 합병 상장 첫날 장중 상한가. 2024-01-04 00:00:00. 조윤호 기자 - uknow@businesspost.co.kr. 0. '2차전지·자동차 ...",
+      "htmlSnippet": "&#39;2차전지·자동차 레이저 장비&#39; <b>한빛레이저</b> 스펙 합병 상장 첫날 장중 <b>상한가</b>. 2024-01-04 00:00:00. 조윤호 기자 - uknow@businesspost.co.kr. 0. &#39;2차전지·자동차&nbsp;...",
+      "cacheId": "EhH396mVkHAJ",
+      "formattedUrl": "https://www.businesspost.co.kr/BP?command=article_view&num...",
+      "htmlFormattedUrl": "https://www.businesspost.co.kr/BP?command=article_view&amp;num...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqFpRvyppRmZ1HDwyBqcvCaOaMdolX-gcoEN3gnVuUhSDVWK0uiGi8iM8",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.businesspost.co.kr/news/photo/202401/20240104105716_290814.png",
+            "copyright": "BUSINESSPOST, Inc",
+            "article:published_time": "2024-01-04T00:00:00+0900",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "'2차전지·자동차 레이저 장비' 한빛레이저 스펙 합병 상장 첫날 장중 상한가",
+            "og:image:type": "image/jpeg",
+            "title": "'2차전지·자동차 레이저 장비' 한빛레이저 스펙 합병 상장 첫날 장중 상한가",
+            "og:description": "김정묵 한빛레이저 대표이사(왼쪾에서 3번째)가 4일 서울 여의도 한국거래소 코스닥시장본부에서 열린 상장기념식에 참석했다. <한국거래소>[비즈니스포스트]2차전지 및 자..",
+            "twitter:creator": "@Businesspost",
+            "article:publisher": "https://www.facebook.com/bizpost",
+            "twitter:site": "@Businesspost",
+            "news_keywords": "김정묵 한빛레이저 대표이사(왼쪾에서 3번째)가 4일 서울 여의도 한국거래소 코스닥시장본부에서 열린 상장기념식에 참석했다. <한국거래소>[비즈니스포스트]2차전지 및 자.. 비즈니스포스트, BUSINESSPOST, 채널Who, 인물중심, 기업인, 프로파일, 경제미디어, 경제신문, 경제지, Who Is?",
+            "og:category": "stock",
+            "og:type": "article",
+            "article:section": "시장과머니-특징주",
+            "twitter:title": "'2차전지·자동차 레이저 장비' 한빛레이저 스펙 합병 상장 첫날 장중 상한가",
+            "og:title": "'2차전지·자동차 레이저 장비' 한빛레이저 스펙 합병 상장 첫날 장중 상한가",
+            "naverbot": "All",
+            "article:author": "조윤호",
+            "twitter:image:src": "https://www.businesspost.co.kr/news/photo/202401/20240104105716_290814.png",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+            "twitter:description": "'2차전지·자동차 레이저 장비' 한빛레이저 스펙 합병 상장 첫날 장중 상한가",
+            "yeti": "All",
+            "og:url": "https://m.businesspost.co.kr/BP?command=mobile_view&num=338228",
+            "aicon:item_id": "338228"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.businesspost.co.kr/news/photo/202401/20240104105716_290814.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>한빛레이저, 상한가 진입.. +29.86%",
+      "htmlTitle": "&lt;코&gt;<b>한빛레이저</b>, <b>상한가</b> 진입.. +29.86%",
+      "link": "https://www.sedaily.com/NewsView/2D3YSAXG9N",
+      "displayLink": "www.sedaily.com",
+      "snippet": "6 days ago ... 증권 > News봇 뉴스: 오후 1시 53분 현재 한빛레이저(452190)가 +29.86% 오른 8220원(△1890)으로 장중 상한가에 진입했다. 거래대금은 3435억3,70...",
+      "htmlSnippet": "6 days ago <b>...</b> 증권 &gt; News봇 뉴스: 오후 1시 53분 현재 <b>한빛레이저</b>(452190)가 +29.86% 오른 8220원(△1890)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 3435억3,70...",
+      "cacheId": "YnGN5Q5Iq_UJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D3YSAXG9N",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D3YSAXG9N",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_xORR_YB6hR2eqjvWWv5YwKgVe-8lBGLlCdxvUREsZyKCevKIHTdIGw",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/05/2D3YSAXG9N_1.png",
+            "article:published_time": "2024-01-05T13:53:03+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-05T13:53:03+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>한빛레이저, 상한가 진입.. +29.86% ↑ | 서울경제",
+            "dd:published_time": "2024-01-05T13:53:03+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 1시 53분 현재 한빛레이저(452190)가 +29.86% 오른 8,220원(▲1,890)으로 장중 상한가에 진입했다. 거래대금은 3,435억3,70...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/05/2D3YSAXG9N_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-05T13:53:03+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D3YSAXG9N/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>한빛레이저, 상한가 진입.. +29.86% ↑",
+            "dable:item_id": "2D3YSAXG9N",
+            "og:title": "<코>한빛레이저, 상한가 진입.. +29.86% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>한빛레이저, 상한가 진입.. +29.86% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D3YSAXG9N",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 1시 53분 현재 한빛레이저(452190)가 +29.86% 오른 8,220원(▲1,890)으로 장중 상한가에 진입했다. 거래대금은 3,435억3,70...",
+            "ngh:id": "2D3YSAXG9N",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/05/2D3YSAXG9N_1_m.png",
+            "ngh:title": "​<코>한빛레이저, 상한가 진입.. +29.86% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D3YSAXG9N/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/05/2D3YSAXG9N_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>한빛레이저, 상한가 진입.. +29.91%",
+      "htmlTitle": "&lt;코&gt;<b>한빛레이저</b>, <b>상한가</b> 진입.. +29.91%",
+      "link": "https://sedaily.com/NewsView/2D4074SGZN",
+      "displayLink": "sedaily.com",
+      "snippet": "3 days ago ... 증권 > News봇 뉴스: 오후 1시 11분 현재 한빛레이저(452190)가 +29.91% 오른 9600원(△2210)으로 장중 상한가에 진입했다. 거래대금은 3359억5,35...",
+      "htmlSnippet": "3 days ago <b>...</b> 증권 &gt; News봇 뉴스: 오후 1시 11분 현재 <b>한빛레이저</b>(452190)가 +29.91% 오른 9600원(△2210)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 3359억5,35...",
+      "cacheId": "d77xI8RfBfwJ",
+      "formattedUrl": "https://sedaily.com/NewsView/2D4074SGZN",
+      "htmlFormattedUrl": "https://sedaily.com/NewsView/2D4074SGZN",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6lo4aGDdq33eR6N4pi2H3Tuupo9b1IXJW9b9cSoLHBHnzEqxQpcXv840",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/08/2D4074SGZN_1.png",
+            "article:published_time": "2024-01-08T13:11:03+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-08T13:11:03+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>한빛레이저, 상한가 진입.. +29.91% ↑ | 서울경제",
+            "dd:published_time": "2024-01-08T13:11:03+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 1시 11분 현재 한빛레이저(452190)가 +29.91% 오른 9,600원(▲2,210)으로 장중 상한가에 진입했다. 거래대금은 3,359억5,35...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/08/2D4074SGZN_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-08T13:11:03+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D4074SGZN/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>한빛레이저, 상한가 진입.. +29.91% ↑",
+            "dable:item_id": "2D4074SGZN",
+            "og:title": "<코>한빛레이저, 상한가 진입.. +29.91% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>한빛레이저, 상한가 진입.. +29.91% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D4074SGZN",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 1시 11분 현재 한빛레이저(452190)가 +29.91% 오른 9,600원(▲2,210)으로 장중 상한가에 진입했다. 거래대금은 3,359억5,35...",
+            "ngh:id": "2D4074SGZN",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/08/2D4074SGZN_1_m.png",
+            "ngh:title": "​<코>한빛레이저, 상한가 진입.. +29.91% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D4074SGZN/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/08/2D4074SGZN_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "한빛레이저, 코스닥 시장 입성",
+      "htmlTitle": "<b>한빛레이저</b>, 코스닥 시장 입성",
+      "link": "https://www.hellodd.com/news/articleView.html?idxno=103013",
+      "displayLink": "www.hellodd.com",
+      "snippet": "7 days ago ... 이날 종가는 29.98%가 오른 6330원으로 상장 첫날부터 상한가를 기록했다. 1997년 대전에 설립된 한빛레이저는 이차전지와 자동차(EV), 반도체 등 다양한 ...",
+      "htmlSnippet": "7 days ago <b>...</b> 이날 종가는 29.98%가 오른 6330원으로 상장 첫날부터 <b>상한가</b>를 기록했다. 1997년 대전에 설립된 <b>한빛레이저</b>는 이차전지와 자동차(EV), 반도체 등 다양한&nbsp;...",
+      "cacheId": "cZ0MQlKNtJ0J",
+      "formattedUrl": "https://www.hellodd.com/news/articleView.html?idxno=103013",
+      "htmlFormattedUrl": "https://www.hellodd.com/news/articleView.html?idxno=103013",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-oQovqM6lShlap-Vo_tS9unv4QH5T2-8f-ecfQxX3jKR_lxkA_00sctZq",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.hellodd.com/news/thumbnail/202401/103013_322245_1554_v150.jpg",
+            "theme-color": "#f7a25b",
+            "copyright": "헬로디디",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "한빛레이저, 코스닥 시장 입성",
+            "article:section": "뉴스",
+            "article:published_time": "2024-01-04T17:00:00+09:00",
+            "og:site_name": "헬로디디",
+            "dable:item_id": "103013",
+            "og:title": "한빛레이저, 코스닥 시장 입성",
+            "title": "한빛레이저, 코스닥 시장 입성",
+            "classification": "뉴스 > R&D·제품",
+            "og:description": "한빛레이저(대표 김정묵)가 DB금융스팩10호와의 합병을 통해 4일 코스닥 시장에 입성했다. 양사의 합병비율은 1대 0.6470398로, 기준가는 4870원이다. 이날 종가는 29.98%가 오른 6330원으로 상장 첫날부터 상한가를 기록했다. 1997년 대전에 설립된 한빛레이저는 이차전지와 자동차(EV), 반도체 등 다양한 산업에 레이저 응용시스템·솔루션을 제공하고 있다. 고출력 산업용 레이저 기술을 처음으로 국산화하는 데 성공하기도 했다. 지난 2022년 매출과 영업이익은 각각 205억원, 23억원이다.한빛레이저는 지난 9월 한국거",
+            "twitter:creator": "이유진 기자",
+            "twitter:image": "https://cdn.hellodd.com/news/thumbnail/202401/103013_322245_1554_v150.jpg",
+            "article:section1": "R&D·제품",
+            "dable:author": "이유진 기자",
+            "twitter:site": "http://www.hellodd.com/news/articleView.html?idxno=103013",
+            "naver-site-verification": "0b1e7589b45a2f657024560099ed04475344e995",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "한빛레이저(대표 김정묵)가 DB금융스팩10호와의 합병을 통해 4일 코스닥 시장에 입성했다. 양사의 합병비율은 1대 0.6470398로, 기준가는 4870원이다. 이날 종가는 29.98%가 오른 6330원으로 상장 첫날부터 상한가를 기록했다. 1997년 대전에 설립된 한빛레이저는 이차전지와 자동차(EV), 반도체 등 다양한 산업에 레이저 응용시스템·솔루션을 제공하고 있다. 고출력 산업용 레이저 기술을 처음으로 국산화하는 데 성공하기도 했다. 지난 2022년 매출과 영업이익은 각각 205억원, 23억원이다.한빛레이저는 지난 9월 한국거",
+            "og:url": "http://www.hellodd.com/news/articleView.html?idxno=103013",
+            "og:article:author": "이유진 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.hellodd.com/news/thumbnail/202401/103013_322245_1554_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] 상장과 함께 연달아 강세, 한빛레이저 상한가 ...",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] 상장과 함께 연달아 강세, <b>한빛레이저 상한가</b> ...",
+      "link": "https://news.mt.co.kr/mtview.php?no=2024010912317091365",
+      "displayLink": "news.mt.co.kr",
+      "snippet": "2 days ago ... 한빛레이저가 장중 상한가에 진입하였다.레이저 기술 기업 한빛레이저가 스팩 합병을 통한 코스닥 상장 후 연이은 강세를 보이며 9일 금일도 상한가에 ...",
+      "htmlSnippet": "2 days ago <b>...</b> <b>한빛레이저</b>가 장중 <b>상한가</b>에 진입하였다.레이저 기술 기업 <b>한빛레이저</b>가 스팩 합병을 통한 코스닥 상장 후 연이은 강세를 보이며 9일 금일도 <b>상한가</b>에&nbsp;...",
+      "cacheId": "7rKj2CWBsIEJ",
+      "formattedUrl": "https://news.mt.co.kr/mtview.php?no=2024010912317091365",
+      "htmlFormattedUrl": "https://news.mt.co.kr/mtview.php?no=2024010912317091365",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnU9TNRpse0xhuC5wHNEh8FowoQ5-OBRJghomqj_Ym1T1bRUCRZJbHsRc",
+            "width": "384",
+            "height": "131"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://thumb.mt.co.kr/06/2024/01/2024010912317091365_1.jpg",
+            "copyright": "MoneyToday Inc.",
+            "og:image:width": "1200",
+            "article:published_time": "2024-01-09T13:43:50+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "머니투데이",
+            "twitter:app:url:ipad": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "dd:published_time": "2024-01-09T13:43:50+09:00",
+            "og:description": "한빛레이저가 장중 상한가에 진입하였다.레이저 기술 기업 한빛레이저가 스팩 합병을 통한 코스닥 상장 후 연이은 강세를 보이며 9일 금일도 상한가에 도달하였다.한빛레이저는 지난 4일 DB금융스팩10호와 스팩 소멸 합병 방식을 통해 코스닥시장에 입성하였으며 상장 첫날 상한가를 기록하였다. 2일째인 5일과 8일에도 강한 상승을 보인 바 있다.“최근 스팩 시장이 활...",
+            "twitter:creator": "@moneytodaynews",
+            "article:publisher": "https://www.mt.co.kr",
+            "twitter:image:alt": "[MTN머니로 상한가 포착] 상장과 함께 연달아 강세, 한빛레이저 상한가",
+            "dable:url": "https://m.mt.co.kr/renew/view.html?no=2024010912317091365",
+            "og:image:alt": "[MTN머니로 상한가 포착] 상장과 함께 연달아 강세, 한빛레이저 상한가",
+            "twitter:domain": "https://www.mt.co.kr",
+            "author": "머니투데이",
+            "dable:item_id": "2024010912317091365",
+            "twitter:app:id:ipad": "id349423458",
+            "article:author": "https://www.mt.co.kr",
+            "dd:title": "머니투데이: [MTN머니로 상한가 포착] 상장과 함께 연달아 강세, 한빛레이저 상한가",
+            "dd:category": "증권",
+            "twitter:app:name:ipad": "머니투데이",
+            "og:locale": "ko_KR",
+            "twitter:app:name:iphone": "머니투데이",
+            "twitter:app:url:iphone": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "twitter:app:id:googleplay": "com.mt.MoneyTodayNews.apis",
+            "dd:author": "MTN",
+            "dd:modified_time": "2024-01-09T13:43:50+09:00",
+            "twitter:app:name:googleplay": "머니투데이",
+            "title": "[MTN머니로 상한가 포착] 상장과 함께 연달아 강세, 한빛레이저 상한가 - 머니투데이",
+            "twitter:app:id:iphone": "id349423458",
+            "twitter:image": "https://thumb.mt.co.kr/06/2024/01/2024010912317091365_1.jpg/dims/resize/1200/crop/1200x630!/optimize/",
+            "twitter:site": "@moneytodaynews",
+            "news_keywords": "MTN,상한가,레이저,상장,강세,머니,포착,합병,코스닥,소멸",
+            "post:sharer_text": "머니투데이",
+            "dable:custom1": "not",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "[MTN머니로 상한가 포착] 상장과 함께 연달아 강세, 한빛레이저 상한가 - 머니투데이",
+            "og:title": "[MTN머니로 상한가 포착] 상장과 함께 연달아 강세, 한빛레이저 상한가 - 머니투데이",
+            "og:image:height": "630",
+            "referrer": "strict-origin-when-cross-origin",
+            "fb:app_id": "173026022742732",
+            "dable:author": "MTN",
+            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.mt.MoneyTodayNews.apis",
+            "dd:content_id": "2024010912317091365",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:description": "한빛레이저가 장중 상한가에 진입하였다.레이저 기술 기업 한빛레이저가 스팩 합병을 통한 코스닥 상장 후 연이은 강세를 보이며 9일 금일도 상한가에 도달하였다.한빛레이저는 지난 4일 DB금융스팩10호와 스팩 소멸 합병 방식을 통해 코스닥시장에 입성하였으며 상장 첫날 상한가를 기록하였다. 2일째인 5일과 8일에도 강한 상승을 보인 바 있다.“최근 스팩 시장이 활...",
+            "og:url": "https://m.mt.co.kr/renew/view.html?no=2024010912317091365",
+            "category": "F0101"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thumb.mt.co.kr/06/2024/01/2024010912317091365_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'스팩 상장' 한빛레이저, 2거래일 연속 상한가… \"산업용 레이저 강자 ...",
+      "htmlTitle": "&#39;스팩 상장&#39; <b>한빛레이저</b>, 2거래일 연속 <b>상한가</b>… &quot;산업용 레이저 강자 ...",
+      "link": "https://www.moneys.co.kr/article/2024010910563840197",
+      "displayLink": "www.moneys.co.kr",
+      "snippet": "2 days ago ... 산업용 레이저 솔루션 전문 기업 한빛레이저가 상한가를 달성했다.9일 한국거래소에 따르면 이날 오후 2시5분 한빛레이저는 전 거래일 대비 2880 ...",
+      "htmlSnippet": "2 days ago <b>...</b> 산업용 레이저 솔루션 전문 기업 <b>한빛레이저</b>가 <b>상한가</b>를 달성했다.9일 한국거래소에 따르면 이날 오후 2시5분 <b>한빛레이저</b>는 전 거래일 대비 2880&nbsp;...",
+      "cacheId": "V8hqqD8I89IJ",
+      "formattedUrl": "https://www.moneys.co.kr/article/2024010910563840197",
+      "htmlFormattedUrl": "https://www.moneys.co.kr/article/2024010910563840197",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0ULNMDMEnT04NIOZ_Exj2HTU6wOfj9EecdC8PVKsbnU592guIrIqiwgQR",
+            "width": "273",
+            "height": "185"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://menu.moneys.co.kr/moneyweek/thumb/2024/01/09/06/2024010910563840197_1.jpg",
+            "copyright": "Copyright MoneyS. All rights reserved.",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-09T14:10:18+09:00",
+            "dd:author": "송정훈",
+            "dd:availability": "true",
+            "og:site_name": "머니S",
+            "dd:category2": "마켓",
+            "dd:modified_time": "2024-01-09T14:10:18+09:00",
+            "title": "'스팩 상장' 한빛레이저, 2거래일 연속 상한가… \"산업용 레이저 강자\" - 머니S",
+            "dd:published_time": "2024-01-09T14:10:18+09:00",
+            "og:description": "산업용 레이저 솔루션 전문 기업 한빛레이저가 상한가를 달성했다.9일 한국거래소에 따르면 이날 오후 2시5분 한빛레이저는 전 거래일 대비 2880원(30%) 오른 1만2480원에 거래된다. 한빛레이저는 지난 8일에도 전 거래일 대비 29.91% 오르며 상한가에 거래를",
+            "twitter:creator": "@MoneyWeekKr",
+            "twitter:image": "https://menu.moneys.co.kr/moneyweek/thumb/2024/01/09/06/2024010910563840197_1.jpg",
+            "article:publisher": "https://m.moneys.co.kr",
+            "twitter:image:alt": "DB금융스팩10호와 스팩 소멸 합병 방식을 통해 상장한 한빛레이저가 상한가를 기록했다. 사진은 김정묵 한빛레이저 대표. /사진=서울IR 제공",
+            "twitter:site": "@MoneyWeekKr",
+            "naver-site-verification": "27f61d660252a34b9fc7a95a27cf4c5860a8c90f",
+            "news_keywords": "레이저,솔루션,상장,산업,거래일,한국,파트너십,연속,강자,상한가",
+            "post:sharer_text": "머니S - 돈이 보이는 스페셜 뉴스",
+            "dd:publisher": "머니S",
+            "dable:custom1": "count",
+            "og:type": "article",
+            "og:image:alt": "DB금융스팩10호와 스팩 소멸 합병 방식을 통해 상장한 한빛레이저가 상한가를 기록했다. 사진은 김정묵 한빛레이저 대표. /사진=서울IR 제공",
+            "twitter:title": "'스팩 상장' 한빛레이저, 2거래일 연속 상한가… \"산업용 레이저 강자\" - 머니S",
+            "article:section": "증권",
+            "twitter:domain": "https://m.moneys.co.kr",
+            "author": "머니S",
+            "dable:item_id": "2024010910563840197",
+            "og:title": "'스팩 상장' 한빛레이저, 2거래일 연속 상한가… \"산업용 레이저 강자\" - 머니S",
+            "og:image:height": "630",
+            "article:author": "https://m.moneys.co.kr",
+            "article:tag": "증권,마켓",
+            "dd:title": "'스팩 상장' 한빛레이저, 2거래일 연속 상한가… \"산업용 레이저 강자\" - 머니S",
+            "referrer": "strict-origin-when-cross-origin",
+            "dd:category": "증권",
+            "fb:app_id": "256439978070386",
+            "dable:author": "송정훈",
+            "dd:content_id": "2024010910563840197",
+            "taboola:author": "송정훈",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=10,minimum-scale=1.0",
+            "twitter:description": "산업용 레이저 솔루션 전문 기업 한빛레이저가 상한가를 달성했다.9일 한국거래소에 따르면 이날 오후 2시5분 한빛레이저는 전 거래일 대비 2880원(30%) 오른 1만2480원에 거래된다. 한빛레이저는 지난 8일에도 전 거래일 대비 29.91% 오르며 상한가에 거래를",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.moneys.co.kr/article/2024010910563840197",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://menu.moneys.co.kr/moneyweek/thumb/2024/01/09/06/2024010910563840197_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가 | 연합뉴스",
+      "htmlTitle": "[특징주] <b>한빛레이저</b>, 코스닥 상장 첫날 <b>상한가</b> | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20240104114500002",
+      "displayLink": "www.yna.co.kr",
+      "snippet": "7 days ago ... (서울=연합뉴스) 이웅 기자 = 레이저기술 전문업체인 한빛레이저[452190]가 코스닥 상장 첫날 증시의 조정 분위기 속에서도 상한가를 기록했다...",
+      "htmlSnippet": "7 days ago <b>...</b> (서울=연합뉴스) 이웅 기자 = 레이저기술 전문업체인 <b>한빛레이저</b>[452190]가 코스닥 상장 첫날 증시의 조정 분위기 속에서도 <b>상한가</b>를 기록했다...",
+      "cacheId": "sLpb-R0uKW4J",
+      "formattedUrl": "https://www.yna.co.kr/view/AKR20240104114500002",
+      "htmlFormattedUrl": "https://www.yna.co.kr/view/AKR20240104114500002",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQNwlKliWPKWh2xqKS-jZZ6ThJ9-qxNoIYlqN2Qq0uCxXmQG1uTBnDBmQ",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=346169668",
+            "og:image": "https://img9.yna.co.kr/etc/inner/KR/2024/01/04/AKR20240104114500002_01_i_P4.jpg",
+            "copyright": "Yonhapnews",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1140",
+            "article:published_time": "2024-01-04T15:38:23+09:00",
+            "og:site_name": "연합뉴스",
+            "twitter:url": "https://www.yna.co.kr/view/AKR20240104114500002",
+            "title": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가 | 연합뉴스",
+            "twitter:creator": "@yonhaptweet",
+            "og:description": "(서울=연합뉴스) 이웅 기자 = 레이저기술 전문업체인 한빛레이저[452190]가 코스닥 상장 첫날 증시의 조정 분위기 속에서도 상한가를 기록했다...",
+            "article:publisher": "https://www.facebook.com/yonhap",
+            "twitter:image": "https://img9.yna.co.kr/etc/inner/KR/2024/01/04/AKR20240104114500002_01_i_P4.jpg",
+            "twitter:site": "@yonhaptweet",
+            "article:modified_time": "2024-01-04T15:38:23+09:00",
+            "image": "https://img9.yna.co.kr/etc/inner/KR/2024/01/04/AKR20240104114500002_01_i_P4.jpg",
+            "og:type": "article",
+            "twitter:title": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가 | 연합뉴스",
+            "article:section": "경제",
+            "dable:item_id": "AKR20240104114500002",
+            "author": "이웅",
+            "og:title": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가 | 연합뉴스",
+            "og:image:height": "760",
+            "yna:content_id": "AKR20240104114500002",
+            "fb:pages": "130229496988833",
+            "article:author": "이웅",
+            "fb:app_id": "1013291918759197",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:description": "(서울=연합뉴스) 이웅 기자 = 레이저기술 전문업체인 한빛레이저[452190]가 코스닥 상장 첫날 증시의 조정 분위기 속에서도 상한가를 기록했다...",
+            "og:locale": "ko_KR",
+            "resource-type": "article",
+            "yna:mobile_url": "https://m.yna.co.kr/view/AKR20240104114500002",
+            "dable:image": "https://img1.yna.co.kr/etc/inner/KR/2024/01/04/AKR20240104114500002_01_i_P2.jpg",
+            "og:url": "https://www.yna.co.kr/view/AKR20240104114500002"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img9.yna.co.kr/etc/inner/KR/2024/01/04/AKR20240104114500002_01_i_P4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "한빛레이저, 코스닥 상장 첫날 상한가 | 한국경제",
+      "htmlTitle": "<b>한빛레이저</b>, 코스닥 상장 첫날 <b>상한가</b> | 한국경제",
+      "link": "https://www.hankyung.com/article/202401042384Y",
+      "displayLink": "www.hankyung.com",
+      "snippet": "7 days ago ... 레이저기술 전문업체인 한빛레이저가 코스닥 상장 첫날 증시의 조정 분위기 속에서도 상한가를 기록했다. 4일 코스닥시장에서 한빛레이저는 기준가(4 ...",
+      "htmlSnippet": "7 days ago <b>...</b> 레이저기술 전문업체인 <b>한빛레이저</b>가 코스닥 상장 첫날 증시의 조정 분위기 속에서도 <b>상한가</b>를 기록했다. 4일 코스닥시장에서 <b>한빛레이저</b>는 기준가(4&nbsp;...",
+      "cacheId": "bdrJ1ndASE0J",
+      "formattedUrl": "https://www.hankyung.com/article/202401042384Y",
+      "htmlFormattedUrl": "https://www.hankyung.com/article/202401042384Y",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkD03VITgUKY8S0rncjJpXkntJ1O2MmfMIo8MMcotLfMeYlgaiDF2TFWzG",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=406614875, app-argument=https://www.hankyung.com/article/202401042384Y",
+            "og:image": "https://img.hankyung.com/photo/202401/ZK.35482435.1.jpg",
+            "og:image:width": "620",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-04T15:38:30+09:00",
+            "og:site_name": "한국경제",
+            "title": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가",
+            "og:description": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가, 경제",
+            "”robots”": "”max-image-preview:large”",
+            "article:section2": "연합뉴스",
+            "article:section3": "0400",
+            "twitter:site": "@hankyungmedia",
+            "article:published": "2024-01-04",
+            "og:type": "article",
+            "twitter:title": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가",
+            "article:section": "경제 일반",
+            "dable:item_id": "202401042384Y",
+            "og:title": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가",
+            "og:image:height": "413",
+            "classification": "economy",
+            "twitter:image:src": "https://img.hankyung.com/photo/202401/ZK.35482435.1.jpg",
+            "fb:app_id": "872625546175034",
+            "dable:author": "YONHAP",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+            "twitter:description": "[특징주] 한빛레이저, 코스닥 상장 첫날 상한가, 경제",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.hankyung.com/article/202401042384Y"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.hankyung.com/photo/202401/ZK.35482435.1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "한빛레이저, 스팩합병 상장 첫날 상한가 - 매일경제",
+      "htmlTitle": "<b>한빛레이저</b>, 스팩합병 상장 첫날 <b>상한가</b> - 매일경제",
+      "link": "https://www.mk.co.kr/news/stock/10913362",
+      "displayLink": "www.mk.co.kr",
+      "snippet": "한빛레이저가 스팩합병 상장 첫날 상한가를 기록하고 있다. 4일 오전 10시 50분 현재 한빛레이저는 기준가격 대비 1460원(29.98%) 오른 6330원에 거래되고 있다.",
+      "htmlSnippet": "<b>한빛레이저</b>가 스팩합병 상장 첫날 <b>상한가</b>를 기록하고 있다. 4일 오전 10시 50분 현재 <b>한빛레이저</b>는 기준가격 대비 1460원(29.98%) 오른 6330원에 거래되고 있다.",
+      "cacheId": "e49dLQJR2-AJ",
+      "formattedUrl": "https://www.mk.co.kr/news/stock/10913362",
+      "htmlFormattedUrl": "https://www.mk.co.kr/news/stock/10913362",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiV6oXx0KGRsDO5pLb_PAul6y-LglLmJJrfdjpLMLJsuGScLCa3kZO8N4Z",
+            "width": "200",
+            "height": "142"
+          }
+        ],
+        "thumbnail": [
+          {
+            "src": "https://wimg.mk.co.kr/news/cms/202401/04/rcv.YNA.20240104.PYH2024010402910001300_T1.jpg"
+          }
+        ],
+        "metatags": [
+          {
+            "ssc:cmsid": "AKR1202401041051052416",
+            "image": "https://wimg.mk.co.kr/news/cms/202401/04/rcv.YNA.20240104.PYH2024010402910001300.jpg",
+            "og:image": "https://wimg.mk.co.kr/news/cms/202401/04/rcv.YNA.20240104.PYH2024010402910001300.jpg",
+            "thumbnail": "https://wimg.mk.co.kr/news/cms/202401/04/rcv.YNA.20240104.PYH2024010402910001300_T1.jpg",
+            "og:type": "article",
+            "twitter:title": "한빛레이저, 스팩합병 상장 첫날 상한가 - 매일경제",
+            "twitter:card": "summary_large_image",
+            "article:section": "stock",
+            "article:published_time": "2024-01-04T11:02:32+09:00",
+            "og:site_name": "매일경제",
+            "twitter:url": "https://www.mk.co.kr/news/stock/10913362",
+            "og:title": "한빛레이저, 스팩합병 상장 첫날 상한가 - 매일경제",
+            "articleid": "10913362",
+            "org_class": "MK100503",
+            "og:description": "한빛레이저가 스팩합병 상장 첫날 상한가를 기록하고 있다. 4일 오전 10시 50분 현재 한빛레이저는 기준가격 대비 1460원(29.98%) 오른 6330원에 거래되고 있다. 한빛레이저는 개장과 동시에 상한가로 진입했다. 이날 한빛레이저는 DB금융스팩10호와 스팩 소멸 방식의 합병을 통해 코스닥시장에 입성했다. 1997년 설립된 한빛레이저는 이차전지, 반도체",
+            "twitter:image": "https://wimg.mk.co.kr/news/cms/202401/04/rcv.YNA.20240104.PYH2024010402910001300.jpg",
+            "taboola:title": "한빛레이저, 스팩합병 상장 첫날 상한가",
+            "byl": "By 백지연",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "한빛레이저가 스팩합병 상장 첫날 상한가를 기록하고 있다. 4일 오전 10시 50분 현재 한빛레이저는 기준가격 대비 1460원(29.98%) 오른 6330원에 거래되고 있다. 한빛레이저는 개장과 동시에 상한가로 진입했다. 이날 한빛레이저는 DB금융스팩10호와 스팩 소멸 방식의 합병을 통해 코스닥시장에 입성했다. 1997년 설립된 한빛레이저는 이차전지, 반도체",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.mk.co.kr/news/stock/10913362"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://wimg.mk.co.kr/news/cms/202401/04/rcv.YNA.20240104.PYH2024010402910001300_T1.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

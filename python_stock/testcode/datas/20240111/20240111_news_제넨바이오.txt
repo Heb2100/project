@@ -1,0 +1,619 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 제넨바이오 상한가",
+        "totalResults": "21900",
+        "searchTerms": "제넨바이오 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 제넨바이오 상한가",
+        "totalResults": "21900",
+        "searchTerms": "제넨바이오 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.174529,
+    "formattedSearchTime": "0.17",
+    "totalResults": "21900",
+    "formattedTotalResults": "21,900"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "제넨바이오 주가 장중 상한가, 최대주주 변경 따른 경영정상화 기대감 ...",
+      "htmlTitle": "<b>제넨바이오</b> 주가 장중 <b>상한가</b>, 최대주주 변경 따른 경영정상화 기대감 ...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=338698",
+      "displayLink": "www.businesspost.co.kr",
+      "snippet": "2 days ago ... [비즈니스포스트]제넨바이오 주가가 장중 가격제한폭까지 올랐다.9일 오전 10시56분 코스닥시장에서 제넨바이오 주가는 전날보다 29.90%(157원) ...",
+      "htmlSnippet": "2 days ago <b>...</b> [비즈니스포스트]<b>제넨바이오</b> 주가가 장중 가격제한폭까지 올랐다.9일 오전 10시56분 코스닥시장에서 <b>제넨바이오</b> 주가는 전날보다 29.90%(157원)&nbsp;...",
+      "cacheId": "4Agzi0G-eJQJ",
+      "formattedUrl": "https://www.businesspost.co.kr/BP?command=article_view&num...",
+      "htmlFormattedUrl": "https://www.businesspost.co.kr/BP?command=article_view&amp;num...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWY1o9cPNew7drhiUIybs-h2rPS-KCX-aOCs74kwi9I8ZJGQKTzjZJrn4",
+            "width": "300",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.businesspost.co.kr/news/photo/202401/20240109145632_17224.JPG",
+            "copyright": "BUSINESSPOST, Inc",
+            "article:published_time": "2024-01-09T11:05:31+0900",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "제넨바이오 주가 장중 상한가, 최대주주 변경 따른 경영정상화 기대감에 급등",
+            "og:image:type": "image/jpeg",
+            "title": "제넨바이오 주가 장중 상한가, 최대주주 변경 따른 경영정상화 기대감에 급등",
+            "og:description": "[비즈니스포스트]제넨바이오 주가가 장중 가격제한폭까지 올랐다.9일 오전 10시56분 코스닥시장에서 제넨바이오 주가는 전날보다 29.90%(157원) 상승한 682원에 거래되고 ..",
+            "twitter:creator": "@Businesspost",
+            "article:publisher": "https://www.facebook.com/bizpost",
+            "twitter:site": "@Businesspost",
+            "news_keywords": "[비즈니스포스트]제넨바이오 주가가 장중 가격제한폭까지 올랐다.9일 오전 10시56분 코스닥시장에서 제넨바이오 주가는 전날보다 29.90%(157원) 상승한 682원에 거래되고 .. 비즈니스포스트, BUSINESSPOST, 채널Who, 인물중심, 기업인, 프로파일, 경제미디어, 경제신문, 경제지, Who Is?",
+            "og:category": "stock",
+            "og:type": "article",
+            "article:section": "시장과머니-특징주",
+            "twitter:title": "제넨바이오 주가 장중 상한가, 최대주주 변경 따른 경영정상화 기대감에 급등",
+            "og:title": "제넨바이오 주가 장중 상한가, 최대주주 변경 따른 경영정상화 기대감에 급등",
+            "naverbot": "All",
+            "article:author": "조윤호",
+            "twitter:image:src": "https://www.businesspost.co.kr/news/photo/202401/20240109145632_17224.JPG",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+            "twitter:description": "제넨바이오 주가 장중 상한가, 최대주주 변경 따른 경영정상화 기대감에 급등",
+            "yeti": "All",
+            "og:url": "https://m.businesspost.co.kr/BP?command=mobile_view&num=338698",
+            "aicon:item_id": "338698"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.businesspost.co.kr/news/photo/202401/20240109145632_17224.JPG"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>제넨바이오, 상한가 진입.. +29.97%",
+      "htmlTitle": "&lt;코&gt;<b>제넨바이오</b>, <b>상한가</b> 진입.. +29.97%",
+      "link": "https://www.sedaily.com/NewsView/29YHDMA86H",
+      "displayLink": "www.sedaily.com",
+      "snippet": "Dec 12, 2023 ... 증권 > News봇 뉴스: 오전 9시 32분 현재 제넨바이오(072520)가 +29.97% 오른 490원(△113)으로 장중 상한가에 진입했다. 거래대금은 13억8651만, 거.",
+      "htmlSnippet": "Dec 12, 2023 <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 32분 현재 <b>제넨바이오</b>(072520)가 +29.97% 오른 490원(△113)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 13억8651만, 거.",
+      "cacheId": "BGEjyDtfjKAJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/29YHDMA86H",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/29YHDMA86H",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScUSMb2sVuZcp7WZk3xag4jxUPF-M67LeT6rydyQVe014S_hjsErAE2c3K",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2023/12/12/29YHDMA86H_1.png",
+            "article:published_time": "2023-12-12T09:32:38+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2023-12-12T09:32:38+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>제넨바이오, 상한가 진입.. +29.97% ↑ | 서울경제",
+            "dd:published_time": "2023-12-12T09:32:38+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 32분 현재 제넨바이오(072520)가 +29.97% 오른 490원(▲113)으로 장중 상한가에 진입했다. 거래대금은 13억8,651만, 거...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2023/12/12/29YHDMA86H_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2023-12-12T09:32:38+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/29YHDMA86H/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>제넨바이오, 상한가 진입.. +29.97% ↑",
+            "dable:item_id": "29YHDMA86H",
+            "og:title": "<코>제넨바이오, 상한가 진입.. +29.97% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>제넨바이오, 상한가 진입.. +29.97% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "29YHDMA86H",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 32분 현재 제넨바이오(072520)가 +29.97% 오른 490원(▲113)으로 장중 상한가에 진입했다. 거래대금은 13억8,651만, 거...",
+            "ngh:id": "29YHDMA86H",
+            "dable:image": "https://newsimg.sedaily.com/2023/12/12/29YHDMA86H_1_m.png",
+            "ngh:title": "​<코>제넨바이오, 상한가 진입.. +29.97% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/29YHDMA86H/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/12/12/29YHDMA86H_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>제넨바이오, 상한가 진입.. +29.95%",
+      "htmlTitle": "&lt;코&gt;<b>제넨바이오</b>, <b>상한가</b> 진입.. +29.95%",
+      "link": "https://sedaily.com/NewsView/2D4054R43K",
+      "displayLink": "sedaily.com",
+      "snippet": "3 days ago ... 증권 > News봇 뉴스: 오전 9시 6분 현재 제넨바이오(072520)가 +29.95% 오른 525원(△121)으로 장중 상한가에 진입했다. 거래대금은 3억2916만, 거래.",
+      "htmlSnippet": "3 days ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 6분 현재 <b>제넨바이오</b>(072520)가 +29.95% 오른 525원(△121)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 3억2916만, 거래.",
+      "cacheId": "C3MhDAN9QDwJ",
+      "formattedUrl": "https://sedaily.com/NewsView/2D4054R43K",
+      "htmlFormattedUrl": "https://sedaily.com/NewsView/2D4054R43K",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVe-f3lN4pLX4Tv_F72d1NpKAdXBPbhnVWhVeR6wxdv3YuSQgRqHE3Ksk",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/08/2D4054R43K_1.png",
+            "article:published_time": "2024-01-08T09:06:33+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-08T09:06:33+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>제넨바이오, 상한가 진입.. +29.95% ↑ | 서울경제",
+            "dd:published_time": "2024-01-08T09:06:33+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 6분 현재 제넨바이오(072520)가 +29.95% 오른 525원(▲121)으로 장중 상한가에 진입했다. 거래대금은 3억2,916만, 거래...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/08/2D4054R43K_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-08T09:06:33+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D4054R43K/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>제넨바이오, 상한가 진입.. +29.95% ↑",
+            "dable:item_id": "2D4054R43K",
+            "og:title": "<코>제넨바이오, 상한가 진입.. +29.95% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>제넨바이오, 상한가 진입.. +29.95% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D4054R43K",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 6분 현재 제넨바이오(072520)가 +29.95% 오른 525원(▲121)으로 장중 상한가에 진입했다. 거래대금은 3억2,916만, 거래...",
+            "ngh:id": "2D4054R43K",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/08/2D4054R43K_1_m.png",
+            "ngh:title": "​<코>제넨바이오, 상한가 진입.. +29.95% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D4054R43K/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/08/2D4054R43K_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>제넨바이오, 상한가 진입.. +29.95% ↑ : 서울경제",
+      "htmlTitle": "&lt;코&gt;<b>제넨바이오</b>, <b>상한가</b> 진입.. +29.95% ↑ : 서울경제",
+      "link": "https://m.sedaily.com/NewsViewAmp/2D4054R43K",
+      "displayLink": "m.sedaily.com",
+      "snippet": "3 days ago ... 오전 9시 6분 현재 제넨바이오(072520)가 +29.95% 오른 525원(△121)으로 장중 상한가에 진입했다. 거래대금은 3억2916만, 거래량은 65만843주를 기록 ...",
+      "htmlSnippet": "3 days ago <b>...</b> 오전 9시 6분 현재 <b>제넨바이오</b>(072520)가 +29.95% 오른 525원(△121)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 3억2916만, 거래량은 65만843주를 기록&nbsp;...",
+      "cacheId": "S82cxQO5Z8cJ",
+      "formattedUrl": "https://m.sedaily.com/NewsViewAmp/2D4054R43K",
+      "htmlFormattedUrl": "https://m.sedaily.com/NewsViewAmp/2D4054R43K",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVe-f3lN4pLX4Tv_F72d1NpKAdXBPbhnVWhVeR6wxdv3YuSQgRqHE3Ksk",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/08/2D4054R43K_1.png",
+            "article:published_time": "2024-01-08T09:06:33+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "서울경제",
+            "og:image:type": "image/jpeg",
+            "title": "<코>제넨바이오, 상한가 진입.. +29.95% ↑",
+            "og:description": "오전 9시 6분 현재 제넨바이오(072520)가 +29.95% 오른 525원(▲121)으로 장중 상한가에 진입했다. 거래대금은 3억2,916만, 거래량은 65만843주를 기록하고 있으며, 수급측면으로는 35(매도):65(매수)의 매수우위를 ..",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/08/2D4054R43K_1.png",
+            "article:section2": "News봇",
+            "og:site": "https://m.sedaily.com/NewsView/2D4054R43K/GA1302",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>제넨바이오, 상한가 진입.. +29.95% ↑",
+            "author": "<코>제넨바이오, 상한가 진입.. +29.95% ↑ : 서울경제",
+            "dable:item_id": "2D4054R43K",
+            "og:title": "<코>제넨바이오, 상한가 진입.. +29.95% ↑",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "오전 9시 6분 현재 제넨바이오(072520)가 +29.95% 오른 525원(▲121)으로 장중 상한가에 진입했다. 거래대금은 3억2,916만, 거래량은 65만843주를 기록하고 있으며, 수급측면으로는 35(매도):65(매수)의 매수우위를 ..",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/08/2D4054R43K_1_m.png",
+            "og:url": "https://m.sedaily.com/NewsView/2D4054R43K/GA1302",
+            "aicon:item_id": "2D4054R43K"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/08/2D4054R43K_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 제넨바이오, 최대주주 변경 소식에 '상한가' | 아주경제",
+      "htmlTitle": "[특징주] <b>제넨바이오</b>, 최대주주 변경 소식에 &#39;<b>상한가</b>&#39; | 아주경제",
+      "link": "https://www.ajunews.com/view/20240108094423800",
+      "displayLink": "www.ajunews.com",
+      "snippet": "3 days ago ... 8일 한국거래소에 따르면 오전 9시38분 기준 제넨바이오 주가는 전 거래일 대비 121원(29.95%) 오른 525원까지 오르며 상한가를 기록 중이다. 지난 5일 장 ...",
+      "htmlSnippet": "3 days ago <b>...</b> 8일 한국거래소에 따르면 오전 9시38분 기준 <b>제넨바이오</b> 주가는 전 거래일 대비 121원(29.95%) 오른 525원까지 오르며 <b>상한가</b>를 기록 중이다. 지난 5일 장&nbsp;...",
+      "cacheId": "0G-oniCpH0AJ",
+      "formattedUrl": "https://www.ajunews.com/view/20240108094423800",
+      "htmlFormattedUrl": "https://www.ajunews.com/view/20240108094423800",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQndBPK02Tf_qi-6jgigrn3Hbu1TCtB8RKjRPXR5dVMu4nkmE-5JmPFnyQI",
+            "width": "271",
+            "height": "186"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://image.ajunews.com/content/image/2024/01/08/20240108094445415298.jpg",
+            "theme-color": "#ffffff",
+            "og:image:width": "561",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-08T09:49:54+09:00",
+            "og:site_name": "아주경제",
+            "twitter:url": "https://m.ajunews.com/view/20240108094423800",
+            "apple-mobile-web-app-title": "아주경제",
+            "og:app_id": "401637503340162",
+            "title": "[특징주] 제넨바이오, 최대주주 변경 소식에 '상한가' | 아주경제",
+            "og:description": "최대주주 변경 소식에 제넨바이오 주가가 상승세다.8일 한국거래소에 따르면 오전 9시38분 기준 제넨바이오 주가는 전 거래일 대비 121원(29.95%) 오른 525원까지 오르며 상한가를 기록 중이다.지난 5일 장 마감 후 제넨바이오는 최대주주가 기존 주식회사 제이와이씨...",
+            "naver-site-verification": "e3f6d6ee1d3420028d7208b9fadc524d458b3f81",
+            "news_keywords": "변경,제넨바이오,최대주주",
+            "og:type": "article",
+            "twitter:title": "[특징주] 제넨바이오, 최대주주 변경 소식에 '상한가' | 아주경제",
+            "ajunews:uppercategory": "0106000000000000",
+            "article:section": "기업",
+            "dable:item_id": "20240108094423800",
+            "og:title": "[특징주] 제넨바이오, 최대주주 변경 소식에 '상한가' | 아주경제",
+            "og:image:height": "385",
+            "ajunews:category": "0106008000000000",
+            "inmobi-site-verification": "86fa9283db3e056e80253dfd631c8ef",
+            "og:updated_time": "2024-01-08 09:49:54",
+            "article:author": "최이레",
+            "twitter:image:src": "https://image.ajunews.com/content/image/2024/01/08/20240108094445415298.jpg",
+            "referrer": "strict-origin-when-cross-origin",
+            "apple-mobile-web-app-status-bar-style": "black-translucent",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "최대주주 변경 소식에 제넨바이오 주가가 상승세다.8일 한국거래소에 따르면 오전 9시38분 기준 제넨바이오 주가는 전 거래일 대비 121원(29.95%) 오른 525원까지 오르며 상한가를 기록 중이다.지난 5일 장 마감 후 제넨바이오는 최대주주가 기존 주식회사 제이와이씨...",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "ko_KR",
+            "og:url": "https://m.ajunews.com/view/20240108094423800",
+            "aicon:item_id": "20240108094423800"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image.ajunews.com/content/image/2024/01/08/20240108094445415298.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[급등주] 제넨바이오, +29.97% 상한가 기록 - 전국매일신문 - 전국의 ...",
+      "htmlTitle": "[급등주] <b>제넨바이오</b>, +29.97% <b>상한가</b> 기록 - 전국매일신문 - 전국의 ...",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1000152",
+      "displayLink": "www.jeonmae.co.kr",
+      "snippet": "Dec 12, 2023 ... 제넨바이오 주가가 상한가를 기록하고 있다. 12일 오전 10시 32분 기준 현재 전 거래일 대비 +29.97% 오른 490원에 거래되고 있다.",
+      "htmlSnippet": "Dec 12, 2023 <b>...</b> <b>제넨바이오</b> 주가가 <b>상한가</b>를 기록하고 있다. 12일 오전 10시 32분 기준 현재 전 거래일 대비 +29.97% 오른 490원에 거래되고 있다.",
+      "cacheId": "n-xWhacno0AJ",
+      "formattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1000152",
+      "htmlFormattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1000152",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUJKnkazpOlEIwCP0xyyrsObsmZ5A53wSPwHw0tWtuiEoXsi6YVmu3PQk",
+            "width": "293",
+            "height": "172"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.jeonmae.co.kr/news/thumbnail/202312/1000152_692869_3310_v150.jpg",
+            "theme-color": "#3763af",
+            "copyright": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[급등주] 제넨바이오, +29.97% 상한가 기록",
+            "article:section": "경제",
+            "article:published_time": "2023-12-12T10:33:38+09:00",
+            "og:site_name": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
+            "dable:item_id": "1000152",
+            "og:title": "[급등주] 제넨바이오, +29.97% 상한가 기록",
+            "title": "[급등주] 제넨바이오, +29.97% 상한가 기록",
+            "classification": "경제 > 금융·유통",
+            "og:description": "제넨바이오 주가가 상한가를 기록하고 있다. 12일 오전 10시 32분 기준 현재 전 거래일 대비 +29.97% 오른 490원에 거래되고 있다. 거래량은 349만 5,465건이다. [전국매일신문] 제갈은기자carryy13@jeonmae.co.kr",
+            "twitter:creator": "제갈은기자",
+            "twitter:image": "https://www.jeonmae.co.kr/news/thumbnail/202312/1000152_692869_3310_v150.jpg",
+            "article:section1": "금융·유통",
+            "dable:author": "제갈은기자",
+            "twitter:site": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1000152",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "news_keywords": "제넨바이오,급등주,상한가",
+            "twitter:description": "제넨바이오 주가가 상한가를 기록하고 있다. 12일 오전 10시 32분 기준 현재 전 거래일 대비 +29.97% 오른 490원에 거래되고 있다. 거래량은 349만 5,465건이다. [전국매일신문] 제갈은기자carryy13@jeonmae.co.kr",
+            "og:url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1000152",
+            "og:article:author": "제갈은기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.jeonmae.co.kr/news/thumbnail/202312/1000152_692869_3310_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 제넨바이오, 액면병합 후 거래재개 첫날 상한가 - 이투데이",
+      "htmlTitle": "[특징주] <b>제넨바이오</b>, 액면병합 후 거래재개 첫날 <b>상한가</b> - 이투데이",
+      "link": "https://www.etoday.co.kr/news/view/2098242",
+      "displayLink": "www.etoday.co.kr",
+      "snippet": "Jan 20, 2022 ... 제넨바이오가 액면병합 이후 거래재개 첫날 상한가를 기록 중이다.제넨바이오는 20일 오전 9시 11분 현재 기준가 4115원보다 높은 4385원에 시초가...",
+      "htmlSnippet": "Jan 20, 2022 <b>...</b> <b>제넨바이오</b>가 액면병합 이후 거래재개 첫날 <b>상한가</b>를 기록 중이다.<b>제넨바이오</b>는 20일 오전 9시 11분 현재 기준가 4115원보다 높은 4385원에 시초가...",
+      "cacheId": "eD1ErZ5bmQgJ",
+      "formattedUrl": "https://www.etoday.co.kr/news/view/2098242",
+      "htmlFormattedUrl": "https://www.etoday.co.kr/news/view/2098242",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfnlaBfJE3SITtkdoIGgT6WR_j1dIH7-WNTfENi_KShMHpX_4HjMuJR0",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img.etoday.co.kr/pto_db/2022/01/20220120090732_1710288_600_400.jpg",
+            "og:image:width": "600",
+            "dd:author": "조남호",
+            "dd:availability": "true",
+            "article:published_time": "2022-01-20T09:14:00+09:00",
+            "og:site_name": "이투데이",
+            "articleid": "2098242",
+            "dd:category2": "2104",
+            "dd:published_time": "2022-01-20T09:14:00+09:00",
+            "og:description": "제넨바이오가 액면병합 이후 거래재개 첫날 상한가를 기록 중이다.제넨바이오는 20일 오전 9시 11분 현재 기준가 4115원보다 높은 4385원에 시초가...",
+            "news_keywords": "제넨바이오,액면병합,특징주",
+            "fb:admins": "100001191273481",
+            "dd:publisher": "이투데이",
+            "og:type": "article",
+            "article:section": "금융·증권",
+            "dable:item_id": "2098242",
+            "og:title": "[특징주] 제넨바이오, 액면병합 후 거래재개 첫날 상한가",
+            "og:image:height": "400",
+            "article:author": "https://www.facebook.com/etoday/",
+            "dd:category": "21",
+            "referrer": "no-referrer-when-downgrade",
+            "fb:app_id": "127898540577087",
+            "dd:content_id": "2098242",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "position": "1",
+            "og:url": "https://www.etoday.co.kr/news/view/2098242"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.etoday.co.kr/pto_db/2022/01/20220120090732_1710288_600_400.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[상한가 종목] 한글과컴퓨터-파워로직스 이어 이스트소프트-제넨 ...",
+      "htmlTitle": "[<b>상한가</b> 종목] 한글과컴퓨터-파워로직스 이어 이스트소프트-<b>제넨</b> ...",
+      "link": "https://www.econonews.co.kr/news/articleView.html?idxno=321183",
+      "displayLink": "www.econonews.co.kr",
+      "snippet": "3 days ago ... 코스닥 시장에서는 한글과컴퓨터, 파워로직스, 이스트소프트, 한빛레이저, 바이브컴퍼니, 유니트론텍, 아이윈, 제넨바이오가 상한가로 마쳤다. 한글과 ...",
+      "htmlSnippet": "3 days ago <b>...</b> 코스닥 시장에서는 한글과컴퓨터, 파워로직스, 이스트소프트, 한빛레이저, 바이브컴퍼니, 유니트론텍, 아이윈, <b>제넨바이오</b>가 <b>상한가</b>로 마쳤다. 한글과&nbsp;...",
+      "cacheId": "JpVJDNcXJGAJ",
+      "formattedUrl": "https://www.econonews.co.kr/news/articleView.html?idxno=321183",
+      "htmlFormattedUrl": "https://www.econonews.co.kr/news/articleView.html?idxno=321183",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA87ZETGS3nAOlSTosOcUMCywPdaFU3ZPifmJcSVYT6LPhkyX_GRjAjfT_",
+            "width": "300",
+            "height": "153"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.econonews.co.kr/news/thumbnail/202401/321183_295176_2940_v150.jpg",
+            "theme-color": "#0a4aa0",
+            "copyright": "이코노뉴스",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[상한가 종목] 한글과컴퓨터-파워로직스 이어 이스트소프트-제넨바이오-한빛레이저 등 상한가 마감",
+            "article:section": "경제",
+            "article:published_time": "2024-01-08T21:30:00+09:00",
+            "og:site_name": "이코노뉴스",
+            "dable:item_id": "321183",
+            "og:title": "[상한가 종목] 한글과컴퓨터-파워로직스 이어 이스트소프트-제넨바이오-한빛레이저 등 상한가 마감",
+            "title": "[상한가 종목] 한글과컴퓨터-파워로직스 이어 이스트소프트-제넨바이오-한빛레이저 등 상한가 마감",
+            "classification": "경제 > 증시",
+            "og:description": "[이코노뉴스=어 만 기자] 8일 상한가 종목은 티와이홀딩스우, 한글과컴퓨터, 파워로직스, 이스트소프트, 한빛레이저, 바이브컴퍼니, 유니트론텍, 아이윈, 제넨바이오가 차지했다. 8일 코스피 시장에서 티와이홀딩스우는 30%(2310원) 오른 1만10원에 장을 마감했다. 코스닥 시장에서는 한글과컴퓨터, 파워로직스, 이스트소프트, 한빛레이저, 바이브컴퍼니, 유니트론텍, 아이윈, 제넨바이오가 상한가로 마쳤다. 한글과컴퓨터는 29.99%(4490원) 높은 1만9460원에 거래를 마쳤다.파워로직스는 30%(2220원) 오른 9620원에 장을 마",
+            "twitter:creator": "어 만 기자",
+            "twitter:image": "https://cdn.econonews.co.kr/news/thumbnail/202401/321183_295176_2940_v150.jpg",
+            "article:section1": "증시",
+            "dable:author": "어 만 기자",
+            "twitter:site": "http://www.econonews.co.kr/news/articleView.html?idxno=321183",
+            "naver-site-verification": "a6837cf815d053908c4bb6031768c7bd57a68e76",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "[이코노뉴스=어 만 기자] 8일 상한가 종목은 티와이홀딩스우, 한글과컴퓨터, 파워로직스, 이스트소프트, 한빛레이저, 바이브컴퍼니, 유니트론텍, 아이윈, 제넨바이오가 차지했다. 8일 코스피 시장에서 티와이홀딩스우는 30%(2310원) 오른 1만10원에 장을 마감했다. 코스닥 시장에서는 한글과컴퓨터, 파워로직스, 이스트소프트, 한빛레이저, 바이브컴퍼니, 유니트론텍, 아이윈, 제넨바이오가 상한가로 마쳤다. 한글과컴퓨터는 29.99%(4490원) 높은 1만9460원에 거래를 마쳤다.파워로직스는 30%(2220원) 오른 9620원에 장을 마",
+            "og:url": "http://www.econonews.co.kr/news/articleView.html?idxno=321183",
+            "og:article:author": "어 만 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.econonews.co.kr/news/thumbnail/202401/321183_295176_2940_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] 제넨바이오, 최대주주 변경 소식에 상한가 진입",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] <b>제넨바이오</b>, 최대주주 변경 소식에 <b>상한가</b> 진입",
+      "link": "https://news.mtn.co.kr/news-detail/2024010810152751364",
+      "displayLink": "news.mtn.co.kr",
+      "snippet": "3 days ago ... 제넨바이오가 최대주주 변경 소식에 상한가에 진입했다 지난 5일 장 마감 후 제넨바이오는 최대주주가 기존 '주식회사 제이와이씨'에서 '엠씨제2호그 ...",
+      "htmlSnippet": "3 days ago <b>...</b> <b>제넨바이오</b>가 최대주주 변경 소식에 <b>상한가</b>에 진입했다 지난 5일 장 마감 후 <b>제넨바이오</b>는 최대주주가 기존 &#39;주식회사 제이와이씨&#39;에서 &#39;엠씨제2호그&nbsp;...",
+      "cacheId": "D9tmEKyNXI8J",
+      "formattedUrl": "https://news.mtn.co.kr/news-detail/2024010810152751364",
+      "htmlFormattedUrl": "https://news.mtn.co.kr/news-detail/2024010810152751364",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-ZGFN4BRNtrxfgy41ulcxBiLzYvRU6wCdOfv3LuX2IaJ3hCAsfBQSIA",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://menu.mtn.co.kr/upload/article/2024/01/08/2024010810152751364_00_557.png",
+            "next-head-count": "15",
+            "og:image:width": "800",
+            "og:type": "website",
+            "og:image:alt": "이미지",
+            "viewport": "width=device-width",
+            "og:title": "[MTN머니로 상한가 포착] 제넨바이오, 최대주주 변경 소식에 상한가 진입",
+            "og:image:height": "400",
+            "og:locale": "ko_KR",
+            "og:description": "MTN NEWS"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://menu.mtn.co.kr/upload/article/2024/01/08/2024010810152751364_00_557.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 제넨바이오, 최대주주 변경에 이틀 연속 '상한가'",
+      "htmlTitle": "[특징주] <b>제넨바이오</b>, 최대주주 변경에 이틀 연속 &#39;<b>상한가</b>&#39;",
+      "link": "https://ebn.co.kr/news/view/1607916",
+      "displayLink": "ebn.co.kr",
+      "snippet": "2 days ago ... 제넨바이오가 최대주주 변경 이슈로 이틀 연속 상한가를 기록했다.9일 한국거래소에 따르면 이날 오전 9시 25분 현재 제넨바이오는 전 거래일 대비 ...",
+      "htmlSnippet": "2 days ago <b>...</b> <b>제넨바이오</b>가 최대주주 변경 이슈로 이틀 연속 <b>상한가</b>를 기록했다.9일 한국거래소에 따르면 이날 오전 9시 25분 현재 <b>제넨바이오</b>는 전 거래일 대비&nbsp;...",
+      "cacheId": "xWOCS-aToBMJ",
+      "formattedUrl": "https://ebn.co.kr/news/view/1607916",
+      "htmlFormattedUrl": "https://ebn.co.kr/news/view/1607916",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64WxRb3beSnyUFX4TFl6wB485QRq1ZfWyYOWJv9FMke46myqMsus2l2I",
+            "width": "293",
+            "height": "172"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://cdnimage.ebn.co.kr/news/AKR1202401090927216509/news-p.v1.20240103.af2b83a01b0449b0b4e0ab3ef34a7615_P1.png",
+            "article:published_time": "2024.01.09 09:27",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "EBN",
+            "twitter:url": "https://www.ebn.co.kr/news/view/1607916",
+            "title": "[특징주] 제넨바이오, 최대주주 변경에 이틀 연속 ‘상한가’",
+            "og:description": "제넨바이오가 최대주주 변경 이슈로 이틀 연속 상한가를 기록했다.9일 한국거래소에 따르면 이날 오전 9시 25분 현재 제넨바이오는 전 거래일 대비 29.90%(157원) 오른 682원에 거래되고 있다.제넨바이오는 최근 최대주주가 기존 제이와이씨에서 엠씨제2호그로우쓰사모투자합자회사 외 1인으로 변경됐다고 공시한 바 있다. 이번에 변경된 최대주주의 소유 지분비율",
+            "twitter:creator": "@ebnnews",
+            "twitter:image": "http://cdnimage.ebn.co.kr/news/AKR1202401090927216509/news-p.v1.20240103.af2b83a01b0449b0b4e0ab3ef34a7615_P1.png",
+            "article:publisher": "https://www.facebook.com/dailiannews",
+            "robot": "max-image-preview:large",
+            "twitter:site": "@ebnnews",
+            "og:site": "https://www.ebn.co.kr/news/view/1607916",
+            "ssc:cmsid": "AKR1202401090927216509",
+            "dable:title": "[특징주] 제넨바이오, 최대주주 변경에 이틀 연속 ‘상한가’",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "[특징주] 제넨바이오, 최대주주 변경에 이틀 연속 ‘상한가’",
+            "dable:item_id": "1607916",
+            "og:title": "[특징주] 제넨바이오, 최대주주 변경에 이틀 연속 ‘상한가’",
+            "dc.date.issued": "2024.01.09 09:27",
+            "article:author": "이해선",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi",
+            "twitter:description": "제넨바이오가 최대주주 변경 이슈로 이틀 연속 상한가를 기록했다.9일 한국거래소에 따르면 이날 오전 9시 25분 현재 제넨바이오는 전 거래일 대비 29.90%(157원) 오른 682원에 거래되고 있다.제넨바이오는 최근 최대주주가 기존 제이와이씨에서 엠씨제2호그로우쓰사모투자합자회사 외 1인으로 변경됐다고 공시한 바 있다. 이번에 변경된 최대주주의 소유 지분비율…",
+            "og:locale": "ko_KR",
+            "dable:image": "http://cdnimage.ebn.co.kr/news/AKR1202401090927216509/news-p.v1.20240103.af2b83a01b0449b0b4e0ab3ef34a7615_P1.png",
+            "og:url": "https://www.ebn.co.kr/news/view/1607916"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://cdnimage.ebn.co.kr/news/AKR1202401090927216509/news-p.v1.20240103.af2b83a01b0449b0b4e0ab3ef34a7615_P1.png"
+          }
+        ]
+      }
+    }
+  ]
+}

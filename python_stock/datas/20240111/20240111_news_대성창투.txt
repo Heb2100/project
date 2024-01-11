@@ -1,0 +1,576 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 대성창투 상한가",
+        "totalResults": "13100",
+        "searchTerms": "대성창투 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 대성창투 상한가",
+        "totalResults": "13100",
+        "searchTerms": "대성창투 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.164533,
+    "formattedSearchTime": "0.16",
+    "totalResults": "13100",
+    "formattedTotalResults": "13,100"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "대성창투 주가 전망, 상한가 이유 : 네이버 블로그",
+      "htmlTitle": "<b>대성창투</b> 주가 전망, <b>상한가</b> 이유 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/estyuyupp/222821266102",
+      "displayLink": "m.blog.naver.com",
+      "snippet": "Jul 21, 2022 ... 대성창투 주가전망 기업 실적에서 보자면 매출액은 점점 좋아지고 있으며, 영업이익도 좋아지고 있습니다. pbr도 2021년 기준으로 2정도로 적당한 편이며 ...",
+      "htmlSnippet": "Jul 21, 2022 <b>...</b> <b>대성창투</b> 주가전망 기업 실적에서 보자면 매출액은 점점 좋아지고 있으며, 영업이익도 좋아지고 있습니다. pbr도 2021년 기준으로 2정도로 적당한 편이며&nbsp;...",
+      "cacheId": "vC2Nggu93T0J",
+      "formattedUrl": "https://m.blog.naver.com/estyuyupp/222821266102",
+      "htmlFormattedUrl": "https://m.blog.naver.com/estyuyupp/222821266102",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQteTQseQ05d_nQnb8Gr8kiGxtD0u94WO6L99RKNzJpph5b4gtG_6W2L9k",
+            "width": "233",
+            "height": "216"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyMjA3MjBfMzQg/MDAxNjU4MzIyMDYwNjM1.kI0n_D0Yk7y2SmF0mwc1OLjI6ZeFDyz6j1cJOMbOf7Eg.fQA1zNIB2ApVLXvadbkCy5ED0f7jySTGs8lsrDh0fdYg.PNG.estyuyupp/%BD%E6%B3%D7%C0%CF.png?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 이룸투자그룹",
+            "og:title": "대성창투 주가 전망, 상한가 이유",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMjA3MTVfMjgg/MDAxNjU3ODY0MTA2ODU2.PDLKCvmk-wdMI_ifrwmgrf4EXdVcaASWsDzqRhkGzxkg.H7wUJXQ2IZm0p9bwPLWUQTQlbgIJZVWAe5srRf7xOAwg.JPEG.estyuyupp/EroomGroup_Logo_cut2.jpg/EroomGroup_Logo_cut2.jpg?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033E12EB2B6,service=blog,collection=blog",
+            "og:description": "대성창투 주가전망에 대해서 이야기를 해보겠습니다. 이 종목은 2022년 7월 20일에 상한가를 찍으면서 전일...",
+            "referrer": "always",
+            "naverblog:nickname": "이룸투자그룹",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/estyuyupp/222821266102",
+            "og:article:author": "이룸투자그.. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogthumb.pstatic.net/MjAyMjA3MjBfMzQg/MDAxNjU4MzIyMDYwNjM1.kI0n_D0Yk7y2SmF0mwc1OLjI6ZeFDyz6j1cJOMbOf7Eg.fQA1zNIB2ApVLXvadbkCy5ED0f7jySTGs8lsrDh0fdYg.PNG.estyuyupp/%BD%E6%B3%D7%C0%CF.png?type=w2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[ET라씨로] '대한과학' '대성창투' 상한가 왜?…오늘의 장마감 특징주 ...",
+      "htmlTitle": "[ET라씨로] &#39;대한과학&#39; &#39;<b>대성창투</b>&#39; <b>상한가</b> 왜?…오늘의 장마감 특징주 ...",
+      "link": "https://www.etnews.com/20220720000257",
+      "displayLink": "www.etnews.com",
+      "snippet": "Jul 20, 2022 ... 20일 인공지능 투자비서 애플리케이션 ET라씨로는 이날 시장 특징주로 대한과학, 대성창투, 우리기술투자, 알로이스, 씨에스베어링 등을 꼽았다. 대한과학 ...",
+      "htmlSnippet": "Jul 20, 2022 <b>...</b> 20일 인공지능 투자비서 애플리케이션 ET라씨로는 이날 시장 특징주로 대한과학, <b>대성창투</b>, 우리기술투자, 알로이스, 씨에스베어링 등을 꼽았다. 대한과학&nbsp;...",
+      "cacheId": "WlJj-5on5aMJ",
+      "formattedUrl": "https://www.etnews.com/20220720000257",
+      "htmlFormattedUrl": "https://www.etnews.com/20220720000257",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNhiVbkIS-G73QQTPZUfUOOhX1SsXhwlQwiAI8or5_S4BFScY1oS-ZygRL",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img.etnews.com/news/article/2022/04/14/cms_temp_article_14093145851676.png",
+            "copyright": "Copyright © Electronic Times Internet. All Right Reserved.",
+            "og:image:width": "960",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2022-07-20T16:45:00+09:00",
+            "og:site_name": "미래를 보는 신문 - 전자신문",
+            "twitter:url": "https://www.etnews.com/20220720000257?SNS=00001",
+            "title": "[ET라씨로] '대한과학' '대성창투' 상한가 왜?…오늘의 장마감 특징주",
+            "og:description": "ET라씨로는 인공지능(AI) 기반으로 선별&middot;분석한 주식 정보와 종목 매매 신호를 제공하는 전자신문 증권 정보 애플리케이션입니다. 플레이스토어에서 'ET라씨로'(-&gt;바로가기)를 다운로드하면 IT기업 뉴스와",
+            "twitter:site": "@imetnews",
+            "og:type": "article",
+            "twitter:title": "[ET라씨로] '대한과학' '대성창투' 상한가 왜?…오늘의 장마감 특징주",
+            "article:section": "경제&금융",
+            "twitter:domain": "etnews.com",
+            "author": "www.etnews.com",
+            "og:title": "[ET라씨로] '대한과학' '대성창투' 상한가 왜?…오늘의 장마감 특징주",
+            "og:image:height": "540",
+            "url": "https://www.etnews.com/20220720000257",
+            "dc.date.issued": "2022-07-20",
+            "twitter:image:src": "https://img.etnews.com/news/article/2022/04/14/cms_temp_article_14093145851676.png",
+            "fb:app_id": "1425291491111655",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "twitter:description": "ET라씨로는 인공지능(AI) 기반으로 선별&middot;분석한 주식 정보와 종목 매매 신호를 제공하는 전자신문 증권 정보 애플리케이션입니다. 플레이스토어에서 'ET라씨로'(-&gt;바로가기)를 다운로드하면 IT기업 뉴스와",
+            "aicon:image": "https://img.etnews.com/news/article/2022/07/20/article_20165139471681.png",
+            "og:url": "https://www.etnews.com/20220720000257?SNS=00002",
+            "aicon:item_id": "20220720000257",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.etnews.com/news/article/2022/04/14/cms_temp_article_14093145851676.png"
+          }
+        ],
+        "newsarticle": [
+          {
+            "image": "https://img.etnews.com/news/article/2022/04/14/cms_temp_article_14093145851676.png",
+            "articlebody": "ET라씨로는 인공지능(AI) 기반으로 선별·분석한 주식 정보와 종목 매매 신호를 제공하는 전자신문 증권 정보 애플리케이션입니다. 플레이스토어에서...",
+            "headline": "[ET라씨로] '대한과학' '대성창투' 상한가 왜?…오늘의 장마감 특징주",
+            "datepublished": "발행일 : 2022.07.20 16:45"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'영화 한산 테마주' 대성창투, '코로나 재확산 관련주' 대한과학, 청담 ...",
+      "htmlTitle": "&#39;영화 한산 테마주&#39; <b>대성창투</b>, &#39;코로나 재확산 관련주&#39; 대한과학, 청담 ...",
+      "link": "https://www.newswell.co.kr/news/articleView.html?idxno=7081",
+      "displayLink": "www.newswell.co.kr",
+      "snippet": "Jul 20, 2022 ... 영화 (한산) 흥행 기대감에 투자 참여사인 대성창투 주가가 상한가를 기록했다. 20일 코스닥시장에서 대성창투(027830)는 가격제한폭(29.87%)까지 ...",
+      "htmlSnippet": "Jul 20, 2022 <b>...</b> 영화 (한산) 흥행 기대감에 투자 참여사인 <b>대성창투</b> 주가가 <b>상한가</b>를 기록했다. 20일 코스닥시장에서 <b>대성창투</b>(027830)는 가격제한폭(29.87%)까지&nbsp;...",
+      "cacheId": "7TobHArmFs4J",
+      "formattedUrl": "https://www.newswell.co.kr/news/articleView.html?idxno=7081",
+      "htmlFormattedUrl": "https://www.newswell.co.kr/news/articleView.html?idxno=7081",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgVOFlpDOiXExPY9IhuseqtCSJQlz2jRjFnRZ-6DH7_Ne26SQ2JzLS5-M",
+            "width": "265",
+            "height": "190"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.newswell.co.kr/news/thumbnail/202207/7081_12078_1915_v150.jpg",
+            "theme-color": "#fff",
+            "copyright": "뉴스웰",
+            "twitter:card": "summary",
+            "article:published_time": "2022-07-20T16:24:57+09:00",
+            "og:site_name": "뉴스웰",
+            "title": "‘영화 한산 테마주’ 대성창투, ‘코로나 재확산 관련주’ 대한과학, 청담글로벌·대동전자 상한가 [뉴스톡 웰스톡]",
+            "og:description": "영화 (한산) 흥행 기대감에 투자 참여사인 대성창투 주가가 상한가를 기록했다. 20일 코스닥시장에서 대성창투(027830)는 가격제한폭(29.87%)까지 오르며 4500원에 거래를 마쳤다.은 역대 우리나라 영화 관객 순위 1위인 을 만든 김한민 감독의 이순신 시리즈 두 번째 영화다. 대성창투는 2014년  투자에 참여해 주가가 단기간에 2.5배까지 급등한 바 있다. 지난 19일 열린  시사회 반응이 뜨겁자 제2의 명량 효과를 기대하고 있다.대성창업투자는 1987년 세워진 벤처캐피탈(",
+            "twitter:creator": "이경호 기자",
+            "twitter:image": "http://www.newswell.co.kr/news/thumbnail/202207/7081_12078_1915_v150.jpg",
+            "article:section2": "market",
+            "twitter:site": "http://www.newswell.co.kr/news/articleView.html?idxno=7081",
+            "naver-site-verification": "477b654fb9c470bb6dc7319474c91795f694e284",
+            "news_keywords": "영화_한산_테마주,영화_한산_관련주,대성창투_주가,코로나_재확산_관련주,대한과학_주가,콜드체인_관련주,청담글로벌_상한가,대동전자_상한가,오늘코스피지수,오늘코스닥지수,오늘환율시세,환율_1310원대,오늘상한가종목",
+            "og:article:author": "이경호 기자",
+            "og:type": "article",
+            "twitter:title": "‘영화 한산 테마주’ 대성창투, ‘코로나 재확산 관련주’ 대한과학, 청담글로벌·대동전자 상한가 [뉴스톡 웰스톡]",
+            "article:section": "issue웰",
+            "dable:item_id": "7081",
+            "og:title": "‘영화 한산 테마주’ 대성창투, ‘코로나 재확산 관련주’ 대한과학, 청담글로벌·대동전자 상한가 [뉴스톡 웰스톡]",
+            "classification": "issue웰 > market",
+            "dable:author": "이경호 기자",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "영화 (한산) 흥행 기대감에 투자 참여사인 대성창투 주가가 상한가를 기록했다. 20일 코스닥시장에서 대성창투(027830)는 가격제한폭(29.87%)까지 오르며 4500원에 거래를 마쳤다.은 역대 우리나라 영화 관객 순위 1위인 을 만든 김한민 감독의 이순신 시리즈 두 번째 영화다. 대성창투는 2014년  투자에 참여해 주가가 단기간에 2.5배까지 급등한 바 있다. 지난 19일 열린  시사회 반응이 뜨겁자 제2의 명량 효과를 기대하고 있다.대성창업투자는 1987년 세워진 벤처캐피탈(",
+            "og:url": "http://www.newswell.co.kr/news/articleView.html?idxno=7081"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.newswell.co.kr/news/thumbnail/202207/7081_12078_1915_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[종목 포커스] 대성창투, `명량` 흥행에 상한가 - 매일경제",
+      "htmlTitle": "[종목 포커스] <b>대성창투</b>, `명량` 흥행에 <b>상한가</b> - 매일경제",
+      "link": "https://www.mk.co.kr/news/stock/6229353",
+      "displayLink": "www.mk.co.kr",
+      "snippet": "Aug 7, 2014 ... 영화 `명량`이 흥행하면서 투자사 대성창투가 상한가를 기록했다. 7일 코스닥시장에서 대성창투는 전날대비 가격제한폭(15%)까지 상승한 2415원에 ...",
+      "htmlSnippet": "Aug 7, 2014 <b>...</b> 영화 `명량`이 흥행하면서 투자사 <b>대성창투</b>가 <b>상한가</b>를 기록했다. 7일 코스닥시장에서 <b>대성창투</b>는 전날대비 가격제한폭(15%)까지 상승한 2415원에&nbsp;...",
+      "cacheId": "U_Eh_LQAfhgJ",
+      "formattedUrl": "https://www.mk.co.kr/news/stock/6229353",
+      "htmlFormattedUrl": "https://www.mk.co.kr/news/stock/6229353",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpbphBTic3z508HpVGkxTuUXc2KWpb0Q0Iu_jqtoW-Ga0tdvvL3ITePC89",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "thumbnail": [
+          {
+            "src": "https://wimg.mk.co.kr/meet/neds/2014/08/image_readtop_2014_1074421_14073992441469690.jpg"
+          }
+        ],
+        "metatags": [
+          {
+            "image": "https://wimg.mk.co.kr/meet/neds/2014/08/image_readtop_2014_1074421_14073992441469690.jpg",
+            "og:image": "https://wimg.mk.co.kr/meet/neds/2014/08/image_readtop_2014_1074421_14073992441469690.jpg",
+            "thumbnail": "https://wimg.mk.co.kr/meet/neds/2014/08/image_readtop_2014_1074421_14073992441469690.jpg",
+            "og:type": "article",
+            "twitter:title": "[종목 포커스] 대성창투, `명량` 흥행에 상한가 - 매일경제",
+            "twitter:card": "summary_large_image",
+            "article:section": "stock",
+            "article:published_time": "2014-08-07T17:14:04+09:00",
+            "og:site_name": "매일경제",
+            "twitter:url": "https://www.mk.co.kr/news/stock/6229353",
+            "og:title": "[종목 포커스] 대성창투, `명량` 흥행에 상한가 - 매일경제",
+            "articleid": "6229353",
+            "org_class": "MK100503",
+            "og:description": "영화 `명량`이 흥행하면서 투자사 대성창투가 상한가를 기록했다. 7일 코스닥시장에서 대성창투는 전날대비 가격제한폭(15%)까지 상승한 2415원에 거래를 마쳤다.\n대성창투는 지난 5일 명량 제작에 모두 15억원가량을 투자했다고 밝힌 바",
+            "twitter:image": "https://wimg.mk.co.kr/meet/neds/2014/08/image_readtop_2014_1074421_14073992441469690.jpg",
+            "taboola:title": "[종목 포커스] 대성창투, `명량` 흥행에 상한가",
+            "byl": "By 윤재언",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "영화 `명량`이 흥행하면서 투자사 대성창투가 상한가를 기록했다. 7일 코스닥시장에서 대성창투는 전날대비 가격제한폭(15%)까지 상승한 2415원에 거래를 마쳤다.\n대성창투는 지난 5일 명량 제작에 모두 15억원가량을 투자했다고 밝힌 바",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.mk.co.kr/news/stock/6229353"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://wimg.mk.co.kr/meet/neds/2014/08/image_readtop_2014_1074421_14073992441469690.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "대성창투(027830) | 종목토론 - 팍스넷 증권포털",
+      "htmlTitle": "<b>대성창투</b>(027830) | 종목토론 - 팍스넷 증권포털",
+      "link": "https://www.paxnet.co.kr/tbbs/list?tbbsType=L&id=027830",
+      "displayLink": "www.paxnet.co.kr",
+      "snippet": "대성창투 상한가를 보니 댓글0. 매쌓기투자자. 조회 270. 추천 0. 12.16. 3004. 텐센트 2대주주 댓글0. 벤츠s770. 조회 184. 추천 0. 12.15. 3002. 대성 창투 사기꾼들이 ...",
+      "htmlSnippet": "<b>대성창투 상한가</b>를 보니 댓글0. 매쌓기투자자. 조회 270. 추천 0. 12.16. 3004. 텐센트 2대주주 댓글0. 벤츠s770. 조회 184. 추천 0. 12.15. 3002. <b>대성 창투</b> 사기꾼들이&nbsp;...",
+      "cacheId": "5YcOBmpTUR0J",
+      "formattedUrl": "https://www.paxnet.co.kr/tbbs/list?tbbsType=L&id=027830",
+      "htmlFormattedUrl": "https://www.paxnet.co.kr/tbbs/list?tbbsType=L&amp;id=027830",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUkuw4dVGWkmphP3rwX6TN6Jjvrfy8xyG11z7_kQq-6_SAQwfexyY2sj4",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "//image.paxnet.co.kr/rpan/common/images/ogimage.png",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densityDpi=medium-dpi"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image.paxnet.co.kr/rpan/common/images/img_guide.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "쿠팡이 쏘아올린 창투사 주가 | 서울경제",
+      "htmlTitle": "쿠팡이 쏘아올린 <b>창투사</b> 주가 | 서울경제",
+      "link": "https://www.sedaily.com/NewsView/22JTHTJTFM",
+      "displayLink": "www.sedaily.com",
+      "snippet": "Mar 15, 2021 ... 15일 한국거래소에 따르면 대성창업투자는 전 거래일 대비 상한가(29.98%)를 기록하며 3,035원에 거래를 마쳤다. 대성창투(027830)는 지난 2016년 게임 ...",
+      "htmlSnippet": "Mar 15, 2021 <b>...</b> 15일 한국거래소에 따르면 <b>대성창업투자</b>는 전 거래일 대비 <b>상한가</b>(29.98%)를 기록하며 3,035원에 거래를 마쳤다. <b>대성창투</b>(027830)는 지난 2016년 게임&nbsp;...",
+      "cacheId": "u60jKwBWWZoJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/22JTHTJTFM",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/22JTHTJTFM",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCx-Zun_F5RtitbuDmsZvpWXu0OGXkFg0Jno3r5sExhy6eI57uXM1V6Byl",
+            "width": "232",
+            "height": "217"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2021/03/15/22JTHTJTFM_1.jpg",
+            "article:published_time": "2021-03-15T17:49:59+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "박시진",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2021-03-15T17:49:59+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "쿠팡이 쏘아올린 창투사 주가 | 서울경제",
+            "dd:published_time": "2021-03-15T17:49:59+09:00",
+            "og:description": "산업 > 기업 뉴스: 쿠팡이 뉴욕증시에 성공적으로 상장하자 창업투자회사가 관심을 받고 있다. 국내 유망 유니콘 기업들의 해외 상장 가능성이 점쳐...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2021/03/15/22JTHTJTFM_1.jpg",
+            "article:section2": "기업",
+            "article:modified_time": "2021-03-15T17:49:59+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/22JTHTJTFM/GD0101",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "산업",
+            "twitter:title": "쿠팡이 쏘아올린 창투사 주가",
+            "dable:item_id": "22JTHTJTFM",
+            "og:title": "쿠팡이 쏘아올린 창투사 주가",
+            "ngh:section": "기업",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​쿠팡이 쏘아올린 창투사 주가​",
+            "dd:category": "기업",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "박시진",
+            "dd:content_id": "22JTHTJTFM",
+            "ngh:email": "see1205@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "산업 > 기업 뉴스: 쿠팡이 뉴욕증시에 성공적으로 상장하자 창업투자회사가 관심을 받고 있다. 국내 유망 유니콘 기업들의 해외 상장 가능성이 점쳐...",
+            "ngh:id": "22JTHTJTFM",
+            "dable:image": "https://newsimg.sedaily.com/2021/03/15/22JTHTJTFM_1_m.jpg",
+            "ngh:title": "​쿠팡이 쏘아올린 창투사 주가​",
+            "og:url": "https://m.sedaily.com/NewsView/22JTHTJTFM/GD0101",
+            "ngh:author": "박시진",
+            "ngh:jpart": "증권부",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2021/03/15/22JTHTJTFM_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[급등락주 짚어보기] 크래프톤 IPO 기대감에 대성창투ㆍ아주IB투자 ...",
+      "htmlTitle": "[급등락주 짚어보기] 크래프톤 IPO 기대감에 <b>대성창투</b>ㆍ아주IB투자 ...",
+      "link": "https://www.etoday.co.kr/news/view/2004507",
+      "displayLink": "www.etoday.co.kr",
+      "snippet": "Mar 15, 2021 ... 15일 상한가 종목 현황. (자료제공=한국거래소)15일 국내 증시(코스피ㆍ코스닥)에서 상한가는 8개를 기록했으며 하한가는 없었다.이날 크래프톤 ...",
+      "htmlSnippet": "Mar 15, 2021 <b>...</b> 15일 <b>상한가</b> 종목 현황. (자료제공=한국거래소)15일 국내 증시(코스피ㆍ코스닥)에서 <b>상한가</b>는 8개를 기록했으며 하한가는 없었다.이날 크래프톤 ...",
+      "cacheId": "cRlBkxCGR4AJ",
+      "formattedUrl": "https://www.etoday.co.kr/news/view/2004507",
+      "htmlFormattedUrl": "https://www.etoday.co.kr/news/view/2004507",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2N7s1Rd-5McvlGedhPBibf190hnMeqhP4i4wq_qVrFm0BmGVEz9XSq64",
+            "width": "276",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img.etoday.co.kr/pto_db/2021/03/20210315181715_1594009_484_321.JPG",
+            "og:image:width": "484",
+            "dd:author": "유혜림",
+            "dd:availability": "true",
+            "article:published_time": "2021-03-15T18:20:00+09:00",
+            "og:site_name": "이투데이",
+            "articleid": "2004507",
+            "dd:category2": "2199",
+            "dd:published_time": "2021-03-15T18:20:00+09:00",
+            "og:description": "▲15일 상한가 종목 현황.  (자료제공=한국거래소)15일 국내 증시(코스피ㆍ코스닥)에서 상한가는 8개를 기록했으며 하한가는 없었다.이날 크래프톤 ...",
+            "news_keywords": "대성창투,삼성중공우,동국알앤에스,흥국화재우",
+            "fb:admins": "100001191273481",
+            "dd:publisher": "이투데이",
+            "og:type": "article",
+            "article:section": "금융·증권",
+            "dable:item_id": "2004507",
+            "og:title": "[급등락주 짚어보기] 크래프톤 IPO 기대감에 대성창투ㆍ아주IB투자 ‘상한가’",
+            "og:image:height": "321",
+            "article:author": "https://www.facebook.com/etoday/",
+            "dd:category": "21",
+            "referrer": "no-referrer-when-downgrade",
+            "fb:app_id": "127898540577087",
+            "dd:content_id": "2004507",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "position": "1",
+            "og:url": "https://www.etoday.co.kr/news/view/2004507"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.etoday.co.kr/pto_db/2021/03/20210315181715_1594009_484_321.JPG"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "7월 21일 매매일지 : 일동제약 휴림로봇 대성창투 희림 : 네이버 블로그",
+      "htmlTitle": "7월 21일 매매일지 : 일동제약 휴림로봇 <b>대성창투</b> 희림 : 네이버 블로그",
+      "link": "https://blog.naver.com/PostView.naver?blogId=primelab382&logNo=222822798551&parentCategoryNo=&categoryNo=35&viewDate=&isShowPopularPosts=true&from=search",
+      "displayLink": "blog.naver.com",
+      "snippet": "Jul 21, 2022 ... 상한가 이후 시초가가 갭하락하여 매수. 전일 상한가의 종가 부근까지의 상승을 기대. 최대한 버텨 전일 종가 위에서 익절 / 3.06%. 일동제약.",
+      "htmlSnippet": "Jul 21, 2022 <b>...</b> <b>상한가</b> 이후 시초가가 갭하락하여 매수. 전일 <b>상한가</b>의 종가 부근까지의 상승을 기대. 최대한 버텨 전일 종가 위에서 익절 / 3.06%. 일동제약.",
+      "cacheId": "FWz2f5QevHkJ",
+      "formattedUrl": "https://blog.naver.com/PostView.naver?blogId...logNo...",
+      "htmlFormattedUrl": "https://blog.naver.com/PostView.naver?blogId...logNo...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuNvSDb1B2mP7SdmHsmE5T6r-VDGBWRNjW8J9R_lUtoo4d7y6ZNEWc8GuK",
+            "width": "358",
+            "height": "141"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyMjA3MjFfMjEz/MDAxNjU4Mzg5MTA0NDE5.owAHnH3Ge9IIHBmvxfQPggZ28Gy_8pM_uqyXmnDHQBgg.6mRO-zLUXab3kqC0wgosYl1JG4hM-fC-L9y3e3uPIKcg.PNG.mindmap_edu/0721.png?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 프라임 연구소",
+            "og:title": "7월 21일 매매일지 : 일동제약 휴림로봇 대성창투 희림",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAxNzAxMTlfNjcg/MDAxNDg0NzYxMjY1MjQ5.mEY6X55pjielr5mE2IdifW1LluKp_IqmU-2LnrmVfegg.QJj1xr0G7XMBo8n2ejRRhX-QOjkHXf6O8d2YLaa8Vk8g.JPEG.mindmap_edu/%25C7%25C1%25B7%25CE%25C7%25CA.jpg?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033E14614D7,service=blog,collection=blog",
+            "og:description": "대성창투 전일 영화 #한산 흥행 기대감 속 관련주로 부각되며 #상한가 상한가 이후 시초가가 갭하락하여 매...",
+            "referrer": "always",
+            "naverblog:nickname": "프라임연구소",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/primelab382/222822798551",
+            "og:article:author": "프라임 연.. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogthumb.pstatic.net/MjAyMjA3MjFfMjEz/MDAxNjU4Mzg5MTA0NDE5.owAHnH3Ge9IIHBmvxfQPggZ28Gy_8pM_uqyXmnDHQBgg.6mRO-zLUXab3kqC0wgosYl1JG4hM-fC-L9y3e3uPIKcg.PNG.mindmap_edu/0721.png?type=w2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "상한가 특급배송 - YouTube",
+      "htmlTitle": "<b>상한가</b> 특급배송 - YouTube",
+      "link": "https://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh",
+      "displayLink": "www.youtube.com",
+      "snippet": "... 대성창투, 스마트레이더시스템, 엑스페릭스_상한가 특급배송 (20231207). 이데일리TV · 49:16 · 엔비티, 태양금속, 에스피지, 지어소프트, 글로벌텍스프리, HD현대건설기계 ...",
+      "htmlSnippet": "... <b>대성창투</b>, 스마트레이더시스템, 엑스페릭스_<b>상한가</b> 특급배송 (20231207). 이데일리TV &middot; 49:16 &middot; 엔비티, 태양금속, 에스피지, 지어소프트, 글로벌텍스프리, HD현대건설기계&nbsp;...",
+      "cacheId": "ILlIXBQsBZ8J",
+      "formattedUrl": "https://www.youtube.com/playlist?list...",
+      "htmlFormattedUrl": "https://www.youtube.com/playlist?list...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuuAnSAoxT41tf1o3S9mWeGiYMHurjGdFNZyfy8opxU6_TfoYVE23E",
+            "width": "120",
+            "height": "90"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+            "og:image": "https://i.ytimg.com/vi/LvyOt_hV80I/default.jpg?days_since_epoch=19711",
+            "twitter:app:url:iphone": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=twitter-deep-link",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "theme-color": "rgba(0, 0, 0, 0)",
+            "og:image:width": "120",
+            "twitter:card": "summary",
+            "og:site_name": "YouTube",
+            "twitter:url": "https://www.youtube.com/playlist",
+            "twitter:app:url:ipad": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=twitter-deep-link",
+            "al:android:package": "com.google.android.youtube",
+            "twitter:app:name:googleplay": "YouTube",
+            "al:ios:url": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=applinks",
+            "twitter:app:id:iphone": "544007664",
+            "title": "상한가 특급배송 - YouTube",
+            "al:ios:app_store_id": "544007664",
+            "twitter:image": "https://i.ytimg.com/vi/LvyOt_hV80I/default.jpg?days_since_epoch=19711",
+            "twitter:site": "@YouTube",
+            "og:type": "website",
+            "twitter:title": "상한가 특급배송 - YouTube",
+            "al:ios:app_name": "YouTube",
+            "og:title": "상한가 특급배송 - YouTube",
+            "og:image:height": "90",
+            "twitter:app:id:ipad": "544007664",
+            "al:web:url": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=applinks",
+            "al:android:url": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=applinks",
+            "fb:app_id": "87741124305",
+            "twitter:app:url:googleplay": "http://www.youtube.com/playlist?list=PLlYzlcGAq5n3zTiyK5GjKP60G1udmVfHh&feature=twitter-deep-link",
+            "twitter:app:name:ipad": "YouTube",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+            "og:restrictions:age": "18+",
+            "al:web:should_fallback": "true",
+            "og:url": "https://www.youtube.com/playlist",
+            "al:android:app_name": "YouTube",
+            "twitter:app:name:iphone": "YouTube"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/LvyOt_hV80I/default.jpg?days_since_epoch=19711"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "2021년 2월 8일 오늘의 상한가 상승종목 하락종목 이유 분석 (이트론 ...",
+      "htmlTitle": "2021년 2월 8일 오늘의 <b>상한가</b> 상승종목 하락종목 이유 분석 (이트론 ...",
+      "link": "https://blog.naver.com/PostView.nhn?blogId=fullmoon2050&logNo=222236734901&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView",
+      "displayLink": "blog.naver.com",
+      "snippet": "Feb 8, 2021 ... ... 대성창투 상한가 이유. - 넷플릭스 영화 \"승리호\" 관련주. 대성창투는 넷플릭스 영화 승리호에 투자한 투자사로 알려지면서 장중 상한가 마감. 원래 ...",
+      "htmlSnippet": "Feb 8, 2021 <b>...</b> ... <b>대성창투 상한가</b> 이유. - 넷플릭스 영화 &quot;승리호&quot; 관련주. <b>대성창투</b>는 넷플릭스 영화 승리호에 투자한 투자사로 알려지면서 장중 <b>상한가</b> 마감. 원래&nbsp;...",
+      "cacheId": "0FuUOonaCg4J",
+      "formattedUrl": "https://blog.naver.com/PostView.nhn?blogId...logNo...",
+      "htmlFormattedUrl": "https://blog.naver.com/PostView.nhn?blogId...logNo...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE9BVGN_ot0G3C2OvTdkCem-6kc8zthjLYUyU8Fzr3WUSaJudhGTyu4fY6",
+            "width": "290",
+            "height": "174"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyMTAyMDhfMjc0/MDAxNjEyNzczMTY1MTU4.3fR0Ul-68URl6B2IfAvb17HEt1yFHhUj_4ZJ1eNUL_4g.BTlpDD8xI2Mg90OsGUv3iPprEKUfKlrA746rYpZLhSgg.PNG.fullmoon2050/2021%B3%E2_2%BF%F9_8%C0%CF_%BB%F3%C7%D1%B0%A1_%BB%F3%BD%C2%C1%BE%B8%F1_%C0%CC%C0%AF_%BA%D0%BC%AE.png?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 주식 불사조의 시장 이야기",
+            "og:title": "2021년 2월 8일 오늘의 상한가 상승종목 하락종목 이유 분석 (이트론 피비피마 이아이디 KR모터스 대성창투 이즈미디어)",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMjA1MzBfOTQg/MDAxNjUzODcyNDc5OTA3.KOwpAzHUVPWcNVwbsBzor61y9uBtqfnvqYRMLLJj7p4g.282ucBGt44h8zEj5BNCz3IStKqTZrJ4CEoQb1WuJAVYg.JPEG.fullmoon2050/%ED%94%84%EB%A1%9C%ED%95%84%EC%82%AC%EC%A7%84.jpeg/%25ED%2594%2584%25EB%25A1%259C%25ED%2595%2584%25EC%2582%25AC%25EC%25A7%2584.jpeg?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033BE5775B5,service=blog,collection=blog",
+            "og:description": "상한가 상승종목 이유 분석 * 상승종목은 당일 상승순위 15위 까지를 대상으로 합니다. 1. 이트론 상한가 ...",
+            "referrer": "always",
+            "naverblog:nickname": "주식불사조",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/fullmoon2050/222236734901",
+            "og:article:author": "주식 불사.. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogthumb.pstatic.net/MjAyMTAyMDhfMjc0/MDAxNjEyNzczMTY1MTU4.3fR0Ul-68URl6B2IfAvb17HEt1yFHhUj_4ZJ1eNUL_4g.BTlpDD8xI2Mg90OsGUv3iPprEKUfKlrA746rYpZLhSgg.PNG.fullmoon2050/2021%B3%E2_2%BF%F9_8%C0%CF_%BB%F3%C7%D1%B0%A1_%BB%F3%BD%C2%C1%BE%B8%F1_%C0%CC%C0%AF_%BA%D0%BC%AE.png?type=w2"
+          }
+        ]
+      }
+    }
+  ]
+}
