@@ -13,7 +13,7 @@
 </div>
 
 <div style="text-align: center; margin-top: 30px;">
-    <h1 style="font-size: 24px; font-weight: bold;">2. 트러블슈팅</h1>
+    <h2 style="font-size: 20px; font-weight: bold;">2. 트러블슈팅</h2>
     <p style="font-size: 18px;"><li><b>스크래핑 과정에서 발생한 문제와 해결 방법</b></p></li>
     <p style="font-size: 16px;">구글이 스크래핑을 방어하기 위해 클래스를 난수로 변경</p>
     <p style="font-size: 16px;">초기에는 웹사이트의 HTML을 직접 분석하여 데이터를 추출하려 했으나, 
@@ -29,7 +29,7 @@
 </div>
 
 <div style="text-align: center; margin-top: 30px;">
-    <h1 style="font-size: 24px; font-weight: bold;">3. 기술 스택</h1>
+    <h2 style="font-size: 20px; font-weight: bold;">3. 기술 스택</h2>
     <p style="font-size: 18px;">이 프로젝트에서 사용한 기술들</p>
     <ul style="font-size: 16px; list-style-position: inside; text-align: left; display: inline-block; text-align: left;">
         <li><b>프로그래밍 언어</b>: Python</li>
