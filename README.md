@@ -13,16 +13,16 @@
 
 <div style="text-align: center; margin-top: 30px;">
     <h1 style="font-size: 24px; font-weight: bold;">2. 트러블슈팅</h1>
-    <p style="font-size: 18px;"><b>스크래핑 과정에서 발생한 문제와 해결 방법</b>b></p>    
+    <p style="font-size: 18px;"><li><b>스크래핑 과정에서 발생한 문제와 해결 방법</b></p></li>
     <p style="font-size: 16px;">구글이 스크래핑을 방어하기 위해 클래스를 난수로 변경</p>
     <p style="font-size: 16px;">초기에는 웹사이트의 HTML을 직접 분석하여 데이터를 추출하려 했으나, 
         구글은 자동화된 스크래핑을 방지하기 위해 CSS 클래스를 매 요청마다 난수로 변경하는 전략을 사용했습니다.</p>
     <p style="font-size: 16px;">이로 인해 기존 방식으로는 원하는 데이터를 안정적으로 수집할 수 없었으며, 
         해결책으로 <b>Google Custom Search API</b>를 활용하여 데이터를 수집하는 방향으로 전환했습니다.</p>    
-    <p style="font-size: 16px;"><b>웹사이트 구조 변경으로 인해 데이터 수집 불가</b></p>
+    <p style="font-size: 16px;"><li><b>웹사이트 구조 변경으로 인해 데이터 수집 불가</b></p></li>
     <p style="font-size: 16px;">사이트의 레이아웃이 변경되면서 기존의 XPath 및 CSS Selector 기반의 크롤러가 정상적으로 작동하지 않는 문제가 발생했습니다.</p>
     <p style="font-size: 16px;">이를 해결하기 위해 <b>BeautifulSoup</b>과 <b>Selenium</b>을 활용하여 동적인 CSS 선택자를 적용하고, 크롤링 전략을 유연하게 변경하였습니다.</p>    
-    <p style="font-size: 16px;"><b>요청 차단 문제</b></p>
+    <p style="font-size: 16px;"><li><b>요청 차단 문제</b></p></li>
     <p style="font-size: 16px;">짧은 시간 내에 다량의 요청을 보낼 경우, 서버에서 봇으로 인식하여 차단하는 문제가 발생했습니다.</p>
     <p style="font-size: 16px;">이를 방지하기 위해 <b>User-Agent</b>를 변경하고, 요청 간격을 랜덤하게 설정하여 서버 차단을 우회했습니다.</p>
 </div>
