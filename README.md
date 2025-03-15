@@ -13,8 +13,7 @@
 
 <div style="text-align: center; margin-top: 30px;">
     <h1 style="font-size: 24px; font-weight: bold;">2. 트러블슈팅</h1>
-    <p style="font-size: 18px;">스크래핑 과정에서 발생한 문제와 해결 방법</p>
-    
+    <p style="font-size: 18px;">스크래핑 과정에서 발생한 문제와 해결 방법</p>    
     <p style="font-size: 16px;">구글이 스크래핑을 방어하기 위해 클래스를 난수로 변경</p>
     <p style="font-size: 16px;">초기에는 웹사이트의 HTML을 직접 분석하여 데이터를 추출하려 했으나, 
         구글은 자동화된 스크래핑을 방지하기 위해 CSS 클래스를 매 요청마다 난수로 변경하는 전략을 사용했습니다.</p>
