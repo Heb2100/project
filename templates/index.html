@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crypto Price Charts</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            font-family: Arial, sans-serif;
+        }
+        
+        .sidebar {
+            width: 200px;
+            background-color: #f8f9fa;
+            height: 100vh;
+            padding: 20px 0;
+            border-right: 1px solid #dee2e6;
+        }
+
+        .sidebar-category {
+            padding: 10px 20px;
+            margin-bottom: 5px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            color: #495057;
+        }
+
+        .sidebar-category:hover {
+            background-color: #e9ecef;
+        }
+
+        .sidebar-category.active {
+            background-color: #e9ecef;
+            font-weight: bold;
+        }
+
+        .sidebar-icon {
+            margin-right: 10px;
+            width: 20px;
+            text-align: center;
+        }
+
+        .main-content {
+            flex: 1;
+            padding: 20px;
+        }
+
+        .tab-container {
+            margin-bottom: 20px;
+        }
+
+        .tab-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #f0f0f0;
+            border: none;
+            border-radius: 5px 5px 0 0;
+            margin-right: 5px;
+        }
+
+        .tab-button.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .chart-container {
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 0 5px 5px 5px;
+            background-color: white;
+        }
+
+        .divider {
+            height: 1px;
+            background-color: #dee2e6;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-category">
+            <span class="sidebar-icon">✉️</span>
+            MESSAGE
+        </div>
+        <div class="sidebar-category">
+            <span class="sidebar-icon">🔔</span>
+            ALARM
+        </div>
+        <div class="divider"></div>
+        <div class="sidebar-category active">
+            <span class="sidebar-icon">💰</span>
+            CRYPTO
+        </div>
+        <div class="sidebar-category">
+            <span class="sidebar-icon">📈</span>
+            KOSPI
+        </div>
+        <div class="sidebar-category">
+            <span class="sidebar-icon">📊</span>
+            NASDAQ
+        </div>
+        <div class="sidebar-category">
+            <span class="sidebar-icon">📉</span>
+            NIKKEI
+        </div>
+        <div class="sidebar-category">
+            <span class="sidebar-icon">🔄</span>
+            FUTURE
+        </div>
+    </div>
+    <div class="main-content">
+        <div class="tab-container">
+            <button class="tab-button active" onclick="window.location.href='/'">Bitcoin</button>
+            <button class="tab-button" onclick="window.location.href='/ethereum'">Ethereum</button>
+            <button class="tab-button" onclick="window.location.href='/ripple'">Ripple</button>
+        </div>
+        <div class="chart-container">
+            {{ chart | safe }}
+        </div>
+    </div>
+</body>
+</html> 
