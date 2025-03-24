@@ -58,8 +58,9 @@
             cursor: pointer;
             background-color: #f0f0f0;
             border: none;
-            border-radius: 5px 5px 0 0;
+            border-radius: 5px;
             margin-right: 5px;
+            transition: background-color 0.3s;
         }
 
         .tab-button.active {
@@ -70,7 +71,7 @@
         .chart-container {
             padding: 20px;
             border: 1px solid #ddd;
-            border-radius: 0 5px 5px 5px;
+            border-radius: 5px;
             background-color: white;
         }
 
@@ -78,6 +79,68 @@
             height: 1px;
             background-color: #dee2e6;
             margin: 10px 0;
+        }
+
+        .crypto-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 24px;
+        }
+
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .toggle-slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 24px;
+        }
+
+        .toggle-slider:before {
+            position: absolute;
+            content: "";
+            height: 16px;
+            width: 16px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked + .toggle-slider {
+            background-color: #4CAF50;
+        }
+
+        input:checked + .toggle-slider:before {
+            transform: translateX(26px);
+        }
+
+        .crypto-name {
+            font-weight: bold;
+            min-width: 100px;
+        }
+
+        .indicator-name {
+            color: #666;
+            font-size: 0.9em;
         }
     </style>
 </head>
@@ -115,13 +178,80 @@
     </div>
     <div class="main-content">
         <div class="tab-container">
-            <button class="tab-button active" onclick="window.location.href='/'">Bitcoin</button>
-            <button class="tab-button" onclick="window.location.href='/ethereum'">Ethereum</button>
-            <button class="tab-button" onclick="window.location.href='/ripple'">Ripple</button>
+            <div class="crypto-item">
+                <span class="crypto-name">Bitcoin</span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="bitcoin-toggle" checked>
+                    <span class="toggle-slider"></span>
+                </label>
+                <span class="indicator-name">Price</span>
+            </div>
+            <div class="crypto-item">
+                <span class="crypto-name">MVRV Z-Score</span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="mvrv-toggle">
+                    <span class="toggle-slider"></span>
+                </label>
+            </div>
+            <div class="crypto-item">
+                <span class="crypto-name">Ethereum</span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="ethereum-toggle">
+                    <span class="toggle-slider"></span>
+                </label>
+                <span class="indicator-name">Price</span>
+            </div>
+            <div class="crypto-item">
+                <span class="crypto-name">Ripple</span>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="ripple-toggle">
+                    <span class="toggle-slider"></span>
+                </label>
+                <span class="indicator-name">Price</span>
+            </div>
         </div>
         <div class="chart-container">
             {{ chart | safe }}
         </div>
     </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const toggles = {
+                bitcoin: document.getElementById('bitcoin-toggle'),
+                ethereum: document.getElementById('ethereum-toggle'),
+                ripple: document.getElementById('ripple-toggle'),
+                mvrv: document.getElementById('mvrv-toggle')
+            };
+
+            function updateChart() {
+                const selectedCryptos = [];
+                if (toggles.bitcoin.checked) selectedCryptos.push('bitcoin');
+                if (toggles.ethereum.checked) selectedCryptos.push('ethereum');
+                if (toggles.ripple.checked) selectedCryptos.push('ripple');
+
+                const params = new URLSearchParams();
+                params.set('cryptos', selectedCryptos.join(','));
+                params.set('mvrv', toggles.mvrv.checked);
+
+                window.location.href = `/multi/${selectedCryptos.join(',')}?mvrv=${toggles.mvrv.checked}`;
+            }
+
+            // Add event listeners to all toggles
+            Object.values(toggles).forEach(toggle => {
+                toggle.addEventListener('change', updateChart);
+            });
+
+            // Set initial toggle states based on URL
+            const url = new URL(window.location.href);
+            const cryptos = url.pathname.split('/multi/')[1]?.split(',') || ['bitcoin'];
+            const showMVRV = url.searchParams.get('mvrv') === 'true';
+
+            cryptos.forEach(crypto => {
+                if (toggles[crypto]) toggles[crypto].checked = true;
+            });
+            toggles.mvrv.checked = showMVRV;
+        });
+    </script>
 </body>
 </html> 
