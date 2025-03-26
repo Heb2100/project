@@ -1,0 +1,594 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 린드먼아시아 상한가",
+        "totalResults": "6510",
+        "searchTerms": "린드먼아시아 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 린드먼아시아 상한가",
+        "totalResults": "6510",
+        "searchTerms": "린드먼아시아 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.156613,
+    "formattedSearchTime": "0.16",
+    "totalResults": "6510",
+    "formattedTotalResults": "6,510"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "<코>린드먼아시아, 상한가 진입.. +29.88%",
+      "htmlTitle": "&lt;코&gt;<b>린드먼아시아</b>, <b>상한가</b> 진입.. +29.88%",
+      "link": "https://www.sedaily.com/NewsView/2D41JQG6CA",
+      "displayLink": "www.sedaily.com",
+      "snippet": "18 hours ago ... 증권 > News봇 뉴스: 오후 2시 51분 현재 린드먼아시아(277070)가 +29.88% 오른 6650원(△1530)으로 장중 상한가에 진입했다. 거래대금은 144억6,94.",
+      "htmlSnippet": "18 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오후 2시 51분 현재 <b>린드먼아시아</b>(277070)가 +29.88% 오른 6650원(△1530)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 144억6,94.",
+      "cacheId": "TYiLy8HeJDQJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D41JQG6CA",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D41JQG6CA",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqCxWJgWPRiuG6Q_KcgIsqJJ1uF8NcwwVZYQiCLKgTB89GTr_PsGbYDQ",
+            "width": "137",
+            "height": "63"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/11/2D41JQG6CA_1.png",
+            "article:published_time": "2024-01-11T14:51:23+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-11T14:51:23+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>린드먼아시아, 상한가 진입.. +29.88% ↑ | 서울경제",
+            "dd:published_time": "2024-01-11T14:51:23+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 2시 51분 현재 린드먼아시아(277070)가 +29.88% 오른 6,650원(▲1,530)으로 장중 상한가에 진입했다. 거래대금은 144억6,94...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/11/2D41JQG6CA_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-11T14:51:23+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D41JQG6CA/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>린드먼아시아, 상한가 진입.. +29.88% ↑",
+            "dable:item_id": "2D41JQG6CA",
+            "og:title": "<코>린드먼아시아, 상한가 진입.. +29.88% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>린드먼아시아, 상한가 진입.. +29.88% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D41JQG6CA",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 2시 51분 현재 린드먼아시아(277070)가 +29.88% 오른 6,650원(▲1,530)으로 장중 상한가에 진입했다. 거래대금은 144억6,94...",
+            "ngh:id": "2D41JQG6CA",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/11/2D41JQG6CA_1_m.png",
+            "ngh:title": "​<코>린드먼아시아, 상한가 진입.. +29.88% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D41JQG6CA/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/11/2D41JQG6CA_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "구글,페르소나 AI 관련주 강세 :: 유엔젤, 린드먼아시아 상한가 / 2월 7일 ...",
+      "htmlTitle": "구글,페르소나 AI 관련주 강세 :: 유엔젤, <b>린드먼아시아 상한가</b> / 2월 7일 ...",
+      "link": "https://blog.naver.com/good-trader/223008330069",
+      "displayLink": "blog.naver.com",
+      "snippet": "Feb 7, 2023 ... 카테고리 이동 \"실력만이 너를 증명한다.\" · - 미 증시 부진에도 국내증시 코스피,코스닥 상승 흐름 전개. · ​ · - 최근 발표된 미국의 고용지표에 따른 ...",
+      "htmlSnippet": "Feb 7, 2023 <b>...</b> 카테고리 이동 &quot;실력만이 너를 증명한다.&quot; &middot; - 미 증시 부진에도 국내증시 코스피,코스닥 상승 흐름 전개. &middot; ​ &middot; - 최근 발표된 미국의 고용지표에 따른&nbsp;...",
+      "cacheId": "wmAGtbbhhhUJ",
+      "formattedUrl": "https://blog.naver.com/good-trader/223008330069",
+      "htmlFormattedUrl": "https://blog.naver.com/good-trader/223008330069",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPSSOcmFMsJxNRe9nr-E5cyElYi6SN7XUONb_DsV1lsN1hPmWED2EesHeg",
+            "width": "290",
+            "height": "174"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyMzAyMDdfMjky/MDAxNjc1NzY2NTE5OTg3.THPF4gNL8xOgGZ6xmSUdauuC8Gm9olwnY0sR4xkJuLkg.3fdCzP6zwzp-Gr6z7czHByElIVybgYR161rw08BUB_gg.PNG.askanana/image.png?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | \"실력만이 너를 증명한다.\"",
+            "og:title": "구글,페르소나 AI 관련주 강세 :: 유엔젤, 린드먼아시아 상한가 /  2월 7일 시간외단일가 특징주",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMzA2MDZfMTc0/MDAxNjg2MDA0MTkyNjIx.LL6P6YSrNl4JjbR3T4SSdecoJc4q9swNOuf9S7S7TCkg.kKWaFWriBWyiOS4a2l8nBVsJ3cYrw7r_oXjfnIC0nSUg.PNG.askanana/image_black.png/image_black.png?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033EC551155,service=blog,collection=blog",
+            "og:description": "구글,페르소나 AI 관련주 강세 :: 유엔젤, 린드먼아시아 상한가 / 2월 7일 시간외단일가 특징주 ★ 실시...",
+            "referrer": "always",
+            "naverblog:nickname": "굿트레이더",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/good-trader/223008330069",
+            "og:article:author": "\"실력만이 .. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fblogthumb.pstatic.net%2FMjAyMjA3MjhfMjAg%2FMDAxNjU4OTk3ODE3MjMz.8wmZ3SfmJAo1eC-LM6Ab1ExFdnkcK9U9e7bJakMjWZgg.J3dPXQwAWUAKemEb_pzHPHUXaCIQ7H_hiYATgp33bs8g.PNG.askanana%2Fimage.png%3Ftype%3Dw2%22&type=ff500_300"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>린드먼아시아, 상한가 진입.. +29.88% ↑ : 서울경제",
+      "htmlTitle": "&lt;코&gt;<b>린드먼아시아</b>, <b>상한가</b> 진입.. +29.88% ↑ : 서울경제",
+      "link": "https://m.sedaily.com/NewsViewAmp/2D41JQG6CA",
+      "displayLink": "m.sedaily.com",
+      "snippet": "18 hours ago ... 오후 2시 51분 현재 린드먼아시아(277070)가 +29.88% 오른 6650원(△1530)으로 장중 상한가에 진입했다. 거래대금은 144억6944만, 거래량은 243만7750 ...",
+      "htmlSnippet": "18 hours ago <b>...</b> 오후 2시 51분 현재 <b>린드먼아시아</b>(277070)가 +29.88% 오른 6650원(△1530)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 144억6944만, 거래량은 243만7750&nbsp;...",
+      "cacheId": "SapTTkts-pQJ",
+      "formattedUrl": "https://m.sedaily.com/NewsViewAmp/2D41JQG6CA",
+      "htmlFormattedUrl": "https://m.sedaily.com/NewsViewAmp/2D41JQG6CA",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqCxWJgWPRiuG6Q_KcgIsqJJ1uF8NcwwVZYQiCLKgTB89GTr_PsGbYDQ",
+            "width": "137",
+            "height": "63"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/11/2D41JQG6CA_1.png",
+            "article:published_time": "2024-01-11T14:51:23+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "서울경제",
+            "og:image:type": "image/jpeg",
+            "title": "<코>린드먼아시아, 상한가 진입.. +29.88% ↑",
+            "og:description": "오후 2시 51분 현재 린드먼아시아(277070)가 +29.88% 오른 6,650원(▲1,530)으로 장중 상한가에 진입했다. 거래대금은 144억6,944만, 거래량은 243만7,750주를 기록하고 있으며, 수급측면으로는 47(매도):53(매수)의..",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/11/2D41JQG6CA_1.png",
+            "article:section2": "News봇",
+            "og:site": "https://m.sedaily.com/NewsView/2D41JQG6CA/GA1302",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>린드먼아시아, 상한가 진입.. +29.88% ↑",
+            "author": "<코>린드먼아시아, 상한가 진입.. +29.88% ↑ : 서울경제",
+            "dable:item_id": "2D41JQG6CA",
+            "og:title": "<코>린드먼아시아, 상한가 진입.. +29.88% ↑",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "오후 2시 51분 현재 린드먼아시아(277070)가 +29.88% 오른 6,650원(▲1,530)으로 장중 상한가에 진입했다. 거래대금은 144억6,944만, 거래량은 243만7,750주를 기록하고 있으며, 수급측면으로는 47(매도):53(매수)의..",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/11/2D41JQG6CA_1_m.png",
+            "og:url": "https://m.sedaily.com/NewsView/2D41JQG6CA/GA1302",
+            "aicon:item_id": "2D41JQG6CA"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/11/2D41JQG6CA_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "린드먼아시아 상한가 기록..유레카 9일 매수의견 제시",
+      "htmlTitle": "<b>린드먼아시아 상한가</b> 기록..유레카 9일 매수의견 제시",
+      "link": "https://plus.hankyung.com/apps/newsinside.view?aid=202401117952a&category=",
+      "displayLink": "plus.hankyung.com",
+      "snippet": "17 hours ago ... 린드먼아시아 상한가 기록..유레카 9일 매수의견 제시 ... 한경유레카는 한국경제신문의 디지털 미디어인 한경닷컴에서 개발한 개별 종목에대한인공지능(AI) ...",
+      "htmlSnippet": "17 hours ago <b>...</b> <b>린드먼아시아 상한가</b> 기록..유레카 9일 매수의견 제시 ... 한경유레카는 한국경제신문의 디지털 미디어인 한경닷컴에서 개발한 개별 종목에대한인공지능(AI)&nbsp;...",
+      "cacheId": "NyoE1nnpbGkJ",
+      "formattedUrl": "https://plus.hankyung.com/apps/newsinside.view?aid=202401117952a...",
+      "htmlFormattedUrl": "https://plus.hankyung.com/apps/newsinside.view?aid=202401117952a...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIfkAPYtrmFEwfonHyAMYnc3xUGQ3HlfbtlBARtMUc1ptjM5-A90MBqSfq",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img.hankyung.com/photo/202311/01.35182060.1.png?202401117952a",
+            "og:type": "article",
+            "fb:app_id": "327743860899120",
+            "og:site_name": "plus.hankyung.com",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "og:title": "린드먼아시아 상한가 기록..유레카 9일 매수의견 제시",
+            "og:url": "https://plus.hankyung.com/apps/newsinside.view?aid=202401117952a&category=&sns=y",
+            "og:updated_time": "2024-01-11 15:13:22",
+            "og:description": "한경유레카는 한국경제신문의 디지털 미디어인 한경닷컴에서 개발한 개별 종목에대한인공지능(AI) 알고리즘 업체의 투자 의견을 종합한 &#39;AI 컨센서스&#39;를 제공하는 서비스입니다. &#39;한경유레..."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.hankyung.com/photo/202311/01.35182060.1.png"
+          }
+        ],
+        "newsarticle": [
+          {
+            "name": "린드먼아시아 상한가 기록..유레카 9일 매수의견 제시",
+            "description": "한경유레카는 한국경제신문의 디지털 미디어인 한경닷컴에서 개발한 개별 종목에대한인공지능(AI) 알고리즘 업체의 투자 의견을 종합한 'AI 컨센서...",
+            "datepublished": "2024-01-11 15:13:22"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[상한가 보드] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 ...",
+      "htmlTitle": "[<b>상한가</b> 보드] 대성창투 <b>린드먼아시아</b> 위지트 인스웨이브시스템즈 ...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=456732",
+      "displayLink": "www.cbci.co.kr",
+      "snippet": "17 hours ago ... [김현진 기자] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어가 11일 상한가 마감하는 기염 ...",
+      "htmlSnippet": "17 hours ago <b>...</b> [김현진 기자] 대성창투 <b>린드먼아시아</b> 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어가 11일 <b>상한가</b> 마감하는 기염&nbsp;...",
+      "cacheId": "pyz2-TtmJoAJ",
+      "formattedUrl": "https://www.cbci.co.kr/news/articleView.html?idxno=456732",
+      "htmlFormattedUrl": "https://www.cbci.co.kr/news/articleView.html?idxno=456732",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLczeCB3yYf0mIjlZ3KIIVQoW2sJ4D4v-kIgrVAAT4EHvyTrb9j9tp_A8",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.cbci.co.kr/news/thumbnail/202401/456732_264219_4623_v150.jpg",
+            "theme-color": "#14ac55",
+            "copyright": "CBC뉴스 | CBCNEWS",
+            "twitter:card": "summary",
+            "dd:author": "김현진 기자",
+            "dd:availability": "true",
+            "article:published_time": "2024-01-11T15:46:33+09:00",
+            "og:site_name": "CBC뉴스 | CBCNEWS",
+            "dd:modified_time": "2024-01-11T15:46:33+09:00",
+            "title": "[상한가 보드] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어 주가 上도약...이월드 에이스테크 한일진공 코닉오토메이션은 상한가에서 이탈",
+            "dd:published_time": "2024-01-11T15:46:33+09:00",
+            "og:description": "[김현진 기자] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어가 11일 상한가 마감하는 기염을 토했다.이날 이월드 에이스테크 한일진공 코닉오토메이션은 상한가를 도달한 후 이탈하기도 했다.상한가 종목 중에서 한화투자증권, 한화투자증권우, 옵티코어는 3거래일 상승세를 유지하고 있다. 이탈 종목 중에서 이월드도 3일 연속 상승세를 드러냈다.이월드는 앞서 10일 상한가로 마감하는 기염을 토하기도 했다.[모든 투자는 각자의 판단으로 선택해서 하는 것으로 최종적 책임은 투자자에게 있다는 점을",
+            "twitter:creator": "김현진 기자",
+            "twitter:image": "https://www.cbci.co.kr/news/thumbnail/202401/456732_264219_4623_v150.jpg",
+            "twitter:site": "https://www.cbci.co.kr/news/articleView.html?idxno=456732",
+            "og:article:author": "김현진 기자",
+            "dd:publisher": "CBC뉴스 | CBCNEWS",
+            "og:type": "article",
+            "twitter:title": "[상한가 보드] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어 주가 上도약...이월드 에이스테크 한일진공 코닉오토메이션은 상한가에서 이탈",
+            "article:section": "경제",
+            "dable:item_id": "456732",
+            "og:title": "[상한가 보드] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어 주가 上도약...이월드 에이스테크 한일진공 코닉오토메이션은 상한가에서 이탈",
+            "classification": "경제",
+            "dd:category": "경제",
+            "dable:author": "김현진 기자",
+            "dd:content_id": "456732",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "[김현진 기자] 대성창투 린드먼아시아 위지트 인스웨이브시스템즈 한화투자증권 우리기술투자 한화투자증권 우 옵티코어가 11일 상한가 마감하는 기염을 토했다.이날 이월드 에이스테크 한일진공 코닉오토메이션은 상한가를 도달한 후 이탈하기도 했다.상한가 종목 중에서 한화투자증권, 한화투자증권우, 옵티코어는 3거래일 상승세를 유지하고 있다. 이탈 종목 중에서 이월드도 3일 연속 상승세를 드러냈다.이월드는 앞서 10일 상한가로 마감하는 기염을 토하기도 했다.[모든 투자는 각자의 판단으로 선택해서 하는 것으로 최종적 책임은 투자자에게 있다는 점을",
+            "og:url": "https://www.cbci.co.kr/news/articleView.html?idxno=456732"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cbci.co.kr/news/thumbnail/202401/456732_264219_4623_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[급등주] 린드먼아시아, 장 마감 앞두고 +29.88% 상한가 - 전국매일신문",
+      "htmlTitle": "[급등주] <b>린드먼아시아</b>, 장 마감 앞두고 +29.88% <b>상한가</b> - 전국매일신문",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1007144",
+      "displayLink": "www.jeonmae.co.kr",
+      "snippet": "17 hours ago ... 린드먼아시아 주가가 장 마감 앞두고 상한가를 기록하고 있다. 11일 오후 3시 9분 기준 현재 전 거래일 대비 +29.88% 오른 6650원에 거래되고 있다.",
+      "htmlSnippet": "17 hours ago <b>...</b> <b>린드먼아시아</b> 주가가 장 마감 앞두고 <b>상한가</b>를 기록하고 있다. 11일 오후 3시 9분 기준 현재 전 거래일 대비 +29.88% 오른 6650원에 거래되고 있다.",
+      "cacheId": "xErDy5doBcAJ",
+      "formattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1007144",
+      "htmlFormattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1007144",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpO3BtKkvhGOpf34IjOKVnmmgFWPg_GQNjz_OnR2iOyyXbw4JvvviKiOM5",
+            "width": "293",
+            "height": "172"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.jeonmae.co.kr/news/thumbnail/202401/1007144_700121_113_v150.jpg",
+            "theme-color": "#3763af",
+            "copyright": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[급등주] 린드먼아시아, 장 마감 앞두고 +29.88% 상한가",
+            "article:section": "경제",
+            "article:published_time": "2024-01-11T15:11:35+09:00",
+            "og:site_name": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
+            "dable:item_id": "1007144",
+            "og:title": "[급등주] 린드먼아시아, 장 마감 앞두고 +29.88% 상한가",
+            "title": "[급등주] 린드먼아시아, 장 마감 앞두고 +29.88% 상한가",
+            "classification": "경제 > 금융·유통",
+            "og:description": "린드먼아시아 주가가 장 마감 앞두고 상한가를 기록하고 있다. 11일 오후 3시 9분 기준 현재 전 거래일 대비 +29.88% 오른 6,650원에 거래되고 있다. 거래량은 348만 6,127건이다. [전국매일신문] 제갈은기자carryy13@jeonmae.co.kr",
+            "twitter:creator": "제갈은기자",
+            "twitter:image": "https://www.jeonmae.co.kr/news/thumbnail/202401/1007144_700121_113_v150.jpg",
+            "article:section1": "금융·유통",
+            "dable:author": "제갈은기자",
+            "twitter:site": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1007144",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "news_keywords": "린드먼아시아,급등주,상한가",
+            "twitter:description": "린드먼아시아 주가가 장 마감 앞두고 상한가를 기록하고 있다. 11일 오후 3시 9분 기준 현재 전 거래일 대비 +29.88% 오른 6,650원에 거래되고 있다. 거래량은 348만 6,127건이다. [전국매일신문] 제갈은기자carryy13@jeonmae.co.kr",
+            "og:url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1007144",
+            "og:article:author": "제갈은기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.jeonmae.co.kr/news/thumbnail/202401/1007144_700121_113_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "대성창투·린드먼아시아·옵티코어 등 8종목 상한가, 태영건설·동운아나 ...",
+      "htmlTitle": "대성창투·<b>린드먼아시아</b>·옵티코어 등 8종목 <b>상한가</b>, 태영건설·동운아나 ...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20240111001555548",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "16 hours ago ... 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, 린드먼아시아, 옵티코어 6 종목 상한가, 926 종목 상승, 101 종목 보합, 608개 종목은 하락했다.",
+      "htmlSnippet": "16 hours ago <b>...</b> 우리기술투자, 대성창투, 위지트, 인스웨이브시스템즈, <b>린드먼아시아</b>, 옵티코어 6 종목 <b>상한가</b>, 926 종목 상승, 101 종목 보합, 608개 종목은 하락했다.",
+      "cacheId": "rkfAttu2uGgJ",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20240111001555548",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20240111001555548",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqLJvOGIh2BFIKER4EUxFZJLVx5TZCkSRjVnBTB0XI8CKAvMoyisaQThg",
+            "width": "109",
+            "height": "129"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202401/20240111001555548_1.jpg",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-11T16:02:09+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "대성창투·린드먼아시아·옵티코어 등 8종목 상한가, 태영건설·동운아나텍 급등 마감",
+            "distribution": "영남일보",
+            "og:description": "11일 한국거래소에 따르면 코스피지수는 전일 대비 1.71p(-0.7%) 하락 마감했다.외국인과 기관은 각 3768억원, 3328억원을 순매도 했다. 개인은 6962억원을 순매수했..",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202401/20240111001555548_1.jpg",
+            "article:section2": "증시·금융",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "에코프로비엠, 이월드, 삼성전자, 카카오, 비트코인",
+            "og:site": "https://m.yeongnam.com/view.php?key=20240111001555548",
+            "author-date(date)": "2024-01-11",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202401/20240111001555548_1.jpg",
+            "og:type": "article",
+            "twitter:title": "대성창투·린드먼아시아·옵티코어 등 8종목 상한가, 태영건설·동운아나텍 급등 마감",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20240111001555548",
+            "og:title": "대성창투·린드먼아시아·옵티코어 등 8종목 상한가, 태영건설·동운아나텍 급등 마감",
+            "url": "https://m.yeongnam.com/view.php?key=20240111001555548",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "11일 한국거래소에 따르면 코스피지수는 전일 대비 1.71p(-0.7%) 하락 마감했다.외국인과 기관은 각 3768억원, 3328억원을 순매도 했다. 개인은 6962억원을 순매수했..",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20240111001555548"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202401/20240111001555548_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "스튜디오미르 '따상', 유엔젤·MDS테크 '바드 효과', 코오롱모빌리티그룹 ...",
+      "htmlTitle": "스튜디오미르 &#39;따상&#39;, 유엔젤·MDS테크 &#39;바드 효과&#39;, 코오롱모빌리티그룹 ...",
+      "link": "https://www.newswell.co.kr/news/articleView.html?idxno=7819",
+      "displayLink": "www.newswell.co.kr",
+      "snippet": "Feb 7, 2023 ... ... 상한가인 5570, 1만600원에 거래를 마쳤다. 두 종목은 모두 뚜렷한 호재는 없다. 다만, 린드먼아시아는 토종 AI인 '페르소나' 관련주로, 코리아써키트 ...",
+      "htmlSnippet": "Feb 7, 2023 <b>...</b> ... <b>상한가</b>인 5570, 1만600원에 거래를 마쳤다. 두 종목은 모두 뚜렷한 호재는 없다. 다만, <b>린드먼아시아</b>는 토종 AI인 &#39;페르소나&#39; 관련주로, 코리아써키트&nbsp;...",
+      "cacheId": "TSD3NV6qygkJ",
+      "formattedUrl": "https://www.newswell.co.kr/news/articleView.html?idxno=7819",
+      "htmlFormattedUrl": "https://www.newswell.co.kr/news/articleView.html?idxno=7819",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6yZCjA7w6l-yImGrsoRtjH0kwvqFljNE6xq40C8ba5alet3NM16mWH39z",
+            "width": "285",
+            "height": "177"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.newswell.co.kr/news/thumbnail/202302/7819_14243_2455_v150.jpg",
+            "theme-color": "#fff",
+            "copyright": "뉴스웰",
+            "twitter:card": "summary",
+            "article:published_time": "2023-02-07T15:41:18+09:00",
+            "og:site_name": "뉴스웰",
+            "title": "스튜디오미르 ‘따상’, 유엔젤·MDS테크 ‘바드 효과’, 코오롱모빌리티그룹우·린드먼아시아·코리아써키트2우B 상한가 [뉴스톡 웰스톡]",
+            "og:description": "글로벌 애니메이션 제작사 스튜디오미르가 상장 첫날 ‘따상’(공모가의 2배 시초가 형성한 뒤 상한가)에 성공했다. 올해 들어 종가 기준으로 3호 따상이다. 7일 코스닥시장에서 스튜디오미르(408900)는 가격제한폭까지 오르며 5만700원에 첫 거래를 마쳤다. 앞서 시초가는 공모가보다 100% 뛴 3만9000원에 형성됐다.2010년 세워진 스튜디오미르는 애니메이션 모든 공정을 수행하는 총괄 제작기업이다. 2019년에는 넷플릭스와 장기 계약을 맺기도 했다. 그 밖의 디즈니, 드림웍스, 워너브라더스 등 글로벌 콘텐츠 기업들을 고객사로 보유",
+            "twitter:creator": "이경호 기자",
+            "twitter:image": "http://www.newswell.co.kr/news/thumbnail/202302/7819_14243_2455_v150.jpg",
+            "article:section2": "market",
+            "twitter:site": "http://www.newswell.co.kr/news/articleView.html?idxno=7819",
+            "naver-site-verification": "477b654fb9c470bb6dc7319474c91795f694e284",
+            "news_keywords": "스튜디오미르_상장,스튜디오미르_상장일,스튜디오미르_주가,스튜디오미르_따상,코오롱모빌리티그룹우_주가,AI챗봇_관련주,구글_바드,유엔젤_주가,오늘상한가종목,오늘환율시세,오늘코스피지수,오늘코스닥지수,린드먼아시아_주가,코리아써키트2우B_주가,MDS테크_주가",
+            "og:article:author": "이경호 기자",
+            "og:type": "article",
+            "twitter:title": "스튜디오미르 ‘따상’, 유엔젤·MDS테크 ‘바드 효과’, 코오롱모빌리티그룹우·린드먼아시아·코리아써키트2우B 상한가 [뉴스톡 웰스톡]",
+            "article:section": "issue웰",
+            "dable:item_id": "7819",
+            "og:title": "스튜디오미르 ‘따상’, 유엔젤·MDS테크 ‘바드 효과’, 코오롱모빌리티그룹우·린드먼아시아·코리아써키트2우B 상한가 [뉴스톡 웰스톡]",
+            "classification": "issue웰 > market",
+            "dable:author": "이경호 기자",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "글로벌 애니메이션 제작사 스튜디오미르가 상장 첫날 ‘따상’(공모가의 2배 시초가 형성한 뒤 상한가)에 성공했다. 올해 들어 종가 기준으로 3호 따상이다. 7일 코스닥시장에서 스튜디오미르(408900)는 가격제한폭까지 오르며 5만700원에 첫 거래를 마쳤다. 앞서 시초가는 공모가보다 100% 뛴 3만9000원에 형성됐다.2010년 세워진 스튜디오미르는 애니메이션 모든 공정을 수행하는 총괄 제작기업이다. 2019년에는 넷플릭스와 장기 계약을 맺기도 했다. 그 밖의 디즈니, 드림웍스, 워너브라더스 등 글로벌 콘텐츠 기업들을 고객사로 보유",
+            "og:url": "http://www.newswell.co.kr/news/articleView.html?idxno=7819"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.newswell.co.kr/news/thumbnail/202302/7819_14243_2455_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "린드먼아시아, +29.88% 상한가 - 조선비즈",
+      "htmlTitle": "<b>린드먼아시아</b>, +29.88% <b>상한가</b> - 조선비즈",
+      "link": "https://biz.chosun.com/stock/c-biz_bot/2024/01/11/U4KOQU7VYWOELFBML3SRCFWCEA/",
+      "displayLink": "biz.chosun.com",
+      "snippet": "18 hours ago ... 린드먼아시아(277070)가 상한가를 기록했다. 전일 대비 29.88% 상승한 6,650원에 거래되고 있다. 린드먼아시아 연관 테마 큐캐피탈(016600), SBI ...",
+      "htmlSnippet": "18 hours ago <b>...</b> <b>린드먼아시아</b>(277070)가 <b>상한가</b>를 기록했다. 전일 대비 29.88% 상승한 6,650원에 거래되고 있다. <b>린드먼아시아</b> 연관 테마 큐캐피탈(016600), SBI&nbsp;...",
+      "cacheId": "aYDIhAMObvoJ",
+      "formattedUrl": "https://biz.chosun.com/stock/.../U4KOQU7VYWOELFBML3SRCFWCEA/",
+      "htmlFormattedUrl": "https://biz.chosun.com/stock/.../U4KOQU7VYWOELFBML3SRCFWCEA/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlzEOLvNN_OHlLS5jSSjXzsVn08HtxB45fRYETOrZxaqEGCbxjXe61pE",
+            "width": "149",
+            "height": "78"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://biz.chosun.com/resizer/yKKF49aEyEvbihgZlRYYN5qk7zs=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/FVIQYBYNAMGQLOCJGY6EF4HEZA.png",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "린드먼아시아, +29.88% 상한가",
+            "article:published_time": "2024-01-11T05:51:02.521Z",
+            "article:section": "C-Biz봇",
+            "og:site_name": "조선비즈",
+            "dable:item_id": "U4KOQU7VYWOELFBML3SRCFWCEA",
+            "og:title": "린드먼아시아, +29.88% 상한가",
+            "og:description": "린드먼아시아, +29.88% 상한가",
+            "twitter:creator": "@Chosun",
+            "article:author": "조선비즈",
+            "twitter:image:src": "https://biz.chosun.com/resizer/yKKF49aEyEvbihgZlRYYN5qk7zs=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/FVIQYBYNAMGQLOCJGY6EF4HEZA.png",
+            "referrer": "no-referrer-when-downgrade",
+            "twitter:site": "@Chosun",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "린드먼아시아, +29.88% 상한가",
+            "og:url": "https://biz.chosun.com/stock/c-biz_bot/2024/01/11/U4KOQU7VYWOELFBML3SRCFWCEA/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://biz.chosun.com/resizer/yKKF49aEyEvbihgZlRYYN5qk7zs=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/FVIQYBYNAMGQLOCJGY6EF4HEZA.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'비트코인 ETF 희소식' 한화투자증권우·우리기술투자·위지트, 옵티코어 ...",
+      "htmlTitle": "&#39;비트코인 ETF 희소식&#39; 한화투자증권우·우리기술투자·위지트, 옵티코어 ...",
+      "link": "http://www.newswell.co.kr/news/articleView.html?idxno=9252",
+      "displayLink": "www.newswell.co.kr",
+      "snippet": "16 hours ago ... 이날 옵티코어(380540)와 대성창투(027830), 린드먼아시아(277070), 인스웨이브시스템즈(450520)도 각각 상한가인 1765, 2370, 6650, 2만4450원을 기록 ...",
+      "htmlSnippet": "16 hours ago <b>...</b> 이날 옵티코어(380540)와 대성창투(027830), <b>린드먼아시아</b>(277070), 인스웨이브시스템즈(450520)도 각각 <b>상한가</b>인 1765, 2370, 6650, 2만4450원을 기록&nbsp;...",
+      "cacheId": "Hp8pXJ8NlCIJ",
+      "formattedUrl": "http://www.newswell.co.kr/news/articleView.html?idxno=9252",
+      "htmlFormattedUrl": "http://www.newswell.co.kr/news/articleView.html?idxno=9252",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7EnAOfA97715oroscGme0SCvYwDYUNZUxjU-XsR2Wmw7Z4mZZwogDcHuF",
+            "width": "300",
+            "height": "164"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.newswell.co.kr/news/thumbnail/202401/9252_18025_1759_v150.jpg",
+            "theme-color": "#fff",
+            "copyright": "뉴스웰",
+            "twitter:card": "summary",
+            "article:published_time": "2024-01-11T16:01:25+09:00",
+            "og:site_name": "뉴스웰",
+            "title": "‘비트코인 ETF 희소식’ 한화투자증권우·우리기술투자·위지트, 옵티코어·대성창투·린드먼아시아·인스웨이브시스템즈 상한가 [뉴스톡 웰스톡]",
+            "og:description": "비트코인의 현물 상장지수펀드(ETF) 승인 소식에 관련주들이 일제히 뛰었다. 11일 유가증권시장에서 한화투자증권(003530)과 한화투자증권우(003535)는 나란히 가격제한폭까지 오르며 각각 4400, 1만3330원에 거래를 마쳤다.또 코스닥시장에서 우리기술투자(041190)와 위지트(036090)도 각각 상한가인 8020, 1056원에 장을 마감했다. 지난밤 미국 증권거래위원회(SEC)가 가상화폐 대장주 비트코인 현물 ETF 거래를 승인했다고 발표하자, 매수세가 이들 종목에 몰린 것으로 풀이된다.미국 SEC 승인 결정에 따라 1",
+            "twitter:creator": "이경호 기자",
+            "twitter:image": "http://www.newswell.co.kr/news/thumbnail/202401/9252_18025_1759_v150.jpg",
+            "article:section2": "market",
+            "twitter:site": "http://www.newswell.co.kr/news/articleView.html?idxno=9252",
+            "naver-site-verification": "477b654fb9c470bb6dc7319474c91795f694e284",
+            "news_keywords": "오늘코스피지수,오늘코스닥지수,오늘상한가종목,오늘환율시세,비트코인 etf,비트코인 현물etf,비트코인 관련주,한화투자증권 주가,한화투자증권우 주가,우리기술투자 주가,옵티코어 주가,6g 관련주,인스웨이브시스템즈 주가,대성창투 주가,린드먼아시아 주가,위지트 주가",
+            "og:article:author": "이경호 기자",
+            "og:type": "article",
+            "twitter:title": "‘비트코인 ETF 희소식’ 한화투자증권우·우리기술투자·위지트, 옵티코어·대성창투·린드먼아시아·인스웨이브시스템즈 상한가 [뉴스톡 웰스톡]",
+            "article:section": "issue웰",
+            "dable:item_id": "9252",
+            "og:title": "‘비트코인 ETF 희소식’ 한화투자증권우·우리기술투자·위지트, 옵티코어·대성창투·린드먼아시아·인스웨이브시스템즈 상한가 [뉴스톡 웰스톡]",
+            "classification": "issue웰 > market",
+            "dable:author": "이경호 기자",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "비트코인의 현물 상장지수펀드(ETF) 승인 소식에 관련주들이 일제히 뛰었다. 11일 유가증권시장에서 한화투자증권(003530)과 한화투자증권우(003535)는 나란히 가격제한폭까지 오르며 각각 4400, 1만3330원에 거래를 마쳤다.또 코스닥시장에서 우리기술투자(041190)와 위지트(036090)도 각각 상한가인 8020, 1056원에 장을 마감했다. 지난밤 미국 증권거래위원회(SEC)가 가상화폐 대장주 비트코인 현물 ETF 거래를 승인했다고 발표하자, 매수세가 이들 종목에 몰린 것으로 풀이된다.미국 SEC 승인 결정에 따라 1",
+            "og:url": "http://www.newswell.co.kr/news/articleView.html?idxno=9252"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.newswell.co.kr/news/thumbnail/202401/9252_18025_1759_v150.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

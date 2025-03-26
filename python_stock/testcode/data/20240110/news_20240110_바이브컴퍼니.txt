@@ -1,0 +1,536 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 바이브컴퍼니 상한가",
+        "totalResults": "9460",
+        "searchTerms": "바이브컴퍼니 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 바이브컴퍼니 상한가",
+        "totalResults": "9460",
+        "searchTerms": "바이브컴퍼니 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.369817,
+    "formattedSearchTime": "0.37",
+    "totalResults": "9460",
+    "formattedTotalResults": "9,460"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "<코>바이브컴퍼니, 상한가 진입.. +29.88%",
+      "htmlTitle": "&lt;코&gt;<b>바이브컴퍼니</b>, <b>상한가</b> 진입.. +29.88%",
+      "link": "https://www.sedaily.com/NewsView/2D406BB3AY",
+      "displayLink": "www.sedaily.com",
+      "snippet": "2 days ago ... 증권 > News봇 뉴스: 오전 10시 34분 현재 바이브컴퍼니(301300)가 +29.88% 오른 9390원(△2160)으로 장중 상한가에 진입했다. 거래대금은 74억8,07.",
+      "htmlSnippet": "2 days ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 10시 34분 현재 <b>바이브컴퍼니</b>(301300)가 +29.88% 오른 9390원(△2160)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 74억8,07.",
+      "cacheId": "VQjRLuP9cTAJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D406BB3AY",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D406BB3AY",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0X-sj0Wn4t-u32P_3xY2cT87isTsL-QF7EextTs24-ZWlBEz6pEUG3Q",
+            "width": "137",
+            "height": "63"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/08/2D406BB3AY_1.png",
+            "article:published_time": "2024-01-08T10:34:45+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-08T10:34:45+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>바이브컴퍼니, 상한가 진입.. +29.88% ↑ | 서울경제",
+            "dd:published_time": "2024-01-08T10:34:45+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 10시 34분 현재 바이브컴퍼니(301300)가 +29.88% 오른 9,390원(▲2,160)으로 장중 상한가에 진입했다. 거래대금은 74억8,07...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/08/2D406BB3AY_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-08T10:34:45+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D406BB3AY/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>바이브컴퍼니, 상한가 진입.. +29.88% ↑",
+            "dable:item_id": "2D406BB3AY",
+            "og:title": "<코>바이브컴퍼니, 상한가 진입.. +29.88% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>바이브컴퍼니, 상한가 진입.. +29.88% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D406BB3AY",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 10시 34분 현재 바이브컴퍼니(301300)가 +29.88% 오른 9,390원(▲2,160)으로 장중 상한가에 진입했다. 거래대금은 74억8,07...",
+            "ngh:id": "2D406BB3AY",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/08/2D406BB3AY_1_m.png",
+            "ngh:title": "​<코>바이브컴퍼니, 상한가 진입.. +29.88% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D406BB3AY/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/08/2D406BB3AY_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "CES 기대감에 AI주 상승세…바이브컴퍼니·이스트소프트 상한가 ...",
+      "htmlTitle": "CES 기대감에 AI주 상승세…<b>바이브컴퍼니</b>·이스트소프트 <b>상한가</b> ...",
+      "link": "https://www.hankyung.com/article/202401088468i",
+      "displayLink": "www.hankyung.com",
+      "snippet": "2 days ago ... CES 기대감에 AI주 상승세…바이브컴퍼니·이스트소프트 상한가, 바이브컴퍼니 이스트소프트 장중 상한가 솔트룩스, 크라우드웍스, 플리토, ...",
+      "htmlSnippet": "2 days ago <b>...</b> CES 기대감에 AI주 상승세…<b>바이브컴퍼니</b>·이스트소프트 <b>상한가</b>, <b>바이브컴퍼니</b> 이스트소프트 장중 <b>상한가</b> 솔트룩스, 크라우드웍스, 플리토,&nbsp;...",
+      "cacheId": "ylzAG15-aOUJ",
+      "formattedUrl": "https://www.hankyung.com/article/202401088468i",
+      "htmlFormattedUrl": "https://www.hankyung.com/article/202401088468i",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4UJFmYlMuPwd1_IMSTEsHyjWWIF8pMTSHb50FFFvxF_-BdK293yGTFqhV",
+            "width": "279",
+            "height": "181"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=406614875, app-argument=https://www.hankyung.com/article/202401088468i",
+            "og:image": "https://img.hankyung.com/photo/202401/01.35506990.1.jpg",
+            "og:image:width": "1000",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-08T11:15:12+09:00",
+            "og:site_name": "한국경제",
+            "title": "CES 기대감에 AI주 상승세…바이브컴퍼니·이스트소프트 상한가",
+            "og:description": "CES 기대감에 AI주 상승세…바이브컴퍼니·이스트소프트 상한가 , 바이브컴퍼니 이스트소프트 장중 상한가 솔트룩스, 크라우드웍스, 플리토, 알체라도 상승세",
+            "”robots”": "”max-image-preview:large”",
+            "article:section2": "신문뉴스",
+            "article:section3": "0100",
+            "twitter:site": "@hankyungmedia",
+            "article:published": "2024-01-08",
+            "og:type": "article",
+            "twitter:title": "CES 기대감에 AI주 상승세…바이브컴퍼니·이스트소프트 상한가",
+            "article:section": "증권 일반",
+            "dable:item_id": "202401088468i",
+            "og:title": "CES 기대감에 AI주 상승세…바이브컴퍼니·이스트소프트 상한가",
+            "og:image:height": "649",
+            "classification": "finance",
+            "twitter:image:src": "https://img.hankyung.com/photo/202401/01.35506990.1.jpg",
+            "fb:app_id": "872625546175034",
+            "dable:author": "선한결",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+            "twitter:description": "CES 기대감에 AI주 상승세…바이브컴퍼니·이스트소프트 상한가 , 바이브컴퍼니 이스트소프트 장중 상한가 솔트룩스, 크라우드웍스, 플리토, 알체라도 상승세",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.hankyung.com/article/202401088468i"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.hankyung.com/photo/202401/01.35506990.1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 ...",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] CES 2024 기대감과 정부주도 사업 성공적 ...",
+      "link": "https://news.mt.co.kr/mtview.php?no=2024010812147030641",
+      "displayLink": "news.mt.co.kr",
+      "snippet": "2 days ago ... 바이브컴퍼니가 장중 상한가에 도달하였다.9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 'CES 2024'를 앞두며 인공지능 관련주들이 ...",
+      "htmlSnippet": "2 days ago <b>...</b> <b>바이브컴퍼니</b>가 장중 <b>상한가</b>에 도달하였다.9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 &#39;CES 2024&#39;를 앞두며 인공지능 관련주들이&nbsp;...",
+      "cacheId": "hkYVrMyzmK0J",
+      "formattedUrl": "https://news.mt.co.kr/mtview.php?no=2024010812147030641",
+      "htmlFormattedUrl": "https://news.mt.co.kr/mtview.php?no=2024010812147030641",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShUwYdPhqE3dvICfWmbjMGNkdQJn4g65PJpAGsR0am3glDDyUea0cMBF4",
+            "width": "388",
+            "height": "130"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://thumb.mt.co.kr/06/2024/01/2024010812147030641_1.jpg",
+            "copyright": "MoneyToday Inc.",
+            "og:image:width": "1200",
+            "article:published_time": "2024-01-08T13:40:57+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "머니투데이",
+            "twitter:app:url:ipad": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "dd:published_time": "2024-01-08T13:40:57+09:00",
+            "og:description": "바이브컴퍼니가 장중 상한가에 도달하였다.9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 ‘CES 2024’를 앞두며 인공지능 관련주들이 일제히 상승세를 나타내고 있다. 주요 기업들이 AI기술을 활용하여 각종 사례 시연에 나가며 실생활 AI서비스 상용화가 확산될 것이라는 기대감이 영향으로 판단된다.바이브컴퍼니는 지난 5일 정부 주도의 ‘초거...",
+            "twitter:creator": "@moneytodaynews",
+            "article:publisher": "https://www.mt.co.kr",
+            "twitter:image:alt": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 마무리로 상한가도달, 바이브컴퍼니",
+            "dable:url": "https://m.mt.co.kr/renew/view.html?no=2024010812147030641",
+            "og:image:alt": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 마무리로 상한가도달, 바이브컴퍼니",
+            "twitter:domain": "https://www.mt.co.kr",
+            "author": "머니투데이",
+            "dable:item_id": "2024010812147030641",
+            "twitter:app:id:ipad": "id349423458",
+            "article:author": "https://www.mt.co.kr",
+            "dd:title": "머니투데이: [MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 마무리로 상한가도달, 바이브컴퍼니",
+            "dd:category": "증권",
+            "twitter:app:name:ipad": "머니투데이",
+            "og:locale": "ko_KR",
+            "twitter:app:name:iphone": "머니투데이",
+            "twitter:app:url:iphone": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "twitter:app:id:googleplay": "com.mt.MoneyTodayNews.apis",
+            "dd:author": "MTN",
+            "dd:modified_time": "2024-01-08T13:40:57+09:00",
+            "twitter:app:name:googleplay": "머니투데이",
+            "title": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 마무리로 상한가도달, 바이브컴퍼니 - 머니투데이",
+            "twitter:app:id:iphone": "id349423458",
+            "twitter:image": "https://thumb.mt.co.kr/06/2024/01/2024010812147030641_1.jpg/dims/resize/1200/crop/1200x630!/optimize/",
+            "twitter:site": "@moneytodaynews",
+            "news_keywords": "바이브,MTN,CES,인공지능,상한가,정부,컴퍼니,기대감,주도,사업",
+            "post:sharer_text": "머니투데이",
+            "dable:custom1": "not",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 마무리로 상한가도달, 바이브컴퍼니 - 머니투데이",
+            "og:title": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 마무리로 상한가도달, 바이브컴퍼니 - 머니투데이",
+            "og:image:height": "630",
+            "referrer": "strict-origin-when-cross-origin",
+            "fb:app_id": "173026022742732",
+            "dable:author": "MTN",
+            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.mt.MoneyTodayNews.apis",
+            "dd:content_id": "2024010812147030641",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:description": "바이브컴퍼니가 장중 상한가에 도달하였다.9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 ‘CES 2024’를 앞두며 인공지능 관련주들이 일제히 상승세를 나타내고 있다. 주요 기업들이 AI기술을 활용하여 각종 사례 시연에 나가며 실생활 AI서비스 상용화가 확산될 것이라는 기대감이 영향으로 판단된다.바이브컴퍼니는 지난 5일 정부 주도의 ‘초거...",
+            "og:url": "https://m.mt.co.kr/renew/view.html?no=2024010812147030641",
+            "category": "F0101"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thumb.mt.co.kr/06/2024/01/2024010812147030641_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 ...",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] CES 2024 기대감과 정부주도 사업 성공적 ...",
+      "link": "https://news.mtn.co.kr/news-detail/2024010812122955332",
+      "displayLink": "news.mtn.co.kr",
+      "snippet": "2 days ago ... 바이브컴퍼니가 장중 상한가에 도달하였다. 9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 'CES 2024'를 앞두며 인공지능 관련주 ...",
+      "htmlSnippet": "2 days ago <b>...</b> <b>바이브컴퍼니</b>가 장중 <b>상한가</b>에 도달하였다. 9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 &#39;CES 2024&#39;를 앞두며 인공지능 관련주&nbsp;...",
+      "cacheId": "U-VfYc0Bv6YJ",
+      "formattedUrl": "https://news.mtn.co.kr/news-detail/2024010812122955332",
+      "htmlFormattedUrl": "https://news.mtn.co.kr/news-detail/2024010812122955332",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVQgvMj4szm-aeBNa37qXRoVU4BPPJ83FIhTNEsCSYt0k52M4X3l2T2Q",
+            "width": "144",
+            "height": "48"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://menu.mtn.co.kr/upload/article/2024/01/08/2024010812122955332_00_190.png",
+            "next-head-count": "15",
+            "og:image:width": "800",
+            "og:type": "website",
+            "og:image:alt": "이미지",
+            "viewport": "width=device-width",
+            "og:title": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 마무리로 상한가도달, 바이브컴퍼니",
+            "og:image:height": "400",
+            "og:locale": "ko_KR",
+            "og:description": "MTN NEWS"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://menu.mtn.co.kr/upload/article/2024/01/08/2024010812122955332_00_190.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "바이브컴퍼니, 오전 갑작스런 상한가…9300원선 재돌파 |",
+      "htmlTitle": "<b>바이브컴퍼니</b>, 오전 갑작스런 <b>상한가</b>…9300원선 재돌파 |",
+      "link": "http://www.econonews.co.kr/news/articleViewAmp.html?idxno=321101",
+      "displayLink": "www.econonews.co.kr",
+      "snippet": "2 days ago ... [이코노뉴스=원종서 기자] 바이브컴퍼니가 상한가다. 바이브컴퍼니는 8일 코스닥 시장에서 오전 10시52분 현재 전 거래일 대비 29.88%(2160원) 상승한 ...",
+      "htmlSnippet": "2 days ago <b>...</b> [이코노뉴스=원종서 기자] <b>바이브컴퍼니</b>가 <b>상한가</b>다. <b>바이브컴퍼니</b>는 8일 코스닥 시장에서 오전 10시52분 현재 전 거래일 대비 29.88%(2160원) 상승한&nbsp;...",
+      "cacheId": "Vxz3HiWFSEIJ",
+      "formattedUrl": "http://www.econonews.co.kr/news/articleViewAmp.html?idxno=321101",
+      "htmlFormattedUrl": "http://www.econonews.co.kr/news/articleViewAmp.html?idxno=321101",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjairJHWUsbxiBmQRPbaiijR4eJhQP-LoTPwBQ8J_pehOCDKdNE4LDHw",
+            "width": "135",
+            "height": "69"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.econonews.co.kr/news/photo/202401/321101_295131_5318.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>바이브컴퍼니, 상한가 진입.. +29.88% ↑",
+      "htmlTitle": "&lt;코&gt;<b>바이브컴퍼니</b>, <b>상한가</b> 진입.. +29.88% ↑",
+      "link": "https://m.sedaily.com/PhotoViewer/2D406BB3AY/1",
+      "displayLink": "m.sedaily.com",
+      "snippet": "코>바이브컴퍼니, 상한가 진입.. +29.88% ↑",
+      "htmlSnippet": "코&gt;<b>바이브컴퍼니</b>, <b>상한가</b> 진입.. +29.88% ↑",
+      "cacheId": "X-yEZ0poCSMJ",
+      "formattedUrl": "https://m.sedaily.com/PhotoViewer/2D406BB3AY/1",
+      "htmlFormattedUrl": "https://m.sedaily.com/PhotoViewer/2D406BB3AY/1",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxMBkcXm5sbWVBrYdPjeGDhxthYA9Bn74ZIa4tn3UrUMgr_DO6YwlRT5Y",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img.sedaily.com/web/common/sedailyV2.jpg",
+            "og:type": "website",
+            "og:site_name": "서울경제",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "og:title": "<코>바이브컴퍼니, 상한가 진입.. +29.88% ↑",
+            "og:locale": "ko_KR",
+            "title": "<코>바이브컴퍼니, 상한가 진입.. +29.88% ↑",
+            "og:url": "https://m.sedaily.com/PhotoViewer/2D406BB3AY/1",
+            "article:author": "https://m.sedaily.com",
+            "article:publisher": "https://m.sedaily.com",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.sedaily.com/web/common/sedailyV2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 ...",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] CES 2024 기대감과 정부주도 사업 성공적 ...",
+      "link": "https://news.nate.com/view/20240108n17339?mid=n1101",
+      "displayLink": "news.nate.com",
+      "snippet": "2 days ago ... 한눈에 보는 오늘 : 경제 - 뉴스 : 바이브컴퍼니가 장중 상한가에 도달하였다. 9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 'CES ...",
+      "htmlSnippet": "2 days ago <b>...</b> 한눈에 보는 오늘 : 경제 - 뉴스 : <b>바이브컴퍼니</b>가 장중 <b>상한가</b>에 도달하였다. 9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 &#39;CES&nbsp;...",
+      "cacheId": "dDGv0Jm6HtkJ",
+      "formattedUrl": "https://news.nate.com/view/20240108n17339?mid=n1101",
+      "htmlFormattedUrl": "https://news.nate.com/view/20240108n17339?mid=n1101",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpsYZqot2W9ej0Dn8l7kv7jcWUOsWcC0zz0wq1jcNBukqwol4z72tdKg",
+            "width": "139",
+            "height": "47"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://news.nateimg.co.kr/orgImg/mt/2024/01/08/2024010812147030641_1.jpg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "모바일 네이트 뉴스",
+            "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width",
+            "og:title": "[MTN머니로 상한가 포착] CES 2024 기대감과 정부주도 사업 성공적 마무리로 상한가도달, 바이브컴퍼니 : 네이트 뉴스",
+            "og:locale": "ko_KR",
+            "og:url": "https://m.news.nate.com/view/20240108n17339?mid=m02",
+            "og:description": "한눈에 보는 오늘 : 경제 - 뉴스 : 바이브컴퍼니가 장중 상한가에 도달하였다. 9일 미국 라스베이거스에서 개막하는 세계 최대 IT, 가전 전시회 ‘CES 2024’를 앞두며 인공지능 관련주들이 일제히 상승세를 나타내고 있다. 주요 기업들이 AI기술을 활용하여 각종 사례 시연에 나가며 실생",
+            "ssul:category": "sisa"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://news.nateimg.co.kr/orgImg/mt/2024/01/08/2024010812147030641_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[주식시장 정리]2024년 1월 8 월요일 상한가 (한글과컴퓨터. 바이브 ...",
+      "htmlTitle": "[주식시장 정리]2024년 1월 8 월요일 <b>상한가</b> (한글과컴퓨터. <b>바이브</b> ...",
+      "link": "https://contents.premium.naver.com/solomon/solomonschool/contents/240108161205825ue?from=news_arp_article",
+      "displayLink": "contents.premium.naver.com",
+      "snippet": "2 days ago ... 바이브컴퍼니. 이스트소프트. 아이윈. 파워로직스. 유니트론텍. 한빛 ... 올해 세번째 상한가 (바이브컴퍼니). ​. ​. ​. 그래도 욕심은 금물. 매수밴드 ...",
+      "htmlSnippet": "2 days ago <b>...</b> <b>바이브컴퍼니</b>. 이스트소프트. 아이윈. 파워로직스. 유니트론텍. 한빛 ... 올해 세번째 <b>상한가</b> (<b>바이브컴퍼니</b>). ​. ​. ​. 그래도 욕심은 금물. 매수밴드&nbsp;...",
+      "cacheId": "ssDDHhy9SigJ",
+      "formattedUrl": "https://contents.premium.naver.com/solomon/.../240108161205825ue?...",
+      "htmlFormattedUrl": "https://contents.premium.naver.com/solomon/.../240108161205825ue?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5AF_uS6-ldImgp-fEW9b1QEkj2zKauUcT1umRnUMU_15kQSveB36rlfoQ",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://scs-phinf.pstatic.net/MjAyMzA1MjlfNTUg/MDAxNjg1MzMzMzE1NjU4.HqxPHtl9Fz8r3yEaAE4bN9uoiEG74PIsf1jJt8aov8og.NYCDk3Zt1piiK3GUYQ6tQNppP7uZZyRFkwXt5zPmpU0g.JPEG/KakaoTalk_20230518_080659234_04.jpg?type=w800",
+            "twitter:card": "summary",
+            "twitter:title": "[주식시장 정리]2024년 1월 8 월요일 상한가 (한글과컴퓨터. 바이브컴퍼니. 이스트소프트. 아이윈. 파워로직스. 유니트론텍. 한빛레이저) 코스피하락.코스닥 상승",
+            "is-blocked": "false",
+            "og:title": "[주식시장 정리]2024년 1월 8 월요일 상한가 (한글과컴퓨터. 바이브컴퍼니. 이스트소프트. 아이윈. 파워로직스. 유니트론텍. 한빛레이저) 코스피하락.코스닥 상승",
+            "is-deleted": "false",
+            "og:description": "**100원 결제 안하셔도 글 전체 보 실수 있으세요~~개인 정리용입니다~** 한글과 컴퓨터-생성형AI/테슬라 차량 문서작업/일본계약등등 오픈AI의 인공지능판 앱스토어인 ‘GPT스토어’ 상용화가 임박한 것으로 전해지면서, 국내 관련주가 일제히 강세다.  8일 한국거래소",
+            "twitter:image": "https://scs-phinf.pstatic.net/MjAyMzA1MjlfNTUg/MDAxNjg1MzMzMzE1NjU4.HqxPHtl9Fz8r3yEaAE4bN9uoiEG74PIsf1jJt8aov8og.NYCDk3Zt1piiK3GUYQ6tQNppP7uZZyRFkwXt5zPmpU0g.JPEG/KakaoTalk_20230518_080659234_04.jpg?type=w800",
+            "product-option-for-subscription": "true",
+            "twitter:site": "프리미엄콘텐츠",
+            "channel-name": "현명한 \"인생 성형\" 솔로몬학교",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "twitter:description": "**100원 결제 안하셔도 글 전체 보 실수 있으세요~~개인 정리용입니다~** 한글과 컴퓨터-생성형AI/테슬라 차량 문서작업/일본계약등등 오픈AI의 인공지능판 앱스토어인 ‘GPT스토어’ 상용화가 임박한 것으로 전해지면서, 국내 관련주가 일제히 강세다.  8일 한국거래소",
+            "og:url": "https://contents.premium.naver.com/solomon/solomonschool/contents/240108161205825ue",
+            "format-detection": "telephone=no",
+            "publish-datetime": "2024-01-08T16:12:05.825",
+            "product-option-for-sale": "true"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://scs-phinf.pstatic.net/MjAyMzA1MjlfNTUg/MDAxNjg1MzMzMzE1NjU4.HqxPHtl9Fz8r3yEaAE4bN9uoiEG74PIsf1jJt8aov8og.NYCDk3Zt1piiK3GUYQ6tQNppP7uZZyRFkwXt5zPmpU0g.JPEG/KakaoTalk_20230518_080659234_04.jpg?type=w800"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "바이브컴퍼니, +29.88% 상한가 - 조선비즈",
+      "htmlTitle": "<b>바이브컴퍼니</b>, +29.88% <b>상한가</b> - 조선비즈",
+      "link": "https://biz.chosun.com/stock/c-biz_bot/2024/01/08/YRSRW2USGHSXFD2FEPEYTACSQA/",
+      "displayLink": "biz.chosun.com",
+      "snippet": "2 days ago ... 바이브컴퍼니, +29.88% 상한가 바이브컴퍼니301300가 상한가를 기록했다. 전일 대비 29.88% 상승한 9390원에 거래되고 있다. 바이브컴퍼니 연관 ...",
+      "htmlSnippet": "2 days ago <b>...</b> <b>바이브컴퍼니</b>, +29.88% <b>상한가 바이브컴퍼니</b>301300가 <b>상한가</b>를 기록했다. 전일 대비 29.88% 상승한 9390원에 거래되고 있다. <b>바이브컴퍼니</b> 연관&nbsp;...",
+      "cacheId": "4suq7kUqIQcJ",
+      "formattedUrl": "https://biz.chosun.com/stock/c.../YRSRW2USGHSXFD2FEPEYTACSQA/",
+      "htmlFormattedUrl": "https://biz.chosun.com/stock/c.../YRSRW2USGHSXFD2FEPEYTACSQA/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeTShs89z4VVdMdC-Omwq3mHkikqob5kTdRFtq84VkPZGWsFhk5f9P44",
+            "width": "310",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://biz.chosun.com/resizer/52nROjZFbv-pzaPZDfuRpvJAXjM=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/Q7IT2SJHVNA2LKP62JWPTIN2NQ.png",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "바이브컴퍼니, +29.88% 상한가",
+            "article:published_time": "2024-01-08T01:35:02.527Z",
+            "article:section": "C-Biz봇",
+            "og:site_name": "조선비즈",
+            "dable:item_id": "YRSRW2USGHSXFD2FEPEYTACSQA",
+            "og:title": "바이브컴퍼니, +29.88% 상한가",
+            "og:description": "바이브컴퍼니, +29.88% 상한가",
+            "twitter:creator": "@Chosun",
+            "article:author": "조선비즈",
+            "twitter:image:src": "https://biz.chosun.com/resizer/52nROjZFbv-pzaPZDfuRpvJAXjM=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/Q7IT2SJHVNA2LKP62JWPTIN2NQ.png",
+            "referrer": "no-referrer-when-downgrade",
+            "twitter:site": "@Chosun",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "바이브컴퍼니, +29.88% 상한가",
+            "og:url": "https://biz.chosun.com/stock/c-biz_bot/2024/01/08/YRSRW2USGHSXFD2FEPEYTACSQA/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://biz.chosun.com/resizer/52nROjZFbv-pzaPZDfuRpvJAXjM=/996x522/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/Q7IT2SJHVNA2LKP62JWPTIN2NQ.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "상한가(1월8일), AI 관련주 + 초전도체 관련주 등 줄줄이 나와! : 네이버 ...",
+      "htmlTitle": "<b>상한가</b>(1월8일), AI 관련주 + 초전도체 관련주 등 줄줄이 나와! : 네이버 ...",
+      "link": "https://blog.naver.com/goldmap7/223316099815?fromRss=true",
+      "displayLink": "blog.naver.com",
+      "snippet": "2 days ago ... △바이브컴퍼니는 인공지능, 빅데이터 기반 서비스 제공업체입니다. 국내 최초로 사용자와의 대화를 핵심으로 하는 AI 챗봇을 상용화했고요. ​. 사용자의 ...",
+      "htmlSnippet": "2 days ago <b>...</b> △<b>바이브컴퍼니</b>는 인공지능, 빅데이터 기반 서비스 제공업체입니다. 국내 최초로 사용자와의 대화를 핵심으로 하는 AI 챗봇을 상용화했고요. ​. 사용자의&nbsp;...",
+      "cacheId": "2L2BTCl4RfIJ",
+      "formattedUrl": "https://blog.naver.com/goldmap7/223316099815?fromRss=true",
+      "htmlFormattedUrl": "https://blog.naver.com/goldmap7/223316099815?fromRss=true",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyNDAxMDhfMTQg/MDAxNzA0Njk3NzQ2NDM0.bpH2Zf5jedWfl1Rj9zbCyeUQoKxUIUE2Nn6_RFBXlAAg.Q0hkdGJDHz_TsCXhPx7DCY0gLKZN_eGzdI930gIXiv4g.JPEG.goldmap7/%BB%F3%C7%D1%B0%A1%C7%CF%C7%D1%B0%A1.jpg?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 라온제나 주식독법",
+            "og:title": "상한가(1월8일), AI 관련주 + 초전도체 관련주 등 줄줄이 나와!",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAxODEyMjZfOSAg/MDAxNTQ1NzgyMTc2MDA5.WGk6tkRCR_K-qxYUvOZxxMmxS4ArWyhWqoM-_lHvtuMg.eB2uJ5IbfpRSkkm7jhVqOpCycEmpdPQuFm4EaLZAY-Ag.GIF.goldmap7/dlalwl.gif?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033FEAD42E7,service=blog,collection=blog",
+            "og:description": "AI 관련주, 오픈AI 이번 주 &#x27;GPT스토어&#x27; 출시 기대감 UP 국내 AI 챗봇 관련주들이 생...",
+            "referrer": "always",
+            "naverblog:nickname": "유민아빠",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/goldmap7/223316099815",
+            "og:article:author": "라온제나 .. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogthumb.pstatic.net/MjAyNDAxMDhfMTQg/MDAxNzA0Njk3NzQ2NDM0.bpH2Zf5jedWfl1Rj9zbCyeUQoKxUIUE2Nn6_RFBXlAAg.Q0hkdGJDHz_TsCXhPx7DCY0gLKZN_eGzdI930gIXiv4g.JPEG.goldmap7/%BB%F3%C7%D1%B0%A1%C7%CF%C7%D1%B0%A1.jpg?type=w2"
+          }
+        ]
+      }
+    }
+  ]
+}

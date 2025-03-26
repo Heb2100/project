@@ -1,0 +1,620 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 한화투자증권 상한가",
+        "totalResults": "335000",
+        "searchTerms": "한화투자증권 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 한화투자증권 상한가",
+        "totalResults": "335000",
+        "searchTerms": "한화투자증권 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.209015,
+    "formattedSearchTime": "0.21",
+    "totalResults": "335000",
+    "formattedTotalResults": "335,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "한화투자증권 | 한국경제",
+      "htmlTitle": "<b>한화투자증권</b> | 한국경제",
+      "link": "https://markets.hankyung.com/stock/003530",
+      "displayLink": "markets.hankyung.com",
+      "snippet": "한화투자증권·위지트 등 상한가. 2024.01.11 06:27. 암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가 · 美 비트코인 ETF 승인에 관련주 '환호'…우리기술투자 ...",
+      "htmlSnippet": "<b>한화투자증권</b>·위지트 등 <b>상한가</b>. 2024.01.11 06:27. 암호화폐 관련주 일제히 급등…<b>한화투자증권</b>·위지트 등 <b>상한가</b> &middot; 美 비트코인 ETF 승인에 관련주 &#39;환호&#39;…우리기술투자&nbsp;...",
+      "cacheId": "tsgCgUZ0mHkJ",
+      "formattedUrl": "https://markets.hankyung.com/stock/003530",
+      "htmlFormattedUrl": "https://markets.hankyung.com/stock/003530",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDK-4JzqBCTNZJhseYVIKk2lEJdlTpKdnedtedkecnLnaPAXQSDY0Rmg",
+            "width": "124",
+            "height": "78"
+          }
+        ],
+        "metatags": [
+          {
+            "naver-site-verification": "d15c9d23f7cab90cc75356e5f40a99714fd514b6",
+            "viewport": "width=device-width, initial-scale=1",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.hankyung.com/photo/202401/AA.35543454.3.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<유>한화투자증권, 상한가 진입.. +29.99%",
+      "htmlTitle": "&lt;유&gt;<b>한화투자증권</b>, <b>상한가</b> 진입.. +29.99%",
+      "link": "https://www.sedaily.com/NewsView/2D41K8IW53",
+      "displayLink": "www.sedaily.com",
+      "snippet": "22 hours ago ... 증권 > News봇 뉴스: 오전 10시 12분 현재 한화투자증권(003530)이 +29.99% 오른 4400원(△1015)으로 장중 상한가에 진입했다. 거래대금은 1852억5...",
+      "htmlSnippet": "22 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 10시 12분 현재 <b>한화투자증권</b>(003530)이 +29.99% 오른 4400원(△1015)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 1852억5...",
+      "cacheId": "GYOj1GT-xqsJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D41K8IW53",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D41K8IW53",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsx2DxTxaVGNuJmm10QQvE6_aeL4f-51jQyLE1ptPNs3GwCD2Ovl9hi3eR",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/11/2D41K8IW53_1.png",
+            "article:published_time": "2024-01-11T10:12:30+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-11T10:12:30+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<유>한화투자증권, 상한가 진입.. +29.99% ↑ | 서울경제",
+            "dd:published_time": "2024-01-11T10:12:30+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 10시 12분 현재 한화투자증권(003530)이 +29.99% 오른 4,400원(▲1,015)으로 장중 상한가에 진입했다. 거래대금은 1,852억5...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/11/2D41K8IW53_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-11T10:12:30+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D41K8IW53/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<유>한화투자증권, 상한가 진입.. +29.99% ↑",
+            "dable:item_id": "2D41K8IW53",
+            "og:title": "<유>한화투자증권, 상한가 진입.. +29.99% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<유>한화투자증권, 상한가 진입.. +29.99% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D41K8IW53",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 10시 12분 현재 한화투자증권(003530)이 +29.99% 오른 4,400원(▲1,015)으로 장중 상한가에 진입했다. 거래대금은 1,852억5...",
+            "ngh:id": "2D41K8IW53",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/11/2D41K8IW53_1_m.png",
+            "ngh:title": "​<유>한화투자증권, 상한가 진입.. +29.99% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D41K8IW53/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/11/2D41K8IW53_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "한화투자증권, 비트코인 현물 ETF 승인 소식에 상한가…가상자산주 줄 ...",
+      "htmlTitle": "<b>한화투자증권</b>, 비트코인 현물 ETF 승인 소식에 <b>상한가</b>…가상자산주 줄 ...",
+      "link": "https://www.fntimes.com/html/view.php?ud=20240111175112214422f8e8c22c_18",
+      "displayLink": "www.fntimes.com",
+      "snippet": "14 hours ago ... 우리기술투자·위지트 나란히 상한가 기록, 원·달러 환율, 전장비 7.2원↓…1312.9원.",
+      "htmlSnippet": "14 hours ago <b>...</b> 우리기술<b>투자</b>·위지트 나란히 <b>상한가</b> 기록, 원·달러 환율, 전장비 7.2원↓…1312.9원.",
+      "cacheId": "89ivOSEPn5sJ",
+      "formattedUrl": "https://www.fntimes.com/html/view.php?ud...18",
+      "htmlFormattedUrl": "https://www.fntimes.com/html/view.php?ud...18",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4pVR8FrtnlhIc2n9dDvMvypWd3b9yS4_zYhect-4Y31ldTL39KH_UFs",
+            "width": "139",
+            "height": "94"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202401111754470394522f8e8c22c203236101135.jpg&nmt=18",
+            "dd:author": "전한신 한국금융신문",
+            "article:published_time": "2024-01-11T17:55:55+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "FNTIMES",
+            "twitter:url": "https://m.fntimes.com/html/view.php?ud=20240111175112214422f8e8c22c_18",
+            "apple-mobile-web-app-title": "FNTIMES",
+            "dd:modified_time": "2024-01-11T17:55:55+09:00",
+            "dd:published_time": "2024-01-11T17:55:55+09:00",
+            "og:description": "우리기술투자·위지트 나란히 상한가 기록, 원·달러 환율, 전장비 7.2원↓…1312.9원",
+            "twitter:creator": "FNTIMES",
+            "twitter:image": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202401111754470394522f8e8c22c203236101135.jpg&nmt=18",
+            "twitter:site": "FNTIMES",
+            "news_keywords": "한화투자증권, 비트코인 현물 ETF 승인 소식에 상한가…가상자산주 줄강세 [증시 마감]",
+            "og:site": "FNTIMES",
+            "dd:publisher": "FNTIMES",
+            "article:section": "증권",
+            "og:type": "article",
+            "twitter:title": "한화투자증권, 비트코인 현물 ETF 승인 소식에 상한가…가상자산주 줄강세 [증시 마감]",
+            "dable:item_id": "20240111175112214422f8e8c22c_18",
+            "og:title": "한화투자증권, 비트코인 현물 ETF 승인 소식에 상한가…가상자산주 줄강세 [증시 마감]",
+            "movideo:news_key": "20240111175112214422f8e8c22c_18",
+            "dc.date.issued": "2024-01-11T17:55:55+09:00",
+            "dd:category": "증권",
+            "dable:author": "전한신 한국금융신문",
+            "fb:app_id": "495945427429135",
+            "dd:content_id": "20240111175112214422f8e8c22c_18",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
+            "twitter:description": "우리기술투자·위지트 나란히 상한가 기록, 원·달러 환율, 전장비 7.2원↓…1312.9원",
+            "og:locale": "ko_KR",
+            "mobile-web-app-capable": "yes",
+            "dd:availavility": "true",
+            "og:url": "https://m.fntimes.com/html/view.php?ud=20240111175112214422f8e8c22c_18",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202401111754470394522f8e8c22c203236101135.jpg&nmt=18"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "이월드 상한가, 한국전자인증·한화투자증권 등 토스 관련주 강세",
+      "htmlTitle": "이월드 <b>상한가</b>, 한국전자인증·<b>한화투자증권</b> 등 토스 관련주 강세",
+      "link": "https://www.yeongnam.com/web/view.php?key=20240110001055528",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "2 days ago ... 이월드가 상한가에 올랐다.이월드는 10일 오전 10시 53분 현재 전 거래일 보다 29.85%(531원0 오른 2310원에 거래되고 있다. 이는 토스 기업공개(IPO) ...",
+      "htmlSnippet": "2 days ago <b>...</b> 이월드가 <b>상한가</b>에 올랐다.이월드는 10일 오전 10시 53분 현재 전 거래일 보다 29.85%(531원0 오른 2310원에 거래되고 있다. 이는 토스 기업공개(IPO)&nbsp;...",
+      "cacheId": "kCrc1kMFj0wJ",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20240110001055528",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20240110001055528",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpt9A0XXJFAxklGOZgNWu1gZYID6ZaedlUriqLtQHE_QR55oA78Dv2wGp9",
+            "width": "305",
+            "height": "165"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202401/20240110001055528_1.jpg",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-10T10:59:17+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "이월드 상한가, 한국전자인증·한화투자증권 등 토스 관련주  강세",
+            "distribution": "영남일보",
+            "og:description": "이월드가 상한가에 올랐다.이월드는 10일 오전 10시 53분 현재 전 거래일 보다 29.85%(531원0 오른 2310원에 거래되고 있다. 이는 토스 기업공개(IPO) 입찰제안서(..",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202401/20240110001055528_1.jpg",
+            "article:section2": "증시·금융",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "대신정보통신, 엔비티, 다울투자증권, 토스, 하나금융지주",
+            "og:site": "https://m.yeongnam.com/view.php?key=20240110001055528",
+            "author-date(date)": "2024-01-10",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202401/20240110001055528_1.jpg",
+            "og:type": "article",
+            "twitter:title": "이월드 상한가, 한국전자인증·한화투자증권 등 토스 관련주  강세",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20240110001055528",
+            "og:title": "이월드 상한가, 한국전자인증·한화투자증권 등 토스 관련주  강세",
+            "url": "https://m.yeongnam.com/view.php?key=20240110001055528",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "이월드가 상한가에 올랐다.이월드는 10일 오전 10시 53분 현재 전 거래일 보다 29.85%(531원0 오른 2310원에 거래되고 있다. 이는 토스 기업공개(IPO) 입찰제안서(..",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20240110001055528"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202401/20240110001055528_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 한화투자증권우, 이틀연속 상한가···토큰 수혜주 - 서울파이낸스",
+      "htmlTitle": "[특징주] <b>한화투자</b>증권우, 이틀연속 <b>상한가</b>···토큰 수혜주 - 서울파이낸스",
+      "link": "http://www.seoulfn.com/news/articleView.html?idxno=503357",
+      "displayLink": "www.seoulfn.com",
+      "snippet": "Dec 5, 2023 ... [서울파이낸스 이서영 기자] 최근 비트코인이 4만 달러를 돌파와 함께 토큰증권 수혜주로 인식된 한화투자증권 우선주가 이틀 연속 상한가를 기록했다 ...",
+      "htmlSnippet": "Dec 5, 2023 <b>...</b> [서울파이낸스 이서영 기자] 최근 비트코인이 4만 달러를 돌파와 함께 토큰증권 수혜주로 인식된 <b>한화투자증권</b> 우선주가 이틀 연속 <b>상한가</b>를 기록했다&nbsp;...",
+      "cacheId": "PCAYFYKqgIEJ",
+      "formattedUrl": "http://www.seoulfn.com/news/articleView.html?idxno=503357",
+      "htmlFormattedUrl": "http://www.seoulfn.com/news/articleView.html?idxno=503357",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZZ4wKaYBcrzJ-TKHPZfL2c51HlibjhcFJ2GlWYaesouazrzy1EMhkdFM",
+            "width": "300",
+            "height": "133"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.seoulfn.com/news/thumbnail/202312/503357_261338_203_v150.jpg",
+            "copyright": "서울파이낸스",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[특징주] 한화투자증권우, 이틀연속 상한가···토큰 수혜주",
+            "article:section": "증권/금융",
+            "article:published_time": "2023-12-05T09:29:33+09:00",
+            "og:site_name": "서울파이낸스",
+            "dable:item_id": "503357",
+            "og:title": "[특징주] 한화투자증권우, 이틀연속 상한가···토큰 수혜주",
+            "title": "[특징주] 한화투자증권우, 이틀연속 상한가···토큰 수혜주",
+            "classification": "증권/금융 > 증권",
+            "og:description": "[서울파이낸스 이서영 기자] 최근 비트코인이 4만 달러를 돌파와 함께 토큰증권 수혜주로 인식된 한화투자증권 우선주가 이틀 연속 상한가를 기록했다. 5일 한국거래소에 따르면 한화투자증권우는 전날 가격 상한폭까지 상승한 데 이어 이날도 장중 29.89% 오른 9690원으로 상한가에 진입했다. 한화투자증권은 국내 최대 가상자산 거래소인 업비트를 운영하는 두나무의 지분 5.96%를 보유하고 있다. 비트코인 관련 기업들의 상승은 최근 미국 증권거래위원회(SEC)의 비트코인 현물 상장지수펀드(ETF) 승인에 대한 기대가 커지며 비트코인 가격이",
+            "twitter:creator": "이서영 기자",
+            "twitter:image": "http://www.seoulfn.com/news/thumbnail/202312/503357_261338_203_v150.jpg",
+            "article:section1": "증권",
+            "dable:author": "이서영 기자",
+            "twitter:site": "http://www.seoulfn.com/news/articleView.html?idxno=503357",
+            "naver-site-verification": "08c0ea3aa5cf079335a581d4b6bf3f926a488081",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "news_keywords": "특징주,두나무,비트코인,한화투자증권",
+            "twitter:description": "[서울파이낸스 이서영 기자] 최근 비트코인이 4만 달러를 돌파와 함께 토큰증권 수혜주로 인식된 한화투자증권 우선주가 이틀 연속 상한가를 기록했다. 5일 한국거래소에 따르면 한화투자증권우는 전날 가격 상한폭까지 상승한 데 이어 이날도 장중 29.89% 오른 9690원으로 상한가에 진입했다. 한화투자증권은 국내 최대 가상자산 거래소인 업비트를 운영하는 두나무의 지분 5.96%를 보유하고 있다. 비트코인 관련 기업들의 상승은 최근 미국 증권거래위원회(SEC)의 비트코인 현물 상장지수펀드(ETF) 승인에 대한 기대가 커지며 비트코인 가격이",
+            "og:url": "http://www.seoulfn.com/news/articleView.html?idxno=503357",
+            "og:article:author": "이서영 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.seoulfn.com/news/thumbnail/202312/503357_261338_203_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 한화투자증권·우리기술투자, 美 비트코인 ETF 상장에 상한가 ...",
+      "htmlTitle": "[특징주] <b>한화투자증권</b>·우리기술투자, 美 비트코인 ETF 상장에 <b>상한가</b> ...",
+      "link": "https://www.ajunews.com/view/20240111103439644",
+      "displayLink": "www.ajunews.com",
+      "snippet": "22 hours ago ... 미국 증권거래위원회(SEC)가 상장을 승인한 비트코인 현물 상장지수펀드(ETF)의 거래가 예고되자 국내 증시에서 관련주들이 상한가에 거래되고 ...",
+      "htmlSnippet": "22 hours ago <b>...</b> 미국 <b>증권</b>거래위원회(SEC)가 상장을 승인한 비트코인 현물 상장지수펀드(ETF)의 거래가 예고되자 국내 증시에서 관련주들이 <b>상한가</b>에 거래되고&nbsp;...",
+      "cacheId": "wcqmMdTN-VIJ",
+      "formattedUrl": "https://www.ajunews.com/view/20240111103439644",
+      "htmlFormattedUrl": "https://www.ajunews.com/view/20240111103439644",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyzyw-HFBzOEUgmUyj8aYjBm69CfAkTfYImtAARr2Q1RvHGNVDIumMhco",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://image.ajunews.com/content/image/2024/01/11/20240111103512781698.jpg",
+            "theme-color": "#ffffff",
+            "og:image:width": "640",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-11T10:35:44+09:00",
+            "og:site_name": "아주경제",
+            "twitter:url": "https://m.ajunews.com/view/20240111103439644",
+            "apple-mobile-web-app-title": "아주경제",
+            "og:app_id": "401637503340162",
+            "title": "[특징주] 한화투자증권·우리기술투자, 美 비트코인 ETF 상장에 상한가 | 아주경제",
+            "og:description": "미국 증권거래위원회(SEC)가 상장을 승인한 비트코인 현물 상장지수펀드(ETF)의 거래가 예고되자 국내 증시에서 관련주들이 상한가에 거래되고 있다.11일 오전 10시 30분 현재 코스피 상장사 한화투자증권과 코스닥 상장사 우리기술투자 주가가 거래 상한선에 닿았다. 이날...",
+            "naver-site-verification": "e3f6d6ee1d3420028d7208b9fadc524d458b3f81",
+            "news_keywords": "비트코인,한화투자증권,우리기술투자,두나무",
+            "og:type": "article",
+            "twitter:title": "[특징주] 한화투자증권·우리기술투자, 美 비트코인 ETF 상장에 상한가 | 아주경제",
+            "ajunews:uppercategory": "0106000000000000",
+            "article:section": "시황",
+            "dable:item_id": "20240111103439644",
+            "og:title": "[특징주] 한화투자증권·우리기술투자, 美 비트코인 ETF 상장에 상한가 | 아주경제",
+            "og:image:height": "426",
+            "ajunews:category": "0106005000000000",
+            "inmobi-site-verification": "86fa9283db3e056e80253dfd631c8ef",
+            "og:updated_time": "2024-01-11 10:35:44",
+            "article:author": "임민철",
+            "twitter:image:src": "https://image.ajunews.com/content/image/2024/01/11/20240111103512781698.jpg",
+            "referrer": "strict-origin-when-cross-origin",
+            "apple-mobile-web-app-status-bar-style": "black-translucent",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "미국 증권거래위원회(SEC)가 상장을 승인한 비트코인 현물 상장지수펀드(ETF)의 거래가 예고되자 국내 증시에서 관련주들이 상한가에 거래되고 있다.11일 오전 10시 30분 현재 코스피 상장사 한화투자증권과 코스닥 상장사 우리기술투자 주가가 거래 상한선에 닿았다. 이날...",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "ko_KR",
+            "og:url": "https://m.ajunews.com/view/20240111103439644",
+            "aicon:item_id": "20240111103439644"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image.ajunews.com/content/image/2024/01/11/20240111103512781698.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가 | 한국 ...",
+      "htmlTitle": "암호화폐 관련주 일제히 급등…<b>한화투자증권</b>·위지트 등 <b>상한가</b> | 한국 ...",
+      "link": "https://www.hankyung.com/article/2024011186081",
+      "displayLink": "www.hankyung.com",
+      "snippet": "14 hours ago ... 암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가, 코인 거래소 지분 보유 수혜 위메이드·갤럭시아머니도 올라.",
+      "htmlSnippet": "14 hours ago <b>...</b> 암호화폐 관련주 일제히 급등…<b>한화투자증권</b>·위지트 등 <b>상한가</b>, 코인 거래소 지분 보유 수혜 위메이드·갤럭시아머니도 올라.",
+      "cacheId": "aXCS4IrrBdkJ",
+      "formattedUrl": "https://www.hankyung.com/article/2024011186081",
+      "htmlFormattedUrl": "https://www.hankyung.com/article/2024011186081",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRfpkWzkFFiokxRfRUjPm3LzcSDptNqWP8d7bZLocdPs-erCxuav36",
+            "width": "116",
+            "height": "111"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=406614875, app-argument=https://www.hankyung.com/article/2024011186081",
+            "og:image": "https://img.hankyung.com/photo/202401/AA.35543454.1.jpg",
+            "og:image:width": "300",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-11T18:27:46+09:00",
+            "og:site_name": "한국경제",
+            "title": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가",
+            "og:description": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가, 코인 거래소 지분 보유 수혜 위메이드·갤럭시아머니도 올라",
+            "”robots”": "”max-image-preview:large”",
+            "article:section2": "신문(강판)",
+            "article:section3": "0104",
+            "twitter:site": "@hankyungmedia",
+            "article:published": "2024-01-11",
+            "og:type": "article",
+            "twitter:title": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가",
+            "article:section": "종목분석",
+            "dable:item_id": "2024011186081",
+            "og:title": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가",
+            "og:image:height": "288",
+            "classification": "finance",
+            "twitter:image:src": "https://img.hankyung.com/photo/202401/AA.35543454.1.jpg",
+            "fb:app_id": "872625546175034",
+            "dable:author": "이지효",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+            "twitter:description": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가, 코인 거래소 지분 보유 수혜 위메이드·갤럭시아머니도 올라",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.hankyung.com/article/2024011186081"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.hankyung.com/photo/202401/AA.35543454.1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] 비트코인 20개월만에 4만달러 돌파, 한화 ...",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] 비트코인 20개월만에 4만달러 돌파, <b>한화</b> ...",
+      "link": "https://news.mt.co.kr/mtview.php?no=2023120512537082247",
+      "displayLink": "news.mt.co.kr",
+      "snippet": "Dec 5, 2023 ... 한화투자증권우이 장중 상한가에 진입하였다.비트코인 관련 기업들이 일제 상승을 하는 가운데 한화투자증권 역시 전일부터 강세를 보이며 상한가에 ...",
+      "htmlSnippet": "Dec 5, 2023 <b>...</b> 한화투자증권우이 장중 <b>상한가</b>에 진입하였다.비트코인 관련 기업들이 일제 상승을 하는 가운데 <b>한화투자증권</b> 역시 전일부터 강세를 보이며 <b>상한가</b>에&nbsp;...",
+      "cacheId": "CBTvOHCpUcUJ",
+      "formattedUrl": "https://news.mt.co.kr/mtview.php?no=2023120512537082247",
+      "htmlFormattedUrl": "https://news.mt.co.kr/mtview.php?no=2023120512537082247",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUXLUOmjtcuK3YZQYAxvoYIux0vkixaCfjcf1lDyvyFLJpRmzVMZSe_09H",
+            "width": "346",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://thumb.mt.co.kr/06/2023/12/2023120512537082247_1.jpg",
+            "copyright": "MoneyToday Inc.",
+            "og:image:width": "1200",
+            "article:published_time": "2023-12-05T13:23:34+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "머니투데이",
+            "twitter:app:url:ipad": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "dd:published_time": "2023-12-05T13:23:34+09:00",
+            "og:description": "한화투자증권우이 장중 상한가에 진입하였다.비트코인 관련 기업들이 일제 상승을 하는 가운데 한화투자증권 역시 전일부터 강세를 보이며 상한가에 도달하였다.최근 미국 증권거래위원회의 비트코인 현물 상장지수펀드(ETF) 승인에 대해 기대가 커지면서 비트코인 가격이 20개월 만에 4만달러를 넘어서 것이 주된 원인으로 판단된다.이스라엘과 팔레스타인간 전쟁으로 안전 자...",
+            "twitter:creator": "@moneytodaynews",
+            "article:publisher": "https://www.mt.co.kr",
+            "twitter:image:alt": "[MTN머니로 상한가 포착] 비트코인 20개월만에 4만달러 돌파, 한화투자증권우 상한가",
+            "dable:url": "https://m.mt.co.kr/renew/view.html?no=2023120512537082247",
+            "og:image:alt": "[MTN머니로 상한가 포착] 비트코인 20개월만에 4만달러 돌파, 한화투자증권우 상한가",
+            "twitter:domain": "https://www.mt.co.kr",
+            "author": "머니투데이",
+            "dable:item_id": "2023120512537082247",
+            "twitter:app:id:ipad": "id349423458",
+            "article:author": "https://www.mt.co.kr",
+            "dd:title": "머니투데이: [MTN머니로 상한가 포착] 비트코인 20개월만에 4만달러 돌파, 한화투자증권우 상한가",
+            "dd:category": "증권",
+            "twitter:app:name:ipad": "머니투데이",
+            "og:locale": "ko_KR",
+            "twitter:app:name:iphone": "머니투데이",
+            "twitter:app:url:iphone": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "twitter:app:id:googleplay": "com.mt.MoneyTodayNews.apis",
+            "dd:author": "MTN",
+            "dd:modified_time": "2023-12-05T13:23:34+09:00",
+            "twitter:app:name:googleplay": "머니투데이",
+            "title": "[MTN머니로 상한가 포착] 비트코인 20개월만에 4만달러 돌파, 한화투자증권우 상한가 - 머니투데이",
+            "twitter:app:id:iphone": "id349423458",
+            "twitter:image": "https://thumb.mt.co.kr/06/2023/12/2023120512537082247_1.jpg/dims/resize/1200/crop/1200x630!/optimize/",
+            "twitter:site": "@moneytodaynews",
+            "news_keywords": "비트코인,한화투자증권,MTN,미국,상한가,상장지수,이스라엘,팔레스타인,머니,포착",
+            "post:sharer_text": "머니투데이",
+            "dable:custom1": "not",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "[MTN머니로 상한가 포착] 비트코인 20개월만에 4만달러 돌파, 한화투자증권우 상한가 - 머니투데이",
+            "og:title": "[MTN머니로 상한가 포착] 비트코인 20개월만에 4만달러 돌파, 한화투자증권우 상한가 - 머니투데이",
+            "og:image:height": "630",
+            "referrer": "strict-origin-when-cross-origin",
+            "fb:app_id": "173026022742732",
+            "dable:author": "MTN",
+            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.mt.MoneyTodayNews.apis",
+            "dd:content_id": "2023120512537082247",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:description": "한화투자증권우이 장중 상한가에 진입하였다.비트코인 관련 기업들이 일제 상승을 하는 가운데 한화투자증권 역시 전일부터 강세를 보이며 상한가에 도달하였다.최근 미국 증권거래위원회의 비트코인 현물 상장지수펀드(ETF) 승인에 대해 기대가 커지면서 비트코인 가격이 20개월 만에 4만달러를 넘어서 것이 주된 원인으로 판단된다.이스라엘과 팔레스타인간 전쟁으로 안전 자...",
+            "og:url": "https://m.mt.co.kr/renew/view.html?no=2023120512537082247",
+            "category": "F0101"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thumb.mt.co.kr/06/2023/12/2023120512537082247_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "https://m.stock.naver.com/item/main.nhn",
+      "htmlTitle": "https://m.stock.naver.com/item/main.nhn",
+      "link": "https://m.stock.naver.com/item/main.nhn",
+      "displayLink": "m.stock.naver.com",
+      "formattedUrl": "https://m.stock.naver.com/item/main.nhn",
+      "htmlFormattedUrl": "https://m.stock.naver.com/item/main.nhn"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "한화투자증권우 또 상한가...'우선주' 경고음 - 머니투데이",
+      "htmlTitle": "<b>한화투자</b>증권우 또 <b>상한가</b>...&#39;우선주&#39; 경고음 - 머니투데이",
+      "link": "https://news.mt.co.kr/mtview.php?no=2021040814331617060",
+      "displayLink": "news.mt.co.kr",
+      "snippet": "Apr 9, 2021 ... 1분기 실적 기대감에 개별 종목 호재까지 더해지면서 증권주, 특히 중소형 증권사 주가가 뛰었다. 일부 증권사 우선주의 급등세도 이어져 과열 논란도 ...",
+      "htmlSnippet": "Apr 9, 2021 <b>...</b> 1분기 실적 기대감에 개별 종목 호재까지 더해지면서 증권주, 특히 중소형 <b>증권사</b> 주가가 뛰었다. 일부 <b>증권사</b> 우선주의 급등세도 이어져 과열 논란도&nbsp;...",
+      "cacheId": "e-E8WJW4iYUJ",
+      "formattedUrl": "https://news.mt.co.kr/mtview.php?no=2021040814331617060",
+      "htmlFormattedUrl": "https://news.mt.co.kr/mtview.php?no=2021040814331617060",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhtqMZvXe6-pKMbvIPVChnGdxZu_Ki5vwLyXxcBZsevdMou_l6VK7eLdd",
+            "width": "299",
+            "height": "169"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://thumb.mt.co.kr/06/2021/04/2021040814331617060_1.jpg",
+            "copyright": "MoneyToday Inc.",
+            "og:image:width": "1200",
+            "article:published_time": "2021-04-09T04:05:00+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "머니투데이",
+            "twitter:app:url:ipad": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "dd:published_time": "2021-04-09T04:05:00+09:00",
+            "og:description": "1분기 실적 기대감에 개별 종목 호재까지 더해지면서 증권주, 특히 중소형 증권사 주가가 뛰었다. 일부 증권사 우선주의 급등세도 이어져 과열 논란도 적잖다. 8일 한국거래소에 따르면 지난달 26일까지만 해도 2980원이었던 한화투자증권 주가가 전날 6550원까지 치솟았다. 지난달 30일과 지난 6일 등 1주일사이 상한가를 두 번 기록했다. 이에 한국거래소 시...",
+            "twitter:creator": "@moneytodaynews",
+            "article:publisher": "https://www.mt.co.kr",
+            "twitter:image:alt": "/사진=임종철 디자인기자",
+            "dable:url": "https://m.mt.co.kr/renew/view.html?no=2021040814331617060",
+            "og:image:alt": "/사진=임종철 디자인기자",
+            "twitter:domain": "https://www.mt.co.kr",
+            "author": "머니투데이",
+            "dable:item_id": "2021040814331617060",
+            "twitter:app:id:ipad": "id349423458",
+            "article:author": "https://www.mt.co.kr",
+            "dd:title": "머니투데이: 한화투자증권우 또 상한가...＇우선주＇ 경고음",
+            "dd:category": "증권",
+            "twitter:app:name:ipad": "머니투데이",
+            "og:locale": "ko_KR",
+            "twitter:app:name:iphone": "머니투데이",
+            "twitter:app:url:iphone": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "twitter:app:id:googleplay": "com.mt.MoneyTodayNews.apis",
+            "dd:author": "정혜윤",
+            "dd:modified_time": "2021-04-09T04:05:00+09:00",
+            "twitter:app:name:googleplay": "머니투데이",
+            "title": "한화투자증권우 또 상한가...'우선주' 경고음 - 머니투데이",
+            "twitter:app:id:iphone": "id349423458",
+            "twitter:image": "https://thumb.mt.co.kr/06/2021/04/2021040814331617060_1.jpg/dims/resize/1200/crop/1200x630!/optimize/",
+            "twitter:site": "@moneytodaynews",
+            "news_keywords": "한화투자증권,한국,상한가,우선주,경고,종목,증권사,주가,과열,거래소",
+            "post:sharer_text": "머니투데이",
+            "dable:custom1": "count",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "한화투자증권우 또 상한가...'우선주' 경고음 - 머니투데이",
+            "og:title": "한화투자증권우 또 상한가...'우선주' 경고음 - 머니투데이",
+            "og:image:height": "630",
+            "referrer": "strict-origin-when-cross-origin",
+            "fb:app_id": "173026022742732",
+            "dable:author": "정혜윤",
+            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.mt.MoneyTodayNews.apis",
+            "dd:content_id": "2021040814331617060",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:description": "1분기 실적 기대감에 개별 종목 호재까지 더해지면서 증권주, 특히 중소형 증권사 주가가 뛰었다. 일부 증권사 우선주의 급등세도 이어져 과열 논란도 적잖다. 8일 한국거래소에 따르면 지난달 26일까지만 해도 2980원이었던 한화투자증권 주가가 전날 6550원까지 치솟았다. 지난달 30일과 지난 6일 등 1주일사이 상한가를 두 번 기록했다. 이에 한국거래소 시...",
+            "og:url": "https://m.mt.co.kr/renew/view.html?no=2021040814331617060",
+            "category": "F0101"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thumb.mt.co.kr/06/2021/04/2021040814331617060_1.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 티와이홀딩스 상한가",
+        "totalResults": "150000",
+        "searchTerms": "티와이홀딩스 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 티와이홀딩스 상한가",
+        "totalResults": "150000",
+        "searchTerms": "티와이홀딩스 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.490285,
+    "formattedSearchTime": "0.49",
+    "totalResults": "150000",
+    "formattedTotalResults": "150,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "[MTN머니로 상한가 포착] 새로운 부회장 선임, 기대되는 행보.. 티와이 ...",
+      "htmlTitle": "[MTN머니로 <b>상한가</b> 포착] 새로운 부회장 선임, 기대되는 행보.. <b>티와이</b> ...",
+      "link": "https://news.mt.co.kr/mtview.php?no=2023120712377028879",
+      "displayLink": "news.mt.co.kr",
+      "snippet": "Dec 7, 2023 ... 티와이홀딩스우가 장중 상한가에 진입하였다.티와이홀딩스는 전일인 6일 임원인사를 실시하여, 최금락 전 법무법인 광장 고문을 신임 부회장으로 선임 ...",
+      "htmlSnippet": "Dec 7, 2023 <b>...</b> <b>티와이홀딩스</b>우가 장중 <b>상한가</b>에 진입하였다.<b>티와이홀딩스</b>는 전일인 6일 임원인사를 실시하여, 최금락 전 법무법인 광장 고문을 신임 부회장으로 선임&nbsp;...",
+      "cacheId": "x9SO_28RXFEJ",
+      "formattedUrl": "https://news.mt.co.kr/mtview.php?no=2023120712377028879",
+      "htmlFormattedUrl": "https://news.mt.co.kr/mtview.php?no=2023120712377028879",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYUaTVz5sKmoI7lqVdCFdXcI0NXIwRAzpB6SSoa1FKsKGP1fNKrqczf2L2",
+            "width": "346",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://thumb.mt.co.kr/06/2023/12/2023120712377028879_1.jpg",
+            "copyright": "MoneyToday Inc.",
+            "og:image:width": "1200",
+            "article:published_time": "2023-12-07T14:04:35+09:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "머니투데이",
+            "twitter:app:url:ipad": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "dd:published_time": "2023-12-07T14:04:35+09:00",
+            "og:description": "티와이홀딩스우가 장중 상한가에 진입하였다.티와이홀딩스는 전일인 6일 임원인사를 실시하여, 최금락 전 법무법인 광장 고문을 신임 부회장으로 선임하였고, 오동헌 SBS비즈 대표를 부사장급 회장 비서실장으로 선임하였다고 밝혔다.최금락 신임 부회장은 국제경제학과를 졸업하여 SBS에 입사해 보도본부방, 방송지원본부장을 역임하였고 SBS를 퇴사한 뒤 청와대 홍보수석비...",
+            "twitter:creator": "@moneytodaynews",
+            "article:publisher": "https://www.mt.co.kr",
+            "twitter:image:alt": "[MTN머니로 상한가 포착] 새로운 부회장 선임, 기대되는 행보.. 티와이홀딩스 상한가",
+            "dable:url": "https://m.mt.co.kr/renew/view.html?no=2023120712377028879",
+            "og:image:alt": "[MTN머니로 상한가 포착] 새로운 부회장 선임, 기대되는 행보.. 티와이홀딩스 상한가",
+            "twitter:domain": "https://www.mt.co.kr",
+            "author": "머니투데이",
+            "dable:item_id": "2023120712377028879",
+            "twitter:app:id:ipad": "id349423458",
+            "article:author": "https://www.mt.co.kr",
+            "dd:title": "머니투데이: [MTN머니로 상한가 포착] 새로운 부회장 선임, 기대되는 행보.. 티와이홀딩스 상한가",
+            "dd:category": "증권",
+            "twitter:app:name:ipad": "머니투데이",
+            "og:locale": "ko_KR",
+            "twitter:app:name:iphone": "머니투데이",
+            "twitter:app:url:iphone": "https://apps.apple.com/kr/app/moneytoday-news-in-korea/id349423458",
+            "twitter:app:id:googleplay": "com.mt.MoneyTodayNews.apis",
+            "dd:author": "MTN",
+            "dd:modified_time": "2023-12-07T14:04:35+09:00",
+            "twitter:app:name:googleplay": "머니투데이",
+            "title": "[MTN머니로 상한가 포착] 새로운 부회장 선임, 기대되는 행보.. 티와이홀딩스 상한가 - 머니투데이",
+            "twitter:app:id:iphone": "id349423458",
+            "twitter:image": "https://thumb.mt.co.kr/06/2023/12/2023120712377028879_1.jpg/dims/resize/1200/crop/1200x630!/optimize/",
+            "twitter:site": "@moneytodaynews",
+            "news_keywords": "홀딩스,MTN,최금락,상한가,부회장,선임,법무법인,청와대,태영,머니",
+            "post:sharer_text": "머니투데이",
+            "dable:custom1": "not",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "[MTN머니로 상한가 포착] 새로운 부회장 선임, 기대되는 행보.. 티와이홀딩스 상한가 - 머니투데이",
+            "og:title": "[MTN머니로 상한가 포착] 새로운 부회장 선임, 기대되는 행보.. 티와이홀딩스 상한가 - 머니투데이",
+            "og:image:height": "630",
+            "referrer": "strict-origin-when-cross-origin",
+            "fb:app_id": "173026022742732",
+            "dable:author": "MTN",
+            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.mt.MoneyTodayNews.apis",
+            "dd:content_id": "2023120712377028879",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:description": "티와이홀딩스우가 장중 상한가에 진입하였다.티와이홀딩스는 전일인 6일 임원인사를 실시하여, 최금락 전 법무법인 광장 고문을 신임 부회장으로 선임하였고, 오동헌 SBS비즈 대표를 부사장급 회장 비서실장으로 선임하였다고 밝혔다.최금락 신임 부회장은 국제경제학과를 졸업하여 SBS에 입사해 보도본부방, 방송지원본부장을 역임하였고 SBS를 퇴사한 뒤 청와대 홍보수석비...",
+            "og:url": "https://m.mt.co.kr/renew/view.html?no=2023120712377028879",
+            "category": "F0101"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://thumb.mt.co.kr/06/2023/12/2023120712377028879_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<유>티와이홀딩스우, 상한가 진입.. +30.00%",
+      "htmlTitle": "&lt;유&gt;<b>티와이홀딩스</b>우, <b>상한가</b> 진입.. +30.00%",
+      "link": "https://www.sedaily.com/NewsView/2D405OXY1B",
+      "displayLink": "www.sedaily.com",
+      "snippet": "3 days ago ... 증권 > News봇 뉴스: 오후 12시 0분 현재 티와이홀딩스우(36328K)가 +30.00% 오른 10010원(△2310)으로 장중 상한가에 진입했다. 거래대금은 10억91.",
+      "htmlSnippet": "3 days ago <b>...</b> 증권 &gt; News봇 뉴스: 오후 12시 0분 현재 <b>티와이홀딩스</b>우(36328K)가 +30.00% 오른 10010원(△2310)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 10억91.",
+      "cacheId": "W04G_YFf1QQJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D405OXY1B",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D405OXY1B",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKumBgqO93HQH2SSrtdPUO4SakMUNXEF46rOvibGZMMYdWZtxcJBUT1Y",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/08/2D405OXY1B_1.png",
+            "article:published_time": "2024-01-08T12:00:34+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-08T12:00:34+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<유>티와이홀딩스우, 상한가 진입.. +30.00% ↑ | 서울경제",
+            "dd:published_time": "2024-01-08T12:00:34+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 12시 0분 현재 티와이홀딩스우(36328K)가 +30.00% 오른 10,010원(▲2,310)으로 장중 상한가에 진입했다. 거래대금은 10억91...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/08/2D405OXY1B_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-08T12:00:34+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D405OXY1B/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<유>티와이홀딩스우, 상한가 진입.. +30.00% ↑",
+            "dable:item_id": "2D405OXY1B",
+            "og:title": "<유>티와이홀딩스우, 상한가 진입.. +30.00% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<유>티와이홀딩스우, 상한가 진입.. +30.00% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D405OXY1B",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 12시 0분 현재 티와이홀딩스우(36328K)가 +30.00% 오른 10,010원(▲2,310)으로 장중 상한가에 진입했다. 거래대금은 10억91...",
+            "ngh:id": "2D405OXY1B",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/08/2D405OXY1B_1_m.png",
+            "ngh:title": "​<유>티와이홀딩스우, 상한가 진입.. +30.00% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D405OXY1B/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/08/2D405OXY1B_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[급등락주 짚어보기] 티와이홀딩스우, 태영인더스트리 매각 추진 소식 ...",
+      "htmlTitle": "[급등락주 짚어보기] <b>티와이홀딩스</b>우, 태영인더스트리 매각 추진 소식 ...",
+      "link": "https://www.etoday.co.kr/news/view/2310245",
+      "displayLink": "www.etoday.co.kr",
+      "snippet": "Dec 8, 2023 ... (출처=한국거래소)8일 유가증권 시장에서 상한가를 기록한 종목은 4종목이다. 하한가를 기록한 종목은 없었다.한창은 29.93% 오른 1528원으로 거래...",
+      "htmlSnippet": "Dec 8, 2023 <b>...</b> (출처=한국거래소)8일 유가증권 시장에서 <b>상한가</b>를 기록한 종목은 4종목이다. 하한가를 기록한 종목은 없었다.한창은 29.93% 오른 1528원으로 거래...",
+      "cacheId": "f-a5drHUxh8J",
+      "formattedUrl": "https://www.etoday.co.kr/news/view/2310245",
+      "htmlFormattedUrl": "https://www.etoday.co.kr/news/view/2310245",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1PjmBNiTZm7tUE2x_CsjafCoR1I_m0fpbDoHAzBKv3Maf3Fpq4QY4W6j",
+            "width": "316",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img.etoday.co.kr/pto_db/2023/12/20231208164535_1960825_512_258.png",
+            "og:image:width": "512",
+            "dd:author": "박민규",
+            "dd:availability": "true",
+            "article:published_time": "2023-12-08T17:05:00+09:00",
+            "og:site_name": "이투데이",
+            "articleid": "2310245",
+            "dd:category2": "2199",
+            "dd:published_time": "2023-12-08T17:05:00+09:00",
+            "og:description": "(출처=한국거래소)8일 유가증권 시장에서 상한가를 기록한 종목은 4종목이다. 하한가를 기록한 종목은 없었다.한창은 29.93% 오른 1528원으로 거래...",
+            "news_keywords": "급등락주,남선알미늄,베셀,티와이홀딩스,한창",
+            "fb:admins": "100001191273481",
+            "dd:publisher": "이투데이",
+            "og:type": "article",
+            "article:section": "금융·증권",
+            "dable:item_id": "2310245",
+            "og:title": "[급등락주 짚어보기] 티와이홀딩스우, 태영인더스트리 매각 추진 소식에 연이틀 상한가",
+            "og:image:height": "258",
+            "article:author": "https://www.facebook.com/etoday/",
+            "dd:category": "21",
+            "referrer": "no-referrer-when-downgrade",
+            "fb:app_id": "127898540577087",
+            "dd:content_id": "2310245",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "position": "1",
+            "og:url": "https://www.etoday.co.kr/news/view/2310245"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.etoday.co.kr/pto_db/2023/12/20231208164535_1960825_512_258.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<유>티와이홀딩스, 상한가 진입.. +29.98%",
+      "htmlTitle": "&lt;유&gt;<b>티와이홀딩스</b>, <b>상한가</b> 진입.. +29.98%",
+      "link": "https://www.sedaily.com/NewsView/29YF44EPZD",
+      "displayLink": "www.sedaily.com",
+      "snippet": "Dec 7, 2023 ... 증권 > News봇 뉴스: 오전 10시 28분 현재 티와이홀딩스(363280)가 +29.98% 오른 6590원(△1520)으로 장중 상한가에 진입했다. 거래대금은 249억4,2.",
+      "htmlSnippet": "Dec 7, 2023 <b>...</b> 증권 &gt; News봇 뉴스: 오전 10시 28분 현재 <b>티와이홀딩스</b>(363280)가 +29.98% 오른 6590원(△1520)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 249억4,2.",
+      "cacheId": "-SauswBh7DEJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/29YF44EPZD",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/29YF44EPZD",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT54wykBsGm8sW1otukH_wyg3hKPZYKY_2lKBdJCE4PEs1v6i0t8qiYeCe7",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2023/12/07/29YF44EPZD_1.png",
+            "article:published_time": "2023-12-07T10:28:32+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2023-12-07T10:28:32+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<유>티와이홀딩스, 상한가 진입.. +29.98% ↑ | 서울경제",
+            "dd:published_time": "2023-12-07T10:28:32+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 10시 28분 현재 티와이홀딩스(363280)가 +29.98% 오른 6,590원(▲1,520)으로 장중 상한가에 진입했다. 거래대금은 249억4,2...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2023/12/07/29YF44EPZD_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2023-12-07T10:28:32+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/29YF44EPZD/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<유>티와이홀딩스, 상한가 진입.. +29.98% ↑",
+            "dable:item_id": "29YF44EPZD",
+            "og:title": "<유>티와이홀딩스, 상한가 진입.. +29.98% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<유>티와이홀딩스, 상한가 진입.. +29.98% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "29YF44EPZD",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 10시 28분 현재 티와이홀딩스(363280)가 +29.98% 오른 6,590원(▲1,520)으로 장중 상한가에 진입했다. 거래대금은 249억4,2...",
+            "ngh:id": "29YF44EPZD",
+            "dable:image": "https://newsimg.sedaily.com/2023/12/07/29YF44EPZD_1_m.png",
+            "ngh:title": "​<유>티와이홀딩스, 상한가 진입.. +29.98% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/29YF44EPZD/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/12/07/29YF44EPZD_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] \"현금화 가능 자산 1.6조 이상\"...태영건설·티와이홀딩스 ...",
+      "htmlTitle": "[특징주] &quot;현금화 가능 자산 1.6조 이상&quot;...태영건설·<b>티와이홀딩스</b> ...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=640793",
+      "displayLink": "www.econovill.com",
+      "snippet": "Jan 2, 2024 ... 태영건설우선주(태영건설우)와 모회사 티와이홀딩스우선주(티와이홀딩스우)가 2일 유가증권(코스피) 시장에서 나란히 상한가를 기록중이다.",
+      "htmlSnippet": "Jan 2, 2024 <b>...</b> 태영건설우선주(태영건설우)와 모회사 <b>티와이홀딩스</b>우선주(<b>티와이홀딩스</b>우)가 2일 유가증권(코스피) 시장에서 나란히 <b>상한가</b>를 기록중이다.",
+      "cacheId": "Y3nW3iA_BxgJ",
+      "formattedUrl": "https://www.econovill.com/news/articleView.html?idxno=640793",
+      "htmlFormattedUrl": "https://www.econovill.com/news/articleView.html?idxno=640793",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUr0UeWTgdqV_3mQgt7T7KVe8bo3g6iilEB5dc5NyeuEDlTKL-kncRBLA",
+            "width": "300",
+            "height": "34"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.econovill.com/news/thumbnail/202401/640793_584686_4421_v150.jpg",
+            "theme-color": "#ff7c00",
+            "copyright": "이코노믹리뷰",
+            "twitter:card": "summary",
+            "article:published_time": "2024-01-02T11:44:35+09:00",
+            "og:site_name": "이코노믹리뷰",
+            "title": "[특징주] \"현금화 가능 자산 1.6조 이상\"...태영건설·티와이홀딩스 우선주, 나란히 上",
+            "og:description": "태영건설우선주(태영건설우)와 모회사 티와이홀딩스우선주(티와이홀딩스우)가 2일 유가증권(코스피) 시장에서 나란히 상한가를 기록중이다.태영건설의 기업개선작업(워크아웃) 신청으로 자금 시장의 경색 우려가 제기되지만, 태영그룹의 현금화 가능 자산이 1조6000억원을 넘어서는데다 총선 이전에 태영건설의 워크아웃 작업이 마무리될 것이라는 기대감이 제기되면서 투자 심리가 개선된 것으로 관측된다. 이날 오전 11시 32분 기준 태영건설우는 전거래일 대비 29.98% 급등한 3750원을 기록중이다. 같은 시간 티와이홀딩스우 역시 전거래일 대비 29",
+            "twitter:creator": "김호성 기자",
+            "twitter:image": "https://cdn.econovill.com/news/thumbnail/202401/640793_584686_4421_v150.jpg",
+            "article:section1": "증권",
+            "twitter:site": "https://www.econovill.com/news/articleView.html?idxno=640793",
+            "naver-site-verification": "f04dbbb617a320de97a2fcfe26a158121b3b5ec6",
+            "news_keywords": "이코노믹리뷰,김호성,한국투자증권,부동산,유가",
+            "og:article:author": "김호성 기자",
+            "og:type": "article",
+            "twitter:title": "[특징주] \"현금화 가능 자산 1.6조 이상\"...태영건설·티와이홀딩스 우선주, 나란히 上",
+            "article:section": "금융·증권",
+            "dable:item_id": "640793",
+            "og:title": "[특징주] \"현금화 가능 자산 1.6조 이상\"...태영건설·티와이홀딩스 우선주, 나란히 上",
+            "classification": "금융·증권 > 증권",
+            "dable:author": "김호성 기자",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "태영건설우선주(태영건설우)와 모회사 티와이홀딩스우선주(티와이홀딩스우)가 2일 유가증권(코스피) 시장에서 나란히 상한가를 기록중이다.태영건설의 기업개선작업(워크아웃) 신청으로 자금 시장의 경색 우려가 제기되지만, 태영그룹의 현금화 가능 자산이 1조6000억원을 넘어서는데다 총선 이전에 태영건설의 워크아웃 작업이 마무리될 것이라는 기대감이 제기되면서 투자 심리가 개선된 것으로 관측된다. 이날 오전 11시 32분 기준 태영건설우는 전거래일 대비 29.98% 급등한 3750원을 기록중이다. 같은 시간 티와이홀딩스우 역시 전거래일 대비 29",
+            "og:url": "https://www.econovill.com/news/articleView.html?idxno=640793"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.econovill.com/news/thumbnail/202401/640793_584686_4421_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 티와이홀딩스우, 계열사 매각 소식에 상한가",
+      "htmlTitle": "[특징주] <b>티와이홀딩스</b>우, 계열사 매각 소식에 <b>상한가</b>",
+      "link": "http://www.goodkyung.com/news/articleView.html?idxno=223529",
+      "displayLink": "www.goodkyung.com",
+      "snippet": "Dec 7, 2023 ... 티와이홀딩스우가 계열사 태영인더스트리 매각 소식이 알려진 오전장 상한가를 달성했다.7일 오전 9시43분 티와이홀딩스우는 전 거래일 대비 ...",
+      "htmlSnippet": "Dec 7, 2023 <b>...</b> <b>티와이홀딩스</b>우가 계열사 태영인더스트리 매각 소식이 알려진 오전장 <b>상한가</b>를 달성했다.7일 오전 9시43분 <b>티와이홀딩스</b>우는 전 거래일 대비&nbsp;...",
+      "cacheId": "C66L54IZ7GwJ",
+      "formattedUrl": "http://www.goodkyung.com/news/articleView.html?idxno=223529",
+      "htmlFormattedUrl": "http://www.goodkyung.com/news/articleView.html?idxno=223529",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsX9PGoxsWqhaLyZUKIUm6Wxv3HhseeRdJxLDJ4oyBtkXXv-LBu2D_FsLB",
+            "width": "227",
+            "height": "222"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.goodkyung.com/news/thumbnail/202312/223529_188778_4318_v150.jpg",
+            "theme-color": "#f47d20",
+            "copyright": "굿모닝경제 - 경제인의 나라, 경제인의 아침!",
+            "twitter:card": "summary",
+            "article:published_time": "2023-12-07T09:52:49+09:00",
+            "og:site_name": "굿모닝경제 - 경제인의 나라, 경제인의 아침!",
+            "title": "[특징주] 티와이홀딩스우, 계열사 매각 소식에 상한가",
+            "og:description": "티와이홀딩스우가 계열사 태영인더스트리 매각 소식이 알려진 오전장 상한가를 달성했다.7일 오전 9시43분 티와이홀딩스우는 전 거래일 대비 29.94%(3030원) 오른 1만3150원에 거래 중이다.주력 계열사인 태영건설의 유동성 위기 극복을 목표로 태영인더스트리를 매각함에 따라 지주사인 티와이홀딩스의 재무건전성 개선과 수혜를 기대한 투자자들이 몰린 결과로 풀이된다.지난 6일 글로벌 사모펀드 운용사 콜버그크래비스로버츠(KKR)가 태영그룹 내 물류 부문을 담당해온 태영인더스트리의 새 주인이 됐다. 매각 금액은 총액 2400억원 규모다.굿",
+            "twitter:creator": "방영석 기자",
+            "twitter:image": "https://cdn.goodkyung.com/news/thumbnail/202312/223529_188778_4318_v150.jpg",
+            "article:section1": "증권",
+            "twitter:site": "http://www.goodkyung.com/news/articleView.html?idxno=223529",
+            "naver-site-verification": "1370ffdfb394cc8b0044faa0f53cf93805b638d2",
+            "news_keywords": "특징주,티와이홀딩스우,상한가,상승세,강세,오름세,급등,태영건설,태영인더스트리,유동성,매각,KKR",
+            "og:article:author": "방영석 기자",
+            "og:type": "article",
+            "twitter:title": "[특징주] 티와이홀딩스우, 계열사 매각 소식에 상한가",
+            "article:section": "증권",
+            "dable:item_id": "223529",
+            "og:title": "[특징주] 티와이홀딩스우, 계열사 매각 소식에 상한가",
+            "classification": "증권 > 증권",
+            "movideo:news_key": "223529",
+            "dable:author": "방영석 기자",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "티와이홀딩스우가 계열사 태영인더스트리 매각 소식이 알려진 오전장 상한가를 달성했다.7일 오전 9시43분 티와이홀딩스우는 전 거래일 대비 29.94%(3030원) 오른 1만3150원에 거래 중이다.주력 계열사인 태영건설의 유동성 위기 극복을 목표로 태영인더스트리를 매각함에 따라 지주사인 티와이홀딩스의 재무건전성 개선과 수혜를 기대한 투자자들이 몰린 결과로 풀이된다.지난 6일 글로벌 사모펀드 운용사 콜버그크래비스로버츠(KKR)가 태영그룹 내 물류 부문을 담당해온 태영인더스트리의 새 주인이 됐다. 매각 금액은 총액 2400억원 규모다.굿",
+            "og:url": "http://www.goodkyung.com/news/articleView.html?idxno=223529"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.goodkyung.com/news/thumbnail/202312/223529_188778_4318_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "티와이홀딩스(A363280) | Snapshot | 기업정보 | Company Guide",
+      "htmlTitle": "<b>티와이홀딩스</b>(A363280) | Snapshot | 기업정보 | Company Guide",
+      "link": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?gicode=A363280",
+      "displayLink": "comp.fnguide.com",
+      "snippet": "기존 태영건설이 보유했던 SBS미디어홀딩스의 지분을 모두 가지며 SBS미디어홀딩스의 최대주주가 티와이홀딩스로 변경됨. 자회사의 사업현황은 방송사업, 환경사업 ...",
+      "htmlSnippet": "기존 태영건설이 보유했던 SBS미디어홀딩스의 지분을 모두 가지며 SBS미디어홀딩스의 최대주주가 <b>티와이홀딩스</b>로 변경됨. 자회사의 사업현황은 방송사업, 환경사업&nbsp;...",
+      "cacheId": "W3dWNiqvooIJ",
+      "formattedUrl": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?gicode=A363280",
+      "htmlFormattedUrl": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?gicode=A363280",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqON3Mdb0zGdO4l5BfkWUD9oMssn_0TEsfk2uri_sriEvM2ZCEOtDImDx",
+            "width": "220",
+            "height": "137"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.fnguide.com/SVO2/chartImg/01_01/S_A363280_1Y_02.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "태영건설 주가 장중 상한가, 3일 오후 열리는 채권단 설명회 기대감 반영",
+      "htmlTitle": "태영건설 주가 장중 <b>상한가</b>, 3일 오후 열리는 채권단 설명회 기대감 반영",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=338122",
+      "displayLink": "www.businesspost.co.kr",
+      "snippet": "8 days ago ... 태영그룹 관련주도 오름세다. 티와이홀딩스우(29.96%)가 상한가까지 올랐고 티와이홀딩스(21.21%) 주가는 20% 이상 상승했다. 그룹 계열사 SBS(4.75 ...",
+      "htmlSnippet": "8 days ago <b>...</b> 태영그룹 관련주도 오름세다. <b>티와이홀딩스</b>우(29.96%)가 <b>상한가</b>까지 올랐고 <b>티와이홀딩스</b>(21.21%) 주가는 20% 이상 상승했다. 그룹 계열사 SBS(4.75&nbsp;...",
+      "cacheId": "E5m2PojUlUkJ",
+      "formattedUrl": "https://www.businesspost.co.kr/BP?command=article_view&num...",
+      "htmlFormattedUrl": "https://www.businesspost.co.kr/BP?command=article_view&amp;num...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQz32XwroiTmagBmESP0G9Wz2cbq0EE4ykqLHU4fC-EKOdKSIxj7spxfO6_",
+            "width": "300",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.businesspost.co.kr/news/photo/202312/20231228141826_28724.jpg",
+            "copyright": "BUSINESSPOST, Inc",
+            "article:published_time": "2024-01-03T11:32:58+0900",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "태영건설 주가 장중 상한가, 3일 오후 열리는 채권단 설명회 기대감 반영",
+            "og:image:type": "image/jpeg",
+            "title": "태영건설 주가 장중 상한가, 3일 오후 열리는 채권단 설명회 기대감 반영",
+            "og:description": "[비즈니스포스트] 워크아웃(기업구조 개선작업)을 신청한 태영건설 주가가 장중 급등하고 있다. 3일 오후 채권단 설명회를 앞두고 자구안에 대한 기대감이 주가에 반영되고 있는 것으..",
+            "twitter:creator": "@Businesspost",
+            "article:publisher": "https://www.facebook.com/bizpost",
+            "twitter:site": "@Businesspost",
+            "news_keywords": "[비즈니스포스트] 워크아웃(기업구조 개선작업)을 신청한 태영건설 주가가 장중 급등하고 있다. 3일 오후 채권단 설명회를 앞두고 자구안에 대한 기대감이 주가에 반영되고 있는 것으.. 비즈니스포스트, BUSINESSPOST, 채널Who, 인물중심, 기업인, 프로파일, 경제미디어, 경제신문, 경제지, Who Is?",
+            "og:category": "stock",
+            "og:type": "article",
+            "article:section": "시장과머니-특징주",
+            "twitter:title": "태영건설 주가 장중 상한가, 3일 오후 열리는 채권단 설명회 기대감 반영",
+            "og:title": "태영건설 주가 장중 상한가, 3일 오후 열리는 채권단 설명회 기대감 반영",
+            "naverbot": "All",
+            "article:author": "정희경",
+            "twitter:image:src": "https://www.businesspost.co.kr/news/photo/202312/20231228141826_28724.jpg",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+            "twitter:description": "태영건설 주가 장중 상한가, 3일 오후 열리는 채권단 설명회 기대감 반영",
+            "yeti": "All",
+            "og:url": "https://m.businesspost.co.kr/BP?command=mobile_view&num=338122",
+            "aicon:item_id": "338122"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.businesspost.co.kr/news/photo/202312/20231228141826_28724.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[1207데이터분석] 티와이홀딩스, 한미사이언스 등 기술적 분석 특징주 ...",
+      "htmlTitle": "[1207데이터분석] <b>티와이홀딩스</b>, 한미사이언스 등 기술적 분석 특징주 ...",
+      "link": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=196245",
+      "displayLink": "www.infostockdaily.co.kr",
+      "snippet": "Dec 7, 2023 ... 최근 3개월 기준 첫 상한가를 기록한 종목은 티와이홀딩스(363280)다. 최근 10일 평균 거래량 대비 당일 거래량 급증 종목은 한농화성(011500), 한미 ...",
+      "htmlSnippet": "Dec 7, 2023 <b>...</b> 최근 3개월 기준 첫 <b>상한가</b>를 기록한 종목은 <b>티와이홀딩스</b>(363280)다. 최근 10일 평균 거래량 대비 당일 거래량 급증 종목은 한농화성(011500), 한미&nbsp;...",
+      "cacheId": "brnFtyqnHS4J",
+      "formattedUrl": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=196245",
+      "htmlFormattedUrl": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=196245",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDmvNHsrKSy0wrKTHfB9YgRzpl5QQBiZW3386X_HGZDBWB9bZc4i4h9hhx",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.infostockdaily.co.kr/news/thumbnail/202312/196245_186738_3737_v150.jpg",
+            "copyright": "인포스탁데일리",
+            "dd:availability": "true",
+            "twitter:card": "summary",
+            "article:published_time": "2023-12-07T10:51:23+09:00",
+            "og:site_name": "인포스탁데일리",
+            "dd:modified_time": "2023-12-07T10:49:51+09:00",
+            "title": "[1207데이터분석] 티와이홀딩스, 한미사이언스 등 기술적 분석 특징주",
+            "dd:published_time": "2023-12-07T10:31:51+09:00",
+            "og:description": "[인포스탁데일리=박상철 기자]▷오전장 기술적 분석 특징주(코스피)코스피 기술적 분석 특징주로 적출빈도가 높은 종목은 티와이홀딩스(363280), 한미사이언스(008930), 제주항공(089590), KEC(092220), 아시아나항공(020560), 한국전자홀딩스(006200), 아시아나IDT(267850), 이수화학(005950), 한미약품(128940), 동화약품(000020), 한농화성(011500), 대한유화(006650) 등이 있다.최근 3개월 기준 고점 돌파 종목은 한미약품(128940), 유유제약(000220), 한국전",
+            "twitter:creator": "박상철 기자",
+            "twitter:image": "http://www.infostockdaily.co.kr/news/thumbnail/202312/196245_186738_3737_v150.jpg",
+            "twitter:site": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=196245",
+            "naver-site-verification": "f9a1abf53bc044afc50a95a84240a1b42428f144",
+            "news_keywords": "티와이홀딩스,한미사이언스,제주항공,KEC,아시아나항공,한국전자홀딩스,아시아나IDT,이수화학,한미약품,동화약품,한농화성,대한유화,나이벡,나라엠앤디,이노와이어리스,싸이토젠,폴라리스세원,원익머트리얼즈,파멥신,신성델타테크,HK이노엔",
+            "og:article:author": "박상철 기자",
+            "dd:publisher": "인포스탁데일리",
+            "og:type": "article",
+            "twitter:title": "[1207데이터분석] 티와이홀딩스, 한미사이언스 등 기술적 분석 특징주",
+            "article:section": "국내주식",
+            "dable:item_id": "196245",
+            "og:title": "[1207데이터분석] 티와이홀딩스, 한미사이언스 등 기술적 분석 특징주",
+            "classification": "국내주식",
+            "dd:category": "S1N17",
+            "dable:author": "박상철 기자",
+            "dd:content_id": "196245",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "[인포스탁데일리=박상철 기자]▷오전장 기술적 분석 특징주(코스피)코스피 기술적 분석 특징주로 적출빈도가 높은 종목은 티와이홀딩스(363280), 한미사이언스(008930), 제주항공(089590), KEC(092220), 아시아나항공(020560), 한국전자홀딩스(006200), 아시아나IDT(267850), 이수화학(005950), 한미약품(128940), 동화약품(000020), 한농화성(011500), 대한유화(006650) 등이 있다.최근 3개월 기준 고점 돌파 종목은 한미약품(128940), 유유제약(000220), 한국전",
+            "og:url": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=196245"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.infostockdaily.co.kr/news/thumbnail/202312/196245_186738_3737_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[주식마감기사] 자회사 인사 소식에 티와이홀딩스 상한가... 아시아나 ...",
+      "htmlTitle": "[주식마감기사] 자회사 인사 소식에 <b>티와이홀딩스 상한가</b>... 아시아나 ...",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1005447",
+      "displayLink": "www.ggilbo.com",
+      "snippet": "Dec 7, 2023 ... PMC-403은 TIE2를 활성화하는 혈관정상화 기전 후보 물질이다. 현재 국내 임상1상을 진행중으로 황반변성 환자들에게 기대감을 주고 있다. TIE2활성화는 ...",
+      "htmlSnippet": "Dec 7, 2023 <b>...</b> PMC-403은 TIE2를 활성화하는 혈관정상화 기전 후보 물질이다. 현재 국내 임상1상을 진행중으로 황반변성 환자들에게 기대감을 주고 있다. TIE2활성화는&nbsp;...",
+      "cacheId": "wbMa926yedIJ",
+      "formattedUrl": "https://www.ggilbo.com/news/articleView.html?idxno=1005447",
+      "htmlFormattedUrl": "https://www.ggilbo.com/news/articleView.html?idxno=1005447",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT06b3dU_u7Q6bltulWB8SYQ3xW2pka1ZdYipGHZozVbOvMTfOFJLwOSmw",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.ggilbo.com/news/photo/202312/1005447_843418_3031.jpg",
+            "theme-color": "#1c5b9b",
+            "copyright": "금강일보",
+            "twitter:card": "summary",
+            "article:published_time": "2023-12-07T19:25:00+09:00",
+            "og:site_name": "금강일보",
+            "title": "[주식마감기사] 자회사 인사 소식에 티와이홀딩스 상한가... 아시아나IDT, 유유제약1우, 티와이홀딩스우, 유유제약2우B, CJ씨푸드1우, 와이바이오로직스, 나이벡, 파멥신 등 급등",
+            "og:description": "7일 티와이홀딩스, 아시아나IDT, 유유제약1우, 티와이홀딩스우, 유유제약2우B, CJ씨푸드1우, 와이바이오로직스, 나이벡, 파멥신가 상한가에 이름을 올리고 장을 마감한 가운데 투자자들의 관심이 뜨겁다.이날 코스피 시장에선 티와이홀딩스, 아시아나IDT, 유유제약1우, 티와이홀딩스우, 유유제약2우B, CJ씨푸드1우가 상한가에 이름을 올렸다.티와이홀딩스는 전 거래일 대비 29.98%(1520원) 오른 6590원에 장을 마감했다.태영그룹 지주회사인 티와이홀딩스는 최금락(사진) 전 법무법인 광장 고문을 신임 부회장으로 선임하고, 오동헌 전",
+            "twitter:creator": "이우성 기자",
+            "twitter:image": "https://cdn.ggilbo.com/news/photo/202312/1005447_843418_3031.jpg",
+            "article:section1": "경제일반",
+            "twitter:site": "https://www.ggilbo.com/news/articleView.html?idxno=1005447",
+            "naver-site-verification": "095dd182d4d892b3c674e50be3e421c698ef7ecb",
+            "og:article:author": "이우성 기자",
+            "og:type": "article",
+            "twitter:title": "[주식마감기사] 자회사 인사 소식에 티와이홀딩스 상한가... 아시아나IDT, 유유제약1우, 티와이홀딩스우, 유유제약2우B, CJ씨푸드1우, 와이바이오로직스, 나이벡, 파멥신 등 급등",
+            "article:section": "경제",
+            "dable:item_id": "1005447",
+            "og:title": "[주식마감기사] 자회사 인사 소식에 티와이홀딩스 상한가... 아시아나IDT, 유유제약1우, 티와이홀딩스우, 유유제약2우B, CJ씨푸드1우, 와이바이오로직스, 나이벡, 파멥신 등 급등",
+            "classification": "경제 > 경제일반",
+            "movideo:news_key": "1005447",
+            "dable:author": "이우성 기자",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "7일 티와이홀딩스, 아시아나IDT, 유유제약1우, 티와이홀딩스우, 유유제약2우B, CJ씨푸드1우, 와이바이오로직스, 나이벡, 파멥신가 상한가에 이름을 올리고 장을 마감한 가운데 투자자들의 관심이 뜨겁다.이날 코스피 시장에선 티와이홀딩스, 아시아나IDT, 유유제약1우, 티와이홀딩스우, 유유제약2우B, CJ씨푸드1우가 상한가에 이름을 올렸다.티와이홀딩스는 전 거래일 대비 29.98%(1520원) 오른 6590원에 장을 마감했다.태영그룹 지주회사인 티와이홀딩스는 최금락(사진) 전 법무법인 광장 고문을 신임 부회장으로 선임하고, 오동헌 전",
+            "og:url": "https://www.ggilbo.com/news/articleView.html?idxno=1005447"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.ggilbo.com/news/photo/202312/1005447_843418_3031.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

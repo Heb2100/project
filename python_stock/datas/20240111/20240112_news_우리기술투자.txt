@@ -1,0 +1,589 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 우리기술투자 상한가",
+        "totalResults": "286000",
+        "searchTerms": "우리기술투자 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 우리기술투자 상한가",
+        "totalResults": "286000",
+        "searchTerms": "우리기술투자 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.177555,
+    "formattedSearchTime": "0.18",
+    "totalResults": "286000",
+    "formattedTotalResults": "286,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "<코>우리기술투자, 상한가 진입.. +29.98%",
+      "htmlTitle": "&lt;코&gt;<b>우리기술투자</b>, <b>상한가</b> 진입.. +29.98%",
+      "link": "https://www.sedaily.com/NewsView/2D41JAKQKJ",
+      "displayLink": "www.sedaily.com",
+      "snippet": "23 hours ago ... 증권 > News봇 뉴스: 오전 9시 42분 현재 우리기술투자(041190)가 +29.98% 오른 8020원(△1850)으로 장중 상한가에 진입했다. 거래대금은 2315억5,...",
+      "htmlSnippet": "23 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 42분 현재 <b>우리기술투자</b>(041190)가 +29.98% 오른 8020원(△1850)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 2315억5,...",
+      "cacheId": "SWDbcAvITbgJ",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2D41JAKQKJ",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2D41JAKQKJ",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyy7VgtPIY1heBWkPm_buBjfgPBsz3dRksKDagMItwxU9JzQvbJ-LsGpc",
+            "width": "137",
+            "height": "63"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2024/01/11/2D41JAKQKJ_1.png",
+            "article:published_time": "2024-01-11T09:42:40+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2024-01-11T09:42:40+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>우리기술투자, 상한가 진입.. +29.98% ↑ | 서울경제",
+            "dd:published_time": "2024-01-11T09:42:40+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 42분 현재 우리기술투자(041190)가 +29.98% 오른 8,020원(▲1,850)으로 장중 상한가에 진입했다. 거래대금은 2,315억5,...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2024/01/11/2D41JAKQKJ_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2024-01-11T09:42:40+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2D41JAKQKJ/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>우리기술투자, 상한가 진입.. +29.98% ↑",
+            "dable:item_id": "2D41JAKQKJ",
+            "og:title": "<코>우리기술투자, 상한가 진입.. +29.98% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>우리기술투자, 상한가 진입.. +29.98% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2D41JAKQKJ",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 42분 현재 우리기술투자(041190)가 +29.98% 오른 8,020원(▲1,850)으로 장중 상한가에 진입했다. 거래대금은 2,315억5,...",
+            "ngh:id": "2D41JAKQKJ",
+            "dable:image": "https://newsimg.sedaily.com/2024/01/11/2D41JAKQKJ_1_m.png",
+            "ngh:title": "​<코>우리기술투자, 상한가 진입.. +29.98% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2D41JAKQKJ/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2024/01/11/2D41JAKQKJ_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 우리기술투자 상한가 직행…8000원 돌파",
+      "htmlTitle": "[특징주] <b>우리기술투자 상한가</b> 직행…8000원 돌파",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=676698",
+      "displayLink": "www.hansbiz.co.kr",
+      "snippet": "21 hours ago ... [한스경제=김정환 기자] 우리기술투자 주가가 상한가를 찍었다.11일 한국거래소에 따르면 우리기술투자는 이날 오전 10시 56분 기준, ...",
+      "htmlSnippet": "21 hours ago <b>...</b> [한스경제=김정환 기자] <b>우리기술투자</b> 주가가 <b>상한가</b>를 찍었다.11일 한국거래소에 따르면 <b>우리기술투자</b>는 이날 오전 10시 56분 기준,&nbsp;...",
+      "cacheId": "Wf3FOnf43A8J",
+      "formattedUrl": "http://www.hansbiz.co.kr/news/articleView.html?idxno=676698",
+      "htmlFormattedUrl": "http://www.hansbiz.co.kr/news/articleView.html?idxno=676698",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPy2YmS5EN8CaIk8fC_a1lEqA2IivEu6ktEqWclRZRqvvzjYPX2lsslP6-",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.hansbiz.co.kr/news/thumbnail/202401/676698_634831_428_v150.jpg",
+            "theme-color": "#21ac38",
+            "copyright": "한스경제",
+            "twitter:card": "summary",
+            "article:published_time": "2024-01-11T11:05:34+09:00",
+            "og:site_name": "한스경제",
+            "title": "[특징주] 우리기술투자 상한가 직행…8000원 돌파",
+            "og:description": "[한스경제=김정환 기자] 우리기술투자 주가가 상한가를 찍었다.11일 한국거래소에 따르면 우리기술투자는 이날 오전 10시 56분 기준, 전일대비 29.98%(1850원) 상승한 8020원에 거래됐다. 고가 8020원, 저가 7030원을 기록 중이다. 우리기술투자 주가는 지난 10일 하락마감했으나, 11일 반등해 8000원대 안착하는 등 고공행진 중이다. 우리기술투자 코스닥 시장 시가총액 102위 종목으로 11일 오전 10시 56분 기준 시가총액은 6737억 원이다. 우리기술투자 상장주식 수는 8400만 액면가는 주당 500원이다.한편",
+            "twitter:creator": "김정환 기자",
+            "twitter:image": "https://cdn.hansbiz.co.kr/news/thumbnail/202401/676698_634831_428_v150.jpg",
+            "article:section1": "사회 일반",
+            "article:section2": "트렌드 이슈",
+            "twitter:site": "http://www.hansbiz.co.kr/news/articleView.html?idxno=676698",
+            "naver-site-verification": "6c08576937ecc6af925bbd95216c52ffc929b147",
+            "news_keywords": "우리기술투자",
+            "og:article:author": "김정환 기자",
+            "og:type": "article",
+            "twitter:title": "[특징주] 우리기술투자 상한가 직행…8000원 돌파",
+            "article:section": "사회",
+            "msvalidate.01": "797F6DAF79A277DA666A665878F193C6",
+            "dable:item_id": "676698",
+            "og:title": "[특징주] 우리기술투자 상한가 직행…8000원 돌파",
+            "classification": "사회 > 사회 일반 > 트렌드 이슈",
+            "dable:author": "김정환 기자",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "[한스경제=김정환 기자] 우리기술투자 주가가 상한가를 찍었다.11일 한국거래소에 따르면 우리기술투자는 이날 오전 10시 56분 기준, 전일대비 29.98%(1850원) 상승한 8020원에 거래됐다. 고가 8020원, 저가 7030원을 기록 중이다. 우리기술투자 주가는 지난 10일 하락마감했으나, 11일 반등해 8000원대 안착하는 등 고공행진 중이다. 우리기술투자 코스닥 시장 시가총액 102위 종목으로 11일 오전 10시 56분 기준 시가총액은 6737억 원이다. 우리기술투자 상장주식 수는 8400만 액면가는 주당 500원이다.한편",
+            "og:url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=676698"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.hansbiz.co.kr/news/thumbnail/202401/676698_634831_428_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>우리기술투자, 상한가 진입.. +29.90%",
+      "htmlTitle": "&lt;코&gt;<b>우리기술투자</b>, <b>상한가</b> 진입.. +29.90%",
+      "link": "https://www.sedaily.com/NewsView/29YDQVBMWP",
+      "displayLink": "www.sedaily.com",
+      "snippet": "Dec 4, 2023 ... 증권 > News봇 뉴스: 오후 2시 27분 현재 우리기술투자(041190)가 +29.90% 오른 7430원(△1710)으로 장중 상한가에 진입했다. 거래대금은 1479억74...",
+      "htmlSnippet": "Dec 4, 2023 <b>...</b> 증권 &gt; News봇 뉴스: 오후 2시 27분 현재 <b>우리기술투자</b>(041190)가 +29.90% 오른 7430원(△1710)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 1479억74...",
+      "cacheId": "GzobvV_lOr8J",
+      "formattedUrl": "https://www.sedaily.com/NewsView/29YDQVBMWP",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/29YDQVBMWP",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ22s18Y1OzXZSI8jdeHQgcS3logodExHJzJG1k21ij_yvHLHPo4vmlD_8",
+            "width": "331",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2023/12/04/29YDQVBMWP_1.png",
+            "article:published_time": "2023-12-04T14:27:02+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2023-12-04T14:27:02+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>우리기술투자, 상한가 진입.. +29.90% ↑ | 서울경제",
+            "dd:published_time": "2023-12-04T14:27:02+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 2시 27분 현재 우리기술투자(041190)가 +29.90% 오른 7,430원(▲1,710)으로 장중 상한가에 진입했다. 거래대금은 1,479억74...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2023/12/04/29YDQVBMWP_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2023-12-04T14:27:02+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/29YDQVBMWP/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>우리기술투자, 상한가 진입.. +29.90% ↑",
+            "dable:item_id": "29YDQVBMWP",
+            "og:title": "<코>우리기술투자, 상한가 진입.. +29.90% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>우리기술투자, 상한가 진입.. +29.90% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "29YDQVBMWP",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 2시 27분 현재 우리기술투자(041190)가 +29.90% 오른 7,430원(▲1,710)으로 장중 상한가에 진입했다. 거래대금은 1,479억74...",
+            "ngh:id": "29YDQVBMWP",
+            "dable:image": "https://newsimg.sedaily.com/2023/12/04/29YDQVBMWP_1_m.png",
+            "ngh:title": "​<코>우리기술투자, 상한가 진입.. +29.90% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/29YDQVBMWP/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/12/04/29YDQVBMWP_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[신고가 한 줄 분석] 한화투자증권, 우리기술투자, 이월드, 카카오뱅크 ...",
+      "htmlTitle": "[신고가 한 줄 분석] 한화투자증권, <b>우리기술투자</b>, 이월드, 카카오뱅크 ...",
+      "link": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=196940",
+      "displayLink": "www.infostockdaily.co.kr",
+      "snippet": "16 hours ago ... ... 상한가 마감했다. / 4400원□ 우리기술투자(041190)(+29.98%) - 창투사 테마 상승 및 美 증권거래위원회(SEC), 비트코인 현물 ETF 11개 승인 소식 ...",
+      "htmlSnippet": "16 hours ago <b>...</b> ... <b>상한가</b> 마감했다. / 4400원□ <b>우리기술투자</b>(041190)(+29.98%) - 창투사 테마 상승 및 美 증권거래위원회(SEC), 비트코인 현물 ETF 11개 승인 소식&nbsp;...",
+      "cacheId": "hZ0qc3n26y8J",
+      "formattedUrl": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=196940",
+      "htmlFormattedUrl": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=196940",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT74L7KGInq14XTbP9d4hFeu4SlJnpqpeP7wM3CB-Cv_pvr5dqyuGXpmrw",
+            "width": "276",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.infostockdaily.co.kr/news/thumbnail/202401/196940_187975_1818_v150.jpg",
+            "copyright": "인포스탁데일리",
+            "dd:availability": "true",
+            "twitter:card": "summary",
+            "article:published_time": "2024-01-11T16:18:24+09:00",
+            "og:site_name": "인포스탁데일리",
+            "dd:modified_time": "2024-01-11T16:18:24+09:00",
+            "title": "[신고가 한 줄 분석] 한화투자증권, 우리기술투자, 이월드, 카카오뱅크, 팅크웨어 등",
+            "dd:published_time": "2024-01-11T16:14:06+09:00",
+            "og:description": "[인포스탁데일리=박상철 기자]■ 한화투자증권(003530)(+29.99%) - 일부 창투사/토스(toss) 테마 상승 및 美 증권거래위원회(SEC), 비트코인 현물 ETF 11개 승인 소식 등에 나무(Dunamu) 테마 상승 영향에 상한가 마감했다. / 4,400원■ 우리기술투자(041190)(+29.98%) - 창투사 테마 상승 및 美 증권거래위원회(SEC), 비트코인 현물 ETF 11개 승인 소식 등에 두나무(Dunamu)/STO(토큰증권 발행)/가상화폐(비트코인 등) 테마 상승 영향에 상한가 마감했다. / 8,020원■ 이월드",
+            "twitter:creator": "박상철 기자",
+            "twitter:image": "http://www.infostockdaily.co.kr/news/thumbnail/202401/196940_187975_1818_v150.jpg",
+            "twitter:site": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=196940",
+            "naver-site-verification": "f9a1abf53bc044afc50a95a84240a1b42428f144",
+            "news_keywords": "한화투자증권,우리기술투자,이월드,카카오뱅크,팅크웨어,세종텔레콤,롯데정보통신,이랜시스,에이치시티,아세아제지,아주IB투자,큐알티,한진칼,폴라리스오피스",
+            "og:article:author": "박상철 기자",
+            "dd:publisher": "인포스탁데일리",
+            "og:type": "article",
+            "twitter:title": "[신고가 한 줄 분석] 한화투자증권, 우리기술투자, 이월드, 카카오뱅크, 팅크웨어 등",
+            "article:section": "국내주식",
+            "dable:item_id": "196940",
+            "og:title": "[신고가 한 줄 분석] 한화투자증권, 우리기술투자, 이월드, 카카오뱅크, 팅크웨어 등",
+            "classification": "국내주식",
+            "dd:category": "S1N17",
+            "dable:author": "박상철 기자",
+            "dd:content_id": "196940",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "[인포스탁데일리=박상철 기자]■ 한화투자증권(003530)(+29.99%) - 일부 창투사/토스(toss) 테마 상승 및 美 증권거래위원회(SEC), 비트코인 현물 ETF 11개 승인 소식 등에 나무(Dunamu) 테마 상승 영향에 상한가 마감했다. / 4,400원■ 우리기술투자(041190)(+29.98%) - 창투사 테마 상승 및 美 증권거래위원회(SEC), 비트코인 현물 ETF 11개 승인 소식 등에 두나무(Dunamu)/STO(토큰증권 발행)/가상화폐(비트코인 등) 테마 상승 영향에 상한가 마감했다. / 8,020원■ 이월드",
+            "og:url": "http://www.infostockdaily.co.kr/news/articleView.html?idxno=196940"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.infostockdaily.co.kr/news/thumbnail/202401/196940_187975_1818_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 한화투자증권·우리기술투자, 美 비트코인 ETF 상장에 상한가 ...",
+      "htmlTitle": "[특징주] 한화투자증권·<b>우리기술투자</b>, 美 비트코인 ETF 상장에 <b>상한가</b> ...",
+      "link": "https://www.ajunews.com/view/20240111103439644",
+      "displayLink": "www.ajunews.com",
+      "snippet": "22 hours ago ... 한화투자증권과 우리기술투자는 모두 국내 최대 암호화폐 거래소 '업비트'를 운영하는 두나무의 지분을 보유 중이다. 이들 주가의 상승세는 주식처럼 비트 ...",
+      "htmlSnippet": "22 hours ago <b>...</b> 한화투자증권과 <b>우리기술투자</b>는 모두 국내 최대 암호화폐 거래소 &#39;업비트&#39;를 운영하는 두나무의 지분을 보유 중이다. 이들 주가의 상승세는 주식처럼 비트&nbsp;...",
+      "cacheId": "wcqmMdTN-VIJ",
+      "formattedUrl": "https://www.ajunews.com/view/20240111103439644",
+      "htmlFormattedUrl": "https://www.ajunews.com/view/20240111103439644",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyzyw-HFBzOEUgmUyj8aYjBm69CfAkTfYImtAARr2Q1RvHGNVDIumMhco",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://image.ajunews.com/content/image/2024/01/11/20240111103512781698.jpg",
+            "theme-color": "#ffffff",
+            "og:image:width": "640",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-11T10:35:44+09:00",
+            "og:site_name": "아주경제",
+            "twitter:url": "https://m.ajunews.com/view/20240111103439644",
+            "apple-mobile-web-app-title": "아주경제",
+            "og:app_id": "401637503340162",
+            "title": "[특징주] 한화투자증권·우리기술투자, 美 비트코인 ETF 상장에 상한가 | 아주경제",
+            "og:description": "미국 증권거래위원회(SEC)가 상장을 승인한 비트코인 현물 상장지수펀드(ETF)의 거래가 예고되자 국내 증시에서 관련주들이 상한가에 거래되고 있다.11일 오전 10시 30분 현재 코스피 상장사 한화투자증권과 코스닥 상장사 우리기술투자 주가가 거래 상한선에 닿았다. 이날...",
+            "naver-site-verification": "e3f6d6ee1d3420028d7208b9fadc524d458b3f81",
+            "news_keywords": "비트코인,한화투자증권,우리기술투자,두나무",
+            "og:type": "article",
+            "twitter:title": "[특징주] 한화투자증권·우리기술투자, 美 비트코인 ETF 상장에 상한가 | 아주경제",
+            "ajunews:uppercategory": "0106000000000000",
+            "article:section": "시황",
+            "dable:item_id": "20240111103439644",
+            "og:title": "[특징주] 한화투자증권·우리기술투자, 美 비트코인 ETF 상장에 상한가 | 아주경제",
+            "og:image:height": "426",
+            "ajunews:category": "0106005000000000",
+            "inmobi-site-verification": "86fa9283db3e056e80253dfd631c8ef",
+            "og:updated_time": "2024-01-11 10:35:44",
+            "article:author": "임민철",
+            "twitter:image:src": "https://image.ajunews.com/content/image/2024/01/11/20240111103512781698.jpg",
+            "referrer": "strict-origin-when-cross-origin",
+            "apple-mobile-web-app-status-bar-style": "black-translucent",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "미국 증권거래위원회(SEC)가 상장을 승인한 비트코인 현물 상장지수펀드(ETF)의 거래가 예고되자 국내 증시에서 관련주들이 상한가에 거래되고 있다.11일 오전 10시 30분 현재 코스피 상장사 한화투자증권과 코스닥 상장사 우리기술투자 주가가 거래 상한선에 닿았다. 이날...",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "ko_KR",
+            "og:url": "https://m.ajunews.com/view/20240111103439644",
+            "aicon:item_id": "20240111103439644"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image.ajunews.com/content/image/2024/01/11/20240111103512781698.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "美 비트코인 ETF 승인에 관련주 환호…우리기술투자 上 | 한국경제",
+      "htmlTitle": "美 비트코인 ETF 승인에 관련주 환호…<b>우리기술투자</b> 上 | 한국경제",
+      "link": "https://www.hankyung.com/article/2024011180796",
+      "displayLink": "www.hankyung.com",
+      "snippet": "17 hours ago ... 美, 비트코인 현물 ETF 11개 승인 우리기술투자·한화투자증권·위지트 상한가 \"주식처럼 쉽게 사고팔아 접근성 높아질 것\".",
+      "htmlSnippet": "17 hours ago <b>...</b> 美, 비트코인 현물 ETF 11개 승인 <b>우리기술투자</b>·한화투자증권·위지트 <b>상한가</b> &quot;주식처럼 쉽게 사고팔아 접근성 높아질 것&quot;.",
+      "cacheId": "ObMriDX0vVQJ",
+      "formattedUrl": "https://www.hankyung.com/article/2024011180796",
+      "htmlFormattedUrl": "https://www.hankyung.com/article/2024011180796",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI3VDkioGBcBnG42Cg0Bxb9M6ZEbqjdr9ZbShnW-hxc-qRgMTBRrCqqTs",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=406614875, app-argument=https://www.hankyung.com/article/2024011180796",
+            "og:image": "https://img.hankyung.com/photo/202401/ZA.35535213.1.jpg",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-01-11T15:49:53+09:00",
+            "og:site_name": "한국경제",
+            "title": "美 비트코인 ETF 승인에 관련주 '환호'…우리기술투자 '上' [종합]",
+            "og:description": "美 비트코인 ETF 승인에 관련주 '환호'…우리기술투자 '上' [종합], 美, 비트코인 현물 ETF 11개 승인 우리기술투자·한화투자증권·위지트 상한가 \"주식처럼 쉽게 사고팔아 접근성 높아질 것\"",
+            "”robots”": "”max-image-preview:large”",
+            "article:section2": "증권금융부동산",
+            "article:section3": "0111",
+            "twitter:site": "@hankyungmedia",
+            "article:published": "2024-01-11",
+            "og:type": "article",
+            "twitter:title": "美 비트코인 ETF 승인에 관련주 '환호'…우리기술투자 '上' [종합]",
+            "article:section": "특징주",
+            "dable:item_id": "2024011180796",
+            "og:title": "美 비트코인 ETF 승인에 관련주 '환호'…우리기술투자 '上' [종합]",
+            "og:image:height": "800",
+            "classification": "finance",
+            "twitter:image:src": "https://img.hankyung.com/photo/202401/ZA.35535213.1.jpg",
+            "fb:app_id": "872625546175034",
+            "dable:author": "노정동",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+            "twitter:description": "美 비트코인 ETF 승인에 관련주 '환호'…우리기술투자 '上' [종합], 美, 비트코인 현물 ETF 11개 승인 우리기술투자·한화투자증권·위지트 상한가 \"주식처럼 쉽게 사고팔아 접근성 높아질 것\"",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.hankyung.com/article/2024011180796"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.hankyung.com/photo/202401/ZA.35535213.1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 비트코인도 연말 랠리가나... 우리기술투자 '상한가'",
+      "htmlTitle": "[특징주] 비트코인도 연말 랠리가나... <b>우리기술투자</b> &#39;<b>상한가</b>&#39;",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=636945",
+      "displayLink": "www.econovill.com",
+      "snippet": "Dec 4, 2023 ... 비트코인 5000만원 돌파 소식에 관련주인 우리기술투자가 상한가를 기록 중이다. 4일 우리기술투자는 오후 3시 기준 전 거래일 대비 29.9% 상승한 ...",
+      "htmlSnippet": "Dec 4, 2023 <b>...</b> 비트코인 5000만원 돌파 소식에 관련주인 <b>우리기술투자</b>가 <b>상한가</b>를 기록 중이다. 4일 <b>우리기술투자</b>는 오후 3시 기준 전 거래일 대비 29.9% 상승한&nbsp;...",
+      "cacheId": "PO8lU4VDfE8J",
+      "formattedUrl": "https://www.econovill.com/news/articleView.html?idxno=636945",
+      "htmlFormattedUrl": "https://www.econovill.com/news/articleView.html?idxno=636945",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5Sxqydch_kwJdkG4MlinpLMsBtyoTx6GutP8kS0SFILGbz6kIts9XhNI",
+            "width": "300",
+            "height": "122"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.econovill.com/news/thumbnail/202312/636945_580594_1059_v150.jpg",
+            "theme-color": "#ff7c00",
+            "copyright": "이코노믹리뷰",
+            "twitter:card": "summary",
+            "article:published_time": "2023-12-04T15:12:47+09:00",
+            "og:site_name": "이코노믹리뷰",
+            "title": "[특징주] 비트코인도 연말 랠리가나... 우리기술투자 ‘상한가’",
+            "og:description": "비트코인 5000만원 돌파 소식에 관련주인 우리기술투자가 상한가를 기록 중이다. 4일 우리기술투자는 오후 3시 기준 전 거래일 대비 29.9% 상승한 7430원에 거래되고 있다. 미국에서 비트코인 현물 상장지수펀드(ETF)가 승인될 것이란 기대감에 비트코인은 5000만원을 넘어 5500만원대에 거래 중이다. 최근 미국 자산운용사 10여 곳이 비트코인 현물 ETF 상장을 미국 증권거래위원회(SEC)에 신청하면서 이르면 내년 초 비트코인 현물 ETF가 상장할 것이라는 전망이 나온다. 일각에서는 미국의 금리 인하 기조와 맞물려 4만달러",
+            "twitter:creator": "진운용 기자",
+            "twitter:image": "https://cdn.econovill.com/news/thumbnail/202312/636945_580594_1059_v150.jpg",
+            "article:section1": "증권",
+            "twitter:site": "https://www.econovill.com/news/articleView.html?idxno=636945",
+            "naver-site-verification": "f04dbbb617a320de97a2fcfe26a158121b3b5ec6",
+            "news_keywords": "이코노믹리뷰,진운용, 미국",
+            "og:article:author": "진운용 기자",
+            "og:type": "article",
+            "twitter:title": "[특징주] 비트코인도 연말 랠리가나... 우리기술투자 ‘상한가’",
+            "article:section": "금융/증권",
+            "dable:item_id": "636945",
+            "og:title": "[특징주] 비트코인도 연말 랠리가나... 우리기술투자 ‘상한가’",
+            "classification": "금융/증권 > 증권",
+            "dable:author": "진운용 기자",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "비트코인 5000만원 돌파 소식에 관련주인 우리기술투자가 상한가를 기록 중이다. 4일 우리기술투자는 오후 3시 기준 전 거래일 대비 29.9% 상승한 7430원에 거래되고 있다. 미국에서 비트코인 현물 상장지수펀드(ETF)가 승인될 것이란 기대감에 비트코인은 5000만원을 넘어 5500만원대에 거래 중이다. 최근 미국 자산운용사 10여 곳이 비트코인 현물 ETF 상장을 미국 증권거래위원회(SEC)에 신청하면서 이르면 내년 초 비트코인 현물 ETF가 상장할 것이라는 전망이 나온다. 일각에서는 미국의 금리 인하 기조와 맞물려 4만달러",
+            "og:url": "https://www.econovill.com/news/articleView.html?idxno=636945"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.econovill.com/news/thumbnail/202312/636945_580594_1059_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "우리기술투자 | 한국경제",
+      "htmlTitle": "<b>우리기술투자</b> | 한국경제",
+      "link": "https://markets.hankyung.com/stock/041190",
+      "displayLink": "markets.hankyung.com",
+      "snippet": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 상한가. 2024.01.11 06:27 ; 美 비트코인 ETF 승인에 관련주 '환호'…우리기술투자 '上' [종합]. 2024.01.11 03:49.",
+      "htmlSnippet": "암호화폐 관련주 일제히 급등…한화투자증권·위지트 등 <b>상한가</b>. 2024.01.11 06:27 ; 美 비트코인 ETF 승인에 관련주 &#39;환호&#39;…<b>우리기술투자</b> &#39;上&#39; [종합]. 2024.01.11 03:49.",
+      "cacheId": "suE770OR-wUJ",
+      "formattedUrl": "https://markets.hankyung.com/stock/041190",
+      "htmlFormattedUrl": "https://markets.hankyung.com/stock/041190",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzKfK9dGU9uBGDyLzss-vsGbxv2x3N7zbQlrGf0sS2FbkCtX5qYLP9er47",
+            "width": "284",
+            "height": "177"
+          }
+        ],
+        "metatags": [
+          {
+            "naver-site-verification": "d15c9d23f7cab90cc75356e5f40a99714fd514b6",
+            "viewport": "width=device-width, initial-scale=1",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.hankyung.com/photo/202401/AA.35543454.3.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "갤럭시아에스엠(011420) 상한가, 케이옥션 +21.70%, 우리기술투자 + ...",
+      "htmlTitle": "갤럭시아에스엠(011420) <b>상한가</b>, 케이옥션 +21.70%, <b>우리기술투자</b> + ...",
+      "link": "https://stock.mk.co.kr/news/view/300971",
+      "displayLink": "stock.mk.co.kr",
+      "snippet": "Dec 4, 2023 ... 갤럭시아에스엠(011420) 상한가, 케이옥션 +21.70%, 우리기술투자 +17.13%, 갤럭시아머니트리 +16.36%, 서울옥션 +14.10% ... STO(증권형 토큰 발행, ...",
+      "htmlSnippet": "Dec 4, 2023 <b>...</b> 갤럭시아에스엠(011420) <b>상한가</b>, 케이옥션 +21.70%, <b>우리기술투자</b> +17.13%, 갤럭시아머니트리 +16.36%, 서울옥션 +14.10% ... STO(증권형 토큰 발행,&nbsp;...",
+      "cacheId": "NyV2GSuOXdAJ",
+      "formattedUrl": "https://stock.mk.co.kr/news/view/300971",
+      "htmlFormattedUrl": "https://stock.mk.co.kr/news/view/300971",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNR2YGEW5fXml9tvJNQMMHQUSLgEs8M2GYstwxSsPavhPWwDLg5sfr3qRA",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://stock.mk.co.kr/images/default.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "갤럭시아에스엠(011420)  상한가, 케이옥션 +21.70%, 우리기술투자 +17.13%, 갤럭시아머니트리 +16.36%, 서울옥션 +14.10%",
+            "supported-color-schemes": "light",
+            "og:title": "갤럭시아에스엠(011420)  상한가, 케이옥션 +21.70%, 우리기술투자 +17.13%, 갤럭시아머니트리 +16.36%, 서울옥션 +14.10%",
+            "color-scheme": "light only",
+            "og:description": "제목 : 갤럭시아에스엠(011420)...",
+            "twitter:image": "https://stock.mk.co.kr/images/default.jpg",
+            "naver-site-verification": "7522a37599a270a379bf95c46d59aba6b962d29d",
+            "twitter:site": "@mk_sokbo",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+            "twitter:description": "제목 : 갤럭시아에스엠(011420)...",
+            "og:url": "https://stock.mk.co.kr/news/view/300971"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://stock.mk.co.kr/images/default.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "우리기술투자 주가 상한가 그 배경은? 가상화폐관련주 : 네이버 블로그",
+      "htmlTitle": "<b>우리기술투자</b> 주가 <b>상한가</b> 그 배경은? 가상화폐관련주 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=schollar&logNo=222120594782&categoryNo=18&proxyReferer=",
+      "displayLink": "m.blog.naver.com",
+      "snippet": "Oct 20, 2020 ... 우리기술투자 기업의 주가가 10월20일 상한가를 갔습니다. 지난주 BTS관련주 빅히트 엔터테인먼트 방상혁 CEO 주가가.",
+      "htmlSnippet": "Oct 20, 2020 <b>...</b> <b>우리기술투자</b> 기업의 주가가 10월20일 <b>상한가</b>를 갔습니다. 지난주 BTS관련주 빅히트 엔터테인먼트 방상혁 CEO 주가가.",
+      "cacheId": "0t7bxb4pGRsJ",
+      "formattedUrl": "https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true...",
+      "htmlFormattedUrl": "https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyMDEwMjBfMTAy/MDAxNjAzMTIzMTQ4Mjk0.N9y-kjq1PqttupFisQSmFbjKI-TUnov1nKPY7sMW1T4g.t6FZRjQQG1J5cjCD7qjH7OCrMm-bCQLT02Q_6s77hMUg.PNG.schollar/%BF%EC%B8%AE%B1%E2%BC%FA%C5%F5%C0%DA.png?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 건강한 투자, 경제적 자유를 위한 행복한 여정",
+            "og:title": "우리기술투자 주가 상한가 그 배경은? 가상화폐관련주",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMzA3MzFfMjY4/MDAxNjkwNzc0MDIzOTM1.K5L1DH2AzdL4dhqt9us34w9X2rk6RRheirkpIgdFxtQg.2B6zxIveasq3Xcqi46cFx2XsEKMkxPZiFWAtiKUFBDIg.JPEG.schollar/profileImage.jpg?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033B76B4D5E,service=blog,collection=blog",
+            "og:description": "안녕세요~ 건강한투자를 추구하고, 경제적 자유를 꿈꾸는 부반입니다. 부에~반하다 우리기술투자 기업의 주...",
+            "referrer": "always",
+            "naverblog:nickname": "부반",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/schollar/222120594782",
+            "og:article:author": "건강한 투.. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogthumb.pstatic.net/MjAyMDEwMjBfMTAy/MDAxNjAzMTIzMTQ4Mjk0.N9y-kjq1PqttupFisQSmFbjKI-TUnov1nKPY7sMW1T4g.t6FZRjQQG1J5cjCD7qjH7OCrMm-bCQLT02Q_6s77hMUg.PNG.schollar/%BF%EC%B8%AE%B1%E2%BC%FA%C5%F5%C0%DA.png?type=w2"
+          }
+        ]
+      }
+    }
+  ]
+}
