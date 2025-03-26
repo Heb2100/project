@@ -34,10 +34,12 @@
     <h2 style="font-size: 20px; font-weight: bold;">3. 기술 스택</h2>
     <p style="font-size: 18px;">이 프로젝트에서 사용한 기술들</p>
     <ul style="font-size: 16px; list-style-position: inside; text-align: left; display: inline-block; text-align: left;">
-        <li><b>프로그래밍 언어</b>: Python</li>
-        <li><b>웹 스크래핑</b>: Google Custom Search API, BeautifulSoup, Selenium</li>
-        <li><b>데이터 처리</b>: Pandas</li>
+        <li><b>프로그래밍 언어</b>: Python(Fastapi)</li>
+        <li><b>웹 스크래핑</b>: Google Custom Search API, BeautifulSoup4, Selenium, yfinance</li>
+        <li><b>데이터 처리</b>: Pandas, plotly</li>
         <li><b>데이터 저장</b>: CSV, SQLite</li>
+        <li><b>외부 알림 서비스</b>: tek</li>
+        <li><b>로그인 처리</b>: passlib, CryptoContext</li>
         <li><b>배포 환경</b>: AWS Lambda (자동 실행)</li>
     </ul>
 </div>
