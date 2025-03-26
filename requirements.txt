@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+jinja2
+plotly
+pandas
+yfinance
+requests
+python-multipart
+python-jose[cryptography]
+authlib
+httpx
+sqlalchemy
+databases[sqlite]
+aiosqlite
+itsdangerous 

@@ -50,20 +50,29 @@
 
         .tab-container {
             margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+            align-items: center;
         }
 
-        .tab-button {
-            padding: 10px 20px;
-            font-size: 16px;
+        .crypto-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .crypto-button {
+            padding: 8px 16px;
+            font-size: 14px;
             cursor: pointer;
             background-color: #f0f0f0;
             border: none;
-            border-radius: 5px;
-            margin-right: 5px;
-            transition: background-color 0.3s;
+            border-radius: 20px;
+            color: #333;
+            transition: all 0.3s;
         }
 
-        .tab-button.active {
+        .crypto-button.active {
             background-color: #4CAF50;
             color: white;
         }
@@ -81,70 +90,139 @@
             margin: 10px 0;
         }
 
-        .crypto-item {
+        .chart-section {
+            margin-bottom: 20px;
+        }
+
+        .indicator-section {
+            margin-top: 20px;
+            display: flex;
+            justify-content: flex-start;
+        }
+
+        .indicator-toggle {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background-color: #f8f9fa;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            width: fit-content;
+        }
+
+        .indicator-toggle:hover {
+            background-color: #e9ecef;
+        }
+
+        .indicator-toggle.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .toggle-circle {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            border: 2px solid #666;
+            display: inline-block;
+            margin-right: 8px;
+        }
+
+        .active .toggle-circle {
+            background-color: white;
+            border-color: white;
+        }
+
+        .user-section {
+            position: absolute;
+            top: 20px;
+            right: 20px;
             display: flex;
             align-items: center;
             gap: 10px;
-            margin-bottom: 10px;
         }
 
-        .toggle-switch {
-            position: relative;
-            display: inline-block;
-            width: 50px;
-            height: 24px;
+        .user-info {
+            color: #333;
+            font-size: 14px;
         }
 
-        .toggle-switch input {
-            opacity: 0;
-            width: 0;
-            height: 0;
-        }
-
-        .toggle-slider {
-            position: absolute;
+        .login-button, .logout-button {
+            padding: 8px 16px;
+            border-radius: 4px;
             cursor: pointer;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background-color: #ccc;
-            transition: .4s;
-            border-radius: 24px;
+            font-size: 14px;
+            text-decoration: none;
+            transition: background-color 0.3s;
         }
 
-        .toggle-slider:before {
-            position: absolute;
-            content: "";
-            height: 16px;
-            width: 16px;
-            left: 4px;
-            bottom: 4px;
-            background-color: white;
-            transition: .4s;
-            border-radius: 50%;
-        }
-
-        input:checked + .toggle-slider {
+        .login-button {
             background-color: #4CAF50;
+            color: white;
+            border: none;
         }
 
-        input:checked + .toggle-slider:before {
-            transform: translateX(26px);
+        .login-button:hover {
+            background-color: #45a049;
         }
 
-        .crypto-name {
-            font-weight: bold;
-            min-width: 100px;
+        .logout-button {
+            background-color: #f44336;
+            color: white;
+            border: none;
         }
 
-        .indicator-name {
-            color: #666;
-            font-size: 0.9em;
+        .logout-button:hover {
+            background-color: #da190b;
+        }
+
+        .alert-section {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+        }
+
+        .alert-section h2 {
+            font-size: 24px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .alert-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        #newsReportBtn, #athBtn, #goldenCrossBtn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+
+        #newsReportBtn:hover, #athBtn:hover, #goldenCrossBtn:hover {
+            background-color: #45a049;
         }
     </style>
 </head>
 <body>
+    <div class="user-section">
+        {% if user %}
+            <span class="user-info">Welcome, {{ user.username }}!</span>
+            <a href="/logout" class="logout-button">Logout</a>
+        {% else %}
+            <a href="/login" class="login-button">Login</a>
+        {% endif %}
+    </div>
+    
     <div class="sidebar">
         <div class="sidebar-category">
             <span class="sidebar-icon">✉️</span>
@@ -177,41 +255,29 @@
         </div>
     </div>
     <div class="main-content">
-        <div class="tab-container">
-            <div class="crypto-item">
-                <span class="crypto-name">Bitcoin</span>
-                <label class="toggle-switch">
-                    <input type="checkbox" id="bitcoin-toggle" checked>
-                    <span class="toggle-slider"></span>
-                </label>
-                <span class="indicator-name">Price</span>
-            </div>
-            <div class="crypto-item">
-                <span class="crypto-name">MVRV Z-Score</span>
-                <label class="toggle-switch">
-                    <input type="checkbox" id="mvrv-toggle">
-                    <span class="toggle-slider"></span>
-                </label>
-            </div>
-            <div class="crypto-item">
-                <span class="crypto-name">Ethereum</span>
-                <label class="toggle-switch">
-                    <input type="checkbox" id="ethereum-toggle">
-                    <span class="toggle-slider"></span>
-                </label>
-                <span class="indicator-name">Price</span>
-            </div>
-            <div class="crypto-item">
-                <span class="crypto-name">Ripple</span>
-                <label class="toggle-switch">
-                    <input type="checkbox" id="ripple-toggle">
-                    <span class="toggle-slider"></span>
-                </label>
-                <span class="indicator-name">Price</span>
+        <div class="crypto-buttons">
+            <button class="crypto-button active" id="bitcoin-toggle">bitcoin</button>
+            <button class="crypto-button" id="ethereum-toggle">ethereum</button>
+            <button class="crypto-button" id="ripple-toggle">ripple</button>
+        </div>
+        <div class="chart-section">
+            <div class="chart-container">
+                {{ chart | safe }}
             </div>
         </div>
-        <div class="chart-container">
-            {{ chart | safe }}
+        <div class="indicator-section">
+            <div class="indicator-toggle" id="mvrv-container">
+                <span class="toggle-circle"></span>
+                <span>MVRV Z-Score</span>
+            </div>
+        </div>
+        <div class="alert-section">
+            <h2 style="margin: 20px 0; color: #333;">Alert</h2>
+            <div class="alert-buttons">
+                <button class="crypto-button" id="newsReportBtn">News Report</button>
+                <button class="crypto-button" id="athBtn">All-time High</button>
+                <button class="crypto-button" id="goldenCrossBtn">Golden Cross</button>
+            </div>
         </div>
     </div>
 
@@ -220,37 +286,56 @@
             const toggles = {
                 bitcoin: document.getElementById('bitcoin-toggle'),
                 ethereum: document.getElementById('ethereum-toggle'),
-                ripple: document.getElementById('ripple-toggle'),
-                mvrv: document.getElementById('mvrv-toggle')
+                ripple: document.getElementById('ripple-toggle')
             };
+
+            const mvrvContainer = document.getElementById('mvrv-container');
+            let mvrvActive = false;
 
             function updateChart() {
                 const selectedCryptos = [];
-                if (toggles.bitcoin.checked) selectedCryptos.push('bitcoin');
-                if (toggles.ethereum.checked) selectedCryptos.push('ethereum');
-                if (toggles.ripple.checked) selectedCryptos.push('ripple');
+                Object.entries(toggles).forEach(([name, button]) => {
+                    if (button.classList.contains('active')) {
+                        selectedCryptos.push(name);
+                    }
+                });
 
-                const params = new URLSearchParams();
-                params.set('cryptos', selectedCryptos.join(','));
-                params.set('mvrv', toggles.mvrv.checked);
-
-                window.location.href = `/multi/${selectedCryptos.join(',')}?mvrv=${toggles.mvrv.checked}`;
+                window.location.href = `/multi/${selectedCryptos.join(',')}?mvrv=${mvrvActive}`;
             }
 
-            // Add event listeners to all toggles
-            Object.values(toggles).forEach(toggle => {
-                toggle.addEventListener('change', updateChart);
+            // Add click event listeners to crypto buttons
+            Object.values(toggles).forEach(button => {
+                button.addEventListener('click', function() {
+                    if (this.id === 'bitcoin-toggle') return; // Bitcoin은 항상 활성화
+                    this.classList.toggle('active');
+                    updateChart();
+                });
             });
 
-            // Set initial toggle states based on URL
+            // Add click event listener to MVRV toggle
+            mvrvContainer.addEventListener('click', function() {
+                mvrvActive = !mvrvActive;
+                this.classList.toggle('active');
+                updateChart();
+            });
+
+            // Set initial states based on URL
             const url = new URL(window.location.href);
             const cryptos = url.pathname.split('/multi/')[1]?.split(',') || ['bitcoin'];
             const showMVRV = url.searchParams.get('mvrv') === 'true';
 
-            cryptos.forEach(crypto => {
-                if (toggles[crypto]) toggles[crypto].checked = true;
+            Object.entries(toggles).forEach(([name, button]) => {
+                if (cryptos.includes(name)) {
+                    button.classList.add('active');
+                } else {
+                    button.classList.remove('active');
+                }
             });
-            toggles.mvrv.checked = showMVRV;
+
+            if (showMVRV) {
+                mvrvContainer.classList.add('active');
+                mvrvActive = true;
+            }
         });
     </script>
 </body>

@@ -2,9 +2,42 @@ import subprocess
 import sys
 from datetime import datetime, timedelta
 import requests
+from fastapi import FastAPI, Request, Depends, HTTPException, status, Form
+from fastapi.responses import HTMLResponse, RedirectResponse
+from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
+from sqlalchemy.orm import Session
+from starlette.middleware.sessions import SessionMiddleware
+import uvicorn
+import yfinance as yf
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+import pandas as pd
+from models import User, engine
+from sqlalchemy.orm import sessionmaker
+from passlib.context import CryptContext
+
+# 비밀번호 해싱을 위한 설정
+pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+
+# Database 설정
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+app = FastAPI()
+app.add_middleware(SessionMiddleware, secret_key="your-secret-key")  # 세션 미들웨어 추가
+
+templates = Jinja2Templates(directory="templates")
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 def install_requirements():
-    required_packages = ['fastapi', 'uvicorn', 'jinja2', 'plotly', 'pandas', 'yfinance', 'requests']
+    required_packages = ['fastapi', 'uvicorn', 'jinja2', 'plotly', 'pandas', 'yfinance', 'requests', 'sqlalchemy', 'passlib']
     for package in required_packages:
         try:
             __import__(package)
@@ -57,10 +90,6 @@ for data in crypto_data.values():
     data.dropna(inplace=True)
     data = data[data['Close'] > 0]
 
-app = FastAPI()
-templates = Jinja2Templates(directory="templates")
-app.mount("/static", StaticFiles(directory="static"), name="static")
-
 def create_multi_crypto_chart(selected_cryptos, show_mvrv=False):
     # Create figure with secondary y-axis
     fig = make_subplots(specs=[[{"secondary_y": True}]])
@@ -96,7 +125,7 @@ def create_multi_crypto_chart(selected_cryptos, show_mvrv=False):
                 y=list(mvrv_data['Z-Score']),
                 mode='lines',
                 name='MVRV Z-Score',
-                line=dict(color='#FF9900', width=2)
+                line=dict(color='#FF0000', width=2)
             ),
             secondary_y=True
         )
@@ -154,15 +183,100 @@ def create_multi_crypto_chart(selected_cryptos, show_mvrv=False):
     )
 
 @app.get("/", response_class=HTMLResponse)
-async def root(request: Request):
+async def root(request: Request, db: Session = Depends(get_db)):
+    user = None
+    if 'user' in request.session:
+        username = request.session['user']['username']
+        user = db.query(User).filter(User.username == username).first()
+    
     chart = create_multi_crypto_chart(['bitcoin'])
     return templates.TemplateResponse(
         "index.html",
-        {"request": request, "chart": chart}
+        {"request": request, "chart": chart, "user": user}
     )
 
+@app.get("/login", response_class=HTMLResponse)
+async def login_page(request: Request):
+    return templates.TemplateResponse(
+        "login.html",
+        {"request": request, "message": ""}
+    )
+
+@app.post("/login")
+async def login(
+    request: Request,
+    username: str = Form(...),
+    password: str = Form(...),
+    db: Session = Depends(get_db)
+):
+    user = db.query(User).filter(User.username == username).first()
+    if not user or not pwd_context.verify(password, user.password):
+        return templates.TemplateResponse(
+            "login.html",
+            {"request": request, "message": "Invalid username or password"}
+        )
+    
+    # 로그인 성공
+    user.last_login = datetime.utcnow()
+    db.commit()
+    
+    request.session['user'] = {
+        'username': user.username,
+        'name': user.name
+    }
+    return RedirectResponse(url='/', status_code=303)
+
+@app.get("/register", response_class=HTMLResponse)
+async def register_page(request: Request):
+    return templates.TemplateResponse(
+        "register.html",
+        {"request": request, "message": ""}
+    )
+
+@app.post("/register")
+async def register(
+    request: Request,
+    username: str = Form(...),
+    password: str = Form(...),
+    email: str = Form(...),
+    name: str = Form(...),
+    db: Session = Depends(get_db)
+):
+    # 사용자 이름 중복 체크
+    existing_user = db.query(User).filter(
+        (User.username == username) | (User.email == email)
+    ).first()
+    if existing_user:
+        return templates.TemplateResponse(
+            "register.html",
+            {"request": request, "message": "Username or email already exists"}
+        )
+    
+    # 새 사용자 생성
+    hashed_password = pwd_context.hash(password)
+    user = User(
+        username=username,
+        email=email,
+        password=hashed_password,
+        name=name
+    )
+    db.add(user)
+    db.commit()
+    
+    return RedirectResponse(url='/login', status_code=303)
+
+@app.get('/logout')
+async def logout(request: Request):
+    request.session.pop('user', None)
+    return RedirectResponse(url='/')
+
 @app.get("/multi/{cryptos}", response_class=HTMLResponse)
-async def multi_crypto(request: Request, cryptos: str, mvrv: bool = False):
+async def multi_crypto(request: Request, cryptos: str, mvrv: bool = False, db: Session = Depends(get_db)):
+    user = None
+    if 'user' in request.session:
+        username = request.session['user']['username']
+        user = db.query(User).filter(User.username == username).first()
+    
     selected_cryptos = cryptos.split(',')
     if not selected_cryptos:
         selected_cryptos = ['bitcoin']
@@ -170,7 +284,7 @@ async def multi_crypto(request: Request, cryptos: str, mvrv: bool = False):
     chart = create_multi_crypto_chart(selected_cryptos, show_mvrv=mvrv)
     return templates.TemplateResponse(
         "index.html",
-        {"request": request, "chart": chart}
+        {"request": request, "chart": chart, "user": user}
     )
 
 if __name__ == "__main__":
