@@ -1,0 +1,530 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 올리패스 상한가",
+        "totalResults": "92000",
+        "searchTerms": "올리패스 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 올리패스 상한가",
+        "totalResults": "92000",
+        "searchTerms": "올리패스 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.187369,
+    "formattedSearchTime": "0.19",
+    "totalResults": "92000",
+    "formattedTotalResults": "92,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "'검은 월요일'에도 상한가 기록한 퀀타매트릭스·올리패스[바이오맥짚기 ...",
+      "htmlTitle": "&#39;검은 월요일&#39;에도 <b>상한가</b> 기록한 퀀타매트릭스·<b>올리패스</b>[바이오맥짚기 ...",
+      "link": "http://mpharm.edaily.co.kr/News/Read?newsId=01315286638984696&mediaCodeNo=257",
+      "displayLink": "mpharm.edaily.co.kr",
+      "snippet": "Aug 6, 2024 ... 이날 오후 시에 본지에서 보도한 '[단독]“네이처 게재, 시총 100배 신호탄” 불가능 난제 해결한 퀀타매트릭스'가 포털에 공개되자 거래량이 급증하며 ...",
+      "htmlSnippet": "Aug 6, 2024 <b>...</b> 이날 오후 시에 본지에서 보도한 &#39;[단독]“네이처 게재, 시총 100배 신호탄” 불가능 난제 해결한 퀀타매트릭스&#39;가 포털에 공개되자 거래량이 급증하며&nbsp;...",
+      "formattedUrl": "http://mpharm.edaily.co.kr/News/Read?newsId=01315286638984696...",
+      "htmlFormattedUrl": "http://mpharm.edaily.co.kr/News/Read?newsId=01315286638984696...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8H2ZT3q85UVgABCjUoSQC0LJVusM7LzcpOD0f5n79pGgUKMc8Qytrfgo4&s",
+            "width": "344",
+            "height": "146"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2024/08/PS24080600187b.jpg",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "‘검은 월요일’에도 상한가 기록한 퀀타매트릭스·올리패스[바이오맥짚기]+ 팜이데일리",
+            "og:site_name": "팜이데일리",
+            "twitter:domain": "http://pharm.edaily.co.kr",
+            "twitter:url": "http://mpharm.edaily.co.kr/News/Read?newsId=01315286638984696&mediaCodeNo=257",
+            "author": "pharm-edaily",
+            "og:title": "‘검은 월요일’에도 상한가 기록한 퀀타매트릭스·올리패스[바이오맥짚기]",
+            "title": "‘검은 월요일’에도 상한가 기록한 퀀타매트릭스·올리패스[바이오맥짚기]+ 팜이데일리",
+            "twitter:creator": "pharm-edaily",
+            "og:description": "5일 ‘검은 월요일’을 맞은 국내 대폭락 증시 속에서도 제약·바이오·헬스케어 섹터에서는 퀀타매트릭스(317690)와 올리패스(244460)가 상한가를 기록해 투자자들의 눈길을 끌었다. 미국 고용지표 악화, 빅테크 악재, 중동 정세 위기 등 각종 리스크가 증시에 반영됐...",
+            "article:author": "팜이데일리",
+            "article:publisher": "팜이데일리",
+            "twitter:image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2024/08/PS24080600187b.jpg",
+            "twitter:site": "팜이데일리",
+            "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width",
+            "news_keywords": "‘검은 월요일’에도 상한가 기록한 퀀타매트릭스·올리패스[바이오맥짚기]",
+            "twitter:description": "5일 ‘검은 월요일’을 맞은 국내 대폭락 증시 속에서도 제약·바이오·헬스케어 섹터에서는 퀀타매트릭스(317690)와 올리패스(244460)가 상한가를 기록해 투자자들의 눈길을 끌었다. 미국 고용지표 악화, 빅테크 악재, 중동 정세 위기 등 각종 리스크가 증시에 반영됐...",
+            "og:url": "http://mpharm.edaily.co.kr/News/Read?newsId=01315286638984696&mediaCodeNo=257"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image.edaily.co.kr/images/Photo/files/NP/S/2024/08/PS24080600187b.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "잇딴 최대주주 변경 올리패스, 때아닌 상한가[바이오맥짚기]+ 팜이데일리",
+      "htmlTitle": "잇딴 최대주주 변경 <b>올리패스</b>, 때아닌 <b>상한가</b>[바이오맥짚기]+ 팜이데일리",
+      "link": "https://pharm.edaily.co.kr/news/read?newsId=01748246642107256",
+      "displayLink": "pharm.edaily.co.kr",
+      "snippet": "2 days ago ... 25일 국내 제약·바이오·헬스케어 분야 상장사 중엔 올리패스(244460)와 네이처셀(007390)이 상한가를 기록했다. 올리패스는 재무부실로 관리종목 지정 ...",
+      "htmlSnippet": "2 days ago <b>...</b> 25일 국내 제약·바이오·헬스케어 분야 상장사 중엔 <b>올리패스</b>(244460)와 네이처셀(007390)이 <b>상한가</b>를 기록했다. <b>올리패스</b>는 재무부실로 관리종목 지정&nbsp;...",
+      "formattedUrl": "https://pharm.edaily.co.kr/news/read?newsId=01748246642107256",
+      "htmlFormattedUrl": "https://pharm.edaily.co.kr/news/read?newsId=01748246642107256",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTni3IgRMVzFDjCI7-sFObKGn7qMFVjK7bmYAMjZtj1YAs1SOLj4MIaJVk&s",
+            "width": "297",
+            "height": "170"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://image.edaily.co.kr/images/vision/files/NP/S/2025/03/PS25032600291b.jpg",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "잇딴 최대주주 변경 올리패스, 때아닌 상한가[바이오맥짚기]+ 팜이데일리",
+            "og:site_name": "팜이데일리",
+            "twitter:domain": "http://pharm.edaily.co.kr",
+            "twitter:url": "https://mpharm.edaily.co.kr/news/read?newsId=01748246642107256",
+            "author": "pharm-edaily",
+            "og:title": "잇딴 최대주주 변경 올리패스, 때아닌 상한가[바이오맥짚기]",
+            "title": "잇딴 최대주주 변경 올리패스, 때아닌 상한가[바이오맥짚기]+ 팜이데일리",
+            "twitter:creator": "pharm-edaily",
+            "og:description": "25일 국내 제약·바이오·헬스케어 분야 상장사 중엔 올리패스(244460)와 네이처셀(007390)이 상한가를 기록했다. 올리패스는 재무부실로 관리종목 지정 위기에 처한 상황에 때아닌 상한가를 맞아 거래소의 조회공시 요구를 받았다. 네이처셀은 무릎골관절염 치료제 조인...",
+            "article:author": "팜이데일리",
+            "article:publisher": "팜이데일리",
+            "twitter:image": "https://image.edaily.co.kr/images/vision/files/NP/S/2025/03/PS25032600291b.jpg",
+            "twitter:site": "팜이데일리",
+            "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width",
+            "news_keywords": "잇딴 최대주주 변경 올리패스, 때아닌 상한가[바이오맥짚기]",
+            "twitter:description": "25일 국내 제약·바이오·헬스케어 분야 상장사 중엔 올리패스(244460)와 네이처셀(007390)이 상한가를 기록했다. 올리패스는 재무부실로 관리종목 지정 위기에 처한 상황에 때아닌 상한가를 맞아 거래소의 조회공시 요구를 받았다. 네이처셀은 무릎골관절염 치료제 조인...",
+            "og:url": "https://mpharm.edaily.co.kr/news/read?newsId=01748246642107256"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image.edaily.co.kr/images/vision/files/NP/S/2025/03/PS25032600291b.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "일본 특허로 상한가 올린 올리패스[급등주 지금은]",
+      "htmlTitle": "일본 특허로 <b>상한가</b> 올린 <b>올리패스</b>[급등주 지금은]",
+      "link": "https://www.newsis.com/view/NISX20240628_0002791851",
+      "displayLink": "www.newsis.com",
+      "snippet": "Jun 30, 2024 ... 30일 한국거래소에 따르면 지난 2023년 6월29일 올리패스의 주가는 전 거래일보다 29.99% 급등, 상한가를 기록하며 1968원에 거래됐다. 같은해 7월3일 ...",
+      "htmlSnippet": "Jun 30, 2024 <b>...</b> 30일 한국거래소에 따르면 지난 2023년 6월29일 <b>올리패스</b>의 주가는 전 거래일보다 29.99% 급등, <b>상한가</b>를 기록하며 1968원에 거래됐다. 같은해 7월3일&nbsp;...",
+      "formattedUrl": "https://www.newsis.com/view/NISX20240628_0002791851",
+      "htmlFormattedUrl": "https://www.newsis.com/view/NISX20240628_0002791851",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SvXrHuMeq68jap5u6dj9ZEwdjVTZMwC-qEGhzwOKM-_x8p7jlmCluXs&s",
+            "width": "366",
+            "height": "138"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img1.newsis.com/2023/10/19/NISI20231019_0001390600_web.jpg",
+            "og:image:width": "600",
+            "og:image:alt": "[서울=뉴시스] 올리패스가 만성 관절염 통증 환자들을 대상으로 임상 2a상 중인 비마약성 진통제 'OLP-1002'에 대한 국내 특허를 취득했다. (사진=올리패스 제공) 2023.10.21. photo@newsis.com *재판매 및 DB 금지",
+            "article:section": "금융",
+            "article:published_time": "2024-06-30T14:48:53+09:00",
+            "og:site_name": "뉴시스",
+            "author": "Newsis",
+            "dable:item_id": "NISX20240628_0002791851",
+            "og:title": "일본 특허로 상한가 올린 올리패스[급등주 지금은]",
+            "og:image:height": "226",
+            "og:description": "리보핵산(RNA) 치료제 플랫폼 기업 올리패스는 딱 1년전 일본 특허 취득으로 급등했던 종목이다.",
+            "og:image:secure_url": "https://img1.newsis.com/2023/10/19/NISI20231019_0001390600_web.jpg",
+            "referrer": "strict-origin-when-cross-origin",
+            "article:section2": "증권",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "og:url": "https://mobile.newsis.com/view/NISX20240628_0002791851"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img1.newsis.com/2023/10/19/NISI20231019_0001390600_web.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 올리패스, 혁신 인공유전자 플랫폼 기술 日 특허 취득에 상한가",
+      "htmlTitle": "[특징주] <b>올리패스</b>, 혁신 인공유전자 플랫폼 기술 日 특허 취득에 <b>상한가</b>",
+      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=11266",
+      "displayLink": "www.biotimes.co.kr",
+      "snippet": "Jun 29, 2023 ... 이날 올리패스는 세포핵 안에서 pre-mRNA와 결합해 Exon Skipping(엑손 결손) 유도에 특화된 OliPass PNA(OPNA) 인공유전자에 대한 물질 및 용도(설계기술) ...",
+      "htmlSnippet": "Jun 29, 2023 <b>...</b> 이날 <b>올리패스</b>는 세포핵 안에서 pre-mRNA와 결합해 Exon Skipping(엑손 결손) 유도에 특화된 OliPass PNA(OPNA) 인공유전자에 대한 물질 및 용도(설계기술)&nbsp;...",
+      "formattedUrl": "https://www.biotimes.co.kr/news/articleView.html?idxno=11266",
+      "htmlFormattedUrl": "https://www.biotimes.co.kr/news/articleView.html?idxno=11266",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7drBZn07p2NPW4q1rIjD34t9sOzL-djcsnlMs7itf1JacYHfNnWsPQ&s",
+            "width": "300",
+            "height": "107"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.biotimes.co.kr/news/thumbnail/202306/11266_14000_5156_v150.jpg",
+            "copyright": "바이오타임즈",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[특징주] 올리패스, 혁신 인공유전자 플랫폼 기술 日 특허 취득에 상한가",
+            "article:section": "Bio Stock",
+            "article:published_time": "2023-06-29T10:55:25+09:00",
+            "og:site_name": "바이오타임즈",
+            "dable:item_id": "11266",
+            "og:title": "[특징주] 올리패스, 혁신 인공유전자 플랫폼 기술 日 특허 취득에 상한가",
+            "title": "[특징주] 올리패스, 혁신 인공유전자 플랫폼 기술 日 특허 취득에 상한가",
+            "classification": "Bio Stock > 특징주",
+            "og:description": "[바이오타임즈] 올리패스㈜(244460, 대표이사 정신)의 주가가 상한가를 기록했다.RNA 치료제 플랫폼 기업 올리패스는 29일 코스닥시장에서 오전 10시 45분 현재, 전 거래일보다 29.99%(454원) 오른 1,968원에 거래되고 있다.이날 올리패스는 세포핵 안에서 pre-mRNA와 결합해 Exon Skipping(엑손 결손) 유도에 특화된 OliPass PNA(OPNA) 인공유전자에 대한 물질 및 용도(설계기술)에 관한 일본 특허가 허여됐다고 밝혔다.이번 일본 특허 취득은 호주, 싱가포르, 러시아, 인도네시아에 이어 다섯 번",
+            "twitter:creator": "정민구 기자",
+            "twitter:image": "http://www.biotimes.co.kr/news/thumbnail/202306/11266_14000_5156_v150.jpg",
+            "article:section1": "특징주",
+            "dable:author": "정민구 기자",
+            "twitter:site": "http://www.biotimes.co.kr/news/articleView.html?idxno=11266",
+            "naver-site-verification": "8a1f1e68092c55073f8b074b0c1a6754bcb0e7c9",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "news_keywords": "바이오타임즈,바이오,바이오타임즈,바이오,올리패스,올리패스주가,인공유전자,비마약성진통제,루게릭병,RNA치료제,상한가,특징주,급등주,바이오주,세포투과성,올리고뉴클레오티드,PNA,엑손결손,pre-mRNA,펜타닐,희귀질환치료제,올리고핵산",
+            "twitter:description": "[바이오타임즈] 올리패스㈜(244460, 대표이사 정신)의 주가가 상한가를 기록했다.RNA 치료제 플랫폼 기업 올리패스는 29일 코스닥시장에서 오전 10시 45분 현재, 전 거래일보다 29.99%(454원) 오른 1,968원에 거래되고 있다.이날 올리패스는 세포핵 안에서 pre-mRNA와 결합해 Exon Skipping(엑손 결손) 유도에 특화된 OliPass PNA(OPNA) 인공유전자에 대한 물질 및 용도(설계기술)에 관한 일본 특허가 허여됐다고 밝혔다.이번 일본 특허 취득은 호주, 싱가포르, 러시아, 인도네시아에 이어 다섯 번",
+            "og:url": "http://www.biotimes.co.kr/news/articleView.html?idxno=11266",
+            "og:article:author": "정민구 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.biotimes.co.kr/news/thumbnail/202306/11266_14000_5156_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "올리패스, 인공유전자 관련 日 특허 소식에 주가 '상한가'-조세일보모바일",
+      "htmlTitle": "<b>올리패스</b>, 인공유전자 관련 日 특허 소식에 주가 &#39;<b>상한가</b>&#39;-조세일보모바일",
+      "link": "https://m.joseilbo.com/news/view.htm?newsid=490856",
+      "displayLink": "m.joseilbo.com",
+      "snippet": "Jun 29, 2023 ... 올리패스 CIRNA 치료제 플랫폼 기업 올리패스가 인공유전자에 대한 물질 및 용도에 대해 일본 특허를 받았다는 소식이 알려지면서 주가가 상한가를 ...",
+      "htmlSnippet": "Jun 29, 2023 <b>...</b> <b>올리패스</b> CIRNA 치료제 플랫폼 기업 <b>올리패스</b>가 인공유전자에 대한 물질 및 용도에 대해 일본 특허를 받았다는 소식이 알려지면서 주가가 <b>상한가</b>를&nbsp;...",
+      "formattedUrl": "https://m.joseilbo.com/news/view.htm?newsid=490856",
+      "htmlFormattedUrl": "https://m.joseilbo.com/news/view.htm?newsid=490856",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Mv2JGXNSuxPj0R_RwYc_Zr54gbSbOcD9-HjOVo_2RJrgiz8JIqsy5IHk&s",
+            "width": "366",
+            "height": "138"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.joseilbo.com/gisa_img/16879999751687999975_yjh0621.jpg",
+            "article:section": "증권",
+            "article:published_time": "2023-06-29T09:54:57+09:00",
+            "twitter:title": "올리패스, 인공유전자 관련 日 특허 소식에 주가 '상한가'",
+            "twitter:card": "summary_large_image",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0",
+            "og:title": "올리패스, 인공유전자 관련 日 특허 소식에 주가 '상한가'",
+            "og:url": "https://m.joseilbo.com/news/view.htm?newsid=490856",
+            "og:description": "◆&hellip;올리패스 CIRNA 치료제 플랫폼 기업 올리패스가 인공유전자에 대한 물질 및 용도에 대해 일본 특허를 받았다는 소식이 알려지면서 주가가 상한가를 기록했다.이날 오전 9시 46분 현재 올리패스는",
+            "twitter:image": "https://www.joseilbo.com/gisa_img/16879999751687999975_yjh0621.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.joseilbo.com/gisa_img/16879999751687999975_yjh0621.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 올리패스, 호흡기 바이러스치료제 기술이전으로 상한가 ...",
+      "htmlTitle": "[특징주] <b>올리패스</b>, 호흡기 바이러스치료제 기술이전으로 <b>상한가</b> ...",
+      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=11893",
+      "displayLink": "www.biotimes.co.kr",
+      "snippet": "Aug 23, 2023 ... 아울러 피부 투과성이 매우 우수해 아토피, 건선, 등 각종 난치성 피부 면역 질환 치료제 개발에도 적합하고, 점안액으로 투약 시 안구 내부로 전달이 ...",
+      "htmlSnippet": "Aug 23, 2023 <b>...</b> 아울러 피부 투과성이 매우 우수해 아토피, 건선, 등 각종 난치성 피부 면역 질환 치료제 개발에도 적합하고, 점안액으로 투약 시 안구 내부로 전달이&nbsp;...",
+      "formattedUrl": "https://www.biotimes.co.kr/news/articleView.html?idxno=11893",
+      "htmlFormattedUrl": "https://www.biotimes.co.kr/news/articleView.html?idxno=11893",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQ7NbK75IzVv_V-dQF5gArHMMjh4q3zQTJgEzigPg6zwFMaa3ChOxQPk&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.biotimes.co.kr/news/thumbnail/202308/11893_14892_4426_v150.jpg",
+            "copyright": "바이오타임즈",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[특징주] 올리패스, 호흡기 바이러스치료제 기술이전으로 상한가 마무리",
+            "article:section": "Bio Stock",
+            "article:published_time": "2023-08-23T17:49:30+09:00",
+            "og:site_name": "바이오타임즈",
+            "dable:item_id": "11893",
+            "og:title": "[특징주] 올리패스, 호흡기 바이러스치료제 기술이전으로 상한가 마무리",
+            "title": "[특징주] 올리패스, 호흡기 바이러스치료제 기술이전으로 상한가 마무리",
+            "classification": "Bio Stock > 특징주",
+            "og:description": "[바이오타임즈] RNA 플랫폼 기업 올리패스(244460, 대표이사 정신)의 주가가 기술이전 소식에 상한가를 기록했다.올리패스는 23일 코스닥시장에서 전 거래일보다 29.76%(500원) 오른 2,180원에 장을 마감했다.올리패스는 기프티드엠에스와 호흡기질환 바이러스 치료제 개발을 위한 기술이전 및 연구개발 협력 계약을 체결했다고 22일 공시했다.2006년 11월에 설립된 올리패스는 세포 투과성이 우수한 올리고뉴클레오티드를 만드는 고유의 플랫폼 기술을 기반으로, 기술로 확보하고 RNA 치료제 신약 개발을 주력사업으로 영위하고 있다.",
+            "twitter:creator": "정민구 기자",
+            "twitter:image": "http://www.biotimes.co.kr/news/thumbnail/202308/11893_14892_4426_v150.jpg",
+            "article:section1": "특징주",
+            "dable:author": "정민구 기자",
+            "twitter:site": "http://www.biotimes.co.kr/news/articleView.html?idxno=11893",
+            "naver-site-verification": "8a1f1e68092c55073f8b074b0c1a6754bcb0e7c9",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "news_keywords": "바이오타임즈,바이오,바이오타임즈,바이오,올리패스,비마약성진통제,기술이전,3자배정,기프티드엠에스,RNA,호흡기질환바이러스,올리고뉴클레오티드,PNA,인공유전자,세포투과성,특징주,급등주,상한가,코스닥",
+            "twitter:description": "[바이오타임즈] RNA 플랫폼 기업 올리패스(244460, 대표이사 정신)의 주가가 기술이전 소식에 상한가를 기록했다.올리패스는 23일 코스닥시장에서 전 거래일보다 29.76%(500원) 오른 2,180원에 장을 마감했다.올리패스는 기프티드엠에스와 호흡기질환 바이러스 치료제 개발을 위한 기술이전 및 연구개발 협력 계약을 체결했다고 22일 공시했다.2006년 11월에 설립된 올리패스는 세포 투과성이 우수한 올리고뉴클레오티드를 만드는 고유의 플랫폼 기술을 기반으로, 기술로 확보하고 RNA 치료제 신약 개발을 주력사업으로 영위하고 있다.",
+            "og:url": "http://www.biotimes.co.kr/news/articleView.html?idxno=11893",
+            "og:article:author": "정민구 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.biotimes.co.kr/news/thumbnail/202308/11893_14892_4426_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "올리패스가 무상감자 소식에 상한가를 달성한 이유 : 네이버 블로그",
+      "htmlTitle": "<b>올리패스</b>가 무상감자 소식에 <b>상한가</b>를 달성한 이유 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/whitebanana_/223537565620",
+      "displayLink": "m.blog.naver.com",
+      "snippet": "Aug 6, 2024 ... 이번 무상감자는 90% 비율로 진행되며, 보통주 및 우선주 10주를 보통주 1주로 무상병합합니다. 따라서 올리패스 10주를 보유하고 계신 분들은 무상감자 ...",
+      "htmlSnippet": "Aug 6, 2024 <b>...</b> 이번 무상감자는 90% 비율로 진행되며, 보통주 및 우선주 10주를 보통주 1주로 무상병합합니다. 따라서 <b>올리패스</b> 10주를 보유하고 계신 분들은 무상감자&nbsp;...",
+      "formattedUrl": "https://m.blog.naver.com/whitebanana_/223537565620",
+      "htmlFormattedUrl": "https://m.blog.naver.com/whitebanana_/223537565620",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_L1tQPjYKGqIMLx6Lkg9Ni571JUF4YLP-Bjl217veM_yEdt7OnLOdVyse&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyNDA4MDVfMTE2/MDAxNzIyODU3NTY1NTEy.Xnv_DC9K6RNS2N4wHN4vcn29s2B4CroW5aVBINnEr9Ug.nL7uvCqOERTiFUzBavdhN4BUYVtJa6ACDT2hcDbT4ykg.PNG/%C1%A6%B8%F1%C0%BB_%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001.png?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 바나나의 주식 이야기",
+            "og:title": "올리패스가 무상감자 소식에 상한가를 달성한 이유",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMjAzMDVfMzcg/MDAxNjQ2NDE4ODU0NTc1._6ibyJRvKL29S-6Pb1yftEM0XrPjCUCjV_F9UdJkX2Eg.t0z4hPM3gkI0m-akFEH64vQpMqgcRkGVT6AMu2dkuF0g.PNG.aajuno212/1.PNG/1.PNG?type=s1",
+            "napp-site-analysis": "gdid=90000003_00000000000000340BE08FB4,service=blog,collection=blog",
+            "og:description": "올리패스 무상감자 안녕하세요. 오늘은 올리패스가 무상감자를 진행한다는 소식에 오히려 상한가를 기록한 ...",
+            "referrer": "always",
+            "naverblog:nickname": "바나나",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/whitebanana_/223537565620",
+            "og:article:author": "바나나의 .. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://mblogthumb-phinf.pstatic.net/MjAyNDA4MDVfMTE2/MDAxNzIyODU3NTY1NTEy.Xnv_DC9K6RNS2N4wHN4vcn29s2B4CroW5aVBINnEr9Ug.nL7uvCqOERTiFUzBavdhN4BUYVtJa6ACDT2hcDbT4ykg.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001.png?type=w800"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "양 제약지수 소폭 상승, 올리패스ㆍ네이처셀 상한가 - 의약뉴스",
+      "htmlTitle": "양 제약지수 소폭 상승, <b>올리패스</b>ㆍ네이처셀 <b>상한가</b> - 의약뉴스",
+      "link": "https://www.newsmp.com/news/articleView.html?idxno=245875",
+      "displayLink": "www.newsmp.com",
+      "snippet": "2 days ago ... ... 올리패스와 네이처셀은 나란히 상한가를 기록했으며, 에스씨엠생명과학(+21.14%)의 주갇 20% 이상 급등했다.여기에 더해 CMG제약(+12.78%)과 셀루메드 ...",
+      "htmlSnippet": "2 days ago <b>...</b> ... <b>올리패스</b>와 네이처셀은 나란히 <b>상한가</b>를 기록했으며, 에스씨엠생명과학(+21.14%)의 주갇 20% 이상 급등했다.여기에 더해 CMG제약(+12.78%)과 셀루메드&nbsp;...",
+      "formattedUrl": "https://www.newsmp.com/news/articleView.html?idxno=245875",
+      "htmlFormattedUrl": "https://www.newsmp.com/news/articleView.html?idxno=245875",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAaHPfpB_AnuPmYockoiGKNxgH3R6YobE8NFdhWyhhwLaAOtbcgkh&s=0",
+            "width": "109",
+            "height": "118"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.newsmp.com/news/thumbnail/202503/245875_271185_188_v150.jpg",
+            "theme-color": "#2a65b3",
+            "copyright": "의약뉴스",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "양 제약지수 소폭 상승, 올리패스ㆍ네이처셀 상한가",
+            "article:section": "연재",
+            "article:published_time": "2025-03-25T19:18:46+09:00",
+            "og:site_name": "의약뉴스",
+            "dable:item_id": "245875",
+            "og:title": "양 제약지수 소폭 상승, 올리패스ㆍ네이처셀 상한가",
+            "title": "양 제약지수 소폭 상승, 올리패스ㆍ네이처셀 상한가",
+            "classification": "연재 > 오늘의 제약사 시황 정보",
+            "og:description": "의약뉴스) 유가증권시장과 코스닥시장 제약지수가 동반 상승했다. 다만, 상승폭은 0.5%를 넘어서지 못했다.25일, 유가증권시장 제약지수는 1만 6093.29로 전일대비 60.50p(+0.38%), 코스닥시장 제약지수는 9500.61로 45.47p(+0.48%) 상승했다.이 가운데 코스닥시장 제약지수의 올리패스와 네이처셀은 나란히 상한가를 기록했으며, 에스씨엠생명과학(+21.14%)의 주갇 20% 이상 급등했다.여기에 더해 CMG제약(+12.78%)과 셀루메드(+10.21%)도 두 자릿수의 상승률을 기록했으며, 이들을 포함 11개 종",
+            "twitter:creator": "의약뉴스",
+            "twitter:image": "http://www.newsmp.com/news/thumbnail/202503/245875_271185_188_v150.jpg",
+            "article:section2": "오늘의 제약사 시황 정보",
+            "dable:author": "의약뉴스",
+            "twitter:site": "http://www.newsmp.com/news/articleView.html?idxno=245875",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "의약뉴스) 유가증권시장과 코스닥시장 제약지수가 동반 상승했다. 다만, 상승폭은 0.5%를 넘어서지 못했다.25일, 유가증권시장 제약지수는 1만 6093.29로 전일대비 60.50p(+0.38%), 코스닥시장 제약지수는 9500.61로 45.47p(+0.48%) 상승했다.이 가운데 코스닥시장 제약지수의 올리패스와 네이처셀은 나란히 상한가를 기록했으며, 에스씨엠생명과학(+21.14%)의 주갇 20% 이상 급등했다.여기에 더해 CMG제약(+12.78%)과 셀루메드(+10.21%)도 두 자릿수의 상승률을 기록했으며, 이들을 포함 11개 종",
+            "og:url": "http://www.newsmp.com/news/articleView.html?idxno=245875",
+            "og:article:author": "의약뉴스"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.newsmp.com/news/thumbnail/202503/245875_271185_188_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'관리종목 지정' 올리패스,상한가…파미셀·아이진·엔지켐생명과학 등 ...",
+      "htmlTitle": "&#39;관리종목 지정&#39; <b>올리패스</b>,<b>상한가</b>…파미셀·아이진·엔지켐생명과학 등 ...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20240320001037582",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "Mar 20, 2024 ... 한국거래소에 따르면 전날 거래소는 올리패스는 \"최근 3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계손실 발생으로 관리종목에 지정한다\"고 ...",
+      "htmlSnippet": "Mar 20, 2024 <b>...</b> 한국거래소에 따르면 전날 거래소는 <b>올리패스</b>는 &quot;최근 3사업연도중 2사업연도 자기자본 50%초과 법인세비용차감전계손실 발생으로 관리종목에 지정한다&quot;고&nbsp;...",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20240320001037582",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20240320001037582",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmwJbPs2L_SoB0_CEiqW_LQqCyiIng7_LsUeVcHQucDiMf8PqLtlOFiEw&s",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202403/20240320001037582_1.jpg?20240320104143",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-03-20T10:41:40+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "`관리종목 지정` 올리패스,상한가…파미셀·아이진·엔지켐생명과학 등 mRNA 관련주 강세",
+            "distribution": "영남일보",
+            "og:description": "20일부터 관리종목으로 지정된 올리패스 주가가 장초반 상한가로 치솟았다이날 한국거래소에 따르면 이날 오전 10시 34분 현재 전 거래일 대비 2984128원 올라 557원 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202403/20240320001037582_1.jpg?20240320104143",
+            "article:section2": "증시·금융·보험",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "아미노로직스, 이연제약, 서린바이오, 진원생명과학, 녹십자",
+            "og:site": "https://m.yeongnam.com/view.php?key=20240320001037582",
+            "author-date(date)": "2024-03-20",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202403/20240320001037582_1.jpg?20240320104143",
+            "og:type": "article",
+            "twitter:title": "`관리종목 지정` 올리패스,상한가…파미셀·아이진·엔지켐생명과학 등 mRNA 관련주 강세",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20240320001037582",
+            "og:title": "`관리종목 지정` 올리패스,상한가…파미셀·아이진·엔지켐생명과학 등 mRNA 관련주 강세",
+            "url": "https://m.yeongnam.com/view.php?key=20240320001037582",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "20일부터 관리종목으로 지정된 올리패스 주가가 장초반 상한가로 치솟았다이날 한국거래소에 따르면 이날 오전 10시 34분 현재 전 거래일 대비 2984128원 올라 557원 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20240320001037582"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/thum/202503/news-a.v1.20250319.67d10ff9b22a4f008505ff9c108b2e17_T1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "잇딴 최대주주 변경 올리패스, 때아닌 상한가[바이오맥짚기] : 네이트 ...",
+      "htmlTitle": "잇딴 최대주주 변경 <b>올리패스</b>, 때아닌 <b>상한가</b>[바이오맥짚기] : 네이트 ...",
+      "link": "https://news.nate.com/view/20250327n10373",
+      "displayLink": "news.nate.com",
+      "snippet": "12 hours ago ... 올리패스는 재무부실로 관리종목 지정 위기에 처한 상황에 때아닌 상한가를 맞아 거래소의 조회공시 요구를 받았다. 네이처셀은 무릎골관절염 치료제 ...",
+      "htmlSnippet": "12 hours ago <b>...</b> <b>올리패스</b>는 재무부실로 관리종목 지정 위기에 처한 상황에 때아닌 <b>상한가</b>를 맞아 거래소의 조회공시 요구를 받았다. 네이처셀은 무릎골관절염 치료제&nbsp;...",
+      "formattedUrl": "https://news.nate.com/view/20250327n10373",
+      "htmlFormattedUrl": "https://news.nate.com/view/20250327n10373",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr904W73_2VqyR0WZqrVize51kwv5QdyUnuYjTDuSZ8SpOb7q7U0gDlAw&s",
+            "width": "360",
+            "height": "140"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://news.nateimg.co.kr/orgImg/ed/2025/03/27/PS25032600291.jpg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "모바일 네이트 뉴스",
+            "viewport": "initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, width=device-width",
+            "og:title": "잇딴 최대주주 변경 올리패스, 때아닌 상한가[바이오맥짚기] : 네이트 뉴스",
+            "og:locale": "ko_KR",
+            "og:url": "https://m.news.nate.com/view/20250327n10373?mid=m02",
+            "og:description": "한눈에 보는 오늘 : 경제 - 뉴스 : 이 기사는 2025년03월26일 07시57분에 팜이데일리 프리미엄 콘텐츠로 선공개 되었습니다.[이데일리 임정요 기자] 25일 국내 제약·바이오·헬스케어 분야 상장사 중엔 올리패스(244460)와 네이처셀(007390)이 상한가를 기록했다. 올리패스는",
+            "ssul:category": "sisa"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://news.nateimg.co.kr/orgImg/ed/2025/03/27/PS25032600291.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

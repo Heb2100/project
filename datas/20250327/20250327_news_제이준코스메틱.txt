@@ -1,0 +1,548 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 제이준코스메틱 상한가",
+        "totalResults": "6260",
+        "searchTerms": "제이준코스메틱 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 제이준코스메틱 상한가",
+        "totalResults": "6260",
+        "searchTerms": "제이준코스메틱 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.472459,
+    "formattedSearchTime": "0.47",
+    "totalResults": "6260",
+    "formattedTotalResults": "6,260"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "[급등주] 제이준코스메틱, +29.97% 상한가 마감 - 전국매일신문 - 전국 ...",
+      "htmlTitle": "[급등주] <b>제이준코스메틱</b>, +29.97% <b>상한가</b> 마감 - 전국매일신문 - 전국 ...",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1132345",
+      "displayLink": "www.jeonmae.co.kr",
+      "snippet": "5 hours ago ... 제이준코스메틱 주가가 27일 상한가로 마감했다. 이날 기준 전 거래일 대비 +29.97% 오른 4575원에 거래를 마쳤다. 거래량은 117만 5236주다.",
+      "htmlSnippet": "5 hours ago <b>...</b> <b>제이준코스메틱</b> 주가가 27일 <b>상한가</b>로 마감했다. 이날 기준 전 거래일 대비 +29.97% 오른 4575원에 거래를 마쳤다. 거래량은 117만 5236주다.",
+      "formattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1132345",
+      "htmlFormattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1132345",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNUQt-TqyUGJr4sAb7XrC70AQMfDoRXOsvudij7Oe1OYDA4ziyR9OB5Y&s",
+            "width": "293",
+            "height": "172"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.jeonmae.co.kr/news/thumbnail/202503/1132345_837684_3738_v150.jpg",
+            "theme-color": "#3763af",
+            "copyright": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[급등주] 제이준코스메틱, +29.97% 상한가 마감",
+            "article:section": "경제",
+            "article:published_time": "2025-03-27T16:37:57+09:00",
+            "og:site_name": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
+            "dable:item_id": "1132345",
+            "og:title": "[급등주] 제이준코스메틱, +29.97% 상한가 마감",
+            "title": "[급등주] 제이준코스메틱, +29.97% 상한가 마감",
+            "classification": "경제 > 금융·유통",
+            "og:description": "제이준코스메틱 주가가 27일 상한가로 마감했다. 이날 기준 전 거래일 대비 +29.97% 오른 4,575원에 거래를 마쳤다. 거래량은 117만 5,236주다. [전국매일신문] 김주현기자joojoo@jeonmae.co.kr",
+            "twitter:creator": "김주현기자",
+            "twitter:image": "https://www.jeonmae.co.kr/news/thumbnail/202503/1132345_837684_3738_v150.jpg",
+            "article:section1": "금융·유통",
+            "dable:author": "김주현기자",
+            "twitter:site": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1132345",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "제이준코스메틱 주가가 27일 상한가로 마감했다. 이날 기준 전 거래일 대비 +29.97% 오른 4,575원에 거래를 마쳤다. 거래량은 117만 5,236주다. [전국매일신문] 김주현기자joojoo@jeonmae.co.kr",
+            "og:url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1132345",
+            "og:article:author": "김주현기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.jeonmae.co.kr/news/thumbnail/202503/1132345_837684_3738_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "스킨앤스킨 상한가, 세화피앤씨·제이준코스메틱·오가닉티코스메틱 등 ...",
+      "htmlTitle": "스킨앤스킨 <b>상한가</b>, 세화피앤씨·<b>제이준코스메틱</b>·오가닉티코스메틱 등 ...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20240614001100195",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "Jun 14, 2024 ... 화장품 주문자상표부착생산(OEM) 기업인 스킨앤스킨은 사업 다각화를 통한 기업가치 제고를 노린다는 소식이다. 스킨앤스킨은 관광객 증가와 K뷰티 인기가 ...",
+      "htmlSnippet": "Jun 14, 2024 <b>...</b> 화장품 주문자상표부착생산(OEM) 기업인 스킨앤스킨은 사업 다각화를 통한 기업가치 제고를 노린다는 소식이다. 스킨앤스킨은 관광객 증가와 K뷰티 인기가&nbsp;...",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20240614001100195",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20240614001100195",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCe4R3UJEKmIrh5JHI6ZaaZ_5aHMRnZYKBKljGcOgHZP4_y2BsgBS3UnGD&s",
+            "width": "305",
+            "height": "165"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202406/20240614001100195_1.jpg?20240614110455",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2024-06-14T11:04:54+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "스킨앤스킨 상한가, 세화피앤씨·제이준코스메틱·오가닉티코스메틱 등 달리는 화장품株",
+            "distribution": "영남일보",
+            "og:description": "K뷰티 열풍에 스킨앤스킨 등 화장품 관련주가 강세다14일 오전 10시56분 현재 스킨앤스킨은 전 거래일 대비 2998244원 상승한 1058원으로 상한가로 치솟았다 화장 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202406/20240614001100195_1.jpg?20240614110455",
+            "article:section2": "증시·금융·보험",
+            "twitter:site": "@Yeongnam",
+            "news_keywords": "에이피알, 선진뷰티사이언스, 바이온, 한국화장품, 웨스트라이즈",
+            "og:site": "https://m.yeongnam.com/view.php?key=20240614001100195",
+            "author-date(date)": "2024-06-14",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202406/20240614001100195_1.jpg?20240614110455",
+            "og:type": "article",
+            "twitter:title": "스킨앤스킨 상한가, 세화피앤씨·제이준코스메틱·오가닉티코스메틱 등 달리는 화장품株",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20240614001100195",
+            "og:title": "스킨앤스킨 상한가, 세화피앤씨·제이준코스메틱·오가닉티코스메틱 등 달리는 화장품株",
+            "url": "https://m.yeongnam.com/view.php?key=20240614001100195",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "K뷰티 열풍에 스킨앤스킨 등 화장품 관련주가 강세다14일 오전 10시56분 현재 스킨앤스킨은 전 거래일 대비 2998244원 상승한 1058원으로 상한가로 치솟았다 화장 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20240614001100195"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202406/20240614001100195_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<유>제이준코스메틱, 상한가 진입.. +29.97%",
+      "htmlTitle": "&lt;유&gt;<b>제이준코스메틱</b>, <b>상한가</b> 진입.. +29.97%",
+      "link": "https://www.sedaily.com/NewsView/2GQEQIIB6M",
+      "displayLink": "www.sedaily.com",
+      "snippet": "9 hours ago ... 증권 > News봇 뉴스: 오후 12시 44분 현재 제이준코스메틱(025620)이 +29.97% 오른 4575원(△1055)으로 장중 상한가에 진입했다. 거래대금은 42억5,...",
+      "htmlSnippet": "9 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오후 12시 44분 현재 <b>제이준코스메틱</b>(025620)이 +29.97% 오른 4575원(△1055)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 42억5,...",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2GQEQIIB6M",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2GQEQIIB6M",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwQ_dHaLpH-MXX30-vUeijHnFdO82bdl7TiMIqEhZBXGZwXr6HthadJ-m&s",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2025/03/27/2GQEQIIB6M_1.png",
+            "article:published_time": "2025-03-27T12:44:32+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2025-03-27T12:44:32+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<유>제이준코스메틱, 상한가 진입.. +29.97% ↑ | 서울경제",
+            "dd:published_time": "2025-03-27T12:44:32+09:00",
+            "og:description": "증권 > News봇 뉴스: 오후 12시 44분 현재 제이준코스메틱(025620)이 +29.97% 오른 4,575원(▲1,055)으로 장중 상한가에 진입했다. 거래대금은 42억5,...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2025/03/27/2GQEQIIB6M_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2025-03-27T12:44:32+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2GQEQIIB6M/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<유>제이준코스메틱, 상한가 진입.. +29.97% ↑",
+            "dable:item_id": "2GQEQIIB6M",
+            "og:title": "<유>제이준코스메틱, 상한가 진입.. +29.97% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<유>제이준코스메틱, 상한가 진입.. +29.97% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2GQEQIIB6M",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오후 12시 44분 현재 제이준코스메틱(025620)이 +29.97% 오른 4,575원(▲1,055)으로 장중 상한가에 진입했다. 거래대금은 42억5,...",
+            "ngh:id": "2GQEQIIB6M",
+            "dable:image": "https://newsimg.sedaily.com/2025/03/27/2GQEQIIB6M_1_m.png",
+            "ngh:title": "​<유>제이준코스메틱, 상한가 진입.. +29.97% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2GQEQIIB6M/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/05/09/29PIF7U7IX_7.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[fnRASSI]오늘의 상한가, 제이준코스메틱 30.0% ↑ : 네이트 뉴스",
+      "htmlTitle": "[fnRASSI]오늘의 <b>상한가</b>, <b>제이준코스메틱</b> 30.0% ↑ : 네이트 뉴스",
+      "link": "https://news.nate.com/view/20230110n24523?mid=n1101",
+      "displayLink": "news.nate.com",
+      "snippet": "Jan 10, 2023 ... 한눈에 보는 오늘 : 경제 - 뉴스 : 10일 제이준코스메틱(025620), 티라유텍(322180), 에스아이리소스(065420)등이 상한가를 기록했다.",
+      "htmlSnippet": "Jan 10, 2023 <b>...</b> 한눈에 보는 오늘 : 경제 - 뉴스 : 10일 <b>제이준코스메틱</b>(025620), 티라유텍(322180), 에스아이리소스(065420)등이 <b>상한가</b>를 기록했다.",
+      "formattedUrl": "https://news.nate.com/view/20230110n24523?mid=n1101",
+      "htmlFormattedUrl": "https://news.nate.com/view/20230110n24523?mid=n1101",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://news.nateimg.co.kr/orgImg/fn/2023/01/10/202301101536011439_l.png",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "모바일 네이트 뉴스",
+            "viewport": "initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, width=device-width",
+            "og:title": "[fnRASSI]오늘의 상한가, 제이준코스메틱 30.0% ↑ : 네이트 뉴스",
+            "og:locale": "ko_KR",
+            "og:url": "https://m.news.nate.com/view/20230110n24523?mid=m02",
+            "og:description": "한눈에 보는 오늘 : 경제 - 뉴스 : 10일 제이준코스메틱(025620), 티라유텍(322180), 에스아이리소스(065420)등이 상한가를 기록했다. 특히 제이준코스메틱은 전 거래일 대비 30.0% 오른 7,850원에 거래를 마감하며 높은 관심을 받았다. 'fnRASSI'는 금융 AI",
+            "ssul:category": "sisa"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 제이준코스메틱, 유상증자 성공 소식에 '상한가'",
+      "htmlTitle": "[특징주] <b>제이준코스메틱</b>, 유상증자 성공 소식에 &#39;<b>상한가</b>&#39;",
+      "link": "https://m.skyedaily.com/news_view.html?ID=137649",
+      "displayLink": "m.skyedaily.com",
+      "snippet": "Aug 2, 2021 ... 제이준코스메틱[025620]이 급등세를 보이고 있다. 주주배정 후 실권주 대상 일반공모 청약에서 높은 경쟁률을 보이며 긍정적인 평가를 받았기 때문이다. 2 ...",
+      "htmlSnippet": "Aug 2, 2021 <b>...</b> <b>제이준코스메틱</b>[025620]이 급등세를 보이고 있다. 주주배정 후 실권주 대상 일반공모 청약에서 높은 경쟁률을 보이며 긍정적인 평가를 받았기 때문이다. 2&nbsp;...",
+      "formattedUrl": "https://m.skyedaily.com/news_view.html?ID=137649",
+      "htmlFormattedUrl": "https://m.skyedaily.com/news_view.html?ID=137649",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7SOB0yxvz9hFSc3Y49kL3yusZIEYEzzxfhtKD-n4pXAbwQEPxMt_-pw&s",
+            "width": "160",
+            "height": "119"
+          }
+        ],
+        "metatags": [
+          {
+            "image": "https://pds.skyedaily.com/top_image/202108/137649_p.jpg",
+            "og:image": "https://pds.skyedaily.com/top_image/202108/137649_p.jpg",
+            "og:title": "[특징주] 제이준코스메틱, 유상증자 성공 소식에 ‘상한가’",
+            "title": "[특징주] 제이준코스메틱, 유상증자 성공 소식에 ‘상한가’",
+            "og:url": "https://m.skyedaily.com/news_view.html?ID=137649",
+            "msapplication-tileimage": "/mob/images/favicon270.png",
+            "og:description": "제이준코스메틱[025620]이 급등세를 보이고 있 ..."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pds.skyedaily.com/top_image/202108/137649_p.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[급등락주 짚어보기] 이재명 테마주 제이준코스매틱 '상한가' : 네이트 ...",
+      "htmlTitle": "[급등락주 짚어보기] 이재명 테마주 <b>제이준</b>코스매틱 &#39;<b>상한가</b>&#39; : 네이트 ...",
+      "link": "https://news.nate.com/view/20250327n32651?mid=n1101",
+      "displayLink": "news.nate.com",
+      "snippet": "6 hours ago ... 한눈에 보는 오늘 : 경제 - 뉴스 : [이투데이/김범근 기자]27일 유가증권시장에서 상한가를 기록한 종목은 제이준코스메틱이다.제이준코스메틱은 ...",
+      "htmlSnippet": "6 hours ago <b>...</b> 한눈에 보는 오늘 : 경제 - 뉴스 : [이투데이/김범근 기자]27일 유가증권시장에서 <b>상한가</b>를 기록한 종목은 <b>제이준코스메틱</b>이다.<b>제이준코스메틱</b>은&nbsp;...",
+      "formattedUrl": "https://news.nate.com/view/20250327n32651?mid=n1101",
+      "htmlFormattedUrl": "https://news.nate.com/view/20250327n32651?mid=n1101",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyea41sftRkzGV3E2yJWXsX49c1tdZkx2yrLQtSiT3G_8byKbBcyilu0&s=0",
+            "width": "132",
+            "height": "9"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://news.nateimg.co.kr/orgImg/ey/2025/03/27/20250327162826_2152769_1188_79.png",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "모바일 네이트 뉴스",
+            "viewport": "initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, width=device-width",
+            "og:title": "[급등락주 짚어보기] 이재명 테마주 제이준코스매틱 '상한가' : 네이트 뉴스",
+            "og:locale": "ko_KR",
+            "og:url": "https://m.news.nate.com/view/20250327n32651?mid=m02",
+            "og:description": "한눈에 보는 오늘 : 경제 - 뉴스 : [이투데이/김범근 기자]27일 유가증권시장에서 상한가를 기록한 종목은 제이준코스메틱이다.제이준코스메틱은 29.97% 오른 4575원으로 장을 마쳤다.마스크팩으로 유명한 제이준코스메틱은 다양한 화장품 제조 및 판매로 국내외 시장에서 지속적인 성장세를 보",
+            "ssul:category": "sisa"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://news.nateimg.co.kr/orgImg/ey/2025/03/27/20250327162826_2152769_1188_79.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[급등락주 짚어보기] 이재명 테마주 제이준코스매틱 '상한가' - 이투데이",
+      "htmlTitle": "[급등락주 짚어보기] 이재명 테마주 <b>제이준</b>코스매틱 &#39;<b>상한가</b>&#39; - 이투데이",
+      "link": "https://www.etoday.co.kr/news/view/2456707?trc=sub_list_news",
+      "displayLink": "www.etoday.co.kr",
+      "snippet": "6 hours ago ... 27일 유가증권시장에서 상한가를 기록한 종목은 제이준코스메틱이다.제이준코스메틱은 29.97% 오른 4575원으로 장을 마쳤다.마스크팩으로 유명한 ...",
+      "htmlSnippet": "6 hours ago <b>...</b> 27일 유가증권시장에서 <b>상한가</b>를 기록한 종목은 <b>제이준코스메틱</b>이다.<b>제이준코스메틱</b>은 29.97% 오른 4575원으로 장을 마쳤다.마스크팩으로 유명한 ...",
+      "formattedUrl": "https://www.etoday.co.kr/news/view/2456707?trc=sub_list_news",
+      "htmlFormattedUrl": "https://www.etoday.co.kr/news/view/2456707?trc=sub_list_news",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToN1-TyKdJGVubYOuwayKQzkj_Z6kZBkcLaKeVCtN4om1-FmndUe5PWqKd&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.etoday.co.kr/images/etoday_og.jpg",
+            "og:image:width": "1280",
+            "dd:author": "김범근",
+            "dd:availability": "true",
+            "article:published_time": "2025-03-27T16:31:00+09:00",
+            "og:site_name": "이투데이",
+            "articleid": "2456707",
+            "dd:category2": "2199",
+            "dd:published_time": "2025-03-27T16:31:00+09:00",
+            "og:description": "27일 유가증권시장에서 상한가를 기록한 종목은 제이준코스메틱이다.제이준코스메틱은 29.97% 오른 4575원으로 장을 마쳤다.마스크팩으로 유명한 ...",
+            "news_keywords": "제이준코스메틱,올리패스,자연과환경,형지글로벌",
+            "fb:admins": "100001191273481",
+            "dd:publisher": "이투데이",
+            "og:type": "article",
+            "article:section": "증권·금융",
+            "dable:item_id": "2456707",
+            "og:title": "[급등락주 짚어보기] 이재명 테마주 제이준코스매틱 ‘상한가’",
+            "og:image:height": "720",
+            "article:author": "https://www.facebook.com/etoday/",
+            "dd:category": "21",
+            "referrer": "no-referrer-when-downgrade",
+            "fb:app_id": "127898540577087",
+            "dd:content_id": "2456707",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "position": "1",
+            "og:url": "https://www.etoday.co.kr/news/view/2456707"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.etoday.co.kr/images/etoday_og.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 제이준코스메틱, 주가2040원 +29.94%상한가...3년 적자기업 ...",
+      "htmlTitle": "[특징주] <b>제이준코스메틱</b>, 주가2040원 +29.94%<b>상한가</b>...3년 적자기업 ...",
+      "link": "http://www.ksdaily.co.kr/news/articleView.html?idxno=88581",
+      "displayLink": "www.ksdaily.co.kr",
+      "snippet": "Aug 2, 2021 ... 제이준코스메틱(025620)이 상한가를 기록했다.제이준코스메틱은 2일 12시 47분 현재 전 거래일 종가(1570원)대비 470원(+29.94%)오른 2040원에 거래 ...",
+      "htmlSnippet": "Aug 2, 2021 <b>...</b> <b>제이준코스메틱</b>(025620)이 <b>상한가</b>를 기록했다.<b>제이준코스메틱</b>은 2일 12시 47분 현재 전 거래일 종가(1570원)대비 470원(+29.94%)오른 2040원에 거래&nbsp;...",
+      "formattedUrl": "http://www.ksdaily.co.kr/news/articleView.html?idxno=88581",
+      "htmlFormattedUrl": "http://www.ksdaily.co.kr/news/articleView.html?idxno=88581",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuydqU1usCp7Up9B-i2Ic1w2d6VDqFxuMis0uhgzEXOQAdO2_uEMQrL1I&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.ksdaily.co.kr/news/thumbnail/202108/88581_40848_4830_v150.jpg",
+            "copyright": "한국미디어서비스(주)",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[특징주] 제이준코스메틱, 주가2040원 +29.94%상한가...3년 적자기업서 무증 권리락 '효과' 글세",
+            "og:site_name": "한국증권",
+            "og:title": "[특징주] 제이준코스메틱, 주가2040원 +29.94%상한가...3년 적자기업서 무증 권리락 '효과' 글세",
+            "title": "[특징주] 제이준코스메틱, 주가2040원 +29.94%상한가...3년 적자기업서 무증 권리락 '효과' 글세",
+            "classification": "국내증시",
+            "og:description": "제이준코스메틱(025620)이 상한가를 기록했다.제이준코스메틱은 2일 12시 47분 현재 전 거래일 종가(1,570원)대비 470원(+29.94%)오른 2,040원에 거래되고 있다. 거래량은 11,225,174주이다. 거래대금은 219억7200만원이다.무상증자 권리락을 앞두고 가격제한선까지 치솟았다.지난 5월21일 개최된 이사회에서 유&middot;무상증자를 결의, 오는 3일을 무상증자 신주배정기준일로 정했다. 무상증자는 지난달 유상증자 후 주주명부에 기재된 주주(자기주식 제외)에 대해 소유 주식 1주당 0.2주의 비율로 신주를 무",
+            "twitter:creator": "박경도 기자",
+            "twitter:image": "http://www.ksdaily.co.kr/news/thumbnail/202108/88581_40848_4830_v150.jpg",
+            "twitter:site": "http://www.ksdaily.co.kr/news/articleView.html?idxno=88581",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "news_keywords": "제이준코스메틱",
+            "twitter:description": "제이준코스메틱(025620)이 상한가를 기록했다.제이준코스메틱은 2일 12시 47분 현재 전 거래일 종가(1,570원)대비 470원(+29.94%)오른 2,040원에 거래되고 있다. 거래량은 11,225,174주이다. 거래대금은 219억7200만원이다.무상증자 권리락을 앞두고 가격제한선까지 치솟았다.지난 5월21일 개최된 이사회에서 유&middot;무상증자를 결의, 오는 3일을 무상증자 신주배정기준일로 정했다. 무상증자는 지난달 유상증자 후 주주명부에 기재된 주주(자기주식 제외)에 대해 소유 주식 1주당 0.2주의 비율로 신주를 무",
+            "og:url": "http://www.ksdaily.co.kr/news/articleView.html?idxno=88581",
+            "og:article:author": "박경도 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.ksdaily.co.kr/news/thumbnail/202108/88581_40848_4830_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "12월 22일 시간외 단일가 상한가 및 이유 :: 제이준코스메틱 자화전자 ...",
+      "htmlTitle": "12월 22일 시간외 단일가 <b>상한가</b> 및 이유 :: <b>제이준코스메틱</b> 자화전자 ...",
+      "link": "https://st.mrma.co.kr/836",
+      "displayLink": "st.mrma.co.kr",
+      "snippet": "Dec 22, 2021 ... 12월 22일 시간외 상승종목 · 제이준코스메틱 주가 +9.97% · 자화전자 +8.96% · 초록뱀컴퍼니 +5.96% · 위지윅스튜디오 주가 +5.62% · SCI평가정보 주가 + ...",
+      "htmlSnippet": "Dec 22, 2021 <b>...</b> 12월 22일 시간외 상승종목 &middot; <b>제이준코스메틱</b> 주가 +9.97% &middot; 자화전자 +8.96% &middot; 초록뱀컴퍼니 +5.96% &middot; 위지윅스튜디오 주가 +5.62% &middot; SCI평가정보 주가 +&nbsp;...",
+      "formattedUrl": "https://st.mrma.co.kr/836",
+      "htmlFormattedUrl": "https://st.mrma.co.kr/836",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aqfOBVTZjuGF5MtBIByIVZu7nRXajzQSGHg9EmKyZx8xNTivdIlMB-iA&s",
+            "width": "252",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRr0mi%2FbtroFKMtszk%2FX10hFka6G1e3b5MgxDYSi0%2Fimg.png",
+            "og.article.author": "마선생",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2021-12-22T21:00:21+09:00",
+            "og:site_name": "재테크 마선생",
+            "article:mobile_view_url": "https://mrmacokr.tistory.com/m/836",
+            "google-adsense-account": "ca-pub-5607899451482436",
+            "article:mobile_service_home": "https://www.tistory.com/m",
+            "al:android:package": "org.applinks",
+            "article:pc_view_url": "https://mrmacokr.tistory.com/836",
+            "title": "12월 22일 시간외 단일가 상한가 및 이유 :: 제이준코스메틱 자화전자 초록뱀컴퍼니 위지윅스튜디오 주가 외",
+            "al:ios:url": "applinks://docs",
+            "og:description": "2021년 12월 22일 시간외 단일가 상한가 및 이유 :: 제이준코스메틱 자화전자 초록뱀컴퍼니 위지윅스튜디오 주가 외 정규장 상한가 종목은 아래 링크를 통해서 확인 하실 수 있습니다. 12월 22일 오늘의 상한가 종목 및 이유 :: 세기상사 바른손이앤에이 KPX생명과학 지에스이 에스피 2021년 12월 22일 오늘의 상한가 종목 및 이유 :: 세기상사 바른손이앤에이 KPX생명과학 지에스이 에스피시스템스 주가 외 지난 뉴욕증시는 오미크론 우려 완화 속 저가 매수세 유입 등에 강세를 보 st.mrma.co.kr 시간외 단일가매매 종가 종목 확인시 단순 급등주 등락률만 볼 것이 아니라, '거래량'에 따르는 거래대금도 판단하면서 보는 것이 중요합니다. (종목명 앞에 'K'는 코스닥 종목을 의미합니다.) 12월..",
+            "twitter:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRr0mi%2FbtroFKMtszk%2FX10hFka6G1e3b5MgxDYSi0%2Fimg.png",
+            "al:ios:app_store_id": "12345",
+            "article:talk_channel_view_url": "https://st.mrma.co.kr/m/836",
+            "twitter:site": "@TISTORY",
+            "naver-site-verification": "442627eb06532303e2f3a4ffbfb4c840a049f673",
+            "article:pc_url": "https://st.mrma.co.kr/836",
+            "article:modified_time": "2021-12-22T21:01:22+09:00",
+            "article:txid": "3695401_836",
+            "by": "마선생",
+            "article:media_name": "재테크 마선생",
+            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+            "article:mobile_url": "https://st.mrma.co.kr/m/836",
+            "dg:plink": "https://st.mrma.co.kr/836",
+            "og:type": "article",
+            "article:section": "'경제'",
+            "twitter:title": "12월 22일 시간외 단일가 상한가 및 이유 :: 제이준코스메틱 자화전자 초록뱀컴퍼니 위지윅스튜디오 주가 외",
+            "al:ios:app_name": "App Links",
+            "msvalidate.01": "5CC4C80178FDA396B363E9B2D83E2FF9",
+            "og:title": "12월 22일 시간외 단일가 상한가 및 이유 :: 제이준코스메틱 자화전자 초록뱀컴퍼니 위지윅스튜디오 주가 외",
+            "al:web:url": "https://applinks.org/documentation",
+            "article:pc_service_home": "https://www.tistory.com",
+            "al:android:url": "applinks://docs",
+            "referrer": "always",
+            "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0",
+            "twitter:description": "2021년 12월 22일 시간외 단일가 상한가 및 이유 :: 제이준코스메틱 자화전자 초록뱀컴퍼니 위지윅스튜디오 주가 외 정규장 상한가 종목은 아래 링크를 통해서 확인 하실 수 있습니다. 12월 22일 오늘의 상한가 종목 및 이유 :: 세기상사 바른손이앤에이 KPX생명과학 지에스이 에스피 2021년 12월 22일 오늘의 상한가 종목 및 이유 :: 세기상사 바른손이앤에이 KPX생명과학 지에스이 에스피시스템스 주가 외 지난 뉴욕증시는 오미크론 우려 완화 속 저가 매수세 유입 등에 강세를 보 st.mrma.co.kr 시간외 단일가매매 종가 종목 확인시 단순 급등주 등락률만 볼 것이 아니라, '거래량'에 따르는 거래대금도 판단하면서 보는 것이 중요합니다. (종목명 앞에 'K'는 코스닥 종목을 의미합니다.) 12월..",
+            "google-adsense-platform-domain": "tistory.com",
+            "yeti": "index, follow",
+            "og:url": "https://st.mrma.co.kr/836",
+            "al:android:app_name": "App Links",
+            "format-detection": "telephone=no",
+            "og:regdate": "20211222090021"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcRr0mi%2FbtroFKMtszk%2FX10hFka6G1e3b5MgxDYSi0%2Fimg.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "제이준코스메틱, +29.97% 상한가 - 조선비즈",
+      "htmlTitle": "<b>제이준코스메틱</b>, +29.97% <b>상한가</b> - 조선비즈",
+      "link": "https://biz.chosun.com/stock/c-biz_bot/2025/03/27/F37QCL3ML637NOOHFGB4HOATWU/?outputType=amp",
+      "displayLink": "biz.chosun.com",
+      "snippet": "9 hours ago ... 제이준코스메틱, +29.97% 상한가 제이준코스메틱025620이 상한가를 기록했다. 전일 대비 29.97% 상승한 4575원에 거래되고 있다. 제이준코스메틱 연관 ...",
+      "htmlSnippet": "9 hours ago <b>...</b> <b>제이준코스메틱</b>, +29.97% <b>상한가 제이준코스메틱</b>025620이 <b>상한가</b>를 기록했다. 전일 대비 29.97% 상승한 4575원에 거래되고 있다. <b>제이준코스메틱</b> 연관&nbsp;...",
+      "formattedUrl": "https://biz.chosun.com/.../c.../F37QCL3ML637NOOHFGB4HOATWU/?...",
+      "htmlFormattedUrl": "https://biz.chosun.com/.../c.../F37QCL3ML637NOOHFGB4HOATWU/?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyudss8E7-Z3hlhotTpTxNj64ECAktbFEObQQTieT8gdIojWMkg2EpuQ&s",
+            "width": "310",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://biz.chosun.com/resizer/v2/EBVDEH62KNVB352SLJYIZBTNVU.png?auth=1e2e7a223cd09c3c6b43a43a81f33667876c998fb675350f5577666272210fa5&width=996&height=522&smart=true",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "제이준코스메틱, +29.97% 상한가",
+            "og:site_name": "조선비즈",
+            "og:title": "제이준코스메틱, +29.97% 상한가",
+            "og:description": "제이준코스메틱, +29.97% 상한가",
+            "twitter:creator": "@Chosun",
+            "article:author": "조선비즈",
+            "twitter:image:src": "https://biz.chosun.com/resizer/v2/EBVDEH62KNVB352SLJYIZBTNVU.png?auth=1e2e7a223cd09c3c6b43a43a81f33667876c998fb675350f5577666272210fa5&width=996&height=522&smart=true",
+            "twitter:site": "@Chosun",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "제이준코스메틱, +29.97% 상한가",
+            "og:url": "https://biz.chosun.com/stock/c-biz_bot/2025/03/27/F37QCL3ML637NOOHFGB4HOATWU/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://biz.chosun.com/resizer/v2/EBVDEH62KNVB352SLJYIZBTNVU.png?auth=1e2e7a223cd09c3c6b43a43a81f33667876c998fb675350f5577666272210fa5&width=996&height=522&smart=true"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -16,6 +16,9 @@ import pandas as pd
 from models import User, engine
 from sqlalchemy.orm import sessionmaker
 from passlib.context import CryptContext
+import os
+import logging
+from typing import List, Dict
 
 # 비밀번호 해싱을 위한 설정
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
@@ -60,35 +63,100 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
 
-def get_crypto_data(symbol):
-    end_date = datetime.now().strftime('%Y-%m-%d')
-    data = yf.download(f'{symbol}-USD', start='2016-01-01', end=end_date, auto_adjust=False)
-    close_data = data[('Close', f'{symbol}-USD')].copy()
-    return pd.DataFrame({'Close': close_data})
+def get_crypto_data(symbol: str) -> pd.Series:
+    """
+    암호화폐 데이터를 로컬 CSV 파일에서 읽어옵니다.
+    """
+    try:
+        # CSV 파일에서 데이터 읽기
+        filename = f'datas/crypto/{symbol}.csv'
+        if not os.path.exists(filename):
+            logging.error(f"Data file not found for {symbol}")
+            return pd.Series()
+        
+        data = pd.read_csv(filename, index_col=0, parse_dates=True)
+        data.index = pd.to_datetime(data.index)
+        
+        logging.info(f"Successfully loaded {symbol} data from {filename}")
+        logging.info(f"Data range: {data.index[0]} to {data.index[-1]}")
+        
+        return data
+
+    except Exception as e:
+        logging.error(f"Error loading {symbol} data: {e}")
+        return pd.Series()
+
+def get_multi_crypto_data(symbols: List[str], show_mvrv: bool = False) -> Dict[str, pd.Series]:
+    """
+    여러 암호화폐의 데이터를 가져옵니다.
+    """
+    result = {}
+    for symbol in symbols:
+        data = get_crypto_data(symbol)
+        if not data.empty:
+            result[symbol] = data
+    
+    if show_mvrv and 'bitcoin' in symbols:
+        try:
+            mvrv_data = pd.read_csv('datas/mvrv.csv', index_col=0, parse_dates=True)
+            mvrv_data.index = pd.to_datetime(mvrv_data.index)
+            result['mvrv'] = mvrv_data['mvrv_z_score']
+        except Exception as e:
+            logging.error(f"Error loading MVRV data: {e}")
+    
+    return result
 
 def get_mvrv_data():
-    # MVRV Z-Score 데이터를 가져오는 함수
-    # 실제로는 API나 데이터베이스에서 가져와야 하지만, 예시로 더미 데이터 생성
-    dates = pd.date_range(start='2016-01-01', end=datetime.now(), freq='D')
-    import numpy as np
-    np.random.seed(42)
-    z_scores = np.random.normal(0, 2, size=len(dates))
-    print('z_scores', z_scores)
-    z_scores = pd.Series(np.cumsum(z_scores) / 10, index=dates)
-    return pd.DataFrame({'Z-Score': z_scores})
+    try:
+        # CSV 파일 읽기 (첫 번째 행이 실제 데이터인 경우를 대비)
+        df = pd.read_csv('datas/mvrv/mvrv_zscore.csv', header=None)
+        
+        # 두 개의 열을 'timestamp', 'mvrv_zscore'로 이름 설정
+        if df.shape[1] == 2:
+            df.columns = ['timestamp', 'mvrv_zscore']
+        else:
+            raise ValueError("CSV 파일에 두 개의 열이 없습니다.")
+
+        print('Raw DataFrame:', df.head())
+
+        # timestamp 열을 datetime 형식으로 변환
+        df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
+
+        # 변환 실패한 행 제거
+        df = df.dropna(subset=['timestamp'])
+
+        # timestamp를 인덱스로 설정
+        df.set_index('timestamp', inplace=True)
+
+        # mvrv_zscore 열 이름 변경
+        df = df.rename(columns={'mvrv_zscore': 'Z-Score'})
+
+        print('Processed DataFrame:', df.head())
+
+        return df
+
+    except Exception as e:
+        print(f"Error reading MVRV Z-Score data: {e}")
+        return pd.DataFrame({'Z-Score': []})
 
 # Initialize data
-crypto_data = {
-    'bitcoin': get_crypto_data('BTC'),
-    'ethereum': get_crypto_data('ETH'),
-    'ripple': get_crypto_data('XRP')
-}
-mvrv_data = get_mvrv_data()
+def initialize_crypto_data():
+    result = {}
+    cryptos = ['bitcoin', 'ethereum', 'ripple']
+    for crypto in cryptos:
+        data = get_crypto_data(crypto)
+        if not isinstance(data.empty, bool):  # Series인 경우
+            data = pd.DataFrame(data)
+            data.columns = ['Close']
+        if not data.empty:
+            data = data[data['Close'] > 0]  # 0보다 큰 값만 유지
+            data = data.dropna()  # NA 값 제거
+            result[crypto] = data
+    return result
 
-# Clean the data
-for data in crypto_data.values():
-    data.dropna(inplace=True)
-    data = data[data['Close'] > 0]
+# Global variables
+crypto_data = initialize_crypto_data()
+mvrv_data = get_mvrv_data()
 
 def create_multi_crypto_chart(selected_cryptos, show_mvrv=False):
     # Create figure with secondary y-axis
@@ -103,19 +171,20 @@ def create_multi_crypto_chart(selected_cryptos, show_mvrv=False):
     
     # Add trace for each selected cryptocurrency
     for crypto_name in selected_cryptos:
-        data = crypto_data[crypto_name]
-        display_name = crypto_name.capitalize()
-        
-        fig.add_trace(
-            go.Scatter(
-                x=list(data.index),
-                y=list(data['Close']),
-                mode='lines',
-                name=f"{display_name} Price",
-                line=dict(color=colors.get(crypto_name, 'black'), width=2)
-            ),
-            secondary_y=False
-        )
+        if crypto_name in crypto_data:
+            data = crypto_data[crypto_name]
+            display_name = crypto_name.capitalize()
+            
+            fig.add_trace(
+                go.Scatter(
+                    x=list(data.index),
+                    y=list(data['Close']),
+                    mode='lines',
+                    name=f"{display_name} Price",
+                    line=dict(color=colors.get(crypto_name, 'black'), width=2)
+                ),
+                secondary_y=False
+            )
     
     # Add MVRV Z-Score if enabled
     if show_mvrv:
@@ -183,17 +252,9 @@ def create_multi_crypto_chart(selected_cryptos, show_mvrv=False):
     )
 
 @app.get("/", response_class=HTMLResponse)
-async def root(request: Request, db: Session = Depends(get_db)):
-    user = None
-    if 'user' in request.session:
-        username = request.session['user']['username']
-        user = db.query(User).filter(User.username == username).first()
-    
-    chart = create_multi_crypto_chart(['bitcoin'])
-    return templates.TemplateResponse(
-        "index.html",
-        {"request": request, "chart": chart, "user": user}
-    )
+async def root(request: Request):
+    """기본 페이지를 /crypto/bitcoin으로 리다이렉트합니다."""
+    return RedirectResponse(url="/crypto/bitcoin")
 
 @app.get("/login", response_class=HTMLResponse)
 async def login_page(request: Request):
@@ -270,8 +331,13 @@ async def logout(request: Request):
     request.session.pop('user', None)
     return RedirectResponse(url='/')
 
-@app.get("/multi/{cryptos}", response_class=HTMLResponse)
-async def multi_crypto(request: Request, cryptos: str, mvrv: bool = False, db: Session = Depends(get_db)):
+@app.get("/crypto")
+async def crypto_redirect():
+    """기본 암호화폐 페이지를 /crypto/bitcoin으로 리다이렉트합니다."""
+    return RedirectResponse(url="/crypto/bitcoin")
+
+@app.get("/crypto/{cryptos}", response_class=HTMLResponse)
+async def crypto_page(request: Request, cryptos: str, mvrv: bool = False, db: Session = Depends(get_db)):
     user = None
     if 'user' in request.session:
         username = request.session['user']['username']
@@ -283,11 +349,194 @@ async def multi_crypto(request: Request, cryptos: str, mvrv: bool = False, db: S
     
     chart = create_multi_crypto_chart(selected_cryptos, show_mvrv=mvrv)
     return templates.TemplateResponse(
-        "index.html",
+        "crypto.html",
         {"request": request, "chart": chart, "user": user}
     )
 
+def get_stock_data(code):
+    """KOSPI 종목의 주가 데이터를 가져옵니다."""
+    try:
+        # 종목 코드를 6자리로 맞추기
+        code = str(code).zfill(6)
+        # 종목 코드에 .KS 추가 (KOSPI 종목)
+        symbol = f"{code}.KS"
+        
+        # yfinance Ticker 객체 생성
+        ticker = yf.Ticker(symbol)
+        
+        # 데이터 다운로드
+        data = ticker.history(start='2010-01-01', end=datetime.now().strftime('%Y-%m-%d'))
+        print('data', data)
+        
+        if data.empty:
+            print(f"No data found for {symbol}")
+            return pd.DataFrame()
+            
+        print(f"Data retrieved for {symbol}: {len(data)} rows")
+        return data
+        
+    except Exception as e:
+        print(f"Error fetching stock data for {code}: {e}")
+        return pd.DataFrame()
+
+def create_stock_chart(data, stock_name, stock_code):
+    """주식 차트를 생성합니다."""
+    if data.empty:
+        return "<div>데이터를 불러올 수 없습니다.</div>"
+
+    # 서브플롯 생성
+    fig = make_subplots(
+        rows=2, cols=1,
+        shared_xaxes=True,
+        vertical_spacing=0.03,
+        subplot_titles=('Price', 'Volume'),
+        row_width=[0.7, 0.3]
+    )
+
+    # 캔들스틱 차트 추가
+    print('data', data['Open'])
+    fig.add_trace(
+        go.Candlestick(
+            x=data.index,
+            open=data['Open'],
+            high=data['High'],
+            low=data['Low'],
+            close=data['Close'],
+            name='OHLC'
+        ),
+        row=1, col=1
+    )
+
+    # 거래량 차트 추가
+    fig.add_trace(
+        go.Bar(
+            x=list(data.index),
+            y=list(data['Volume']),
+            name='Volume',
+            marker_color='rgba(0,0,0,0.2)'
+        ),
+        row=2, col=1
+    )
+
+    # 레이아웃 설정
+    fig.update_layout(
+        title=f"{stock_name} ({stock_code})",
+        yaxis_title="Price (KRW)",
+        xaxis_title="Date",
+        template='plotly_white',
+        height=800,
+        showlegend=True,
+        legend=dict(
+            yanchor="top",
+            y=0.99,
+            xanchor="right",
+            x=0.99
+        ),
+        margin=dict(t=50, l=50, r=50, b=50)
+    )
+
+    # Y축 설정
+    fig.update_yaxes(title_text="Price (KRW)", row=1, col=1)
+    fig.update_yaxes(title_text="Volume", row=2, col=1)
+
+    return fig.to_html(
+        full_html=False,
+        include_plotlyjs=False,
+        config={
+            'displayModeBar': True,
+            'scrollZoom': True,
+            'responsive': True
+        }
+    )
+
+# KOSPI 종목 정보 (예시 데이터)
+KOSPI_STOCKS = [
+    {"code": "005930", "name": "삼성전자"},
+    {"code": "000660", "name": "SK하이닉스"},
+    {"code": "035420", "name": "NAVER"},
+    {"code": "005380", "name": "현대차"},
+    {"code": "051910", "name": "LG화학"},
+    {"code": "035720", "name": "카카오"},
+    {"code": "005490", "name": "POSCO홀딩스"},
+    {"code": "055550", "name": "신한지주"},
+    {"code": "000270", "name": "기아"},
+    {"code": "105560", "name": "KB금융"}
+]
+
+@app.get("/kospi")
+async def kospi_page(request: Request, db: Session = Depends(get_db)):
+    """KOSPI 페이지를 표시합니다."""
+    user = None
+    if 'user' in request.session:
+        username = request.session['user']['username']
+        user = db.query(User).filter(User.username == username).first()
+    
+    return templates.TemplateResponse(
+        "kospi.html",
+        {"request": request, "chart": "", "user": user}
+    )
+
+@app.get("/kospi/search")
+async def search_kospi(query: str):
+    """KOSPI 종목을 검색합니다."""
+    query = query.lower()
+    results = [
+        stock for stock in KOSPI_STOCKS
+        if query in stock["name"].lower() or query in stock["code"]
+    ]
+    return results[:10]  # 최대 10개 결과 반환
+
+@app.get("/kospi/chart/{code}")
+async def get_kospi_chart(request: Request, code: str, db: Session = Depends(get_db)):
+    """특정 KOSPI 종목의 차트를 표시합니다."""
+    user = None
+    if 'user' in request.session:
+        username = request.session['user']['username']
+        user = db.query(User).filter(User.username == username).first()
+    
+    # 종목 정보 찾기
+    stock_info = next((stock for stock in KOSPI_STOCKS if stock["code"] == code), None)
+    if not stock_info:
+        return {"error": "종목을 찾을 수 없습니다."}
+
+    # 주가 데이터 가져오기
+    data = get_stock_data(code)
+    if data.empty:
+        return {"error": "데이터를 불러올 수 없습니다."}
+
+    # 차트 생성
+    chart = create_stock_chart(data, stock_info["name"], code)
+    
+    return templates.TemplateResponse(
+        "kospi.html",
+        {
+            "request": request,
+            "chart": chart,
+            "stock_info": stock_info,
+            "user": user
+        }
+    )
+
 if __name__ == "__main__":
+    # 데이터 디렉토리가 없으면 생성
+    if not os.path.exists('datas/crypto'):
+        os.makedirs('datas/crypto')
+    
+    # 암호화폐 데이터가 없으면 다운로드
+    cryptos = ['bitcoin', 'ethereum', 'ripple']
+    need_download = False
+    for crypto in cryptos:
+        if not os.path.exists(f'datas/crypto/{crypto}.csv'):
+            need_download = True
+            break
+    
+    if need_download:
+        print("Downloading cryptocurrency data...")
+        from download_crypto_data import download_crypto_data
+        download_crypto_data()
+        print("Download complete!")
+    
+    import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8080)
 
 

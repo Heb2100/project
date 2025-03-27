@@ -1,0 +1,574 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - KD 상한가",
+        "totalResults": "29000",
+        "searchTerms": "KD 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - KD 상한가",
+        "totalResults": "29000",
+        "searchTerms": "KD 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.406812,
+    "formattedSearchTime": "0.41",
+    "totalResults": "29000",
+    "formattedTotalResults": "29,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "[KD] 영업이익 흑자 전환에 상한가 : 네이버 블로그",
+      "htmlTitle": "[<b>KD</b>] 영업이익 흑자 전환에 <b>상한가</b> : 네이버 블로그",
+      "link": "https://m.blog.naver.com/whitebanana_/223372626063",
+      "displayLink": "m.blog.naver.com",
+      "snippet": "Mar 4, 2024 ... KD는? 안녕하세요. 이번 시간에는 영업이익 흑자 전환 소식에 상한가를 달성한 KD에 대해 알아보겠습니다. ​. ​. KD는 주택건설 및 부동산 개발 사업을 ...",
+      "htmlSnippet": "Mar 4, 2024 <b>...</b> <b>KD</b>는? 안녕하세요. 이번 시간에는 영업이익 흑자 전환 소식에 <b>상한가</b>를 달성한 <b>KD</b>에 대해 알아보겠습니다. ​. ​. <b>KD</b>는 주택건설 및 부동산 개발 사업을&nbsp;...",
+      "formattedUrl": "https://m.blog.naver.com/whitebanana_/223372626063",
+      "htmlFormattedUrl": "https://m.blog.naver.com/whitebanana_/223372626063",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmwjcXx52_GeB5Z5-7aUy3B3co_weO1t4YGxytA-bVRS1rXJ_3MjoPVFgU&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyNDAzMDRfMjY2/MDAxNzA5NTI2OTM4Njg1.bvABZKrHOU7WgpZ_J7q56mK8UQ3-M1Szgrm-KFpbcusg.mwI0GjOz2nq4lrQnVJk0pa4ynub0xGFLN_yYPRos16kg.PNG/Yellow_Black_Minimalist_Banana_Illustration_Logo.png?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 바나나의 주식 이야기",
+            "og:title": "[KD] 영업이익 흑자 전환에 상한가",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMjAzMDVfMzcg/MDAxNjQ2NDE4ODU0NTc1._6ibyJRvKL29S-6Pb1yftEM0XrPjCUCjV_F9UdJkX2Eg.t0z4hPM3gkI0m-akFEH64vQpMqgcRkGVT6AMu2dkuF0g.PNG.aajuno212/1.PNG/1.PNG?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000034020BC88F,service=blog,collection=blog",
+            "og:description": "KD는? 안녕하세요. 이번 시간에는 영업이익 흑자 전환 소식에 상한가를 달성한 KD에 대해 알아보겠습니...",
+            "referrer": "always",
+            "naverblog:nickname": "바나나",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/whitebanana_/223372626063",
+            "og:article:author": "바나나의 .. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://mblogthumb-phinf.pstatic.net/MjAyNDAzMDRfMjY2/MDAxNzA5NTI2OTM4Njg1.bvABZKrHOU7WgpZ_J7q56mK8UQ3-M1Szgrm-KFpbcusg.mwI0GjOz2nq4lrQnVJk0pa4ynub0xGFLN_yYPRos16kg.PNG/Yellow_Black_Minimalist_Banana_Illustration_Logo.png?type=w800"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "앤디포스·듀오백·디에이치엑스컴퍼니·KD 상한가, NE능률·큐리언트 ...",
+      "htmlTitle": "앤디포스·듀오백·디에이치엑스컴퍼니·<b>KD 상한가</b>, NE능률·큐리언트 ...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20250321024011672",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "6 days ago ... 기관과 외국인이 각 1168억원, 530억원을 순매수했다. 개인은 1666억원을 순매도했다. 앤디포스·듀오백·디에이치엑스컴퍼니·KD 4개 종목 상한가, 566개 ...",
+      "htmlSnippet": "6 days ago <b>...</b> 기관과 외국인이 각 1168억원, 530억원을 순매수했다. 개인은 1666억원을 순매도했다. 앤디포스·듀오백·디에이치엑스컴퍼니·<b>KD</b> 4개 종목 <b>상한가</b>, 566개&nbsp;...",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20250321024011672",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20250321024011672",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmYB5wd7WmLJa4lOmt1ZlLunazxdJCuNt8b3TYajpOsXki6S4cAl-bwAf&s",
+            "width": "209",
+            "height": "241"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202503/news-p.v1.20250321.9787cb8963ea4256948689539839fec6_R.jpg",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2025-03-21T16:06:20+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "앤디포스·듀오백·디에이치엑스컴퍼니·KD 상한가, NE능률·큐리언트·아센디오·한텍·베셀 등 큰 폭 상승 마감",
+            "distribution": "영남일보",
+            "og:description": "21일 한국거래소에 따르면 코스피지수는 전 거래일 대비 603p023 오른 264313을 기록했다 투자자별 매매동향을 살펴보면 외국인이 8483억원을 순매수했다 개 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202503/news-p.v1.20250321.9787cb8963ea4256948689539839fec6_R.jpg",
+            "article:section2": "증시·금융·보험",
+            "twitter:site": "@Yeongnam",
+            "og:site": "https://m.yeongnam.com/view.php?key=20250321024011672",
+            "author-date(date)": "2025-03-21",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202503/news-p.v1.20250321.9787cb8963ea4256948689539839fec6_R.jpg",
+            "og:type": "article",
+            "twitter:title": "앤디포스·듀오백·디에이치엑스컴퍼니·KD 상한가, NE능률·큐리언트·아센디오·한텍·베셀 등 큰 폭 상승 마감",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20250321024011672",
+            "og:title": "앤디포스·듀오백·디에이치엑스컴퍼니·KD 상한가, NE능률·큐리언트·아센디오·한텍·베셀 등 큰 폭 상승 마감",
+            "url": "https://m.yeongnam.com/view.php?key=20250321024011672",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "21일 한국거래소에 따르면 코스피지수는 전 거래일 대비 603p023 오른 264313을 기록했다 투자자별 매매동향을 살펴보면 외국인이 8483억원을 순매수했다 개 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20250321024011672"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202503/news-p.v1.20250321.9787cb8963ea4256948689539839fec6_R.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "KD 상한가, 이재명과 어떻게 엮였나 : 네이버 블로그",
+      "htmlTitle": "<b>KD 상한가</b>, 이재명과 어떻게 엮였나 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/mgchneek/222417367362",
+      "displayLink": "m.blog.naver.com",
+      "snippet": "Jul 2, 2021 ... KD는 2일 오전 상한가를 친 2,455원을 찍었다. 이틀 연속 상한가다. 이는 이재명주택 정책 관련주로 엮였기 때문이다. ​. 전일 이 지사는 부동산 문제와 ...",
+      "htmlSnippet": "Jul 2, 2021 <b>...</b> <b>KD</b>는 2일 오전 <b>상한가</b>를 친 2,455원을 찍었다. 이틀 연속 <b>상한가</b>다. 이는 이재명주택 정책 관련주로 엮였기 때문이다. ​. 전일 이 지사는 부동산 문제와&nbsp;...",
+      "formattedUrl": "https://m.blog.naver.com/mgchneek/222417367362",
+      "htmlFormattedUrl": "https://m.blog.naver.com/mgchneek/222417367362",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-F-R_SLv0-JUxvGx0X1Fu9_I1-RZ_j7s5T71DmxnNE-AKCvnnue_FqIV1&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogimgs.pstatic.net/nblog/mylog/post/og_default_image_160610.png",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 급등일보 No.1 주식속보메신저",
+            "og:title": "KD 상한가, 이재명과 어떻게 엮였나",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMTA0MzBfMjMy/MDAxNjE5NzU2NzE2NDE3.DclLsClwvOJrFq-kZyp_dAw-PE-le9YKXIRBvgofYdIg.jYjvwvrXYw1itPtAYyoFCFKNIvDMb0yL0PcDEDZv4PQg.PNG.mgchneek/12.png?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033C91BB142,service=blog,collection=blog",
+            "og:description": "(사진 : KD 홈페이지) KD가 급등했다. KD는 2일 오전 상한가를 친 2,455원을 찍었다. 이틀 연속 상한...",
+            "referrer": "always",
+            "naverblog:nickname": "급등일보",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/faststocknews/222417367362",
+            "og:article:author": "급등일보 .. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogimgs.pstatic.net/nblog/mylog/post/og_default_image_160610.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>KD, 상한가 진입.. +29.98%",
+      "htmlTitle": "&lt;코&gt;<b>KD</b>, <b>상한가</b> 진입.. +29.98%",
+      "link": "https://www.sedaily.com/NewsView/2GQEONDABX",
+      "displayLink": "www.sedaily.com",
+      "snippet": "13 hours ago ... 증권 > News봇 뉴스: 오전 9시 30분 현재 KD(044180)가 +29.98% 오른 828원(△191)으로 장중 상한가에 진입했다. 거래대금은 40억4184만, 거래량은 5.",
+      "htmlSnippet": "13 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 30분 현재 <b>KD</b>(044180)가 +29.98% 오른 828원(△191)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 40억4184만, 거래량은 5.",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2GQEONDABX",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2GQEONDABX",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwQ_dHaLpH-MXX30-vUeijHnFdO82bdl7TiMIqEhZBXGZwXr6HthadJ-m&s",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2025/03/27/2GQEONDABX_1.png",
+            "article:published_time": "2025-03-27T09:30:35+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2025-03-27T09:30:35+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>KD, 상한가 진입.. +29.98% ↑ | 서울경제",
+            "dd:published_time": "2025-03-27T09:30:35+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 30분 현재 KD(044180)가 +29.98% 오른 828원(▲191)으로 장중 상한가에 진입했다. 거래대금은 40억4,184만, 거래량은 5...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2025/03/27/2GQEONDABX_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2025-03-27T09:30:35+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2GQEONDABX/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>KD, 상한가 진입.. +29.98% ↑",
+            "dable:item_id": "2GQEONDABX",
+            "og:title": "<코>KD, 상한가 진입.. +29.98% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>KD, 상한가 진입.. +29.98% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2GQEONDABX",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 30분 현재 KD(044180)가 +29.98% 오른 828원(▲191)으로 장중 상한가에 진입했다. 거래대금은 40억4,184만, 거래량은 5...",
+            "ngh:id": "2GQEONDABX",
+            "dable:image": "https://newsimg.sedaily.com/2025/03/27/2GQEONDABX_1_m.png",
+            "ngh:title": "​<코>KD, 상한가 진입.. +29.98% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2GQEONDABX/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/05/09/29PIF7U7IX_7.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[급등주] KD, +29.81% 상한가 기록 - 전국매일신문 - 전국의 생생한 ...",
+      "htmlTitle": "[급등주] <b>KD</b>, +29.81% <b>상한가</b> 기록 - 전국매일신문 - 전국의 생생한 ...",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1130178",
+      "displayLink": "www.jeonmae.co.kr",
+      "snippet": "6 days ago ... KD 주가가 상한가를 기록하고 있다. 21일 오전 10시 55분 기준 현재 전 거래일 대비 +29.81% 오른 601원에 거래되고 있다. 거래량은 125만 6748주다.",
+      "htmlSnippet": "6 days ago <b>...</b> <b>KD</b> 주가가 <b>상한가</b>를 기록하고 있다. 21일 오전 10시 55분 기준 현재 전 거래일 대비 +29.81% 오른 601원에 거래되고 있다. 거래량은 125만 6748주다.",
+      "formattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1130178",
+      "htmlFormattedUrl": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1130178",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqr2flAVpShHRNCtEJts7xXMlOp7Bem_DjxW9i0fWLI95ixxC0hKZrJeNV&s",
+            "width": "293",
+            "height": "172"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.jeonmae.co.kr/news/thumbnail/202503/1130178_835351_5546_v150.jpg",
+            "theme-color": "#3763af",
+            "copyright": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[급등주] KD, +29.81% 상한가 기록",
+            "article:section": "경제",
+            "article:published_time": "2025-03-21T10:56:05+09:00",
+            "og:site_name": "전국매일신문 - 전국의 생생한 뉴스를 ‘한눈에’",
+            "dable:item_id": "1130178",
+            "og:title": "[급등주] KD, +29.81% 상한가 기록",
+            "title": "[급등주] KD, +29.81% 상한가 기록",
+            "classification": "경제 > 금융·유통",
+            "og:description": "KD 주가가 상한가를 기록하고 있다. 21일 오전 10시 55분 기준 현재 전 거래일 대비 +29.81% 오른 601원에 거래되고 있다. 거래량은 125만 6,748주다. [전국매일신문] 김주현기자joojoo@jeonmae.co.kr",
+            "twitter:creator": "김주현기자",
+            "twitter:image": "https://www.jeonmae.co.kr/news/thumbnail/202503/1130178_835351_5546_v150.jpg",
+            "article:section1": "금융·유통",
+            "dable:author": "김주현기자",
+            "twitter:site": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1130178",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "KD 주가가 상한가를 기록하고 있다. 21일 오전 10시 55분 기준 현재 전 거래일 대비 +29.81% 오른 601원에 거래되고 있다. 거래량은 125만 6,748주다. [전국매일신문] 김주현기자joojoo@jeonmae.co.kr",
+            "og:url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1130178",
+            "og:article:author": "김주현기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.jeonmae.co.kr/news/thumbnail/202503/1130178_835351_5546_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>KD, 상한가 진입.. +29.81%",
+      "htmlTitle": "&lt;코&gt;<b>KD</b>, <b>상한가</b> 진입.. +29.81%",
+      "link": "https://sedaily.com/NewsView/2GQBXWMXHF",
+      "displayLink": "sedaily.com",
+      "snippet": "7 days ago ... 증권 > News봇 뉴스: 오전 9시 4분 현재 KD(044180)가 +29.81% 오른 601원(△138)으로 장중 상한가에 진입했다. 거래대금은 5억7479만, 거래량은 95...",
+      "htmlSnippet": "7 days ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 4분 현재 <b>KD</b>(044180)가 +29.81% 오른 601원(△138)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 5억7479만, 거래량은 95...",
+      "formattedUrl": "https://sedaily.com/NewsView/2GQBXWMXHF",
+      "htmlFormattedUrl": "https://sedaily.com/NewsView/2GQBXWMXHF",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1bQ9pEru0qTJSPkyYyqAUKG-OLIXHyszcTRDHeFN8jBqcTmofAD3Jg&s=0",
+            "width": "137",
+            "height": "63"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2025/03/21/2GQBXWMXHF_1.png",
+            "article:published_time": "2025-03-21T09:04:31+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2025-03-21T09:04:31+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>KD, 상한가 진입.. +29.81% ↑ | 서울경제",
+            "dd:published_time": "2025-03-21T09:04:31+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 4분 현재 KD(044180)가 +29.81% 오른 601원(▲138)으로 장중 상한가에 진입했다. 거래대금은 5억7,479만, 거래량은 95...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2025/03/21/2GQBXWMXHF_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2025-03-21T09:04:31+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2GQBXWMXHF/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>KD, 상한가 진입.. +29.81% ↑",
+            "dable:item_id": "2GQBXWMXHF",
+            "og:title": "<코>KD, 상한가 진입.. +29.81% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>KD, 상한가 진입.. +29.81% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2GQBXWMXHF",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 4분 현재 KD(044180)가 +29.81% 오른 601원(▲138)으로 장중 상한가에 진입했다. 거래대금은 5억7,479만, 거래량은 95...",
+            "ngh:id": "2GQBXWMXHF",
+            "dable:image": "https://newsimg.sedaily.com/2025/03/21/2GQBXWMXHF_1_m.png",
+            "ngh:title": "​<코>KD, 상한가 진입.. +29.81% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2GQBXWMXHF/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2025/03/21/2GQBXWMXHF_1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[상한가 종목] 앤디포스-듀오백 이어 디에이치엑스컴퍼니-KD 상한가 ...",
+      "htmlTitle": "[<b>상한가</b> 종목] 앤디포스-듀오백 이어 디에이치엑스컴퍼니-<b>KD 상한가</b> ...",
+      "link": "https://www.econonews.co.kr/news/articleView.html?idxno=380222",
+      "displayLink": "www.econonews.co.kr",
+      "snippet": "6 days ago ... [이코노뉴스=어 만 기자] 21일 상한가 종목은 앤디포스, 듀오백, 디에이치엑스컴퍼니, KD가 차지했다. 코스피 시장에서 상한가 종목은 나오지 않았다.",
+      "htmlSnippet": "6 days ago <b>...</b> [이코노뉴스=어 만 기자] 21일 <b>상한가</b> 종목은 앤디포스, 듀오백, 디에이치엑스컴퍼니, <b>KD</b>가 차지했다. 코스피 시장에서 <b>상한가</b> 종목은 나오지 않았다.",
+      "formattedUrl": "https://www.econonews.co.kr/news/articleView.html?idxno=380222",
+      "htmlFormattedUrl": "https://www.econonews.co.kr/news/articleView.html?idxno=380222",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8mOh6RbyWl9WSEs-Th8PHU25-pGFuD58xNia3Q5HmeFRQ8rIUpWXlkc&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.econonews.co.kr/news/thumbnail/202503/380222_331940_322_v150.jpg",
+            "theme-color": "#0a4aa0",
+            "copyright": "이코노뉴스",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[상한가 종목] 앤디포스-듀오백 이어 디에이치엑스컴퍼니-KD 상한가 마감",
+            "article:section": "경제",
+            "article:published_time": "2025-03-21T21:30:00+09:00",
+            "og:site_name": "이코노뉴스",
+            "dable:item_id": "380222",
+            "og:title": "[상한가 종목] 앤디포스-듀오백 이어 디에이치엑스컴퍼니-KD 상한가 마감",
+            "title": "[상한가 종목] 앤디포스-듀오백 이어 디에이치엑스컴퍼니-KD 상한가 마감",
+            "classification": "경제 > 증시",
+            "og:description": "[이코노뉴스=어 만 기자] 21일 상한가 종목은 앤디포스, 듀오백, 디에이치엑스컴퍼니, KD가 차지했다. 코스피 시장에서 상한가 종목은 나오지 않았다. 앤디포스는 29.82%(526원) 오른 2290원에 장을 마감했다. KD는 29.81%(138원) 상승한 601원에 장을 마쳤다.",
+            "twitter:creator": "어 만 기자",
+            "twitter:image": "https://cdn.econonews.co.kr/news/thumbnail/202503/380222_331940_322_v150.jpg",
+            "article:section1": "증시",
+            "dable:author": "어 만 기자",
+            "twitter:site": "http://www.econonews.co.kr/news/articleView.html?idxno=380222",
+            "naver-site-verification": "a6837cf815d053908c4bb6031768c7bd57a68e76",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "[이코노뉴스=어 만 기자] 21일 상한가 종목은 앤디포스, 듀오백, 디에이치엑스컴퍼니, KD가 차지했다. 코스피 시장에서 상한가 종목은 나오지 않았다. 앤디포스는 29.82%(526원) 오른 2290원에 장을 마감했다. KD는 29.81%(138원) 상승한 601원에 장을 마쳤다.",
+            "og:url": "http://www.econonews.co.kr/news/articleView.html?idxno=380222",
+            "og:article:author": "어 만 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.econonews.co.kr/news/thumbnail/202503/380222_331940_322_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "KD(044180) 상한가 출발",
+      "htmlTitle": "<b>KD</b>(044180) <b>상한가</b> 출발",
+      "link": "https://stock.mk.co.kr/news/view/698906",
+      "displayLink": "stock.mk.co.kr",
+      "snippet": "7 days ago ... ... : KD(044180) 상한가 . ... 제목 : KD(044180) 상한가 출발. 기업개요. 아파트, 오피스텔 등 건축 및 분양 등 건설사업을 영위하는 업체. 건설 ...",
+      "htmlSnippet": "7 days ago <b>...</b> ... : <b>KD</b>(044180) <b>상한가</b> . ... 제목 : <b>KD</b>(044180) <b>상한가</b> 출발. 기업개요. 아파트, 오피스텔 등 건축 및 분양 등 건설사업을 영위하는 업체. 건설&nbsp;...",
+      "formattedUrl": "https://stock.mk.co.kr/news/view/698906",
+      "htmlFormattedUrl": "https://stock.mk.co.kr/news/view/698906",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT87MTt6t4Cid1vlZyOb-F7_E44JuvYkNU_eWhqi_KlqHlT4d-bHJCS5PA&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://stock.mk.co.kr/images/default.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "KD(044180) 상한가 출발",
+            "supported-color-schemes": "light",
+            "og:title": "KD(044180) 상한가 출발",
+            "color-scheme": "light only",
+            "og:description": "제목 : KD(044180) 상한가 ...",
+            "twitter:image": "https://stock.mk.co.kr/images/default.jpg",
+            "naver-site-verification": "7522a37599a270a379bf95c46d59aba6b962d29d",
+            "twitter:site": "@mk_sokbo",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+            "twitter:description": "제목 : KD(044180) 상한가 ...",
+            "og:url": "https://stock.mk.co.kr/news/view/698906"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://stock.mk.co.kr/images/default.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "`이재명 테마주` 무더기 상한가…한동훈 관련주도 상승 전환 - 매일신문",
+      "htmlTitle": "`이재명 테마주` 무더기 <b>상한가</b>…한동훈 관련주도 상승 전환 - 매일신문",
+      "link": "https://www.imaeil.com/page/view/2024121015392607212",
+      "displayLink": "www.imaeil.com",
+      "snippet": "Dec 10, 2024 ... 회사 대표가 이재명 대표와 중앙대 동문으로 알려진 KD 등도 상한가로 장을 마감했다. 이재명 대표 고향인 경북에 있는 연유로 이재명 관련주로 분류 ...",
+      "htmlSnippet": "Dec 10, 2024 <b>...</b> 회사 대표가 이재명 대표와 중앙대 동문으로 알려진 <b>KD</b> 등도 <b>상한가</b>로 장을 마감했다. 이재명 대표 고향인 경북에 있는 연유로 이재명 관련주로 분류&nbsp;...",
+      "formattedUrl": "https://www.imaeil.com/page/view/2024121015392607212",
+      "htmlFormattedUrl": "https://www.imaeil.com/page/view/2024121015392607212",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwckLimODvhXQcAz_u5rASZIdqPNlR3dDIJA_uRNZD0qUg95FMSBwUYO1z&s",
+            "width": "279",
+            "height": "181"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://m.imaeil.com/photos/2024/12/10/2024121015455340824_l.jpg",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "'이재명 테마주' 무더기 상한가…한동훈 관련주도 상승 전환",
+            "article:section": "금융·증권·보험",
+            "article:published_time": "20241210T154050",
+            "og:site_name": "매일신문",
+            "twitter:url": "https://m.imaeil.com/page/view/2024121015392607212",
+            "author": "최창희 기자 cchee@imaeil.com",
+            "og:title": "'이재명 테마주' 무더기 상한가…한동훈 관련주도 상승 전환",
+            "title": "'이재명 테마주' 무더기 상한가…한동훈 관련주도 상승 전환 - 매일신문",
+            "fb:pages": "1546081428979191",
+            "og:description": "더불어민주당 이재명 대표가 10일 오전 서울 서초구 서울중앙...",
+            "twitter:image": "https://m.imaeil.com/photos/2024/12/10/2024121015455340824_l.jpg",
+            "article:author": "최창희 기자 cchee@imaeil.com",
+            "fb:app_id": "728989947168357",
+            "viewport": "width=device-width, initial-scale=1",
+            "news_keywords": "테마주,이재명,오리엔트,동신건설,대표,비상계엄,국무총리,시가총액,한동훈",
+            "twitter:description": "더불어민주당 이재명 대표가 10일 오전 서울 서초구 서울중앙...",
+            "og:site": "https://m.imaeil.com/page/view/2024121015392607212",
+            "og:url": "https://m.imaeil.com/page/view/2024121015392607212",
+            "pubdate": "2024-12-10 [15:40:50]"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://m.imaeil.com/photos/2024/12/10/2024121015455340824_l.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[상한가TOP종목] 일성건설, 푸드웰, KD...이재명 대선테마주 - 한국증권",
+      "htmlTitle": "[<b>상한가</b>TOP종목] 일성건설, 푸드웰, <b>KD</b>...이재명 대선테마주 - 한국증권",
+      "link": "https://www.ksdaily.co.kr/news/articleView.html?idxno=87872",
+      "displayLink": "www.ksdaily.co.kr",
+      "snippet": "Jul 1, 2021 ... 푸드웰은 1968년 설립되어 대구에 본사를 둔 식품 제조회사이다. ... 성기상 회장ㆍ성기준 부회장 체재에서 성민경 대표 체제로 경영승계가 완착됐다.",
+      "htmlSnippet": "Jul 1, 2021 <b>...</b> 푸드웰은 1968년 설립되어 대구에 본사를 둔 식품 제조회사이다. ... 성기상 회장ㆍ성기준 부회장 체재에서 성민경 대표 체제로 경영승계가 완착됐다.",
+      "formattedUrl": "https://www.ksdaily.co.kr/news/articleView.html?idxno=87872",
+      "htmlFormattedUrl": "https://www.ksdaily.co.kr/news/articleView.html?idxno=87872",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhmDqr4DoCxw22sQovhKjYDy0W5Elnp1BoXCnmhVO-3CSKHeSeoLu215m&s",
+            "width": "300",
+            "height": "157"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://www.ksdaily.co.kr/news/thumbnail/202107/87872_39825_3511_v150.jpg",
+            "copyright": "한국미디어서비스(주)",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "[상한가TOP종목] 일성건설, 푸드웰, KD...이재명 대선테마주",
+            "og:site_name": "한국증권",
+            "og:title": "[상한가TOP종목] 일성건설, 푸드웰, KD...이재명 대선테마주",
+            "title": "[상한가TOP종목] 일성건설, 푸드웰, KD...이재명 대선테마주",
+            "classification": "국내증시",
+            "og:description": "상한가(上限價ㆍupper limit price)는 하루에 오를 수 있는 가격의 상한선까지 오른 주가를 말한다. 주식 투자한 종목이 올라 수익을 실현하면 소소한 행복이다. 상한가를 치면 행복이다. 반대로 하한가(下限價ㆍlowerr limit price)를 치는 날이면 죽을 맛이 된다. 국내 주식은 상한가와 하한가를 30%로 제한하고 있다. 한국증권은 자본시장의 건전성 회복을 위해 상한가 종목을 집중 분석한다. 국내 증권시장에서 7월 1일 일성건설(코스피), 푸드월, KD가 상한가를 기록하고 있다. 유가 증권시장에서 다스코, 범양건영,",
+            "twitter:creator": "박경도 기자",
+            "twitter:image": "http://www.ksdaily.co.kr/news/thumbnail/202107/87872_39825_3511_v150.jpg",
+            "twitter:site": "http://www.ksdaily.co.kr/news/articleView.html?idxno=87872",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "news_keywords": "푸드웰,이재명,일성건설,kd,성민경,성기상,성기준,유필상",
+            "twitter:description": "상한가(上限價ㆍupper limit price)는 하루에 오를 수 있는 가격의 상한선까지 오른 주가를 말한다. 주식 투자한 종목이 올라 수익을 실현하면 소소한 행복이다. 상한가를 치면 행복이다. 반대로 하한가(下限價ㆍlowerr limit price)를 치는 날이면 죽을 맛이 된다. 국내 주식은 상한가와 하한가를 30%로 제한하고 있다. 한국증권은 자본시장의 건전성 회복을 위해 상한가 종목을 집중 분석한다. 국내 증권시장에서 7월 1일 일성건설(코스피), 푸드월, KD가 상한가를 기록하고 있다. 유가 증권시장에서 다스코, 범양건영,",
+            "og:url": "http://www.ksdaily.co.kr/news/articleView.html?idxno=87872",
+            "og:article:author": "박경도 기자"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.ksdaily.co.kr/news/thumbnail/202107/87872_39825_3511_v150.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

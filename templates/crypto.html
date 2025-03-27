@@ -1,0 +1,150 @@
+{% extends "index.html" %}
+
+{% block extra_styles %}
+<style>
+    .crypto-buttons {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 10px;
+    }
+
+    .crypto-button {
+        padding: 8px 16px;
+        font-size: 14px;
+        cursor: pointer;
+        background-color: #f0f0f0;
+        border: none;
+        border-radius: 20px;
+        color: #333;
+        transition: all 0.3s;
+    }
+
+    .crypto-button.active {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    .chart-container {
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background-color: white;
+    }
+
+    .indicator-section {
+        margin-top: 20px;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .indicator-toggle {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 16px;
+        background-color: #f8f9fa;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: all 0.3s;
+        width: fit-content;
+    }
+
+    .indicator-toggle:hover {
+        background-color: #e9ecef;
+    }
+
+    .indicator-toggle.active {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    .toggle-circle {
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        border: 2px solid #666;
+        display: inline-block;
+        margin-right: 8px;
+    }
+
+    .active .toggle-circle {
+        background-color: white;
+        border-color: white;
+    }
+
+    .alert-section {
+        margin-top: 20px;
+        padding: 15px;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+    }
+
+    .alert-buttons {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    #newsReportBtn, #athBtn, #goldenCrossBtn {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: background-color 0.3s;
+    }
+
+    #newsReportBtn:hover, #athBtn:hover, #goldenCrossBtn:hover {
+        background-color: #45a049;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="crypto-buttons">
+    <button class="crypto-button" onclick="window.location.href='/crypto/bitcoin'">Bitcoin</button>
+    <button class="crypto-button" onclick="window.location.href='/crypto/ethereum'">Ethereum</button>
+    <button class="crypto-button" onclick="window.location.href='/crypto/ripple'">Ripple</button>
+</div>
+
+<div class="indicator">
+    <label>
+        <input type="checkbox" id="mvrvZScoreToggle"> MVRV Z-Score
+    </label>
+</div>
+
+<div class="chart-container">
+    {{ chart | safe }}
+</div>
+
+<div class="alert-section">
+    <h2 style="margin: 20px 0; color: #333;">Alert</h2>
+    <div class="alert-buttons">
+        <button class="crypto-button" id="newsReportBtn">News Report</button>
+        <button class="crypto-button" id="athBtn">All-time High</button>
+        <button class="crypto-button" id="goldenCrossBtn">Golden Cross</button>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const mvrvToggle = document.getElementById('mvrvZScoreToggle');
+        const url = new URL(window.location.href);
+        const showMVRV = url.searchParams.get('mvrv') === 'true';
+
+        // Set initial state
+        mvrvToggle.checked = showMVRV;
+
+        // Add click event listener
+        mvrvToggle.addEventListener('change', function() {
+            const currentPath = window.location.pathname;
+            const newUrl = `${currentPath}?mvrv=${this.checked}`;
+            window.location.href = newUrl;
+        });
+    });
+</script>
+{% endblock %} 

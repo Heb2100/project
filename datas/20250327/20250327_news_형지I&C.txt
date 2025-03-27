@@ -1,0 +1,484 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 형지I",
+        "totalResults": "55800",
+        "searchTerms": "형지I",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 형지I",
+        "totalResults": "55800",
+        "searchTerms": "형지I",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.409837,
+    "formattedSearchTime": "0.41",
+    "totalResults": "55800",
+    "formattedTotalResults": "55,800"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "형지 I&C",
+      "htmlTitle": "<b>형지</b> I&amp;C",
+      "link": "https://www.hyungjiinc.com/",
+      "displayLink": "www.hyungjiinc.com",
+      "snippet": "품질 제일 주의와 고객 감동 경영 트랜드를 선도하는 패션 전문 기업 ... 형지I&C는 아름다운 패션기업으로 자리매김하고 있습니다. Customer Center. 고객센터 ...",
+      "htmlSnippet": "품질 제일 주의와 고객 감동 경영 트랜드를 선도하는 패션 전문 기업 ... <b>형지</b>I&amp;C는 아름다운 패션기업으로 자리매김하고 있습니다. Customer Center. 고객센터&nbsp;...",
+      "formattedUrl": "https://www.hyungjiinc.com/",
+      "htmlFormattedUrl": "https://www.hyungjiinc.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7O-biEqLvKh-zBvq1Q4GaAgxD3qW9dutYRQDK8pP2PM4nhHYsEnapZEo&s",
+            "width": "321",
+            "height": "157"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.hyungjiinc.com/hyungji3/resources/imgs/share/hyungjiinc.jpg",
+            "og:type": "website",
+            "naver-site-verification": "bae8ad0229b1220ffb54cf340a6bc2c9e8958d3b",
+            "viewport": "width=1080px, user-scalable=no, target-densityDpi=device-dpi",
+            "og:title": "형지 I&C",
+            "og:url": "https://www.hyungjiinc.com/m/index.asp",
+            "og:description": "패션종합기업 형지I&C, 본 매그넘, 예작, 캐리스노트, 온라인브랜드 본e 소개",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.hyungjiinc.com/m/resources/imgs/main/company/thumb.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "형지I&C - 위키백과, 우리 모두의 백과사전",
+      "htmlTitle": "<b>형지</b>I&amp;C - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%ED%98%95%EC%A7%80I%26C",
+      "displayLink": "ko.wikipedia.org",
+      "snippet": "형지I&C ... 주식회사 형지I&C는 대한민국의 봉제의복 제조업체로,패션그룹형지의 자회사이다. 주식회사 형지I&C HYUNGJI Innovation and Creative ...",
+      "htmlSnippet": "<b>형지</b>I&amp;C ... 주식회사 <b>형지</b>I&amp;C는 대한민국의 봉제의복 제조업체로,패션그룹<b>형지</b>의 자회사이다. 주식회사 <b>형지</b>I&amp;C HYUNGJI Innovation and Creative&nbsp;...",
+      "formattedUrl": "https://ko.wikipedia.org/wiki/형지I%26C",
+      "htmlFormattedUrl": "https://ko.wikipedia.org/wiki/<b>형지I</b>%26C",
+      "pagemap": {
+        "hcard": [
+          {
+            "url_text": "www.hyungjiinc.com",
+            "bday": "1976-02-25",
+            "fn": "주식회사 형지I&C HYUNGJI Innovation and Creative Company Limited",
+            "label": "대한민국 인천광역시 연수구 하모니로177번길 49 12층 (송도동,형지글로벌패션복합센터)",
+            "category": "주식회사, 코스닥법인",
+            "url": "www.hyungjiinc.com"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "theme-color": "#eaecf0",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "형지I&C - 위키백과, 우리 모두의 백과사전",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "패션그룹형지 - YouTube",
+      "htmlTitle": "패션그룹<b>형지</b> - YouTube",
+      "link": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+      "displayLink": "www.youtube.com",
+      "snippet": "패션그룹형지 · CROCODILE LADIES 2024 F/W Fashion Film 가로 ver. · 샤트렌 · 올리비아하슬러 · 크로커다일레이디 · [두유노형지] 노형지 인턴의 정규직 전환 도전기 .",
+      "htmlSnippet": "패션그룹<b>형지</b> &middot; CROCODILE LADIES 2024 F/W Fashion Film 가로 ver. &middot; 샤트렌 &middot; 올리비아하슬러 &middot; 크로커다일레이디 &middot; [두유노형지] 노형지 인턴의 정규직 전환 도전기  .",
+      "formattedUrl": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+      "htmlFormattedUrl": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+      "pagemap": {
+        "hcard": [
+          {
+            "fn": "패션그룹형지",
+            "nickname": "패션그룹형지",
+            "url": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpq8E-lRg0IpBqsWWyCmPQZsdQubR0mO0RjA_qeZbvoaTdAM8GqxBUqI&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "900",
+            "url": "https://yt3.googleusercontent.com/ytc/AIdro_mvADqSMYCANXY1CNQDdc4bk4E-jDppVyP7Mu2eB1VPZ70=s900-c-k-c0x00ffffff-no-rj",
+            "height": "900"
+          }
+        ],
+        "person": [
+          {
+            "name": "패션그룹형지",
+            "url": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q?referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+            "og:image": "https://yt3.googleusercontent.com/ytc/AIdro_mvADqSMYCANXY1CNQDdc4bk4E-jDppVyP7Mu2eB1VPZ70=s900-c-k-c0x00ffffff-no-rj",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "theme-color": "rgba(255, 255, 255, 0.9)",
+            "og:image:width": "900",
+            "twitter:card": "summary",
+            "og:site_name": "YouTube",
+            "twitter:url": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+            "al:android:package": "com.google.android.youtube",
+            "twitter:app:name:googleplay": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+            "twitter:app:id:iphone": "544007664",
+            "og:description": "패션그룹형지, 패션으로 행복을 나눕니다.\n크로커다일레이디/샤트렌/올리비아하슬러의 스토리 영상을 지금 만나보세요.",
+            "al:ios:app_store_id": "544007664",
+            "twitter:image": "https://yt3.googleusercontent.com/ytc/AIdro_mvADqSMYCANXY1CNQDdc4bk4E-jDppVyP7Mu2eB1VPZ70=s900-c-k-c0x00ffffff-no-rj",
+            "twitter:site": "@youtube",
+            "og:type": "profile",
+            "twitter:title": "패션그룹형지",
+            "al:ios:app_name": "YouTube",
+            "og:title": "패션그룹형지",
+            "og:image:height": "900",
+            "twitter:app:id:ipad": "544007664",
+            "al:web:url": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q?feature=applinks",
+            "al:android:url": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q?feature=applinks",
+            "fb:app_id": "87741124305",
+            "twitter:app:url:googleplay": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+            "twitter:app:name:ipad": "YouTube",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+            "twitter:description": "패션그룹형지, 패션으로 행복을 나눕니다.\n크로커다일레이디/샤트렌/올리비아하슬러의 스토리 영상을 지금 만나보세요.",
+            "og:url": "https://www.youtube.com/channel/UC5NakDQ2S_VciBil0W0I40Q",
+            "al:android:app_name": "YouTube",
+            "twitter:app:name:iphone": "YouTube"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://yt3.googleusercontent.com/ytc/AIdro_mvADqSMYCANXY1CNQDdc4bk4E-jDppVyP7Mu2eB1VPZ70=s900-c-k-c0x00ffffff-no-rj"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "형지I&C(011080) 󰠛 섬유ㆍ의류",
+      "htmlTitle": "<b>형지</b>I&amp;C(011080) 󰠛 섬유ㆍ의류",
+      "link": "https://w4.kirs.or.kr/download/tech/07_%ED%98%95%EC%A7%80I&C_%EA%B8%B0%EC%88%A0%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+      "displayLink": "w4.kirs.or.kr",
+      "snippet": "Jun 7, 2018 ... 이에 더하여 원재료 가격의 상승으로 국내. 의류 시장은 쉽지 않은 영업환경 속에 있다. 형지I&C는 이러한 환경. 속에서 수익성이 확실한 판매율 높은 ...",
+      "htmlSnippet": "Jun 7, 2018 <b>...</b> 이에 더하여 원재료 가격의 상승으로 국내. 의류 시장은 쉽지 않은 영업환경 속에 있다. <b>형지</b>I&amp;C는 이러한 환경. 속에서 수익성이 확실한 판매율 높은&nbsp;...",
+      "formattedUrl": "https://w4.kirs.or.kr/download/tech/07_형지I&C_기술분석보고서.pdf",
+      "htmlFormattedUrl": "https://w4.kirs.or.kr/download/tech/07_<b>형지I</b>&amp;C_기술분석보고서.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSoIgvvJj3qLCtiwEdMhvTljxcfq5SUF6pSA8sStacl22E9hw8omciFo&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "Wed Jun  6 00:32:47 2018",
+            "creator": "PScript5.dll Version 5.2.2",
+            "creationdate": "Tue Jun  5 03:28:07 2018",
+            "author": "Sinduk-1",
+            "producer": "Acrobat Distiller 10.1.1 (Windows)"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///2e538ee67bbb6bff1888826f59059bfe4d339b78e7150b7a0ebc54b7765b53f6"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "6조원 중국 교복시장 진출 - 씽크풀",
+      "htmlTitle": "6조원 중국 교복시장 진출 - 씽크풀",
+      "link": "https://m.thinkpool.com/stockDiscuss/016380/cont/10008960",
+      "displayLink": "m.thinkpool.com",
+      "snippet": "Apr 21, 2016 ... 아래 뉴스는 스마트학생복이 중국 패션 대기업과 중국 6조 교복 시장 공략을 노린다는 내용입니다. 이 뉴스내용으로 [형지I앤C]와 [형지엘리트]도 ...",
+      "htmlSnippet": "Apr 21, 2016 <b>...</b> 아래 뉴스는 스마트학생복이 중국 패션 대기업과 중국 6조 교복 시장 공략을 노린다는 내용입니다. 이 뉴스내용으로 [<b>형지I</b>앤C]와 [<b>형지</b>엘리트]도&nbsp;...",
+      "formattedUrl": "https://m.thinkpool.com/stockDiscuss/016380/cont/10008960",
+      "htmlFormattedUrl": "https://m.thinkpool.com/stockDiscuss/016380/cont/10008960",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHIp4Bd2teLA2cHrSUfdoAhOxeFTr05Wz_5PT3GQFUXRdt5d4IfSIWQEI&s",
+            "width": "194",
+            "height": "260"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://cfile40.uf.daum.net/image/210B463757176CFC1ACF78",
+            "og:type": "article",
+            "og:image:width": "270",
+            "twitter:title": "씽크풀 : 6조원 중국 교복시장 진출",
+            "twitter:card": "http://cfile40.uf.daum.net/image/210B463757176CFC1ACF78",
+            "viewport": "initial-scale=1",
+            "author": "씽크풀",
+            "twitter:description": "아래 뉴스는  스마트학생복이 중국 패션 대기업과 중국 6조 교복 시장 공략을 노린다는 내용입니다. 이 뉴스내용으로 [형지I앤C]와  [형지엘리트]도 계약체결에 대한  기대감을 갖게 한다는 겁니다. 일단 이 뉴스로  6조 중국교복 진출은 더이상 뜬구름 잡는 희망이 아니라",
+            "og:title": "씽크풀 : 6조원 중국 교복시장 진출",
+            "og:image:height": "270",
+            "og:url": "https://m.thinkpool.com/stockDiscuss/016380/cont/10008960",
+            "og:description": "아래 뉴스는  스마트학생복이 중국 패션 대기업과 중국 6조 교복 시장 공략을 노린다는 내용입니다. 이 뉴스내용으로 [형지I앤C]와  [형지엘리트]도 계약체결에 대한  기대감을 갖게 한다는 겁니다. 일단 이 뉴스로  6조 중국교복 진출은 더이상 뜬구름 잡는 희망이 아니라"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://cfile40.uf.daum.net/image/210B463757176CFC1ACF78"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[경제 역사] 패션그룹형지 지배구조 알아보기 : 네이버 블로그",
+      "htmlTitle": "[경제 역사] 패션그룹<b>형지</b> 지배구조 알아보기 : 네이버 블로그",
+      "link": "https://blog.naver.com/ori1679/223220474169",
+      "displayLink": "blog.naver.com",
+      "snippet": "Sep 24, 2023 ... 패션그룹형지의 기존 지배구조는 오너일가 → 패션그룹형지 → 까스텔바작, 오너일가 → 형지리테일 → 형지엘리트, 오너일가 → 형지I&C 등 3개 축으로 나뉘어 ...",
+      "htmlSnippet": "Sep 24, 2023 <b>...</b> 패션그룹<b>형지</b>의 기존 지배구조는 오너일가 → 패션그룹<b>형지</b> → 까스텔바작, 오너일가 → <b>형지</b>리테일 → <b>형지</b>엘리트, 오너일가 → <b>형지</b>I&amp;C 등 3개 축으로 나뉘어&nbsp;...",
+      "formattedUrl": "https://blog.naver.com/ori1679/223220474169",
+      "htmlFormattedUrl": "https://blog.naver.com/ori1679/223220474169",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIG3jOpXPLDh-KOelVmi08m9zpWXHf7P0FUYPIZekTBCGq7RmujxVBfw4&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogthumb.pstatic.net/MjAyMzA5MTBfMTM5/MDAxNjk0MzUwODA0NzA3.ZlBb9tiVjWIZBpvaUO_aJgka7e09RQ7safkLIY5J-mQg.EKcn9xHxq1jpHgKQ6EiB4da6Mr7IvoFfuq2iNOubnYsg.JPEG.ori1679/%C7%FC%C1%F6_%C7%A5%C1%F6-%BF%E4%B0%ED%BF%E4%B0%C5.jpg?type=w2",
+            "og:type": "article",
+            "og:site_name": "네이버 블로그 | 요고요거 일상",
+            "og:title": "[경제 역사] 패션그룹형지 지배구조 알아보기",
+            "naverblog:profile_image": "https://blogpfthumb-phinf.pstatic.net/MjAyMDA4MTlfMTIz/MDAxNTk3ODM3MTM0NDU5.Oh3pPTEX12n4aXeMAK_1F9o6ynH7hY0NMTvGkyl3B6gg.S6VCHhZF3TOP-GXhR1bDCgjgYT70WNWcYsXzWV8ToPMg.JPEG.ori1679/KakaoTalk_20200819_203754362.jpg?type=s1",
+            "napp-site-analysis": "gdid=90000003_0000000000000033F8FA2139,service=blog,collection=blog",
+            "og:description": "안녕하세요. 요고요거에요. 패션그룹형지 지배구조에 대해서 알아보려고 해요. ① 패션그룹형지 개요 패션...",
+            "referrer": "always",
+            "naverblog:nickname": "요고요거",
+            "me:feed:serviceid": "blog",
+            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover",
+            "og:url": "https://blog.naver.com/ori1679/223220474169",
+            "og:article:author": "요고요거 .. | 블로그",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogthumb.pstatic.net/MjAyMzA5MTBfMTM5/MDAxNjk0MzUwODA0NzA3.ZlBb9tiVjWIZBpvaUO_aJgka7e09RQ7safkLIY5J-mQg.EKcn9xHxq1jpHgKQ6EiB4da6Mr7IvoFfuq2iNOubnYsg.JPEG.ori1679/%C7%FC%C1%F6_%C7%A5%C1%F6-%BF%E4%B0%ED%BF%E4%B0%C5.jpg?type=w2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "형지 I&C",
+      "htmlTitle": "<b>형지</b> I&amp;C",
+      "link": "https://hyungjiinc.com/m/html/campaign.asp?brand=magnum",
+      "displayLink": "hyungjiinc.com",
+      "snippet": "패션종합기업 형지I&C, 본 매그넘, 예작, 캐리스노트, 온라인브랜드 본e 소개.",
+      "htmlSnippet": "패션종합기업 <b>형지</b>I&amp;C, 본 매그넘, 예작, 캐리스노트, 온라인브랜드 본e 소개.",
+      "formattedUrl": "https://hyungjiinc.com/m/html/campaign.asp?brand=magnum",
+      "htmlFormattedUrl": "https://hyungjiinc.com/m/html/campaign.asp?brand=magnum",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYGWczu3zYTflZNRNRpv3MGtonjTnjiraqZ1tJ7sBmucgLQmzCLXQKBt9&s",
+            "width": "242",
+            "height": "208"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://hyungjiinc.com/hyungji3/resources/imgs/share/hyungjiinc.jpg",
+            "og:type": "website",
+            "naver-site-verification": "bae8ad0229b1220ffb54cf340a6bc2c9e8958d3b",
+            "viewport": "width=1080px, user-scalable=no, target-densityDpi=device-dpi",
+            "og:title": "형지 I&C",
+            "og:url": "https://hyungjiinc.com/m/html/campaign.aspbrand=magnum",
+            "og:description": "패션종합기업 형지I&C, 본 매그넘, 예작, 캐리스노트, 온라인브랜드 본e 소개",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://hyungjiinc.com/m/resources/imgs/magnum/campaign/2023SS/thumb_top.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[형지그룹]크로커다일레이디外 25S/S NEW봄신상 본격OPEN!전상품 ...",
+      "htmlTitle": "[<b>형지</b>그룹]크로커다일레이디外 25S/S NEW봄신상 본격OPEN!전상품 ...",
+      "link": "https://m.lotteimall.com/planshop/viewPlanShopDetail.lotte?spdp_no=5460928",
+      "displayLink": "m.lotteimall.com",
+      "snippet": "[형지그룹]크로커다일레이디外 25S/S NEW봄신상 본격OPEN!전상품 할인 최대~95%OFF+추가쿠폰+무료배송까지! 2025.01.07~2035.01.07. 공유하기.",
+      "htmlSnippet": "[<b>형지</b>그룹]크로커다일레이디外 25S/S NEW봄신상 본격OPEN!전상품 할인 최대~95%OFF+추가쿠폰+무료배송까지! 2025.01.07~2035.01.07. 공유하기.",
+      "formattedUrl": "https://m.lotteimall.com/planshop/viewPlanShopDetail.lotte?spdp_no...",
+      "htmlFormattedUrl": "https://m.lotteimall.com/planshop/viewPlanShopDetail.lotte?spdp_no...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFiEG91gCe2um1OM9UkPWkkmF4TUR-8kq22uDXgjX6nX4fUYkjJ3k8m7Y&s",
+            "width": "144",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "groobee:member_iagr": "U",
+            "groobee:member_age": "99",
+            "og:image": "https://image.lotteimall.com/upload/display/planshop/5460928/5460928_3.jpg",
+            "og:type": "product",
+            "og:site_name": "lotteimall",
+            "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi",
+            "og:title": "[형지그룹]크로커다일레이디外 25S/S NEW봄신상 본격OPEN!전상품 할인 최대~95%OFF+추가쿠폰+무료배송까지!",
+            "groobee:member_pagr": "U",
+            "og:url": "https://m.lotteimall.com/planshop/viewPlanShopDetail.lotte?spdp_no=5460928",
+            "og:description": "롯데홈쇼핑",
+            "facebook-domain-verification": "70b0q4g5tfxcgl3uhikqqmxhdn0spy",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://image.lotteimall.com/upload/corner/13783/5170724/5170724_13783_0_30_8003_20240807114946.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[IB토마토] (크레딧시그널)형지엘리트, 신사업 비중 높이며 매출 확대",
+      "htmlTitle": "[IB토마토] (크레딧시그널)<b>형지</b>엘리트, 신사업 비중 높이며 매출 확대",
+      "link": "https://www.ibtomato.com/view.aspx?no=10810",
+      "displayLink": "www.ibtomato.com",
+      "snippet": "Nov 6, 2023 ... 형지엘리트의 주력 사업은 브랜드 엘리트를 중심으로 한 학생복 사업이다. 6일 금융감독원 전자공시시스템에 따르면 올해 상반기 형지엘리트의 학생복 ...",
+      "htmlSnippet": "Nov 6, 2023 <b>...</b> <b>형지</b>엘리트의 주력 사업은 브랜드 엘리트를 중심으로 한 학생복 사업이다. 6일 금융감독원 전자공시시스템에 따르면 올해 상반기 <b>형지</b>엘리트의 학생복&nbsp;...",
+      "formattedUrl": "https://www.ibtomato.com/view.aspx?no=10810",
+      "htmlFormattedUrl": "https://www.ibtomato.com/view.aspx?no=10810",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqVjuUKfXHc62UqRUqhlfNHAhgGUdOtEMTwFlAm8YsX-v1wmaRoewwTQ&s",
+            "width": "306",
+            "height": "165"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "/images/logo.png",
+            "copyright": "IB토마토",
+            "og:type": "website",
+            "og:image:width": "600",
+            "og:site_name": "IB토마토 - 가장 심도 있고 믿을 수 있는 자본시장의 길잡이",
+            "author": "IB토마토",
+            "og:title": "IB토마토 - 가장 심도 있고 믿을 수 있는 자본시장의 길잡이",
+            "og:image:height": "315",
+            "og:image:type": "image/jpeg",
+            "title": "IB토마토 - 가장 심도 있고 믿을 수 있는 자본시장의 길잡이",
+            "og:description": "깊이 있는 기업분석과 지배구조 변화, 자금 조달 등 자본과 시장에 대한 지식과 지혜를 전달합니다.",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "og:url": "https://www.ibtomato.com/",
+            "format-detection": "telephone=no, address=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsroom.etomato.com/userfiles/20231106_141332_973200948.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "형지I&C, 200억원 규모 주주배정 유증...1주당 0.9주 배정",
+      "htmlTitle": "<b>형지</b>I&amp;C, 200억원 규모 주주배정 유증...1주당 0.9주 배정",
+      "link": "https://www.msn.com/ko-kr/news/other/%ED%98%95%EC%A7%80i-c-200%EC%96%B5%EC%9B%90-%EA%B7%9C%EB%AA%A8-%EC%A3%BC%EC%A3%BC%EB%B0%B0%EC%A0%95-%EC%9C%A0%EC%A6%9D-1%EC%A3%BC%EB%8B%B9-0-9%EC%A3%BC-%EB%B0%B0%EC%A0%95/ar-AA1BmGn6",
+      "displayLink": "www.msn.com",
+      "snippet": "[이데일리 김경은 기자] 형지I&C(011080)는 21일 주주배정방식으로 200억6400만원 규모의 유상증자를 실시한다고 공시했다. 신주 발행 물량은 2850만주로, 주당 액면가 ...",
+      "htmlSnippet": "[이데일리 김경은 기자] <b>형지</b>I&amp;C(011080)는 21일 주주배정방식으로 200억6400만원 규모의 유상증자를 실시한다고 공시했다. 신주 발행 물량은 2850만주로, 주당 액면가&nbsp;...",
+      "formattedUrl": "https://www.msn.com/ko-kr/news/other/형지i-c...0.../ar-AA1BmGn6",
+      "htmlFormattedUrl": "https://www.msn.com/ko-kr/news/other/<b>형지i</b>-c...0.../ar-AA1BmGn6",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHLdeZfnwkHM45QxLh5xC6mx1_U-GmCGLakc5DAOohdC4fwe_m7Dy8hAE&s",
+            "width": "312",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "형지I&C, 200억원 규모 주주배정 유증...1주당 0.9주 배정",
+            "og:image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10piIP.img?w=540&h=280&q=90&m=6&f=jpg&u=t",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "article:section": "news",
+            "article:published_time": "1742575011",
+            "og:site_name": "MSN",
+            "og:title": "형지I&C, 200억원 규모 주주배정 유증...1주당 0.9주 배정",
+            "og:description": "[이데일리 김경은 기자] 형지I&C(011080)는 21일 주주배정방식으로 200억6400만원 규모의 유상증자를 실시한다고 공시했다. 신주 발행 물량은 2850만주로, 주당 액면가는 500원이다. 신주 발행예정가액은 704원이며, 구주주는 1주당 신주 0.9037715146주를 배정받게 된다. 자금조달 목적은 시설자금(2...",
+            "sharing_url": "http://www.msn.com/ko-kr/news/other/%ED%98%95%EC%A7%80i-c-200%EC%96%B5%EC%9B%90-%EA%B7%9C%EB%AA%A8-%EC%A3%BC%EC%A3%BC%EB%B0%B0%EC%A0%95-%EC%9C%A0%EC%A6%9D-1%EC%A3%BC%EB%8B%B9-0-9%EC%A3%BC-%EB%B0%B0%EC%A0%95/ar-AA1BmGn6?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+            "article:author": "김경은",
+            "article:modified_time": "1742543245",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:locale": "ko-kr",
+            "og:url": "http://www.msn.com/ko-kr/news/other/%ED%98%95%EC%A7%80i-c-200%EC%96%B5%EC%9B%90-%EA%B7%9C%EB%AA%A8-%EC%A3%BC%EC%A3%BC%EB%B0%B0%EC%A0%95-%EC%9C%A0%EC%A6%9D-1%EC%A3%BC%EB%8B%B9-0-9%EC%A3%BC-%EB%B0%B0%EC%A0%95/ar-AA1BmGn6?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10piIP.img?w=540&h=280&q=90&m=6&f=jpg&u=t"
+          }
+        ]
+      }
+    }
+  ]
+}

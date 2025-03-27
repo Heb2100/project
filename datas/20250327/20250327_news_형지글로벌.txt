@@ -1,0 +1,551 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 형지글로벌 상한가",
+        "totalResults": "25400",
+        "searchTerms": "형지글로벌 상한가",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 형지글로벌 상한가",
+        "totalResults": "25400",
+        "searchTerms": "형지글로벌 상한가",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "361c361f92e3f45c9"
+      }
+    ]
+  },
+  "context": {
+    "title": "test_2401_2"
+  },
+  "searchInformation": {
+    "searchTime": 0.426608,
+    "formattedSearchTime": "0.43",
+    "totalResults": "25400",
+    "formattedTotalResults": "25,400"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가 | 연합뉴스",
+      "htmlTitle": "[특징주] 이재명 테마주 연일 &#39;펄펄&#39;…<b>형지글로벌 상한가</b> | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20250327045500008",
+      "displayLink": "www.yna.co.kr",
+      "snippet": "13 hours ago ... [특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가 ... (서울=연합뉴스) 조민정 기자 = 더불어민주당 이재명 대표가 공직선거법 위반 사건 항소심에서 ...",
+      "htmlSnippet": "13 hours ago <b>...</b> [특징주] 이재명 테마주 연일 &#39;펄펄&#39;…<b>형지글로벌 상한가</b> ... (서울=연합뉴스) 조민정 기자 = 더불어민주당 이재명 대표가 공직선거법 위반 사건 항소심에서&nbsp;...",
+      "formattedUrl": "https://www.yna.co.kr/view/AKR20250327045500008",
+      "htmlFormattedUrl": "https://www.yna.co.kr/view/AKR20250327045500008",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTAyAQIgC4E9cMXmupoDeOkMtxWWl3aWQ150ykhJE4RWNbRHBdLtenxLF&s",
+            "width": "213",
+            "height": "236"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img7.yna.co.kr/photo/yna/YH/2025/03/26/PYH2025032622710001300_P4.jpg",
+            "copyright": "Yonhapnews",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1082",
+            "article:published_time": "2025-03-27T09:25:58+09:00",
+            "og:site_name": "연합뉴스",
+            "twitter:url": "https://www.yna.co.kr/view/AKR20250327045500008",
+            "title": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가 | 연합뉴스",
+            "twitter:creator": "@yonhaptweet",
+            "og:description": "(서울=연합뉴스) 조민정 기자 = 더불어민주당 이재명 대표가 공직선거법 위반 사건 항소심에서 무죄를 선고받은 영향에 27일 증시에서 '이재명 테...",
+            "article:publisher": "https://www.facebook.com/yonhap",
+            "twitter:image": "https://img7.yna.co.kr/photo/yna/YH/2025/03/26/PYH2025032622710001300_P4.jpg",
+            "twitter:site": "@yonhaptweet",
+            "article:modified_time": "2025-03-27T09:25:58+09:00",
+            "image": "https://img7.yna.co.kr/photo/yna/YH/2025/03/26/PYH2025032622710001300_P4.jpg",
+            "og:type": "article",
+            "twitter:title": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가 | 연합뉴스",
+            "article:section": "금융.증권",
+            "dable:item_id": "AKR20250327045500008",
+            "author": "조민정",
+            "og:title": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가 | 연합뉴스",
+            "og:image:height": "1200",
+            "yna:content_id": "AKR20250327045500008",
+            "fb:pages": "130229496988833",
+            "article:author": "조민정",
+            "fb:app_id": "1013291918759197",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "twitter:description": "(서울=연합뉴스) 조민정 기자 = 더불어민주당 이재명 대표가 공직선거법 위반 사건 항소심에서 무죄를 선고받은 영향에 27일 증시에서 '이재명 테...",
+            "og:locale": "ko_KR",
+            "resource-type": "article",
+            "dable:image": "https://img5.yna.co.kr/photo/yna/YH/2025/03/26/PYH2025032622710001300_P2.jpg",
+            "og:url": "https://www.yna.co.kr/view/AKR20250327045500008"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img7.yna.co.kr/photo/yna/YH/2025/03/26/PYH2025032622710001300_P4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'이재명 테마주' 연이틀 급등…형지글로벌·형지I&C 상한가[핫종목 ...",
+      "htmlTitle": "&#39;이재명 테마주&#39; 연이틀 급등…<b>형지글로벌</b>·형지I&amp;C <b>상한가</b>[핫종목 ...",
+      "link": "https://www.news1.kr/finance/general-stock/5733918",
+      "displayLink": "www.news1.kr",
+      "snippet": "6 hours ago ... 특히 형지글로벌(308100)과 형지I&C(011080)는 이날 상한가로 거래를 마감했다. 형지엘리트는 16% 상승해 장을 마쳤다. 이들 업체는 이 대표가 성남 ...",
+      "htmlSnippet": "6 hours ago <b>...</b> 특히 <b>형지글로벌</b>(308100)과 형지I&amp;C(011080)는 이날 <b>상한가</b>로 거래를 마감했다. 형지엘리트는 16% 상승해 장을 마쳤다. 이들 업체는 이 대표가 성남&nbsp;...",
+      "formattedUrl": "https://www.news1.kr/finance/general-stock/5733918",
+      "htmlFormattedUrl": "https://www.news1.kr/finance/general-stock/5733918",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPJDNJZNcceP7M60XJ-_eVPbZBrrYusgTwdgtAgdOQ0iX7VNBVuD_b5S-&s",
+            "width": "258",
+            "height": "195"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i3n.news1.kr/system/photos/2025/3/26/7202212/high.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "og:image:alt": "Og Image Alt",
+            "og:image:width": "1200",
+            "article:section": "증권일반",
+            "og:site_name": "뉴스1",
+            "dable:item_id": "finance/general-stock/5733918",
+            "og:title": "'이재명 테마주' 연이틀 급등…형지글로벌·형지I&C 상한가[핫종목]",
+            "og:image:height": "630",
+            "og:image:type": "image/jpeg",
+            "twitter:creator": "@handle",
+            "og:description": "'전날 상한가' 오리엔트정공·오리엔트바이오 각각 20·17%대 상승 '전날 상한가' 오리엔트정공·오리엔트바이오 각각 20·17%대 상승 '전날 상한가' 오리엔트정공·오리엔트바이오 각각 20·17%대 상승 '전날 상한가' 오리엔트정공·오리엔트바이오 각각 20·17%대 상승 '전날 상한가'",
+            "next-head-count": "42",
+            "dable:author": "박현영 블록체인전문기자",
+            "twitter:site": "@news1",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "og:locale": "ko_KR",
+            "og:url": "https://www.news1.kr/finance/general-stock/5733918"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i3n.news1.kr/system/photos/2025/3/26/7202212/high.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'이재명 테마주' 형지글로벌·형지I&C 상한가 찍었다(종합)[핫스탁]",
+      "htmlTitle": "&#39;이재명 테마주&#39; <b>형지글로벌</b>·형지I&amp;C <b>상한가</b> 찍었다(종합)[핫스탁]",
+      "link": "https://www.newsis.com/view/NISX20250327_0003116193",
+      "displayLink": "www.newsis.com",
+      "snippet": "6 hours ago ... ... 형지글로벌과 형지 I&C가 장중 상한가를 기록했다. 27일 한국거래소에 따르면 오전 9시 35분 형지엘리트의 주가는 전일(2215원)보다 9.93% 상승한 ...",
+      "htmlSnippet": "6 hours ago <b>...</b> ... <b>형지글로벌</b>과 형지 I&amp;C가 장중 <b>상한가</b>를 기록했다. 27일 한국거래소에 따르면 오전 9시 35분 형지엘리트의 주가는 전일(2215원)보다 9.93% 상승한&nbsp;...",
+      "formattedUrl": "https://www.newsis.com/view/NISX20250327_0003116193",
+      "htmlFormattedUrl": "https://www.newsis.com/view/NISX20250327_0003116193",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBK7tj_CJNaYqfFAp-OxUQrA6AD48iyO1bOqrDW_Y7lgIt4UIMm2LN3c&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img1.newsis.com/2025/03/26/NISI20250326_0020748383_web.jpg",
+            "og:image:width": "720",
+            "og:image:alt": "[서울=뉴시스] 사진공동취재단 = 이재명 더불어민주당 대표가 26일 서울 서초구 서울고등법원에서 열린 공직선거법 위반 혐의 항소심 선고 공판에서 무죄를 선고받은 뒤 지지자들에게 인사하고 있다. 2025.03.26. photo@newsis.com",
+            "article:section": "금융",
+            "article:published_time": "2025-03-27T16:00:52+09:00",
+            "og:site_name": "뉴시스",
+            "author": "Newsis",
+            "dable:item_id": "NISX20250327_0003116193",
+            "og:title": "'이재명 테마주' 형지글로벌·형지I&C 상한가 찍었다(종합)[핫스탁]",
+            "og:image:height": "480",
+            "og:description": "오리엔트정공 20%, 오리엔트바이오 17%↑",
+            "og:image:secure_url": "https://img1.newsis.com/2025/03/26/NISI20250326_0020748383_web.jpg",
+            "referrer": "strict-origin-when-cross-origin",
+            "article:section2": "증권",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+            "og:url": "https://mobile.newsis.com/view/NISX20250327_0003116193"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img1.newsis.com/2025/03/26/NISI20250326_0020748383_web.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[이 특징주 버핏이라면] 형지글로벌, 이재명 항소심 무죄 소식에 상한가",
+      "htmlTitle": "[이 특징주 버핏이라면] <b>형지글로벌</b>, 이재명 항소심 무죄 소식에 <b>상한가</b>",
+      "link": "https://www.news2day.co.kr/article/20250327500131",
+      "displayLink": "www.news2day.co.kr",
+      "snippet": "11 hours ago ... [뉴스투데이=박진영 기자] 형지글로벌(308100)이 이재명 더불어민주당 대표의 공직선거법 항소심 무죄 소식에 상한가를 기록했다.",
+      "htmlSnippet": "11 hours ago <b>...</b> [뉴스투데이=박진영 기자] <b>형지글로벌</b>(308100)이 이재명 더불어민주당 대표의 공직선거법 항소심 무죄 소식에 <b>상한가</b>를 기록했다.",
+      "formattedUrl": "https://www.news2day.co.kr/article/20250327500131",
+      "htmlFormattedUrl": "https://www.news2day.co.kr/article/20250327500131",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxEGTrobEWGDAbVC_tMb1UBAeYynVXWcbEzbfjj-QjAdlC35lXL9huT5t&s",
+            "width": "264",
+            "height": "191"
+          }
+        ],
+        "metatags": [
+          {
+            "image": "//cdn.news2day.co.kr/data2/content/image/2025/03/27/.cache/512/20250327500128.png",
+            "og:image": "//cdn.news2day.co.kr/data2/content/image/2025/03/27/.cache/512/20250327500128.png",
+            "twitter:card": "summary",
+            "twitter:title": "[이 특징주 버핏이라면] 형지글로벌, 이재명 항소심 무죄 소식에 상한가",
+            "og:site_name": "뉴스투데이",
+            "msvalidate.01": "DCF8AE369C38DFBC15D991DAA10BAC73",
+            "og:title": "[이 특징주 버핏이라면] 형지글로벌, 이재명 항소심 무죄 소식에 상한가",
+            "og:description": "[뉴스투데이=박진영 기자] 형지글로벌(308100)이 이재명 더불어민주당 대표의 공직선거법 항소심 무죄 소식에 상한가를 기록했다. 27일 한국거래소에 따르면 형지글로벌은 이날 코스닥 시장에서 오전 10시 43분 기준 840원(30.00%) 오른 3640원에 거래되고 있",
+            "twitter:image": "//cdn.news2day.co.kr/data2/content/image/2025/03/27/.cache/512/20250327500128.png",
+            "naver-site-verification": "577c9ea4c392dcd45aea3c1918451930e315305b",
+            "twitter:site": "뉴스투데이",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "[뉴스투데이=박진영 기자] 형지글로벌(308100)이 이재명 더불어민주당 대표의 공직선거법 항소심 무죄 소식에 상한가를 기록했다. 27일 한국거래소에 따르면 형지글로벌은 이날 코스닥 시장에서 오전 10시 43분 기준 840원(30.00%) 오른 3640원에 거래되고 있",
+            "og:url": "https://www.news2day.co.kr/article/20250327500131",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.news2day.co.kr/data2/content/image/2025/03/27/.cache/512/20250327500117.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "<코>형지글로벌, 상한가 진입.. +30.00%",
+      "htmlTitle": "&lt;코&gt;<b>형지글로벌</b>, <b>상한가</b> 진입.. +30.00%",
+      "link": "https://www.sedaily.com/NewsView/2GQEPDF7XG",
+      "displayLink": "www.sedaily.com",
+      "snippet": "13 hours ago ... 증권 > News봇 뉴스: 오전 9시 6분 현재 형지글로벌(308100)이 +30.00% 오른 3640원(△840)으로 장중 상한가에 진입했다. 거래대금은 5억1382만, 거...",
+      "htmlSnippet": "13 hours ago <b>...</b> 증권 &gt; News봇 뉴스: 오전 9시 6분 현재 <b>형지글로벌</b>(308100)이 +30.00% 오른 3640원(△840)으로 장중 <b>상한가</b>에 진입했다. 거래대금은 5억1382만, 거...",
+      "formattedUrl": "https://www.sedaily.com/NewsView/2GQEPDF7XG",
+      "htmlFormattedUrl": "https://www.sedaily.com/NewsView/2GQEPDF7XG",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwQ_dHaLpH-MXX30-vUeijHnFdO82bdl7TiMIqEhZBXGZwXr6HthadJ-m&s",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://newsimg.sedaily.com/2025/03/27/2GQEPDF7XG_1.png",
+            "article:published_time": "2025-03-27T09:06:30+09:00",
+            "twitter:card": "summary_large_image",
+            "dd:author": "서경뉴스봇",
+            "dd:availability": "true",
+            "og:site_name": "서울경제",
+            "dd:modified_time": "2025-03-27T09:06:30+09:00",
+            "og:image:type": "image/jpeg",
+            "title": "<코>형지글로벌, 상한가 진입.. +30.00% ↑ | 서울경제",
+            "dd:published_time": "2025-03-27T09:06:30+09:00",
+            "og:description": "증권 > News봇 뉴스: 오전 9시 6분 현재 형지글로벌(308100)이 +30.00% 오른 3,640원(▲840)으로 장중 상한가에 진입했다. 거래대금은 5억1,382만, 거...",
+            "article:publisher": "https://www.facebook.com/sedailythumb/",
+            "twitter:image": "https://newsimg.sedaily.com/2025/03/27/2GQEPDF7XG_1.png",
+            "article:section2": "News봇",
+            "article:modified_time": "2025-03-27T09:06:30+09:00",
+            "og:site": "https://m.sedaily.com/NewsView/2GQEPDF7XG/GA1302",
+            "dd:publisher": "서울경제신문",
+            "og:type": "article",
+            "article:section": "증권",
+            "twitter:title": "<코>형지글로벌, 상한가 진입.. +30.00% ↑",
+            "dable:item_id": "2GQEPDF7XG",
+            "og:title": "<코>형지글로벌, 상한가 진입.. +30.00% ↑",
+            "ngh:section": "News봇",
+            "article:author": "https://www.facebook.com/sedailythumb/",
+            "dd:title": "​<코>형지글로벌, 상한가 진입.. +30.00% ↑​",
+            "dd:category": "News봇",
+            "fb:app_id": "1537222596593765",
+            "dable:author": "서경뉴스봇",
+            "dd:content_id": "2GQEPDF7XG",
+            "ngh:email": "newsbot@sedaily.com",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no",
+            "twitter:description": "증권 > News봇 뉴스: 오전 9시 6분 현재 형지글로벌(308100)이 +30.00% 오른 3,640원(▲840)으로 장중 상한가에 진입했다. 거래대금은 5억1,382만, 거...",
+            "ngh:id": "2GQEPDF7XG",
+            "dable:image": "https://newsimg.sedaily.com/2025/03/27/2GQEPDF7XG_1_m.png",
+            "ngh:title": "​<코>형지글로벌, 상한가 진입.. +30.00% ↑​",
+            "og:url": "https://m.sedaily.com/NewsView/2GQEPDF7XG/GA1302",
+            "ngh:author": "서경뉴스봇",
+            "ngh:jpart": "전략기획실",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://newsimg.sedaily.com/2023/05/09/29PIF7U7IX_7.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가 | 뉴스 | 토스증권",
+      "htmlTitle": "[특징주] 이재명 테마주 연일 &#39;펄펄&#39;…<b>형지글로벌 상한가</b> | 뉴스 | 토스증권",
+      "link": "https://tossinvest.com/stocks/A011080/news?symbol-or-stock-code=A011080&contentType=news&contentParams=%7B%22id%22%3A%22yna_AKR20250327045500008%22%7D",
+      "displayLink": "tossinvest.com",
+      "snippet": "13 hours ago ... [특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가. (서울=연합뉴스) 조민정 기자 = 더불어민주당 이재명 대표가 공직선거법 위반 사건 항소심 ...",
+      "htmlSnippet": "13 hours ago <b>...</b> [특징주] 이재명 테마주 연일 &#39;펄펄&#39;…<b>형지글로벌 상한가</b>. (서울=연합뉴스) 조민정 기자 = 더불어민주당 이재명 대표가 공직선거법 위반 사건 항소심&nbsp;...",
+      "formattedUrl": "https://tossinvest.com/stocks/A011080/news?symbol-or-stock...",
+      "htmlFormattedUrl": "https://tossinvest.com/stocks/A011080/news?symbol-or-stock...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb2nh2Rd-t8x0vJUNCer2Kan-pZ3TqVojOtCCffBmZuj97AhVdhmtXz39z&s",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.toss.im/illusts/toss-securities-OG-2.png",
+            "og:type": "website",
+            "og:site_name": "토스증권",
+            "og:title": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가 | 뉴스 | 토스증권",
+            "og:url": "https://tossinvest.com/news?contentType=news&contentParams=%7B%22id%22%3A%22yna_AKR20250327045500008%22%7D",
+            "og:description": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.toss.im/illusts/toss-securities-OG-2.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "형지I&C·형지글로벌 상한가, 오리엔트정공·이화공영·이스타코 등 ...",
+      "htmlTitle": "형지I&amp;C·<b>형지글로벌 상한가</b>, 오리엔트정공·이화공영·이스타코 등 ...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20250327026083776",
+      "displayLink": "www.yeongnam.com",
+      "snippet": "12 hours ago ... 형지IC 형지글로벌이 상한가로 직행하는 등 이재명 테마주로 분류되는 종목이 급등하고 있다 27일 한국거래소에 따르면 형지글로벌은 이날 오전 10 ...",
+      "htmlSnippet": "12 hours ago <b>...</b> 형지IC <b>형지글로벌</b>이 <b>상한가</b>로 직행하는 등 이재명 테마주로 분류되는 종목이 급등하고 있다 27일 한국거래소에 따르면 <b>형지글로벌</b>은 이날 오전 10&nbsp;...",
+      "formattedUrl": "https://www.yeongnam.com/web/view.php?key=20250327026083776",
+      "htmlFormattedUrl": "https://www.yeongnam.com/web/view.php?key=20250327026083776",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfSeRbqdK98Oyr4bITKZsf8xDpN8_dFOWp4anRwupuurApiMr6v1FdVR4&s",
+            "width": "305",
+            "height": "165"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.yeongnam.com/mnt/file/202503/news-p.v1.20250327.9ae90785f77f4423a45a4d0def3ab96f_R.jpg",
+            "copyright": "영남일보",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2025-03-27T10:29:38+09:00",
+            "og:site_name": "영남일보",
+            "other agent": "영남일보 인터넷뉴스부",
+            "title": "형지I&C·형지글로벌 상한가, 오리엔트정공·이화공영·이스타코 등 이재명 테마주? 급등",
+            "distribution": "영남일보",
+            "og:description": "형지IC 형지글로벌이 상한가로 직행하는 등 이재명 테마주로 분류되는 종목이 급등하고 있다 27일 한국거래소에 따르면 형지글로벌은 이날 오전 10시10 현재 전 거래일 대비 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+            "twitter:creator": "@Yeongnam",
+            "twitter:image": "https://www.yeongnam.com/mnt/file/202503/news-p.v1.20250327.9ae90785f77f4423a45a4d0def3ab96f_R.jpg",
+            "article:section2": "증시·금융·보험",
+            "twitter:site": "@Yeongnam",
+            "og:site": "https://m.yeongnam.com/view.php?key=20250327026083776",
+            "author-date(date)": "2025-03-27",
+            "og:article:author": "서용덕 기자",
+            "image": "https://www.yeongnam.com/mnt/file/202503/news-p.v1.20250327.9ae90785f77f4423a45a4d0def3ab96f_R.jpg",
+            "og:type": "article",
+            "twitter:title": "형지I&C·형지글로벌 상한가, 오리엔트정공·이화공영·이스타코 등 이재명 테마주? 급등",
+            "article:section": "경제",
+            "twitter:domain": "영남일보",
+            "author": "서용덕 기자",
+            "dable:item_id": "20250327026083776",
+            "og:title": "형지I&C·형지글로벌 상한가, 오리엔트정공·이화공영·이스타코 등 이재명 테마주? 급등",
+            "url": "https://m.yeongnam.com/view.php?key=20250327026083776",
+            "referrer": "no-referrer-when-downgrade",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "형지IC 형지글로벌이 상한가로 직행하는 등 이재명 테마주로 분류되는 종목이 급등하고 있다 27일 한국거래소에 따르면 형지글로벌은 이날 오전 10시10 현재 전 거래일 대비 수도권을 제외한 지역신문 중 가장 오래된 역사를 가진 지역 일간지 영남일보입니다. 방문에 감사드립니다.",
+            "og:locale": "ko_KR",
+            "publisher": "영남일보",
+            "location": "대한민국",
+            "og:url": "https://m.yeongnam.com/view.php?key=20250327026083776"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.yeongnam.com/mnt/file/202503/news-p.v1.20250327.9ae90785f77f4423a45a4d0def3ab96f_R.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "'이재명 무죄' 판결에 테마주 연이틀 급등…상한가 속출 - 시사저널",
+      "htmlTitle": "&#39;이재명 무죄&#39; 판결에 테마주 연이틀 급등…<b>상한가</b> 속출 - 시사저널",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=328383",
+      "displayLink": "www.sisajournal.com",
+      "snippet": "5 hours ago ... 형지글로벌·형지I&C 줄줄이 상한가. 이재명 더불어민주당 대표가 26일 ...",
+      "htmlSnippet": "5 hours ago <b>...</b> <b>형지글로벌</b>·형지I&amp;C 줄줄이 <b>상한가</b>. 이재명 더불어민주당 대표가 26일&nbsp;...",
+      "formattedUrl": "https://www.sisajournal.com/news/articleView.html?idxno=328383",
+      "htmlFormattedUrl": "https://www.sisajournal.com/news/articleView.html?idxno=328383",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zSqnSuG20zn1_f9l20G3UV9BNQXrFbSHv4-J7C4cZrdCm6a4hqM&s=0",
+            "width": "116",
+            "height": "116"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.sisajournal.com/news/thumbnail/202503/328383_332369_5056_v150.jpg",
+            "theme-color": "#E60012",
+            "copyright": "시사저널",
+            "twitter:card": "summary",
+            "article:published_time": "2025-03-27T17:13:46+09:00",
+            "og:site_name": "시사저널",
+            "title": "‘이재명 무죄’ 판결에 테마주 연이틀 급등…상한가 속출 - 시사저널",
+            "og:description": "이재명 더불어민주당 대표가 공직선거법 위반 사건 항소심에서 무죄를 선고받은 데 따라 증시에서 '이재명 테마주'가 일제히 급등하며 상한가가 속출했다.27일 한국거래",
+            "twitter:creator": "이주희 디지털팀 기자",
+            "twitter:image": "https://cdn.sisajournal.com/news/thumbnail/202503/328383_332369_5056_v150.jpg",
+            "article:section1": "증권",
+            "twitter:site": "https://www.sisajournal.com/news/articleView.html?idxno=328383",
+            "og:article:author": "이주희 디지털팀 기자",
+            "og:type": "article",
+            "twitter:title": "‘이재명 무죄’ 판결에 테마주 연이틀 급등…상한가 속출 - 시사저널",
+            "article:section": "경제",
+            "author": "이주희 디지털팀 기자",
+            "dable:item_id": "328383",
+            "og:title": "‘이재명 무죄’ 판결에 테마주 연이틀 급등…상한가 속출 - 시사저널",
+            "classification": "경제 > 증권",
+            "referrer": "no-referrer-when-downgrade",
+            "dable:author": "이주희 디지털팀 기자",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "이재명 더불어민주당 대표가 공직선거법 위반 사건 항소심에서 무죄를 선고받은 데 따라 증시에서 '이재명 테마주'가 일제히 급등하며 상한가가 속출했다.27일 한국거래",
+            "og:url": "https://www.sisajournal.com/news/articleView.html?idxno=328383"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.sisajournal.com/news/thumbnail/202503/328383_332369_5056_v150.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "뜨거운 '이재명 테마주' 줄강세…형지글로벌 상한가 [특징주] | 뉴스 ...",
+      "htmlTitle": "뜨거운 &#39;이재명 테마주&#39; 줄강세…<b>형지글로벌 상한가</b> [특징주] | 뉴스 ...",
+      "link": "https://tossinvest.com/stocks/A065500/news?symbol-or-stock-code=A065500&contentType=news&contentParams=%7B%22id%22%3A%22herald_10451368%22%7D",
+      "displayLink": "tossinvest.com",
+      "snippet": "형지글로벌 상한가 [특징주]. 2025년 03월 27일 10:06 · 헤럴드경제. 뉴스 이미지. 오리엔트정공 25.14%, 오리엔트바이오 23.11% 등 이재명 테마주, 전날 급등 마감후 ...",
+      "htmlSnippet": "<b>형지글로벌 상한가</b> [특징주]. 2025년 03월 27일 10:06 · 헤럴드경제. 뉴스 이미지. 오리엔트정공 25.14%, 오리엔트바이오 23.11% 등 이재명 테마주, 전날 급등 마감후&nbsp;...",
+      "formattedUrl": "https://tossinvest.com/stocks/A065500/news?symbol-or-stock...",
+      "htmlFormattedUrl": "https://tossinvest.com/stocks/A065500/news?symbol-or-stock...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb2nh2Rd-t8x0vJUNCer2Kan-pZ3TqVojOtCCffBmZuj97AhVdhmtXz39z&s",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.toss.im/illusts/toss-securities-OG-2.png",
+            "og:type": "website",
+            "og:site_name": "토스증권",
+            "og:title": "뜨거운 ‘이재명 테마주’ 줄강세…형지글로벌 상한가 [특징주] | 뉴스 | 토스증권",
+            "og:url": "https://tossinvest.com/news?contentType=news&contentParams=%7B%22id%22%3A%22herald_10451368%22%7D",
+            "og:description": "https://wimg.heraldcorp.com/news/cms/2025/03/27/news-p.v1.20250327.443025a519f44"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.toss.im/illusts/toss-securities-OG-2.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가",
+      "htmlTitle": "[특징주] 이재명 테마주 연일 &#39;펄펄&#39;…<b>형지글로벌 상한가</b>",
+      "link": "https://v.daum.net/v/20250327092607236?f=p",
+      "displayLink": "v.daum.net",
+      "snippet": "13 hours ago ... 형지글로벌은 최근 까스텔바작에서 형지글로벌로 사명을 변경했다. 형지I&C(29.94%), 형지엘리트(23.70%), 이화공영(29.72%) 등도 급등 중이다. 디젠스( ...",
+      "htmlSnippet": "13 hours ago <b>...</b> <b>형지글로벌</b>은 최근 까스텔바작에서 <b>형지글로벌</b>로 사명을 변경했다. 형지I&amp;C(29.94%), 형지엘리트(23.70%), 이화공영(29.72%) 등도 급등 중이다. 디젠스(&nbsp;...",
+      "formattedUrl": "https://v.daum.net/v/20250327092607236?f=p",
+      "htmlFormattedUrl": "https://v.daum.net/v/20250327092607236?f=p",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202503/27/yonhap/20250327092607802bbje.jpg",
+            "twitter:app:id:googleplay": "net.daum.android.daum",
+            "twitter:app:url:iphone": "daumapps://web?url=https%3A%2F%2Fv.daum.net/v/20250327092607236",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "다음 - 연합뉴스",
+            "twitter:app:url:ipad": "daumapps://web?url=https%3A%2F%2Fv.daum.net/v/20250327092607236",
+            "al:android:package": "net.daum.android.daum",
+            "twitter:app:name:googleplay": "다음앱",
+            "al:ios:url": "daumapps://web?url=https%3A%2F%2Fv.daum.net/v/20250327092607236",
+            "twitter:app:id:iphone": "365494029",
+            "og:description": "(서울=연합뉴스) 조민정 기자 = 더불어민주당 이재명 대표가 공직선거법 위반 사건 항소심에서 무죄를 선고받은 영향에 27일 증시에서 '이재명 테마주'가 일제히 급등 중이다. 이날 오전 9시 23분 기준 코스닥시장에서 형지글로벌은 전 거래일 대비 30.00% 오른 3천640원에 거래 중이다. 형지글로벌은 최근 까스텔바작에서 형지글로벌로 사명을 변경했다. 형지",
+            "al:ios:app_store_id": "365494029",
+            "twitter:app:country": "KR",
+            "og:article:author": "연합뉴스",
+            "og:type": "article",
+            "mccp:docid": "qDT8XIYcHd",
+            "al:ios:app_name": "다음앱",
+            "og:title": "[특징주] 이재명 테마주 연일 '펄펄'…형지글로벌 상한가",
+            "og:image:height": "630",
+            "twitter:app:id:ipad": "365494029",
+            "al:android:url": "daumapps://web?url=https%3A%2F%2Fv.daum.net/v/20250327092607236",
+            "referrer": "unsafe-url",
+            "twitter:app:url:googleplay": "daumapps://web?url=https%3A%2F%2Fv.daum.net/v/20250327092607236",
+            "twitter:app:name:ipad": "다음앱",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+            "og:url": "https://v.daum.net/v/20250327092607236",
+            "al:android:app_name": "다음앱",
+            "twitter:app:name:iphone": "다음앱",
+            "format-detection": "telephone=no",
+            "og:regdate": "20250327092607"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202503/27/yonhap/20250327092607802bbje.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

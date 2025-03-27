@@ -2,9 +2,9 @@ fastapi
 uvicorn
 jinja2
 plotly
-pandas
+pandas==2.1.4
 yfinance
-requests
+requests==2.31.0
 python-multipart
 python-jose[cryptography]
 authlib
@@ -12,4 +12,5 @@ httpx
 sqlalchemy
 databases[sqlite]
 aiosqlite
-itsdangerous 
+itsdangerous
+beautifulsoup4==4.12.2 

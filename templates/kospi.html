@@ -1,0 +1,103 @@
+{% extends "index.html" %}
+
+{% block extra_styles %}
+<style>
+    .search-container {
+        margin-bottom: 20px;
+    }
+
+    .search-input {
+        padding: 8px 12px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        width: 300px;
+    }
+
+    .search-results {
+        position: absolute;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        max-height: 300px;
+        overflow-y: auto;
+        width: 300px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        z-index: 1000;
+        display: none;
+    }
+
+    .search-result-item {
+        padding: 8px 12px;
+        cursor: pointer;
+    }
+
+    .search-result-item:hover {
+        background-color: #f5f5f5;
+    }
+
+    .chart-container {
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background-color: white;
+        margin-top: 20px;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="search-container">
+    <input type="text" class="search-input" placeholder="종목명 또는 코드 검색...">
+    <div class="search-results"></div>
+</div>
+
+<div class="chart-container">
+    {{ chart | safe }}
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    const searchInput = document.querySelector('.search-input');
+    const searchResults = document.querySelector('.search-results');
+
+    searchInput.addEventListener('input', async () => {
+        const query = searchInput.value.trim();
+        if (query.length === 0) {
+            searchResults.style.display = 'none';
+            return;
+        }
+
+        try {
+            const response = await fetch(`/kospi/search?query=${encodeURIComponent(query)}`);
+            const results = await response.json();
+            
+            searchResults.innerHTML = results.map(stock => `
+                <div class="search-result-item" data-code="${stock.code}">
+                    ${stock.name} (${stock.code})
+                </div>
+            `).join('');
+            
+            searchResults.style.display = 'block';
+        } catch (error) {
+            console.error('Error fetching search results:', error);
+        }
+    });
+
+    searchResults.addEventListener('click', (e) => {
+        const item = e.target.closest('.search-result-item');
+        if (item) {
+            const code = item.dataset.code;
+            window.location.href = `/kospi/chart/${code}`;
+        }
+    });
+
+    // 검색 결과 외부 클릭 시 닫기
+    document.addEventListener('click', (e) => {
+        if (!e.target.closest('.search-container')) {
+            searchResults.style.display = 'none';
+        }
+    });
+</script>
+{% endblock %} 
