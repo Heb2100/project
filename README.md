@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-    <h1 style="font-size: 24px; font-weight: bold;">KOSPI UPPER LIMIT SCRAPPER</h1>
+    <h1 style="font-size: 24px; font-weight: bold;">Bitbell</h1>
     <h2 style="font-size: 20px; font-weight: bold;">1. 소개 및 수행업무</h2>
-    <p style="font-size: 18px;">KOSPI 상한가 스크래퍼 사용 예제</p>
-    <p style="font-size: 16px;">본 스크래퍼는 KOSPI 시장에서 상한가 종목을 자동으로 수집하고, 핵심 정보를 요약하여 전달하는 기능을 수행합니다.</p>
+    <p style="font-size: 18px;">bitbell 사용 예제</p>
+    <p style="font-size: 16px;">본 스크래퍼는 KOSPI 및 가상화폐 시장에서 상한가 종목을 자동으로 수집하고, 핵심 정보를 요약하여 전달하는 기능을 수행합니다.</p>
     <p style="font-size: 16px;">처음에는 친구의 요청으로 개발을 시작했지만, 점차 그의 직장 동료들까지 유용하게 활용하며 업무 효율성을 높이는 데 기여했습니다.</p>
     <div style="display: flex; justify-content: center; gap: 10px;">
         <img src="https://github.com/user-attachments/assets/0cbcb0e6-e668-48aa-a4e2-674ea24e3685" 
@@ -34,10 +34,12 @@
     <h2 style="font-size: 20px; font-weight: bold;">3. 기술 스택</h2>
     <p style="font-size: 18px;">이 프로젝트에서 사용한 기술들</p>
     <ul style="font-size: 16px; list-style-position: inside; text-align: left; display: inline-block; text-align: left;">
-        <li><b>프로그래밍 언어</b>: Python</li>
-        <li><b>웹 스크래핑</b>: Google Custom Search API, BeautifulSoup, Selenium</li>
-        <li><b>데이터 처리</b>: Pandas</li>
+        <li><b>프로그래밍 언어</b>: Python(Fastapi)</li>
+        <li><b>웹 스크래핑</b>: Google Custom Search API, BeautifulSoup4, Selenium, yfinance</li>
+        <li><b>데이터 처리</b>: Pandas, plotly</li>
         <li><b>데이터 저장</b>: CSV, SQLite</li>
+        <li><b>외부 알림 서비스</b>: tek</li>
+        <li><b>로그인 처리</b>: passlib, CryptoContext</li>
         <li><b>배포 환경</b>: AWS Lambda (자동 실행)</li>
     </ul>
 </div>
