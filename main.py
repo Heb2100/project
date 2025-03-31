@@ -1,24 +1,52 @@
 import subprocess
 import sys
+import os
+import logging
 from datetime import datetime, timedelta
+from typing import List, Dict
+
+def install_requirements():
+    required_packages = [
+        'fastapi',
+        'uvicorn',
+        'jinja2',
+        'plotly',
+        'pandas',
+        'yfinance',
+        'requests',
+        'sqlalchemy',
+        'passlib',
+        'starlette',
+        'itsdangerous'
+    ]
+    for package in required_packages:
+        try:
+            __import__(package)
+        except ImportError:
+            print(f"Installing {package}...")
+            subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+            print(f"{package} installed successfully!")
+
+# Install required packages first
+install_requirements()
+
+# Now import all required packages after installation
 import requests
 from fastapi import FastAPI, Request, Depends, HTTPException, status, Form
 from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, sessionmaker
 from starlette.middleware.sessions import SessionMiddleware
 import uvicorn
 import yfinance as yf
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
-from models import User, engine
-from sqlalchemy.orm import sessionmaker
 from passlib.context import CryptContext
-import os
-import logging
-from typing import List, Dict
+
+# Import local modules
+from models import User, engine
 
 # 비밀번호 해싱을 위한 설정
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
@@ -37,31 +65,14 @@ app = FastAPI()
 app.add_middleware(SessionMiddleware, secret_key="your-secret-key")  # 세션 미들웨어 추가
 
 templates = Jinja2Templates(directory="templates")
-app.mount("/static", StaticFiles(directory="static"), name="static")
 
-def install_requirements():
-    required_packages = ['fastapi', 'uvicorn', 'jinja2', 'plotly', 'pandas', 'yfinance', 'requests', 'sqlalchemy', 'passlib']
-    for package in required_packages:
-        try:
-            __import__(package)
-        except ImportError:
-            print(f"Installing {package}...")
-            subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-            print(f"{package} installed successfully!")
+# Create static directory if it doesn't exist
+static_dir = "static"
+if not os.path.exists(static_dir):
+    os.makedirs(static_dir)
+    print(f"Created static directory: {static_dir}")
 
-# Install required packages first
-install_requirements()
-
-# Now import all required packages after installation
-from fastapi import FastAPI, Request
-from fastapi.responses import HTMLResponse
-from fastapi.templating import Jinja2Templates
-from fastapi.staticfiles import StaticFiles
-import uvicorn
-import yfinance as yf
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
-import pandas as pd
+app.mount("/static", StaticFiles(directory=static_dir), name="static")
 
 def get_crypto_data(symbol: str) -> pd.Series:
     """
