@@ -109,14 +109,16 @@
     <button class="crypto-button" onclick="window.location.href='/crypto/ripple'">Ripple</button>
 </div>
 
-<div class="indicator">
-    <label>
-        <input type="checkbox" id="mvrvZScoreToggle"> MVRV Z-Score
-    </label>
-</div>
-
 <div class="chart-container">
     {{ chart | safe }}
+</div>
+
+<div class="indicator-section">
+    <div class="indicator-toggle" onclick="toggleMVRV(this)">
+        <input type="checkbox" id="mvrv-checkbox" style="display: none;">
+        <span class="toggle-circle"></span>
+        <span>MVRV Z-Score</span>
+    </div>
 </div>
 
 <div class="alert-section">
@@ -131,20 +133,29 @@
 
 {% block extra_scripts %}
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const mvrvToggle = document.getElementById('mvrvZScoreToggle');
-        const url = new URL(window.location.href);
-        const showMVRV = url.searchParams.get('mvrv') === 'true';
+function toggleMVRV(element) {
+    const checkbox = document.getElementById('mvrv-checkbox');
+    checkbox.checked = !checkbox.checked;
+    element.classList.toggle('active');
+    
+    const currentUrl = window.location.pathname;
+    const baseUrl = currentUrl.split('?')[0];
+    
+    if (checkbox.checked) {
+        window.location.href = `${baseUrl}?mvrv=true`;
+    } else {
+        window.location.href = baseUrl;
+    }
+}
 
-        // Set initial state
-        mvrvToggle.checked = showMVRV;
-
-        // Add click event listener
-        mvrvToggle.addEventListener('change', function() {
-            const currentPath = window.location.pathname;
-            const newUrl = `${currentPath}?mvrv=${this.checked}`;
-            window.location.href = newUrl;
-        });
-    });
+// URL에서 mvrv 파라미터를 확인하여 체크박스 상태 설정
+document.addEventListener('DOMContentLoaded', function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const mvrv = urlParams.get('mvrv');
+    if (mvrv === 'true') {
+        document.getElementById('mvrv-checkbox').checked = true;
+        document.querySelector('.indicator-toggle').classList.add('active');
+    }
+});
 </script>
 {% endblock %} 

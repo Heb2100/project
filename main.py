@@ -390,30 +390,48 @@ def get_stock_data(code):
         print(f"Error fetching stock data for {code}: {e}")
         return pd.DataFrame()
 
-def create_stock_chart(data, stock_name, stock_code):
+def create_stock_chart(data: pd.DataFrame, symbol: str) -> str:
     """주식 차트를 생성합니다."""
     if data.empty:
         return "<div>데이터를 불러올 수 없습니다.</div>"
+
+    # 현재가, 전일대비 계산
+    current_price = data['Close'].iloc[-1]
+    prev_price = data['Close'].iloc[-2]
+    price_change = current_price - prev_price
+    price_change_percent = (price_change / prev_price) * 100
+
+    # 데이터를 리스트로 변환
+    dates = list(data.index)
+    opens = list(data['Open'])
+    highs = list(data['High'])
+    lows = list(data['Low'])
+    closes = list(data['Close'])
+    volumes = list(data['Volume'])
+
+    # 거래량 색상 설정
+    volume_colors = ['rgb(255, 78, 66)' if close >= open_price else 'rgb(51, 103, 204)'
+                    for close, open_price in zip(closes, opens)]
 
     # 서브플롯 생성
     fig = make_subplots(
         rows=2, cols=1,
         shared_xaxes=True,
         vertical_spacing=0.03,
-        subplot_titles=('Price', 'Volume'),
-        row_width=[0.7, 0.3]
+        row_heights=[0.7, 0.3]
     )
 
     # 캔들스틱 차트 추가
-    print('data', data['Open'])
     fig.add_trace(
         go.Candlestick(
-            x=data.index,
-            open=data['Open'],
-            high=data['High'],
-            low=data['Low'],
-            close=data['Close'],
-            name='OHLC'
+            x=dates,
+            open=opens,
+            high=highs,
+            low=lows,
+            close=closes,
+            name='OHLC',
+            increasing_line_color='rgb(255, 78, 66)',
+            decreasing_line_color='rgb(51, 103, 204)'
         ),
         row=1, col=1
     )
@@ -421,44 +439,177 @@ def create_stock_chart(data, stock_name, stock_code):
     # 거래량 차트 추가
     fig.add_trace(
         go.Bar(
-            x=list(data.index),
-            y=list(data['Volume']),
+            x=dates,
+            y=volumes,
+            marker_color=volume_colors,
             name='Volume',
-            marker_color='rgba(0,0,0,0.2)'
+            showlegend=False
         ),
         row=2, col=1
     )
 
     # 레이아웃 설정
     fig.update_layout(
-        title=f"{stock_name} ({stock_code})",
-        yaxis_title="Price (KRW)",
-        xaxis_title="Date",
-        template='plotly_white',
-        height=800,
-        showlegend=True,
-        legend=dict(
-            yanchor="top",
-            y=0.99,
-            xanchor="right",
-            x=0.99
-        ),
-        margin=dict(t=50, l=50, r=50, b=50)
+        title=None,
+        height=600,
+        showlegend=False,
+        margin=dict(t=50, l=50, r=50, b=10),
+        plot_bgcolor='white',
+        paper_bgcolor='white',
+        xaxis_rangeslider_visible=False,
+        dragmode='pan'
     )
 
     # Y축 설정
-    fig.update_yaxes(title_text="Price (KRW)", row=1, col=1)
-    fig.update_yaxes(title_text="Volume", row=2, col=1)
+    fig.update_yaxes(
+        title=None,
+        row=1, col=1,
+        tickformat=",",
+        gridcolor='lightgrey',
+        showgrid=True,
+        side='right',
+        fixedrange=False
+    )
+    fig.update_yaxes(
+        title=None,
+        row=2, col=1,
+        tickformat=",",
+        gridcolor='lightgrey',
+        showgrid=True,
+        side='right',
+        fixedrange=True
+    )
 
-    return fig.to_html(
+    # X축 설정
+    fig.update_xaxes(
+        showticklabels=False,
+        gridcolor='lightgrey',
+        showgrid=True,
+        row=1, col=1,
+        rangeslider_visible=False,
+        fixedrange=False
+    )
+    fig.update_xaxes(
+        gridcolor='lightgrey',
+        showgrid=True,
+        row=2, col=1,
+        rangeslider_visible=False,
+        fixedrange=False
+    )
+
+    # 차트를 HTML로 변환
+    chart_html = fig.to_html(
         full_html=False,
-        include_plotlyjs=False,
+        include_plotlyjs=True,
         config={
-            'displayModeBar': True,
+            'displayModeBar': False,
             'scrollZoom': True,
-            'responsive': True
+            'responsive': True,
+            'dragmode': 'pan',
+            'modeBarButtonsToRemove': ['zoomIn', 'zoomOut', 'autoScale'],
+            'doubleClick': 'reset+autosize',
+            'showTips': True,
+            'scrollZoomModifier': 'alt'
         }
     )
+
+    # 주식 정보와 차트를 포함한 HTML 생성
+    final_html = f"""
+    <style>
+        .stock-info-container {{
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-bottom: 1px solid #dee2e6;
+            margin-bottom: 10px;
+        }}
+        .stock-info-left {{
+            flex: 1;
+        }}
+        .stock-info-right {{
+            flex: 1;
+            padding-left: 20px;
+            border-left: 1px solid #dee2e6;
+        }}
+        .stock-name-code {{
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }}
+        .stock-price {{
+            margin-bottom: 10px;
+        }}
+        .current-price {{
+            font-size: 28px;
+            font-weight: bold;
+            margin-right: 10px;
+        }}
+        .price-change {{
+            font-size: 18px;
+            padding: 4px 8px;
+            border-radius: 4px;
+        }}
+        .price-change.up {{
+            color: #ff4d4d;
+            background-color: #ffe6e6;
+        }}
+        .price-change.down {{
+            color: #3366cc;
+            background-color: #e6f0ff;
+        }}
+        .price-details {{
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-top: 10px;
+            color: #666;
+        }}
+        .market-info {{
+            background-color: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }}
+        .market-info h3 {{
+            margin: 0 0 10px 0;
+            color: #333;
+            font-size: 18px;
+        }}
+        .market-info p {{
+            margin: 0;
+            color: #555;
+            line-height: 1.5;
+        }}
+    </style>
+    <div class="stock-info-container">
+        <div class="stock-info-left">
+            <div class="stock-name-code">{symbol}</div>
+            <div class="stock-price">
+                <span class="current-price">{current_price:,.0f}</span>
+                <span class="price-change {price_change >= 0 and 'up' or 'down'}">
+                    {price_change >= 0 and '+' or ''}{price_change:,.0f} ({price_change_percent:.2f}%)
+                </span>
+            </div>
+            <div class="price-details">
+                <div>고가: {data['High'].iloc[-1]:,.0f}</div>
+                <div>저가: {data['Low'].iloc[-1]:,.0f}</div>
+                <div>거래량: {data['Volume'].iloc[-1]:,.0f}</div>
+            </div>
+        </div>
+        <div class="stock-info-right">
+            <div class="market-info">
+                <h3>시장 정보</h3>
+                <p>실시간 주가 정보 제공</p>
+                <p>거래량 기반 분석</p>
+                <p>가격 변동 모니터링</p>
+            </div>
+        </div>
+    </div>
+    {chart_html}
+    """
+
+    return final_html
 
 # KOSPI 종목 정보 (예시 데이터)
 KOSPI_STOCKS = [
@@ -482,9 +633,19 @@ async def kospi_page(request: Request, db: Session = Depends(get_db)):
         username = request.session['user']['username']
         user = db.query(User).filter(User.username == username).first()
     
+    # 삼성전자 기본 표시
+    default_stock = next((stock for stock in KOSPI_STOCKS if stock["code"] == "005930"), None)
+    data = get_stock_data("005930")
+    chart = create_stock_chart(data, default_stock["name"]) if not data.empty else ""
+    
     return templates.TemplateResponse(
         "kospi.html",
-        {"request": request, "chart": "", "user": user}
+        {
+            "request": request,
+            "chart": chart,
+            "stock_info": default_stock,
+            "user": user
+        }
     )
 
 @app.get("/kospi/search")
@@ -516,7 +677,7 @@ async def get_kospi_chart(request: Request, code: str, db: Session = Depends(get
         return {"error": "데이터를 불러올 수 없습니다."}
 
     # 차트 생성
-    chart = create_stock_chart(data, stock_info["name"], code)
+    chart = create_stock_chart(data, stock_info["name"])
     
     return templates.TemplateResponse(
         "kospi.html",
