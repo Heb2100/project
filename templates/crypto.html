@@ -104,9 +104,9 @@
 
 {% block content %}
 <div class="crypto-buttons">
-    <button class="crypto-button" onclick="window.location.href='/crypto/bitcoin'">Bitcoin</button>
-    <button class="crypto-button" onclick="window.location.href='/crypto/ethereum'">Ethereum</button>
-    <button class="crypto-button" onclick="window.location.href='/crypto/ripple'">Ripple</button>
+    <button class="crypto-button {% if selected_cryptos.bitcoin %}active{% endif %}" onclick="toggleCrypto('bitcoin')">Bitcoin</button>
+    <button class="crypto-button {% if selected_cryptos.ethereum %}active{% endif %}" onclick="toggleCrypto('ethereum')">Ethereum</button>
+    <button class="crypto-button {% if selected_cryptos.ripple %}active{% endif %}" onclick="toggleCrypto('ripple')">Ripple</button>
 </div>
 
 <div class="chart-container">
@@ -114,8 +114,7 @@
 </div>
 
 <div class="indicator-section">
-    <div class="indicator-toggle" onclick="toggleMVRV(this)">
-        <input type="checkbox" id="mvrv-checkbox" style="display: none;">
+    <div class="indicator-toggle {% if selected_cryptos.mvrv %}active{% endif %}" onclick="toggleMVRV()">
         <span class="toggle-circle"></span>
         <span>MVRV Z-Score</span>
     </div>
@@ -133,27 +132,51 @@
 
 {% block extra_scripts %}
 <script>
-function toggleMVRV(element) {
-    const checkbox = document.getElementById('mvrv-checkbox');
-    checkbox.checked = !checkbox.checked;
-    element.classList.toggle('active');
+function updateURL(params) {
+    const url = new URL(window.location.href);
     
-    const currentUrl = window.location.pathname;
-    const baseUrl = currentUrl.split('?')[0];
+    // 현재 URL의 모든 파라미터를 가져옴
+    const currentParams = new URLSearchParams(url.search);
     
-    if (checkbox.checked) {
-        window.location.href = `${baseUrl}?mvrv=true`;
-    } else {
-        window.location.href = baseUrl;
-    }
+    // 새로운 파라미터들을 적용
+    Object.entries(params).forEach(([key, value]) => {
+        if (value === false || value === null) {
+            currentParams.delete(key);
+        } else {
+            currentParams.set(key, value);
+        }
+    });
+    
+    // URL 업데이트 및 페이지 이동
+    url.search = currentParams.toString();
+    window.location.href = url.toString();
 }
 
-// URL에서 mvrv 파라미터를 확인하여 체크박스 상태 설정
+function toggleCrypto(crypto) {
+    const urlParams = new URLSearchParams(window.location.search);
+    const currentValue = urlParams.get(crypto) === 'true';
+    updateURL({ [crypto]: !currentValue });
+}
+
+function toggleMVRV() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const currentValue = urlParams.get('mvrv') === 'true';
+    updateURL({ mvrv: !currentValue });
+}
+
+// URL에서 파라미터를 확인하여 버튼 상태 설정
 document.addEventListener('DOMContentLoaded', function() {
     const urlParams = new URLSearchParams(window.location.search);
-    const mvrv = urlParams.get('mvrv');
-    if (mvrv === 'true') {
-        document.getElementById('mvrv-checkbox').checked = true;
+    
+    // 암호화폐 버튼 상태 설정
+    ['bitcoin', 'ethereum', 'ripple'].forEach(crypto => {
+        if (urlParams.get(crypto) === 'true') {
+            document.querySelector(`button[onclick="toggleCrypto('${crypto}')"]`).classList.add('active');
+        }
+    });
+    
+    // MVRV 토글 상태 설정
+    if (urlParams.get('mvrv') === 'true') {
         document.querySelector('.indicator-toggle').classList.add('active');
     }
 });
